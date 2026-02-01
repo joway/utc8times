@@ -1,0 +1,94 @@
+:root {
+  --paper: #f5f2ea;
+  --ink: #111111;
+  --accent: #1a1a1a;
+}
+
+body {
+  font-family: "Source Serif 4", serif;
+}
+
+.font-display {
+  font-family: "Libre Baskerville", serif;
+}
+
+.font-mono {
+  font-family: "Courier New", Courier, monospace;
+}
+
+.bg-paper {
+  background-color: var(--paper);
+}
+
+.text-ink {
+  color: var(--ink);
+}
+
+.border-ink\/10 {
+  border-color: rgba(17, 17, 17, 0.1);
+}
+
+.border-ink\/20 {
+  border-color: rgba(17, 17, 17, 0.2);
+}
+
+.item-row {
+  display: grid;
+  grid-template-columns: minmax(90px, 140px) 1fr minmax(120px, 140px);
+  gap: 16px;
+  align-items: baseline;
+  padding-bottom: 12px;
+  border-bottom: 1px dashed rgba(17, 17, 17, 0.12);
+}
+
+.item-row:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.item-blog {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  color: rgba(17, 17, 17, 0.6);
+}
+
+.item-title {
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: var(--ink);
+}
+
+.item-title a {
+  text-decoration: none;
+}
+
+.item-title a:hover {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+.item-title a:visited,
+.item-title a.is-visited {
+  color: rgba(17, 17, 17, 0.45);
+}
+
+.item-date {
+  font-size: 0.75rem;
+  color: rgba(17, 17, 17, 0.6);
+  text-align: right;
+  font-family: "Courier New", Courier, monospace;
+}
+
+
+@media (max-width: 1023px) {
+  .item-row {
+    grid-template-columns: minmax(80px, 120px) 1fr;
+  }
+
+  .item-date {
+    text-align: left;
+  }
+
+}
