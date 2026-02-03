@@ -43,6 +43,13 @@ const RSS_TIMEOUT_MS = 30000;
 const ARTICLE_LINK_BLACKLIST = [
   // "https://example.com/bad-article",
 ];
+const EXTRA_SOURCES = [
+  // {
+  //   rsslink: "https://example.com/feed.xml",
+  //   blogname: "Example Blog",
+  //   homepage: "https://example.com",
+  // },
+];
 const RSS_DOMAIN_BLACKLIST = [
   "lukefan.com",
   "www.yystv.cn",
@@ -466,6 +473,14 @@ async function main() {
   });
 
   let sources = extractRssSources(sourceRecords);
+  if (EXTRA_SOURCES.length > 0) {
+    const extra = EXTRA_SOURCES.map((source) => ({
+      rsslink: safeString(source.rsslink).trim(),
+      blogname: safeString(source.blogname).trim(),
+      homepage: safeString(source.homepage).trim(),
+    })).filter((source) => source.rsslink);
+    sources = [...sources, ...extra];
+  }
   if (RSS_DOMAIN_BLACKLIST.length > 0) {
     sources = sources.filter((source) => {
       const hostname = getHostname(source.rsslink);
