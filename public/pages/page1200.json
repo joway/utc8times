@@ -1,8 +1,98 @@
 {
   "page": 1200,
   "pageSize": 20,
-  "totalPages": 1632,
+  "totalPages": 1633,
   "items": [
+    {
+      "id": "8632",
+      "title": "以 OOP 的角度提升 Ruby code 質量",
+      "link": "https://blog.niclin.tw/2019/08/13/ruby-cohesion-and-coupling/",
+      "rsslink": "https://blog.niclin.tw/index.xml",
+      "blogname": "Nic Lin's Blog",
+      "createdat": "2019-08-13T14:30:49.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "8631",
+      "title": "Nacos（八）：Nacos持久化",
+      "link": "https://www.larscheng.com/nacos-persistence/",
+      "rsslink": "https://www.larscheng.com/atom.xml",
+      "blogname": "LarsCheng",
+      "createdat": "2019-08-12T11:00:38.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "8627",
+      "title": "Real.dev：开发人员刷题新选择",
+      "link": "https://huhuhang.com/post/product-hunt/product-hunt-n122",
+      "rsslink": "https://huhuhang.com/feed",
+      "blogname": "HUHUHANG",
+      "createdat": "2019-08-12T10:00:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "8628",
+      "title": "Dadroit：大体积 JSON 文件浏览器",
+      "link": "https://huhuhang.com/post/product-hunt/product-hunt-n123",
+      "rsslink": "https://huhuhang.com/feed",
+      "blogname": "HUHUHANG",
+      "createdat": "2019-08-12T10:00:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "8629",
+      "title": "Pingo：更快速的图片压缩工具",
+      "link": "https://huhuhang.com/post/product-hunt/product-hunt-n124",
+      "rsslink": "https://huhuhang.com/feed",
+      "blogname": "HUHUHANG",
+      "createdat": "2019-08-12T10:00:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "8630",
+      "title": "ProtoPie 4.0：大厂设计师都在用的原型工具",
+      "link": "https://huhuhang.com/post/product-hunt/product-hunt-n125",
+      "rsslink": "https://huhuhang.com/feed",
+      "blogname": "HUHUHANG",
+      "createdat": "2019-08-12T10:00:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "8626",
+      "title": "感受了一把真正的氪金游戏",
+      "link": "https://ssshooter.com/2019-08-11-kakin-game/",
+      "rsslink": "https://ssshooter.com/rss.xml",
+      "blogname": "UsubeniFantasy",
+      "createdat": "2019-08-11T15:50:15.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "8625",
+      "title": "TLS Application-Layer Protocol Negotiation Extension",
+      "link": "https://halfrost.com/tls_alpn/",
+      "rsslink": "http://halfrost.com/rss/",
+      "blogname": "Halfrost's Field",
+      "createdat": "2019-08-11T15:43:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "8624",
+      "title": "Blender 学习笔记",
+      "link": "https://www.yunyoujun.cn/posts/blender-learn-note",
+      "rsslink": "https://www.yunyoujun.cn/atom.xml",
+      "blogname": "云游君的小站",
+      "createdat": "2019-08-11T10:49:33.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "8623",
+      "title": "利用 WordPress REST API 给 WordPress 做一个归档页面吧",
+      "link": "https://lipeng.ac/post/502",
+      "rsslink": "https://www.ouorz.com/feed",
+      "blogname": "TonyHe 的博客",
+      "createdat": "2019-08-11T01:50:12.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
     {
       "id": "8620",
       "title": "巨匠与杰作",
@@ -91,96 +181,6 @@
       "rsslink": "https://www.chenshaowen.com/atom.xml",
       "blogname": "陈少文的博客",
       "createdat": "2019-08-10T00:00:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "8612",
-      "title": "Attacking SSL VPN - Part 2: Breaking the Fortigate SSL VPN",
-      "link": "http://orange-tw.blogspot.com/2019/08/attacking-ssl-vpn-part-2-breaking-the-fortigate-ssl-vpn.html",
-      "rsslink": "https://feeds.feedburner.com/blogspot/Aohx",
-      "blogname": "Orange",
-      "createdat": "2019-08-09T20:53:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "8611",
-      "title": "不停機 migration 避免鎖表的幾種操作",
-      "link": "https://blog.niclin.tw/2019/08/10/migration-without-zero-downtime/",
-      "rsslink": "https://blog.niclin.tw/index.xml",
-      "blogname": "Nic Lin's Blog",
-      "createdat": "2019-08-09T17:52:44.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "8610",
-      "title": "无线吸尘器挑选指南",
-      "link": "https://wocai.de/post/2019/08/f71eda84/",
-      "rsslink": "https://wocai.de/index.xml/",
-      "blogname": "kok的笔记本",
-      "createdat": "2019-08-09T16:48:34.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "8609",
-      "title": "Linux Tips and Tricks -- s1",
-      "link": "https://jdhao.github.io/2019/08/09/linux_command_cheat_sheet_s1/",
-      "rsslink": "https://jdhao.github.io/index.xml",
-      "blogname": "jdhao's blog",
-      "createdat": "2019-08-08T16:02:27.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "8608",
-      "title": "记一次 Node.js 进程挂起的 BUG 追踪",
-      "link": "http://claude-ray.com/2019/08/08/node-process-hang-up/",
-      "rsslink": "https://claude-ray.github.io/atom.xml",
-      "blogname": "Claude's Blog",
-      "createdat": "2019-08-08T13:31:02.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "8607",
-      "title": "烤布丁与薄饼",
-      "link": "https://shrik3.com/log/r2/",
-      "rsslink": "https://shrik3.com/index.xml",
-      "blogname": "shrik3",
-      "createdat": "2019-08-08T09:43:15.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "8606",
-      "title": "七夕收到的礼物",
-      "link": "https://spaceack.github.io/20190807-%E4%B8%83%E5%A4%95%E7%9A%84%E7%A4%BC%E7%89%A9/",
-      "rsslink": "https://spaceack.com/index.xml",
-      "blogname": "Spaceack's Blog",
-      "createdat": "2019-08-07T21:00:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "8605",
-      "title": "為機器加上登入訊息，在 ubuntu 設置登入歡迎詞",
-      "link": "https://blog.niclin.tw/2019/08/08/ubuntu-welcome-banner/",
-      "rsslink": "https://blog.niclin.tw/index.xml",
-      "blogname": "Nic Lin's Blog",
-      "createdat": "2019-08-07T17:04:21.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "8604",
-      "title": "北大信科 | 上交软院 | 南大软院夏令营经历",
-      "link": "https://ddadaal.me/articles/progress-to-recommended-postgraduates/cn",
-      "rsslink": "https://ddadaal.me/rss.xml",
-      "blogname": "ddadaal.me",
-      "createdat": "2019-08-07T14:06:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "8603",
-      "title": "Nacos（七）：Nacos共享配置",
-      "link": "https://www.larscheng.com/nacos-shareconfig/",
-      "rsslink": "https://www.larscheng.com/atom.xml",
-      "blogname": "LarsCheng",
-      "createdat": "2019-08-07T10:13:27.000Z",
       "crawledat": "2026-02-03T12:40:15.422Z"
     }
   ]

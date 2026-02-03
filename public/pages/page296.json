@@ -1,8 +1,98 @@
 {
   "page": 296,
   "pageSize": 20,
-  "totalPages": 1632,
+  "totalPages": 1633,
   "items": [
+    {
+      "id": "26697",
+      "title": "replace GnuPG with age and signify",
+      "link": "https://shrik3.com/post/userland/age_encryption/",
+      "rsslink": "https://shrik3.com/index.xml",
+      "blogname": "shrik3",
+      "createdat": "2025-01-29T15:42:38.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "26696",
+      "title": "per cpu variables",
+      "link": "https://shrik3.com/code_reading/linux/misc/per_cpu_var/",
+      "rsslink": "https://shrik3.com/index.xml",
+      "blogname": "shrik3",
+      "createdat": "2025-01-29T11:09:52.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "26695",
+      "title": "ANSI escape code and OSC (terminal)",
+      "link": "https://shrik3.com/post/userland/osc_sequence/",
+      "rsslink": "https://shrik3.com/index.xml",
+      "blogname": "shrik3",
+      "createdat": "2025-01-29T09:38:08.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "26694",
+      "title": "Android 2025 年每月安全补丁分析索引",
+      "link": "https://blog.canyie.top/2025/01/29/android-security-bulletin-index-2025/",
+      "rsslink": "https://blog.canyie.top/atom.xml",
+      "blogname": "残页的小博客",
+      "createdat": "2025-01-29T06:00:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "26693",
+      "title": "使用AnythingLLM+SillconFlow+Milvus快速搭建个人云端知识库",
+      "link": "https://jasonkayzk.github.io/2025/01/29/%E4%BD%BF%E7%94%A8AnythingLLM-SillconFlow-Milvus%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E4%BA%91%E7%AB%AF%E7%9F%A5%E8%AF%86%E5%BA%93/",
+      "rsslink": "https://jasonkayzk.github.io/atom.xml",
+      "blogname": "张小凯的博客",
+      "createdat": "2025-01-29T05:49:26.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "26692",
+      "title": "蛇年春节自驾D5：南宁过大年 醒狮贺岁 三街两巷 特色美食 骑行穿城 琅西夜市 打铁花",
+      "link": "https://lmmsoft.github.io//snake_spring_d5_nanning/",
+      "rsslink": "https://lmmsoft.github.io/feed.atom",
+      "blogname": "明明如月的博客",
+      "createdat": "2025-01-29T04:00:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "26691",
+      "title": "甲辰年度总结",
+      "link": "https://roy.wang/jiachen-year/",
+      "rsslink": "https://roy.wang/feed/",
+      "blogname": "ROYWANG",
+      "createdat": "2025-01-29T00:00:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "26690",
+      "title": "随想250129年夜",
+      "link": "https://lihan3238.github.io/p/dream_250129/",
+      "rsslink": "https://lihan3238.github.io/index.xml",
+      "blogname": "李寒的小窝",
+      "createdat": "2025-01-28T16:54:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "26689",
+      "title": "c/c++ inline, const and static",
+      "link": "https://shrik3.com/notes/lang/c/inline_const_static/",
+      "rsslink": "https://shrik3.com/index.xml",
+      "blogname": "shrik3",
+      "createdat": "2025-01-28T16:44:56.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "26688",
+      "title": "假如启动一个新的以太坊 PoS 网络",
+      "link": "https://smallyu.net/2025/01/28/%E5%81%87%E5%A6%82%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%E5%8F%AB-Oiia-Network-%E7%9A%84%E4%BB%A5%E5%A4%AA%E5%9D%8A-PoS-%E7%BD%91%E7%BB%9C/",
+      "rsslink": "https://smallyu.net/atom.xml",
+      "blogname": "smallyu的博客",
+      "createdat": "2025-01-28T15:26:40.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
     {
       "id": "26687",
       "title": "no bullshit code explorer",
@@ -91,96 +181,6 @@
       "rsslink": "https://www.blueskyxn.com/feed/",
       "blogname": "苍穹の下",
       "createdat": "2025-01-28T03:47:01.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "26677",
-      "title": "Giffgaff 打开 wificall 的操作步骤及分流规则",
-      "link": "https://blog.baicai.me/article/2025/giffgaff_wificall/",
-      "rsslink": "https://blog.baicai.me/index.xml",
-      "blogname": "白菜",
-      "createdat": "2025-01-28T03:38:45.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "26676",
-      "title": "LivePhoto-一款可以快捷插入Live图的Typecho插件",
-      "link": "https://musenxi.com/archives/AppleLivePhoto-Plugin.html",
-      "rsslink": "https://musenxi.com/feed",
-      "blogname": "夜庭記",
-      "createdat": "2025-01-27T23:36:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "26675",
-      "title": "本色十年",
-      "link": "https://chengpeiquan.com/article/true-colors-a-decade",
-      "rsslink": "https://chengpeiquan.com/feed/",
-      "blogname": "程沛权 - 养了三只猫",
-      "createdat": "2025-01-27T18:45:58.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "26674",
-      "title": "随笔杂谈 | 2025 新春快乐",
-      "link": "https://blog.reincarnatey.net/2025/new-year-2025/",
-      "rsslink": "https://blog.reincarnatey.net/index.xml",
-      "blogname": "失迹の博客",
-      "createdat": "2025-01-27T16:00:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "26673",
-      "title": "2024年总结",
-      "link": "https://peter267.github.io/posts/post21/",
-      "rsslink": "https://peter267.github.io/atom.xml",
-      "blogname": "Peter267",
-      "createdat": "2025-01-27T14:30:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "26672",
-      "title": "查找iOS应用可通过哪些地区的Apple App Store下载的方法",
-      "link": "https://h.cjh0613.com/zh/how-to-find-the-regions-of-the-apple-app-store-where-an-ios-app-is-available-for-download/",
-      "rsslink": "https://h.cjh0613.com/zh/index.xml",
-      "blogname": "地球人的空间",
-      "createdat": "2025-01-27T13:01:55.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "26671",
-      "title": "非京籍个体户缴纳社保(九)：公积金开户增员与缴费",
-      "link": "https://blog.yasking.org/a/self-employed-part-ninth.html",
-      "rsslink": "https://blog.yasking.org/atom.xml",
-      "blogname": "东东's Blog",
-      "createdat": "2025-01-27T13:00:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "26670",
-      "title": "vim thoughts and rants",
-      "link": "https://shrik3.com/post/vim/thoughts/",
-      "rsslink": "https://shrik3.com/index.xml",
-      "blogname": "shrik3",
-      "createdat": "2025-01-27T09:10:13.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "26669",
-      "title": "乙巳年前",
-      "link": "https://blog.lyunvy.top/before2025/",
-      "rsslink": "https://blog.lyunvy.top/atom.xml",
-      "blogname": "Lyunvy's Blog",
-      "createdat": "2025-01-27T08:36:18.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "26668",
-      "title": "蛇年春节自驾D3：海陵岛-钦州 绝美悬崖餐厅，海景房租赁行情",
-      "link": "https://lmmsoft.github.io//snake_spring_d3_hailing_island_to_qinzhou/",
-      "rsslink": "https://lmmsoft.github.io/feed.atom",
-      "blogname": "明明如月的博客",
-      "createdat": "2025-01-27T04:00:00.000Z",
       "crawledat": "2026-02-03T12:40:15.422Z"
     }
   ]

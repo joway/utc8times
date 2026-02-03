@@ -1,8 +1,98 @@
 {
   "page": 583,
   "pageSize": 20,
-  "totalPages": 1632,
+  "totalPages": 1633,
   "items": [
+    {
+      "id": "20957",
+      "title": "用 llama.cpp 跑 llama 2，用 AMD Radeon RX 6900 做 GPU 加速",
+      "link": "https://blog.lyric.im/p/using-llamacpp-to-run-llama-2-using-amd-radeon-rx-6900-for-gpu-acceleration",
+      "rsslink": "https://quaily.com/lyric/feed/atom",
+      "blogname": "Lyric",
+      "createdat": "2023-07-29T14:53:18.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "20956",
+      "title": "Change0729",
+      "link": "https://blog.oyyko.com/posts/change0729/",
+      "rsslink": "https://blog.oyyko.com/index.xml",
+      "blogname": "Oyyko's Blog",
+      "createdat": "2023-07-29T14:50:19.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "20955",
+      "title": "CentOS 7 编译安装 Python 3",
+      "link": "https://lxnchan.cn/python-compile-install-centos7.html",
+      "rsslink": "https://lxnchan.cn/atom.xml",
+      "blogname": "泠泫凝的异次元空间",
+      "createdat": "2023-07-29T10:48:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "20954",
+      "title": "SSH connection failed: connect ECONNREFUSED",
+      "link": "/posts/2023/07/ssh-connected-refused/",
+      "rsslink": "https://blog.storycn.cn/index.xml",
+      "blogname": "时间的朋友",
+      "createdat": "2023-07-29T08:39:17.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "20953",
+      "title": "架构设计 the Easy Way",
+      "link": "https://blog.alswl.com/2023/07/architecture-design-the-easy-way/",
+      "rsslink": "https://blog.alswl.com/atom.xml",
+      "blogname": "Log4D",
+      "createdat": "2023-07-29T06:54:27.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "20952",
+      "title": "图床 CDN CNAME 接入 Cloudflare SaaS 实现分流",
+      "link": "https://www.eallion.com/cdn-cname-cloudflare/",
+      "rsslink": "https://eallion.com/atom.xml",
+      "blogname": "大大的小蜗牛",
+      "createdat": "2023-07-29T06:35:49.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "20951",
+      "title": "让大脑自举",
+      "link": "https://surmon.me/article/226",
+      "rsslink": "https://surmon.me/rss.xml",
+      "blogname": "Surmon.me",
+      "createdat": "2023-07-29T00:56:33.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "20947",
+      "title": "网络流笔记",
+      "link": "https://blog.chungzh.cn/articles/flow/",
+      "rsslink": "https://blog.chungzh.cn/index.xml",
+      "blogname": "ChungZH 的小窝",
+      "createdat": "2023-07-29T00:00:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "20948",
+      "title": "网络流题集",
+      "link": "https://blog.chungzh.cn/articles/flow-sol/",
+      "rsslink": "https://blog.chungzh.cn/index.xml",
+      "blogname": "ChungZH 的小窝",
+      "createdat": "2023-07-29T00:00:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "20949",
+      "title": "独立开发者工具大全（持续更新）",
+      "link": "https://oct.cool/blog/independent-developer-tools/",
+      "rsslink": "https://www.oct.cool/index.xml",
+      "blogname": "Oct.Cool",
+      "createdat": "2023-07-29T00:00:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
     {
       "id": "20950",
       "title": "TS挑战记录(一)",
@@ -91,96 +181,6 @@
       "rsslink": "https://surmon.me/rss.xml",
       "blogname": "Surmon.me",
       "createdat": "2023-07-27T14:37:19.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "20937",
-      "title": "[DASCTF 2023 & 0X401七月暑期挑战赛] MyPicDisk",
-      "link": "https://blog.lazyforever.top/2023/07/27/2023dasctf_MyPicDisk/",
-      "rsslink": "https://blog.lazyforever.top/atom.xml",
-      "blogname": "lazy_forever's Blog",
-      "createdat": "2023-07-27T14:30:16.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "20936",
-      "title": "MySQL FIND_IN_SET 函数的使用",
-      "link": "https://www.hsuyeung.com/article/mysql-find-in-set-function",
-      "rsslink": "https://www.hsuyeung.com/feed",
-      "blogname": "Hsu Yeung 的博客",
-      "createdat": "2023-07-27T12:19:16.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "20935",
-      "title": "请求中获取浏览器推荐语言",
-      "link": "/posts/2023/07/get-locale/",
-      "rsslink": "https://blog.storycn.cn/index.xml",
-      "blogname": "时间的朋友",
-      "createdat": "2023-07-27T01:39:16.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "20934",
-      "title": "Bitwarden / Vaultwarden 密码管理工具",
-      "link": "https://zishu.me/blog/203.html",
-      "rsslink": "https://zishu.me/index.xml",
-      "blogname": "子舒的博客",
-      "createdat": "2023-07-27T00:00:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "20933",
-      "title": "2023 半年小结",
-      "link": "https://blog.dejavu.moe/posts/2023-semi-annual-summary/",
-      "rsslink": "https://blog.dejavu.moe/index.xml",
-      "blogname": "Dejavu's Blog",
-      "createdat": "2023-07-26T12:05:16.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "20932",
-      "title": "留给孩子一个完整的母亲",
-      "link": "https://www.eallion.com/mather-for-children/",
-      "rsslink": "https://eallion.com/atom.xml",
-      "blogname": "大大的小蜗牛",
-      "createdat": "2023-07-26T05:57:04.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "20931",
-      "title": "一种基于 Gin + etcd 的微服务架构实现：Gin Hybrid Microservice",
-      "link": "https://blog.skyju.cc/post/gin-hybrid-microservice/",
-      "rsslink": "https://blog.skyju.cc/index.xml",
-      "blogname": "Terrarum::异世界丨居正博客",
-      "createdat": "2023-07-26T00:05:48.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "20929",
-      "title": "duckdb-rs will be the offical DuckDB rust client",
-      "link": "https://www.wangfenjin.com/posts/duckdb-rs-moving-forward-en/",
-      "rsslink": "https://www.wangfenjin.com/index.xml",
-      "blogname": "Wang Fenjin's Blog",
-      "createdat": "2023-07-26T00:00:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "20930",
-      "title": "duckdb-rs 即将成为 DuckDB 官方 rust 客户端",
-      "link": "https://www.wangfenjin.com/posts/duckdb-rs-moving-forward/",
-      "rsslink": "https://www.wangfenjin.com/index.xml",
-      "blogname": "Wang Fenjin's Blog",
-      "createdat": "2023-07-26T00:00:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "20928",
-      "title": "Nerdfont Icon Missing after Wezterm Upgrade",
-      "link": "https://jdhao.github.io/2023/07/25/wezterm_icon_missing/",
-      "rsslink": "https://jdhao.github.io/index.xml",
-      "blogname": "jdhao's blog",
-      "createdat": "2023-07-25T20:33:26.000Z",
       "crawledat": "2026-02-03T12:40:15.422Z"
     }
   ]

@@ -1,8 +1,35 @@
 {
   "page": 191,
   "pageSize": 20,
-  "totalPages": 1632,
+  "totalPages": 1633,
   "items": [
+    {
+      "id": "28790",
+      "title": "Better idea between Copilot-typed and CLI-typed assistant",
+      "link": "https://wa008.github.io/posts/there-should-be-a-better-code-assistant-between-cli-typed-and-copilot-typed-tool/",
+      "rsslink": "http://informal.top/feed.xml",
+      "blogname": "informal",
+      "createdat": "2025-08-11T16:00:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "28789",
+      "title": "SSH使用密钥认证登录详细解释",
+      "link": "https://blog.52013120.xyz/post/59.html",
+      "rsslink": "https://blog.52013120.xyz/rss.xml",
+      "blogname": "繁星点点",
+      "createdat": "2025-08-11T15:44:37.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "28788",
+      "title": "Kafka 消息积压 如何解决 ? | 小记",
+      "link": "https://moeci.com/posts/2025/08/kafka-message-backlog-note/",
+      "rsslink": "https://moeci.com/atom.xml",
+      "blogname": "yiyun's Blog",
+      "createdat": "2025-08-11T14:47:23.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
     {
       "id": "28787",
       "title": "5分钟AI，每天搞懂一个知识点(11) - LLM大模型",
@@ -38,6 +65,15 @@
       "blogname": "yiyun's Blog",
       "createdat": "2025-08-11T10:07:27.000Z",
       "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "32847",
+      "title": "GLM-4.5：三体合一的开源智能体大模型，重新定义AI推理边界",
+      "link": "https://www.52nlp.cn/glm-4-5%ef%bc%9a%e4%b8%89%e4%bd%93%e5%90%88%e4%b8%80%e7%9a%84%e5%bc%80%e6%ba%90%e6%99%ba%e8%83%bd%e4%bd%93%e5%a4%a7%e6%a8%a1%e5%9e%8b%ef%bc%8c%e9%87%8d%e6%96%b0%e5%ae%9a%e4%b9%89ai%e6%8e%a8%e7%90%86",
+      "rsslink": "http://www.52nlp.cn/feed",
+      "blogname": "我爱自然语言处理",
+      "createdat": "2025-08-11T09:14:58.000Z",
+      "crawledat": "2026-02-03T18:55:27.606Z"
     },
     {
       "id": "28783",
@@ -145,42 +181,6 @@
       "rsslink": "https://forcheetah.github.io/atom.xml",
       "blogname": "暮冬Z羡慕的博客",
       "createdat": "2025-08-10T15:16:48.217Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "28771",
-      "title": "【im2col】AScend conv accelerate",
-      "link": "https://forcheetah.github.io/2025/08/10/conv3/",
-      "rsslink": "https://forcheetah.github.io/atom.xml",
-      "blogname": "暮冬Z羡慕的博客",
-      "createdat": "2025-08-10T14:56:19.154Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "28770",
-      "title": "【感想】写作进度报告4",
-      "link": "https://forcheetah.github.io/2025/08/10/zatanNoval4/",
-      "rsslink": "https://forcheetah.github.io/atom.xml",
-      "blogname": "暮冬Z羡慕的博客",
-      "createdat": "2025-08-10T14:55:07.761Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "28769",
-      "title": "阅读《芯片简史》",
-      "link": "https://blog.yasking.org/a/reading-brief-history-of-chips.html",
-      "rsslink": "https://blog.yasking.org/atom.xml",
-      "blogname": "东东's Blog",
-      "createdat": "2025-08-10T09:42:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "28768",
-      "title": "使用 Docker 在树莓派上安装 Moritx 下载工具",
-      "link": "https://wulu.zone/posts/motrix-arm64-vnc",
-      "rsslink": "https://wulu.zone/feed/post.xml",
-      "blogname": "Wulu's Blog",
-      "createdat": "2025-08-10T07:37:37.000Z",
       "crawledat": "2026-02-03T12:40:15.422Z"
     }
   ]
