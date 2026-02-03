@@ -1,186 +1,186 @@
 {
   "page": 1366,
   "pageSize": 20,
-  "totalPages": 1630,
+  "totalPages": 1632,
   "items": [
     {
-      "id": "5287",
-      "title": "鸡肋点搭配ClickJacking攻击-获取管理员权限",
-      "link": "https://gh0st.cn/archives/2017-12-20/1",
-      "rsslink": "https://gh0st.cn/feed.xml",
-      "blogname": "Vulkey_Chen's Blog",
-      "createdat": "2017-12-19T16:00:00.000Z",
+      "id": "5324",
+      "title": "Android StateMachine 状态机分析",
+      "link": "https://glumes.com/android-statemachine/",
+      "rsslink": "https://glumes.com/index.xml",
+      "blogname": "音视频开发进阶",
+      "createdat": "2017-12-22T07:37:04.000Z",
       "crawledat": "2026-02-03T12:40:15.422Z"
     },
     {
-      "id": "5286",
-      "title": "[算法]分布估计算法 - 一种求解多维背包问题的混合分布估计算法_王凌",
-      "link": "https://windypath.com/posts/distribution_estimation_algorithm/",
-      "rsslink": "https://windypath.com/rss.xml",
-      "blogname": "风萧古道",
-      "createdat": "2017-12-18T14:36:13.000Z",
+      "id": "5323",
+      "title": "Android LruCache实现分析",
+      "link": "https://glumes.com/android-lrucache/",
+      "rsslink": "https://glumes.com/index.xml",
+      "blogname": "音视频开发进阶",
+      "createdat": "2017-12-22T07:35:23.000Z",
       "crawledat": "2026-02-03T12:40:15.422Z"
     },
     {
-      "id": "5285",
-      "title": "常用 Git 命令",
-      "link": "https://www.chenshaowen.com/blog/common-git-commands.html",
-      "rsslink": "https://www.chenshaowen.com/atom.xml",
-      "blogname": "陈少文的博客",
-      "createdat": "2017-12-18T11:22:55.000Z",
+      "id": "5322",
+      "title": "Android Activity 创建 Window 及添加 View 流程分析",
+      "link": "https://glumes.com/android-window-and-view/",
+      "rsslink": "https://glumes.com/index.xml",
+      "blogname": "音视频开发进阶",
+      "createdat": "2017-12-22T07:33:22.000Z",
       "crawledat": "2026-02-03T12:40:15.422Z"
     },
     {
-      "id": "5283",
-      "title": "Multi-Server Automated Deployment Solution Based on shipit-deploy",
-      "link": "https://alili.tech/en/archive/nodejs/fba46182/",
+      "id": "5321",
+      "title": "Android 系统服务启动 SystemServer",
+      "link": "https://glumes.com/android-system-server/",
+      "rsslink": "https://glumes.com/index.xml",
+      "blogname": "音视频开发进阶",
+      "createdat": "2017-12-22T07:30:26.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "5320",
+      "title": "Android 系统服务管理 ServiceManager",
+      "link": "https://glumes.com/android-service-manager/",
+      "rsslink": "https://glumes.com/index.xml",
+      "blogname": "音视频开发进阶",
+      "createdat": "2017-12-22T07:27:11.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "5319",
+      "title": "Android Material Desing 控件小结-2",
+      "link": "https://glumes.com/android-material-design-summary-2/",
+      "rsslink": "https://glumes.com/index.xml",
+      "blogname": "音视频开发进阶",
+      "createdat": "2017-12-22T07:22:15.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "5318",
+      "title": "Android Material Desing 控件小结-1",
+      "link": "https://glumes.com/android-material-design-summary-1/",
+      "rsslink": "https://glumes.com/index.xml",
+      "blogname": "音视频开发进阶",
+      "createdat": "2017-12-22T07:19:03.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "5317",
+      "title": "Android Binder 小结",
+      "link": "https://glumes.com/android-binder-summary/",
+      "rsslink": "https://glumes.com/index.xml",
+      "blogname": "音视频开发进阶",
+      "createdat": "2017-12-22T02:50:43.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "5316",
+      "title": "Dagger2 在 Android 中的使用",
+      "link": "https://glumes.com/android-dagger-use/",
+      "rsslink": "https://glumes.com/index.xml",
+      "blogname": "音视频开发进阶",
+      "createdat": "2017-12-22T02:47:52.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "5315",
+      "title": "Android 6.0 Launcher 启动 Activity 过程分析小结（四）",
+      "link": "https://glumes.com/android-start-activity-from-launcher-4/",
+      "rsslink": "https://glumes.com/index.xml",
+      "blogname": "音视频开发进阶",
+      "createdat": "2017-12-22T02:40:49.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "5314",
+      "title": "Android 6.0 Launcher 启动 Activity 过程源码分析（三）",
+      "link": "https://glumes.com/android-start-activity-from-launcher-3/",
+      "rsslink": "https://glumes.com/index.xml",
+      "blogname": "音视频开发进阶",
+      "createdat": "2017-12-22T02:40:45.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "5313",
+      "title": "Android 6.0 Launcher 启动 Activity 过程源码分析（二）",
+      "link": "https://glumes.com/android-start-activity-from-launcher-2/",
+      "rsslink": "https://glumes.com/index.xml",
+      "blogname": "音视频开发进阶",
+      "createdat": "2017-12-22T02:40:42.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "5312",
+      "title": "Android 6.0 Launcher 启动 Activity 过程源码分析（一）",
+      "link": "https://glumes.com/android-start-activity-from-launcher-1/",
+      "rsslink": "https://glumes.com/index.xml",
+      "blogname": "音视频开发进阶",
+      "createdat": "2017-12-22T02:40:38.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "5311",
+      "title": "用 RxJava 封装回调方法 CallBack",
+      "link": "https://glumes.com/rxjava-wrapper-callback/",
+      "rsslink": "https://glumes.com/index.xml",
+      "blogname": "音视频开发进阶",
+      "createdat": "2017-12-22T02:38:34.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "5310",
+      "title": "Android 硬件抽象层调用流程小结",
+      "link": "https://glumes.com/android-hal-summary/",
+      "rsslink": "https://glumes.com/index.xml",
+      "blogname": "音视频开发进阶",
+      "createdat": "2017-12-22T02:31:13.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "5309",
+      "title": "Kotlin 函数式编程与 Anko 构建布局实现原理分析",
+      "link": "https://glumes.com/kotlin-functional-programming-whth-anko/",
+      "rsslink": "https://glumes.com/index.xml",
+      "blogname": "音视频开发进阶",
+      "createdat": "2017-12-22T02:26:57.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "5308",
+      "title": "Kotlin 使用 Anko 布局那些事",
+      "link": "https://glumes.com/kotlin-with-anko/",
+      "rsslink": "https://glumes.com/index.xml",
+      "blogname": "音视频开发进阶",
+      "createdat": "2017-12-22T02:21:26.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "5306",
+      "title": "A Headless Chrome Browser: Puppeteer",
+      "link": "https://alili.tech/en/archive/nodejs/a-headless-chrome-browser-puppeteer/",
       "rsslink": "https://alili.tech/index.xml",
       "blogname": "Alili丶前端大爆炸",
-      "createdat": "2017-12-17T20:32:05.000Z",
+      "createdat": "2017-12-21T20:32:05.000Z",
       "crawledat": "2026-02-03T12:40:15.422Z"
     },
     {
-      "id": "5284",
-      "title": "基于shipit-deploy实现的多服务器自动化部署方案",
-      "link": "https://alili.tech/archive/fba46182/",
+      "id": "5307",
+      "title": "一个没有界面的Chrome浏览器：Puppeteer",
+      "link": "https://alili.tech/archive/b9985e69/",
       "rsslink": "https://alili.tech/index.xml",
       "blogname": "Alili丶前端大爆炸",
-      "createdat": "2017-12-17T20:32:05.000Z",
+      "createdat": "2017-12-21T20:32:05.000Z",
       "crawledat": "2026-02-03T12:40:15.422Z"
     },
     {
-      "id": "5282",
-      "title": "Windows 10 电脑：使用技巧、佳软推荐以及系统重装教程",
-      "link": "https://tingtalk.me/windows/",
-      "rsslink": "https://tingtalk.me/atom.xml",
-      "blogname": "庭说",
-      "createdat": "2017-12-17T16:00:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "5281",
-      "title": "马尔科夫链蒙特卡洛方法和吉布斯采样 (MCMC and Gibbs Sampling)",
-      "link": "https://leovan.me/cn/2017/12/mcmc-and-gibbs-sampling/",
-      "rsslink": "https://leovan.me/cn/index.xml",
-      "blogname": "范叶亮的博客",
-      "createdat": "2017-12-17T00:00:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "5280",
-      "title": "寻路算法-贪婪最佳优先算法",
-      "link": "http://frankorz.com/2017/12/16/greedy-best-find-search/",
-      "rsslink": "http://frankorz.com/atom.xml",
-      "blogname": "萤火之森",
-      "createdat": "2017-12-16T23:24:27.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "5278",
-      "title": "Linux -  使用ssh-copy-id命令实现ssh Linux免密码登陆",
-      "link": "https://alili.tech/archive/5f4cf684/",
-      "rsslink": "https://alili.tech/index.xml",
-      "blogname": "Alili丶前端大爆炸",
-      "createdat": "2017-12-16T20:32:05.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "5279",
-      "title": "Linux - Use ssh-copy-id Command to Achieve SSH Passwordless Login",
-      "link": "https://alili.tech/en/archive/linux/linux-ssh-copy-id-passwordless-login/",
-      "rsslink": "https://alili.tech/index.xml",
-      "blogname": "Alili丶前端大爆炸",
-      "createdat": "2017-12-16T20:32:05.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "5277",
-      "title": "演示文稿",
-      "link": "https://www.chenshaowen.com/presentation/",
-      "rsslink": "https://www.chenshaowen.com/atom.xml",
-      "blogname": "陈少文的博客",
-      "createdat": "2017-12-16T17:42:04.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "5276",
-      "title": "人身保险入门指南",
-      "link": "https://tingtalk.me/personal-insurance/",
-      "rsslink": "https://tingtalk.me/atom.xml",
-      "blogname": "庭说",
-      "createdat": "2017-12-16T16:00:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "5275",
-      "title": "操作系统 并发与同步",
-      "link": "https://blog.debuginn.com/p/os-concurrent-sync/",
-      "rsslink": "https://blog.debuginn.com/index.xml",
-      "blogname": "Debug客栈",
-      "createdat": "2017-12-16T14:37:30.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "5274",
-      "title": "操作系统 内存管理 基本概念",
-      "link": "https://blog.debuginn.com/p/os-memory-manage/",
-      "rsslink": "https://blog.debuginn.com/index.xml",
-      "blogname": "Debug客栈",
-      "createdat": "2017-12-16T14:23:20.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "5273",
-      "title": "幂律分布与Zipf's Law",
-      "link": "https://blog.heysh.xyz/2017/12/16/zipf-law/",
-      "rsslink": "https://blog.heysh.xyz/feed.xml",
-      "blogname": "贺叶霜的树",
-      "createdat": "2017-12-16T12:48:36.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "5272",
-      "title": "Apps 精选 N018：GIFable，Elements",
-      "link": "https://huhuhang.com/post/product-hunt/product-hunt-n018",
-      "rsslink": "https://huhuhang.com/feed",
-      "blogname": "HUHUHANG",
-      "createdat": "2017-12-16T12:34:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "5271",
-      "title": "Nintendo Switch 开箱与简评",
-      "link": "https://chawyehsu.com/blog/nintendo-switch-unboxing-and-simple-review",
-      "rsslink": "https://chawyehsu.com/feed/atom.xml",
-      "blogname": "The Art of Chawye Hsu",
-      "createdat": "2017-12-15T14:28:04.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "5270",
-      "title": "如果注定沉沦，清醒是一种悲剧",
-      "link": "https://www.zackwu.com/posts/2017-12-15-sobriety-is-a-tragedy/",
-      "rsslink": "https://www.zackwu.com/feed.xml",
-      "blogname": "无辄的栈",
-      "createdat": "2017-12-15T00:00:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "5267",
-      "title": "Enable Gzip Mode for Express, Egg.js, Koa.js",
-      "link": "https://alili.tech/en/archive/nodejs/enable-gzip-express-egg-koa/",
-      "rsslink": "https://alili.tech/index.xml",
-      "blogname": "Alili丶前端大爆炸",
-      "createdat": "2017-12-13T20:32:05.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "5268",
-      "title": "Enable Gzip Mode for Express, Egg.js, Koa.js",
-      "link": "https://alili.tech/en/archive/nodejs/a8ce80b/",
-      "rsslink": "https://alili.tech/index.xml",
-      "blogname": "Alili丶前端大爆炸",
-      "createdat": "2017-12-13T20:32:05.000Z",
+      "id": "5305",
+      "title": "MicroPython使用笔记",
+      "link": "http://wwj718.github.io/post/iot/micropython-notes/",
+      "rsslink": "https://wwj718.github.io/index.xml",
+      "blogname": "夜行人",
+      "createdat": "2017-12-21T00:00:00.000Z",
       "crawledat": "2026-02-03T12:40:15.422Z"
     }
   ]
