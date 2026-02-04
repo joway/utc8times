@@ -1,186 +1,186 @@
 {
   "page": 1316,
   "pageSize": 20,
-  "totalPages": 1634,
+  "totalPages": 1640,
   "items": [
     {
-      "id": "6337",
-      "title": "人人都是产品经理",
-      "link": "https://surmon.me/article/109",
-      "rsslink": "https://surmon.me/rss.xml",
-      "blogname": "Surmon.me",
-      "createdat": "2018-08-30T11:51:13.000Z",
+      "id": "6451",
+      "title": "不要在 rake task 中定義 method, 請用 RAKE::DSL",
+      "link": "https://blog.niclin.tw/2018/09/13/%E4%B8%8D%E8%A6%81%E5%9C%A8-rake-task-%E4%B8%AD%E5%AE%9A%E7%BE%A9-method-%E8%AB%8B%E7%94%A8-rakedsl/",
+      "rsslink": "https://blog.niclin.tw/index.xml",
+      "blogname": "Nic Lin's Blog",
+      "createdat": "2018-09-13T00:00:00.000Z",
       "crawledat": "2026-02-03T12:40:15.422Z"
     },
     {
-      "id": "6336",
-      "title": "使用任意磁盘或路径保存 Windows 文件历史记录",
-      "link": "https://kenvix.com/post/win10-customize-filehistory-savepath/",
-      "rsslink": "https://kenvix.com/rss.xml",
-      "blogname": "Kenvix's Blog",
-      "createdat": "2018-08-30T06:10:03.000Z",
+      "id": "6452",
+      "title": "調整一個 Postgres 參數，讓查詢速度提升 50+ 倍",
+      "link": "https://blog.niclin.tw/2018/09/13/%E8%AA%BF%E6%95%B4%E4%B8%80%E5%80%8B-postgres-%E5%8F%83%E6%95%B8%E8%AE%93%E6%9F%A5%E8%A9%A2%E9%80%9F%E5%BA%A6%E6%8F%90%E5%8D%87-50--%E5%80%8D/",
+      "rsslink": "https://blog.niclin.tw/index.xml",
+      "blogname": "Nic Lin's Blog",
+      "createdat": "2018-09-13T00:00:00.000Z",
       "crawledat": "2026-02-03T12:40:15.422Z"
     },
     {
-      "id": "6335",
-      "title": "Lecture 8. Deep Learning Hardware and Software",
-      "link": "https://iphysresearch.github.io/blog/post/dl_notes/cs231n/cs231n_8/",
-      "rsslink": "https://iphysresearch.github.io/blog/post/index.xml",
-      "blogname": "IPhysResearch",
-      "createdat": "2018-08-30T01:00:00.000Z",
+      "id": "6453",
+      "title": "如何利用 CDN 进一步的前后端分离",
+      "link": "https://www.chenshaowen.com/blog/how-to-use-cdn-to-separate-frontend-and-backend-more.html",
+      "rsslink": "https://www.chenshaowen.com/atom.xml",
+      "blogname": "陈少文的博客",
+      "createdat": "2018-09-13T00:00:00.000Z",
       "crawledat": "2026-02-03T12:40:15.422Z"
     },
     {
-      "id": "6331",
-      "title": "Network Notes - Network Protocols and Network Layering",
-      "link": "https://alili.tech/en/archive/network/ef96a5b6/",
-      "rsslink": "https://alili.tech/index.xml",
-      "blogname": "Alili丶前端大爆炸",
-      "createdat": "2018-08-30T00:00:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "6332",
-      "title": "Network笔记整理 - 网络协议与网络分层",
-      "link": "https://alili.tech/archive/ef96a5b6/",
-      "rsslink": "https://alili.tech/index.xml",
-      "blogname": "Alili丶前端大爆炸",
-      "createdat": "2018-08-30T00:00:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "6333",
-      "title": "使用devstack(docker)安装和调试open edx",
-      "link": "http://wwj718.github.io/post/edx/devstack-openedx/",
-      "rsslink": "https://wwj718.github.io/index.xml",
-      "blogname": "夜行人",
-      "createdat": "2018-08-30T00:00:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "6334",
-      "title": "Lecture 7. Training Neural Networks, part 2",
-      "link": "https://iphysresearch.github.io/blog/post/dl_notes/cs231n/cs231n_7/",
-      "rsslink": "https://iphysresearch.github.io/blog/post/index.xml",
-      "blogname": "IPhysResearch",
-      "createdat": "2018-08-30T00:00:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "6330",
-      "title": "2018年 每日小思(Self-Examination)",
-      "link": "https://changchen.me/blog/20180829/2018-daily-self-examination/",
-      "rsslink": "https://changchen.me/atom.xml",
-      "blogname": "Henry Z's blog",
-      "createdat": "2018-08-29T21:50:40.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "6329",
-      "title": "springboot(23)自定义RedisConnectionFactory",
-      "link": "https://wakzz.cn/2018/08/30/springboot/(23)%E8%87%AA%E5%AE%9A%E4%B9%89RedisConnectionFactory/",
+      "id": "6450",
+      "title": "elasticsearch映射",
+      "link": "https://wakzz.cn/2018/09/13/elasticsearch/%E6%98%A0%E5%B0%84/",
       "rsslink": "https://wakzz.cn/atom.xml",
       "blogname": "祈雨的博客",
-      "createdat": "2018-08-29T16:00:00.000Z",
+      "createdat": "2018-09-12T16:00:00.000Z",
       "crawledat": "2026-02-03T12:40:15.422Z"
     },
     {
-      "id": "6328",
-      "title": "【强化学习】1-1-4 强化学习和人工智能",
-      "link": "https://face2ai.com/RL-RSAB-1-1-4-Reinforcement-Learning/",
+      "id": "6449",
+      "title": "【强化学习】1.3 强化学习的基础元素",
+      "link": "https://face2ai.com/RL-RSAB-1-3-Elements-of-RL/",
       "rsslink": "https://face2ai.com/atom.xml",
       "blogname": "谭升的博客",
-      "createdat": "2018-08-29T15:54:34.000Z",
+      "createdat": "2018-09-12T13:51:01.000Z",
       "crawledat": "2026-02-03T12:40:15.422Z"
     },
     {
-      "id": "6327",
-      "title": "iOS12体验： 一个字，爽！",
-      "link": "https://changchen.me/blog/20180829/ios12-review/",
-      "rsslink": "https://changchen.me/atom.xml",
-      "blogname": "Henry Z's blog",
-      "createdat": "2018-08-29T15:35:26.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "6326",
-      "title": "【强化学习】1-1-3 强化学习基本框架",
-      "link": "https://face2ai.com/RL-RSAB-1-1-3-Reinforcement-Learning/",
-      "rsslink": "https://face2ai.com/atom.xml",
-      "blogname": "谭升的博客",
-      "createdat": "2018-08-29T15:18:29.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "6325",
-      "title": "【译】使用 Script-Streaming 提升页面加载性能",
-      "link": "https://blog.skrskrskrskr.com/article/%E3%80%90%E8%AF%91%E3%80%91%E4%BD%BF%E7%94%A8Script-Streaming%E6%8F%90%E5%8D%87%E9%A1%B5%E9%9D%A2%E5%8A%A0%E8%BD%BD%E6%80%A7%E8%83%BD/",
-      "rsslink": "https://blog.skrskrskrskr.com/atom.xml",
-      "blogname": "小熊写字的地方",
-      "createdat": "2018-08-29T13:08:48.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "6323",
-      "title": "Scratch3.0自定义插件注意事项之令牌桶算法",
-      "link": "http://wwj718.github.io/post/%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B/scratch-extension-token-bucket/",
-      "rsslink": "https://wwj718.github.io/index.xml",
-      "blogname": "夜行人",
-      "createdat": "2018-08-29T00:00:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "6324",
-      "title": "Web后端工程师进阶指南(2018)",
-      "link": "https://jiajunhuang.com/articles/2018_08_29-become_a_better_programmer.md.html",
-      "rsslink": "https://jiajunhuang.com/rss",
-      "blogname": "Jiajun的编程随想",
-      "createdat": "2018-08-29T00:00:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "6322",
-      "title": "《好妈妈胜过好老师》读书笔记",
-      "link": "https://ifttl.com/parents-are-our-best-teachers/",
-      "rsslink": "https://ifttl.com/index.xml",
-      "blogname": "自由人的 BLOG",
-      "createdat": "2018-08-28T22:51:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "6321",
-      "title": "Java 中的静态代理和动态代理",
-      "link": "https://glumes.com/java-proxy-design-pattern/",
+      "id": "6448",
+      "title": "Android NDK 开发之 CMake 必知必会",
+      "link": "https://glumes.com/cmake-best-practices/",
       "rsslink": "https://glumes.com/index.xml",
       "blogname": "音视频开发进阶",
-      "createdat": "2018-08-28T14:55:49.000Z",
+      "createdat": "2018-09-12T01:19:09.000Z",
       "crawledat": "2026-02-03T12:40:15.422Z"
     },
     {
-      "id": "6320",
-      "title": "每周导学-第七周-Matplotlib可视化",
-      "link": "https://capallen.gitee.io/2018/Matplotlib%E5%8F%AF%E8%A7%86%E5%8C%96.html",
-      "rsslink": "https://www.capallen.top/atom.xml",
-      "blogname": "Allen's Blog",
-      "createdat": "2018-08-28T04:30:09.000Z",
+      "id": "6447",
+      "title": "Lecture 12. Generative Models",
+      "link": "https://iphysresearch.github.io/blog/post/dl_notes/cs231n/cs231n_12/",
+      "rsslink": "https://iphysresearch.github.io/blog/post/index.xml",
+      "blogname": "IPhysResearch",
+      "createdat": "2018-09-12T01:00:00.000Z",
       "crawledat": "2026-02-03T12:40:15.422Z"
     },
     {
-      "id": "6319",
-      "title": "数据可视化之 Sankey 桑基图的实现",
-      "link": "https://geekplux.com/posts/how-to-implement-sankey-diagram",
-      "rsslink": "https://geekplux.com/atom.xml",
-      "blogname": "GeekPlux",
-      "createdat": "2018-08-28T00:17:00.000Z",
+      "id": "6442",
+      "title": "Punch a Hole in Your Machine with ngrok - Internal Network Penetration",
+      "link": "https://alili.tech/en/archive/network/df8d5e8d/",
+      "rsslink": "https://alili.tech/index.xml",
+      "blogname": "Alili丶前端大爆炸",
+      "createdat": "2018-09-12T00:00:00.000Z",
       "crawledat": "2026-02-03T12:40:15.422Z"
     },
     {
-      "id": "6316",
-      "title": "How to implement fork syscall in Golang?",
-      "link": "https://jiajunhuang.com/articles/2018_08_28-how_does_golang_implement_fork_syscall.md.html",
-      "rsslink": "https://jiajunhuang.com/rss",
-      "blogname": "Jiajun的编程随想",
-      "createdat": "2018-08-28T00:00:00.000Z",
+      "id": "6443",
+      "title": "利用ngrok给你的机器打个洞 - 内网穿透",
+      "link": "https://alili.tech/archive/df8d5e8d/",
+      "rsslink": "https://alili.tech/index.xml",
+      "blogname": "Alili丶前端大爆炸",
+      "createdat": "2018-09-12T00:00:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "6444",
+      "title": "在旧金山总领馆换发护照",
+      "link": "https://fourhappylions.com/posts/passport-renewal-in-sf/",
+      "rsslink": "https://fourhappylions.com/index.xml",
+      "blogname": "四喜丸子",
+      "createdat": "2018-09-12T00:00:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "6445",
+      "title": "Ruby 运算符",
+      "link": "https://wsdjeg.net/ruby-miscellaneous-operator/",
+      "rsslink": "https://wsdjeg.net/feed.xml",
+      "blogname": "Eric's Blog",
+      "createdat": "2018-09-12T00:00:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "6446",
+      "title": "React一线问题十问十答",
+      "link": "http://yanhaijing.com/web/2018/09/12/react-qa/",
+      "rsslink": "https://yanhaijing.com/rss.xml",
+      "blogname": "颜海镜",
+      "createdat": "2018-09-12T00:00:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "6441",
+      "title": "自如甲醛检测的魔幻之旅",
+      "link": "https://changchen.me/blog/20180911/ziru-air-quality/",
+      "rsslink": "https://changchen.me/atom.xml",
+      "blogname": "Henry Z's blog",
+      "createdat": "2018-09-11T20:28:13.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "6440",
+      "title": "IDEA unused import statement",
+      "link": "https://wakzz.cn/2018/09/12/java/IDEA%20unused%20import%20statement/",
+      "rsslink": "https://wakzz.cn/atom.xml",
+      "blogname": "祈雨的博客",
+      "createdat": "2018-09-11T16:00:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "6439",
+      "title": "开源库之 OkHttp 源码分析",
+      "link": "https://glumes.com/okhttp-analysis/",
+      "rsslink": "https://glumes.com/index.xml",
+      "blogname": "音视频开发进阶",
+      "createdat": "2018-09-11T14:13:45.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "6438",
+      "title": "CSS 写法进化史",
+      "link": "https://baiyun.me/css-evolution",
+      "rsslink": "https://baiyun.me/feed",
+      "blogname": "BAI YUN",
+      "createdat": "2018-09-11T08:40:40.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "6437",
+      "title": "摩登 OAuth 2.0：簡介",
+      "link": "https://lepture.com/zh/2018/oauth2-intro",
+      "rsslink": "https://lepture.com/feed.xml",
+      "blogname": "Just lepture",
+      "createdat": "2018-09-11T03:13:08.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "6435",
+      "title": "有待",
+      "link": "http://wwj718.github.io/post/%E8%AF%97%E8%AF%8D/await/",
+      "rsslink": "https://wwj718.github.io/index.xml",
+      "blogname": "夜行人",
+      "createdat": "2018-09-11T00:00:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "6436",
+      "title": "React最佳实践",
+      "link": "http://yanhaijing.com/javascript/2018/09/11/react-best-practice/",
+      "rsslink": "https://yanhaijing.com/rss.xml",
+      "blogname": "颜海镜",
+      "createdat": "2018-09-11T00:00:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "6434",
+      "title": "刺透内网的HTTP代理",
+      "link": "https://gh0st.cn/archives/2018-09-11/1",
+      "rsslink": "https://gh0st.cn/feed.xml",
+      "blogname": "Vulkey_Chen's Blog",
+      "createdat": "2018-09-10T16:00:00.000Z",
       "crawledat": "2026-02-03T12:40:15.422Z"
     }
   ]
