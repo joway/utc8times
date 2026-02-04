@@ -1,8 +1,26 @@
 {
   "page": 461,
   "pageSize": 20,
-  "totalPages": 1633,
+  "totalPages": 1634,
   "items": [
+    {
+      "id": "23399",
+      "title": "CTO都必须是程序员出身吗？为什么架构师做不了CTO？",
+      "link": "https://www.rowkey.cn/blog/2024/04/08/codertocto/",
+      "rsslink": "https://rowkey.cn/atom.xml",
+      "blogname": "后端技术杂谈",
+      "createdat": "2024-04-08T11:29:34.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "23398",
+      "title": "我的个人密码存储与管理",
+      "link": "https://isming.me/2024-04-08-passwords-manage/?utm_source=rss",
+      "rsslink": "https://isming.me/index.xml",
+      "blogname": "码农明明桑",
+      "createdat": "2024-04-08T11:13:24.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
     {
       "id": "23397",
       "title": "文献推导笔记",
@@ -163,24 +181,6 @@
       "rsslink": "https://blog.joway.io/index.xml",
       "blogname": "Joway's Blog",
       "createdat": "2024-04-07T00:00:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "23381",
-      "title": "网站性能优化：如何高效预加载大型静态资源",
-      "link": "https://www.mengke.me/blog/202404/Static_Resource_Prefetch",
-      "rsslink": "https://mengke.me/feed.xml",
-      "blogname": "Ke's blog",
-      "createdat": "2024-04-07T00:00:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "23378",
-      "title": "干净的 TypeScript 项目在编译时报错 Cannot find module 'undici-types' 的原因和解决",
-      "link": "https://chengpeiquan.com/article/typescript-error-cannot-find-module-undici-types",
-      "rsslink": "https://chengpeiquan.com/feed/",
-      "blogname": "程沛权 - 养了三只猫",
-      "createdat": "2024-04-06T13:55:00.000Z",
       "crawledat": "2026-02-03T12:40:15.422Z"
     }
   ]

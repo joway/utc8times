@@ -1,8 +1,161 @@
 {
   "page": 1476,
   "pageSize": 20,
-  "totalPages": 1633,
+  "totalPages": 1634,
   "items": [
+    {
+      "id": "3162",
+      "title": "after_create 是一種 model callbacks, 請問 model 有多少種 call backs 請列出來",
+      "link": "https://blog.niclin.tw/2015/11/28/after_create-%E6%98%AF%E4%B8%80%E7%A8%AE-model-callbacks-%E8%AB%8B%E5%95%8F-model-%E6%9C%89%E5%A4%9A%E5%B0%91%E7%A8%AE-call-backs-%E8%AB%8B%E5%88%97%E5%87%BA%E4%BE%86/",
+      "rsslink": "https://blog.niclin.tw/index.xml",
+      "blogname": "Nic Lin's Blog",
+      "createdat": "2015-11-28T23:05:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "3161",
+      "title": "工作状态慢慢回来了",
+      "link": "https://www.eallion.com/sense-back/",
+      "rsslink": "https://eallion.com/atom.xml",
+      "blogname": "大大的小蜗牛",
+      "createdat": "2015-11-28T12:13:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "3160",
+      "title": "PHP连接数据库进行增删查改-PDO方法-以MySQL为例",
+      "link": "https://www.wyr.me/post/302",
+      "rsslink": "https://www.wyr.me/rss.xml",
+      "blogname": "轶哥博客",
+      "createdat": "2015-11-28T05:50:46.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "3159",
+      "title": "POJ 1611 The Suspects（并查集）",
+      "link": "https://arminli.com/poj1611/",
+      "rsslink": "https://arminli.com/rss.xml",
+      "blogname": "INTJer",
+      "createdat": "2015-11-28T00:00:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "3158",
+      "title": "生活，需要被“发现”",
+      "link": "https://i.hsfzxjy.site/life-needs-discovery/",
+      "rsslink": "https://i.hsfzxjy.site/rss.xml",
+      "blogname": "hsfzxjy 的博客",
+      "createdat": "2015-11-27T16:00:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "3156",
+      "title": "HDU 4496 D-City（并查集）",
+      "link": "https://arminli.com/hdu4496/",
+      "rsslink": "https://arminli.com/rss.xml",
+      "blogname": "INTJer",
+      "createdat": "2015-11-27T00:00:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "3157",
+      "title": "对透明薪酬的回顾",
+      "link": "https://1byte.io/articles/one-year-review-of-transparent-salaries/",
+      "rsslink": "https://1byte.io/rss.xml",
+      "blogname": "1 Byte",
+      "createdat": "2015-11-27T00:00:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "3155",
+      "title": "board has_many posts, 新造物件宣告方式是： @post = @boards.posts.build 。那如果 book has_one :author，請問要怎麼宣告？",
+      "link": "https://blog.niclin.tw/2015/11/26/board-has_many-posts-%E6%96%B0%E9%80%A0%E7%89%A9%E4%BB%B6%E5%AE%A3%E5%91%8A%E6%96%B9%E5%BC%8F%E6%98%AF-post--boards.posts.build-%E9%82%A3%E5%A6%82%E6%9E%9C-book-has_one-author%E8%AB%8B%E5%95%8F%E8%A6%81%E6%80%8E%E9%BA%BC%E5%AE%A3%E5%91%8A/",
+      "rsslink": "https://blog.niclin.tw/index.xml",
+      "blogname": "Nic Lin's Blog",
+      "createdat": "2015-11-26T07:48:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "3153",
+      "title": "Rails 內如何操作 session?",
+      "link": "https://blog.niclin.tw/2015/11/26/rails-%E5%85%A7%E5%A6%82%E4%BD%95%E6%93%8D%E4%BD%9C-session/",
+      "rsslink": "https://blog.niclin.tw/index.xml",
+      "blogname": "Nic Lin's Blog",
+      "createdat": "2015-11-26T07:47:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "3154",
+      "title": "如何讓 strong_parameter 接受 nested_attributes",
+      "link": "https://blog.niclin.tw/2015/11/26/%E5%A6%82%E4%BD%95%E8%AE%93-strong_parameter-%E6%8E%A5%E5%8F%97-nested_attributes/",
+      "rsslink": "https://blog.niclin.tw/index.xml",
+      "blogname": "Nic Lin's Blog",
+      "createdat": "2015-11-26T07:47:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "3152",
+      "title": "session 與 cookie 的差別",
+      "link": "https://blog.niclin.tw/2015/11/26/session-%E8%88%87-cookie-%E7%9A%84%E5%B7%AE%E5%88%A5/",
+      "rsslink": "https://blog.niclin.tw/index.xml",
+      "blogname": "Nic Lin's Blog",
+      "createdat": "2015-11-26T07:46:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "3151",
+      "title": "before_action 的使用時機",
+      "link": "https://blog.niclin.tw/2015/11/26/before_action-%E7%9A%84%E4%BD%BF%E7%94%A8%E6%99%82%E6%A9%9F/",
+      "rsslink": "https://blog.niclin.tw/index.xml",
+      "blogname": "Nic Lin's Blog",
+      "createdat": "2015-11-26T07:44:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "3150",
+      "title": "C#扫描在线IP源代码-多媒体教室、公司内网管理IP搜索",
+      "link": "https://www.wyr.me/post/283",
+      "rsslink": "https://www.wyr.me/rss.xml",
+      "blogname": "轶哥博客",
+      "createdat": "2015-11-25T15:19:26.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "3148",
+      "title": "routing 的 namespace",
+      "link": "https://blog.niclin.tw/2015/11/25/routing-%E7%9A%84-namespace/",
+      "rsslink": "https://blog.niclin.tw/index.xml",
+      "blogname": "Nic Lin's Blog",
+      "createdat": "2015-11-25T08:18:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "3149",
+      "title": "strong parameter",
+      "link": "https://blog.niclin.tw/2015/11/25/strong-parameter/",
+      "rsslink": "https://blog.niclin.tw/index.xml",
+      "blogname": "Nic Lin's Blog",
+      "createdat": "2015-11-25T08:18:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "3147",
+      "title": "user story 的格式",
+      "link": "https://blog.niclin.tw/2015/11/25/user-story-%E7%9A%84%E6%A0%BC%E5%BC%8F/",
+      "rsslink": "https://blog.niclin.tw/index.xml",
+      "blogname": "Nic Lin's Blog",
+      "createdat": "2015-11-25T08:17:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "3145",
+      "title": "user story 是什麼?",
+      "link": "https://blog.niclin.tw/2015/11/25/user-story-%E6%98%AF%E4%BB%80%E9%BA%BC/",
+      "rsslink": "https://blog.niclin.tw/index.xml",
+      "blogname": "Nic Lin's Blog",
+      "createdat": "2015-11-25T08:16:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
     {
       "id": "3146",
       "title": "為什麼我們要用 user story?",
@@ -28,159 +181,6 @@
       "rsslink": "https://lcx.cc/index.xml",
       "blogname": "Nuclear'Atk（核攻击）网络安全实验室",
       "createdat": "2015-11-24T06:33:57.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "3140",
-      "title": "Celery在Open edX中的使用",
-      "link": "http://wwj718.github.io/post/edx/celery-on-open-edx/",
-      "rsslink": "https://wwj718.github.io/index.xml",
-      "blogname": "夜行人",
-      "createdat": "2015-11-23T00:00:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "3141",
-      "title": "伪数据工厂faker",
-      "link": "http://wwj718.github.io/post/%E5%B7%A5%E5%85%B7/fake-data-factory/",
-      "rsslink": "https://wwj718.github.io/index.xml",
-      "blogname": "夜行人",
-      "createdat": "2015-11-23T00:00:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "3142",
-      "title": "文档格式转化神器pandoc",
-      "link": "http://wwj718.github.io/post/%E5%B7%A5%E5%85%B7/document-factory-pandoc/",
-      "rsslink": "https://wwj718.github.io/index.xml",
-      "blogname": "夜行人",
-      "createdat": "2015-11-23T00:00:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "3139",
-      "title": "Kenvix's Blog",
-      "link": "https://kenvix.com/post/%E4%B8%96%E7%95%8C%EF%BC%8C%E6%82%A8%E5%A5%BD%EF%BC%81/",
-      "rsslink": "https://kenvix.com/rss.xml",
-      "blogname": "Kenvix's Blog",
-      "createdat": "2015-11-22T09:34:59.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "3138",
-      "title": "HDU 4389 X mod f(x)（分段打表）",
-      "link": "https://arminli.com/hdu4389/",
-      "rsslink": "https://arminli.com/rss.xml",
-      "blogname": "INTJer",
-      "createdat": "2015-11-22T00:00:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "3137",
-      "title": "HTML5用户身份认证源代码：注册、登录、会话保持的解决方案",
-      "link": "https://www.wyr.me/post/274",
-      "rsslink": "https://www.wyr.me/rss.xml",
-      "blogname": "轶哥博客",
-      "createdat": "2015-11-20T15:28:57.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "3136",
-      "title": "《父母效能训练手册》读后感",
-      "link": "https://www.bobjiang.com/pet-reading-parent-effective-2015/",
-      "rsslink": "https://www.bobjiang.com/index.xml",
-      "blogname": "Bob Jiang's Blog",
-      "createdat": "2015-11-19T00:00:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "3135",
-      "title": "Android 应用启动优化 - 一种 DelayLoad 的实现和原理(上篇)",
-      "link": "https://androidperformance.com/2015/11/18/Android-app-lunch-optimize-delay-load/",
-      "rsslink": "https://www.androidperformance.com/atom.xml",
-      "blogname": "Android Performance",
-      "createdat": "2015-11-18T12:23:14.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "3132",
-      "title": "Open edX国内社区演示平台",
-      "link": "http://wwj718.github.io/post/edx/open-edx-cn-sandbox/",
-      "rsslink": "https://wwj718.github.io/index.xml",
-      "blogname": "夜行人",
-      "createdat": "2015-11-18T00:00:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "3133",
-      "title": "Open edX生态之Oppia",
-      "link": "http://wwj718.github.io/post/edx/open-edx-ecology-oppia/",
-      "rsslink": "https://wwj718.github.io/index.xml",
-      "blogname": "夜行人",
-      "createdat": "2015-11-18T00:00:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "3134",
-      "title": "关于Open edX[译文]",
-      "link": "http://wwj718.github.io/post/edx/about-open-edx/",
-      "rsslink": "https://wwj718.github.io/index.xml",
-      "blogname": "夜行人",
-      "createdat": "2015-11-18T00:00:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "3131",
-      "title": "Windows10 WinSock",
-      "link": "https://www.eallion.com/windows10-winsock/",
-      "rsslink": "https://eallion.com/atom.xml",
-      "blogname": "大大的小蜗牛",
-      "createdat": "2015-11-17T21:28:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "3130",
-      "title": "Open edX定制开发与git rebase",
-      "link": "http://wwj718.github.io/post/edx/open-edx-custom-and-git-rebase/",
-      "rsslink": "https://wwj718.github.io/index.xml",
-      "blogname": "夜行人",
-      "createdat": "2015-11-17T00:00:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "3128",
-      "title": "Open edX每周简报(20151115)",
-      "link": "http://wwj718.github.io/post/edx/open-edx-weekly-publication-20151115/",
-      "rsslink": "https://wwj718.github.io/index.xml",
-      "blogname": "夜行人",
-      "createdat": "2015-11-15T00:00:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "3129",
-      "title": "翻转组织—通用医疗敏捷转型案例",
-      "link": "https://www.bobjiang.com/post/blog/ge-healthcare-agile-adoption-case-study-less/",
-      "rsslink": "https://www.bobjiang.com/index.xml",
-      "blogname": "Bob Jiang's Blog",
-      "createdat": "2015-11-15T00:00:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "3127",
-      "title": "在电脑上修图，你并不需要 PS：泼辣修图 3 网页版",
-      "link": "https://huhuhang.com/post/sspai/31881",
-      "rsslink": "https://huhuhang.com/feed",
-      "blogname": "HUHUHANG",
-      "createdat": "2015-11-14T08:46:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "3126",
-      "title": "为什么我喜欢写代码",
-      "link": "https://geekplux.com/posts/why-i-like-coding",
-      "rsslink": "https://geekplux.com/atom.xml",
-      "blogname": "GeekPlux",
-      "createdat": "2015-11-13T23:04:00.000Z",
       "crawledat": "2026-02-03T12:40:15.422Z"
     }
   ]
