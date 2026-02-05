@@ -1,8 +1,26 @@
 {
   "page": 925,
   "pageSize": 20,
-  "totalPages": 1640,
+  "totalPages": 1641,
   "items": [
+    {
+      "id": "14243",
+      "title": "修复 MagicBook 14（Ryzen5 3500U）在 Arch Linux 下亮度突然变 0 的问题",
+      "link": "https://cyrusyip.org/zh-cn/posts/2021/10/06/fix-magicbook-zero-brightness/",
+      "rsslink": "https://cyrusyip.org/zh-cn/index.xml",
+      "blogname": "叶寻的博客",
+      "createdat": "2021-10-05T16:00:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "14242",
+      "title": "jekyll 迁移至 hexo",
+      "link": "https://www.tortorse.com/archives/990/",
+      "rsslink": "https://www.tortorse.com/atom.xml",
+      "blogname": "愆伏",
+      "createdat": "2021-10-05T14:40:29.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
     {
       "id": "14241",
       "title": "Win11正式版升级安装Docker(基于WSL2)",
@@ -163,24 +181,6 @@
       "rsslink": "https://changchen.me/atom.xml",
       "blogname": "Henry Z's blog",
       "createdat": "2021-10-03T15:42:13.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "14222",
-      "title": "StyleGAN",
-      "link": "https://aikenh.cn/posts/stylegan/",
-      "rsslink": "https://aikenh.cn/index.xml",
-      "blogname": "aikenh",
-      "createdat": "2021-10-03T13:16:40.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "14223",
-      "title": "YOLOv4",
-      "link": "https://aikenh.cn/posts/yolov4/",
-      "rsslink": "https://aikenh.cn/index.xml",
-      "blogname": "aikenh",
-      "createdat": "2021-10-03T13:16:40.000Z",
       "crawledat": "2026-02-03T12:40:15.422Z"
     }
   ]

@@ -1,8 +1,26 @@
 {
   "page": 113,
   "pageSize": 20,
-  "totalPages": 1640,
+  "totalPages": 1641,
   "items": [
+    {
+      "id": "30381",
+      "title": "SQLite 学习笔记",
+      "link": "https://lihan3238.github.io/p/notes_b_sqlite/",
+      "rsslink": "https://lihan3238.github.io/index.xml",
+      "blogname": "李寒的小窝",
+      "createdat": "2025-10-31T11:37:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "30380",
+      "title": "在富阳银湖做在地社区的三个月",
+      "link": "https://ourai.ws/posts/three-months-working-in-the-freelancer-community-in-yinhu-of-fuyang/",
+      "rsslink": "https://ourai.ws/atom.xml",
+      "blogname": "欧雷流",
+      "createdat": "2025-10-31T11:27:38.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
     {
       "id": "30379",
       "title": "RISC-V meets RDBMS——RISC-V架构上可运行数据库一览",
@@ -163,24 +181,6 @@
       "rsslink": "https://physnya.top/atom.xml",
       "blogname": "菲兹克斯喵",
       "createdat": "2025-10-30T14:39:06.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "30361",
-      "title": "关于DeepSeek-OCR和PaddleOCR对数学类书籍识别的对比",
-      "link": "https://wangjiezhe.com/posts/2025-10-30-Compare-DeepSeekOCR-with-PaddleOCR/",
-      "rsslink": "https://wangjiezhe.com/atom.xml",
-      "blogname": "如鱼饮水",
-      "createdat": "2025-10-30T09:06:26.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "30360",
-      "title": "我放弃了给日记分类，让记录的摩擦力降到最低",
-      "link": "https://whyya.xyz/posts/20251030-gave-up-categorizing-journal-to-reduce-friction/",
-      "rsslink": "https://whyya.xyz/rss.xml",
-      "blogname": "小陶持续精进",
-      "createdat": "2025-10-30T08:29:00.000Z",
       "crawledat": "2026-02-03T12:40:15.422Z"
     }
   ]

@@ -1,8 +1,62 @@
 {
   "page": 1291,
   "pageSize": 20,
-  "totalPages": 1640,
+  "totalPages": 1641,
   "items": [
+    {
+      "id": "6960",
+      "title": "Two Issues Related to ImageFont Module in PIL",
+      "link": "https://jdhao.github.io/2018/12/04/two_issues_related_to_imagefont_pillow/",
+      "rsslink": "https://jdhao.github.io/index.xml",
+      "blogname": "jdhao's blog",
+      "createdat": "2018-12-04T14:48:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "6959",
+      "title": "在 Listary 中调用 GoldenDict 或欧路词典查单词",
+      "link": "https://jdhao.github.io/2018/12/04/golden_dict_install_usage/",
+      "rsslink": "https://jdhao.github.io/index.xml",
+      "blogname": "jdhao's blog",
+      "createdat": "2018-12-04T07:03:38.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "6958",
+      "title": "我的项目",
+      "link": "https://szp15.com/post/projects/",
+      "rsslink": "https://szp15.com/index.xml",
+      "blogname": "山楂片的博客",
+      "createdat": "2018-12-04T03:38:57.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "6956",
+      "title": "使用husky提升Code-Review的效率",
+      "link": "https://alili.tech/archive/i9t0x2tvleo/",
+      "rsslink": "https://alili.tech/index.xml",
+      "blogname": "Alili丶前端大爆炸",
+      "createdat": "2018-12-04T00:00:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "6957",
+      "title": "Github page service",
+      "link": "https://www.bobjiang.com/github-page-1204/",
+      "rsslink": "https://www.bobjiang.com/index.xml",
+      "blogname": "Bob Jiang's Blog",
+      "createdat": "2018-12-04T00:00:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "6954",
+      "title": "PAT A1148 Werewolf - Simple Version(C++)",
+      "link": "http://lulalap.com/2018/12/03/PAT-A1148-cpp/",
+      "rsslink": "http://lulalap.com/atom.xml",
+      "blogname": "未知的世界",
+      "createdat": "2018-12-03T10:47:41.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
     {
       "id": "6955",
       "title": "PAT A1149 Dangerous Goods Packaging(C++)",
@@ -127,60 +181,6 @@
       "rsslink": "https://wwj718.github.io/index.xml",
       "blogname": "夜行人",
       "createdat": "2018-12-03T00:00:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "6940",
-      "title": "迁移到 ubuntu18 的问题及配置",
-      "link": "https://www.ahianzhang.com/post/ubuntu01/",
-      "rsslink": "https://www.ahianzhang.com/index.xml",
-      "blogname": "象帝浮华生",
-      "createdat": "2018-12-02T22:29:50.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "6939",
-      "title": "为什么前端工程师需要关注设计",
-      "link": "https://keelii.com/why-frontend-dev-should-care-design",
-      "rsslink": "https://keelii.com/atom.xml",
-      "blogname": "臨池不輟",
-      "createdat": "2018-12-02T19:10:24.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "6938",
-      "title": "Python 获取海贼王更新信息",
-      "link": "https://smallyu.net/2018/12/02/Python%E8%8E%B7%E5%8F%96%E6%B5%B7%E8%B4%BC%E7%8E%8B%E6%9B%B4%E6%96%B0%E4%BF%A1%E6%81%AF/",
-      "rsslink": "https://smallyu.net/atom.xml",
-      "blogname": "smallyu的博客",
-      "createdat": "2018-12-02T10:08:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "6937",
-      "title": "Apps 精选 N052：Sblack，WebSatchel",
-      "link": "https://huhuhang.com/post/product-hunt/product-hunt-n052",
-      "rsslink": "https://huhuhang.com/feed",
-      "blogname": "HUHUHANG",
-      "createdat": "2018-12-02T06:58:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "6935",
-      "title": "Anaconda&Jupyter Notebook配置",
-      "link": "https://capallen.gitee.io/2018/Anaconda%E9%85%8D%E7%BD%AE.html",
-      "rsslink": "https://www.capallen.top/atom.xml",
-      "blogname": "Allen's Blog",
-      "createdat": "2018-12-01T23:30:09.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "6936",
-      "title": "Python Code of Mini-Batch Gradient Descent",
-      "link": "https://capallen.gitee.io/2018/Python%20code%20for%20mini%20batch%20gradient%20descent.html",
-      "rsslink": "https://www.capallen.top/atom.xml",
-      "blogname": "Allen's Blog",
-      "createdat": "2018-12-01T23:30:09.000Z",
       "crawledat": "2026-02-03T12:40:15.422Z"
     }
   ]
