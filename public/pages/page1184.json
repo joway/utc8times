@@ -4,6 +4,33 @@
   "totalPages": 1641,
   "items": [
     {
+      "id": "9092",
+      "title": "淺談 Active Record 的 Lazy load 特性",
+      "link": "https://blog.niclin.tw/2019/11/01/active-record-query-lazy-load/",
+      "rsslink": "https://blog.niclin.tw/index.xml",
+      "blogname": "Nic Lin's Blog",
+      "createdat": "2019-10-31T17:13:23.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "9091",
+      "title": "从viccrubs改名为ddadaal",
+      "link": "https://ddadaal.me/articles/rename-from-viccrubs/cn",
+      "rsslink": "https://ddadaal.me/rss.xml",
+      "blogname": "ddadaal.me",
+      "createdat": "2019-10-31T06:28:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "9090",
+      "title": "Rails 專案搭配 Github Actions 進行 RSpec 自動化測試",
+      "link": "https://blog.niclin.tw/2019/10/31/building-a-rails-ci-piepline-and-run-rspec-on-github-actions/",
+      "rsslink": "https://blog.niclin.tw/index.xml",
+      "blogname": "Nic Lin's Blog",
+      "createdat": "2019-10-31T02:55:08.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
       "id": "9084",
       "title": "Seata 基本原理和源码分析",
       "link": "https://wangxin.io/2019/10/31/distributed/distributed_system_consistency_algorithm_paxos_raft_zab/",
@@ -154,33 +181,6 @@
       "rsslink": "https://feeds.feedburner.com/blogspot/Aohx",
       "blogname": "Orange",
       "createdat": "2019-10-29T16:45:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "9072",
-      "title": "教你如何看懂UML中的类图及类图中的关系",
-      "link": "https://www.larscheng.com/uml-class/",
-      "rsslink": "https://www.larscheng.com/atom.xml",
-      "blogname": "LarsCheng",
-      "createdat": "2019-10-29T05:53:14.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "9071",
-      "title": "设计模式总览",
-      "link": "https://www.larscheng.com/dp-overview/",
-      "rsslink": "https://www.larscheng.com/atom.xml",
-      "blogname": "LarsCheng",
-      "createdat": "2019-10-29T05:49:58.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "9069",
-      "title": "中文圈貌似写独立博客的人越来越少了, 我按照订阅量大概排了个序",
-      "link": "https://blog.t9t.io/cn-indie-blogs-2019-10-29/",
-      "rsslink": "https://blog.t9t.io/atom.xml",
-      "blogname": "透明创业实验",
-      "createdat": "2019-10-29T00:00:00.000Z",
       "crawledat": "2026-02-03T12:40:15.422Z"
     }
   ]
