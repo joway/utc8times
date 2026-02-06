@@ -19,6 +19,7 @@ const DB_PATH = path.join(DATA_DIR, "db.csv");
 
 const PAGE_SIZE = 20;
 const FETCH_CONCURRENCY = 100;
+const MAX_PAGES = 50;
 
 const parser = new Parser({
   customFields: {
@@ -390,8 +391,10 @@ function buildRow({
 
 function buildPages(records) {
   const pages = [];
-  for (let i = 0; i < records.length; i += PAGE_SIZE) {
-    pages.push(records.slice(i, i + PAGE_SIZE));
+  const limit = PAGE_SIZE * MAX_PAGES;
+  const slice = records.slice(0, limit);
+  for (let i = 0; i < slice.length; i += PAGE_SIZE) {
+    pages.push(slice.slice(i, i + PAGE_SIZE));
   }
   return pages;
 }
