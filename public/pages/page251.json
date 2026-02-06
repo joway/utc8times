@@ -4,6 +4,51 @@
   "totalPages": 1641,
   "items": [
     {
+      "id": "27654",
+      "title": "Kafka 不确认导致重复消费的问题",
+      "link": "https://blog.cugxuan.cn/2025/04/30/kafka/kafka-repeat-consume-due-to-no-ack/",
+      "rsslink": "https://blog.cugxuan.cn/atom.xml",
+      "blogname": "泫言",
+      "createdat": "2025-04-30T10:30:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "27653",
+      "title": "Golang database/sql 数据库断线自动重连机制解析",
+      "link": "https://liudon.com/posts/golang-database-sql-auto-reconnect-mechanism/",
+      "rsslink": "https://liudon.com/index.xml",
+      "blogname": "流动",
+      "createdat": "2025-04-30T09:37:23.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "27652",
+      "title": "浅谈 Rust 中如何把 Async Function 放在 HashMap 里",
+      "link": "https://blog.skyju.cc/post/rust-put-async-function-in-hashmap/",
+      "rsslink": "https://blog.skyju.cc/index.xml",
+      "blogname": "Terrarum::异世界丨居正博客",
+      "createdat": "2025-04-30T07:00:13.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "27651",
+      "title": "procrastinated单词终极指南：发音/中文解释/英文解释/词源/例句全解 | myxtea学英语",
+      "link": "https://blog.shyclouds.net/English/procrastinated-1.html",
+      "rsslink": "http://blog.shyclouds.net/feed/",
+      "blogname": "楚天乐的小站",
+      "createdat": "2025-04-29T21:04:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "27650",
+      "title": "今夜的风儿有些喧嚣",
+      "link": "https://jame.work/html/post/12",
+      "rsslink": "https://jame.work/feed.xml",
+      "blogname": "Jame",
+      "createdat": "2025-04-29T16:00:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
       "id": "27649",
       "title": "造物们",
       "link": "https://bestcoder.cn/%E9%80%A0%E7%89%A9",
@@ -136,51 +181,6 @@
       "rsslink": "http://yibie.github.io/index.xml",
       "blogname": "学无止境@一点一滴",
       "createdat": "2025-04-28T09:39:08.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "27634",
-      "title": "大逆不道 - 组装一台仅通过 WiFi 连接的 NAS",
-      "link": "https://changchen.me/blog/20250428/unraid_nas_wifi/",
-      "rsslink": "https://changchen.me/atom.xml",
-      "blogname": "Henry Z's blog",
-      "createdat": "2025-04-28T03:00:38.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "27633",
-      "title": "周报 #93 - 婚礼纪录片与失落的电影院",
-      "link": "https://www.pseudoyu.com/posts/weekly_review_93",
-      "rsslink": "https://www.pseudoyu.com/zh/index.xml",
-      "blogname": "Pseudoyu",
-      "createdat": "2025-04-28T02:22:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "27632",
-      "title": "[读后感]《亲密关系》之冲突",
-      "link": "https://changchen.me/blog/20250428/relationship_conflict/",
-      "rsslink": "https://changchen.me/atom.xml",
-      "blogname": "Henry Z's blog",
-      "createdat": "2025-04-28T00:21:49.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "27630",
-      "title": "LLM数据泄露风险研究系列（三）：基于LLM应用的攻击面分析",
-      "link": "https://puming.zone/post/2025-04-28-llm%E6%95%B0%E6%8D%AE%E6%B3%84%E9%9C%B2%E9%A3%8E%E9%99%A9%E7%A0%94%E7%A9%B6%E7%B3%BB%E5%88%97%E4%B8%89%E5%9F%BA%E4%BA%8Ellm%E5%BA%94%E7%94%A8%E7%9A%84%E6%94%BB%E5%87%BB%E9%9D%A2%E5%88%86%E6%9E%90-copy/",
-      "rsslink": "https://puming.zone/index.xml",
-      "blogname": "浦明的博客",
-      "createdat": "2025-04-28T00:00:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "27631",
-      "title": "2025年17周",
-      "link": "https://whyya.xyz/posts/20250428/",
-      "rsslink": "https://whyya.xyz/rss.xml",
-      "blogname": "小陶持续精进",
-      "createdat": "2025-04-28T00:00:00.000Z",
       "crawledat": "2026-02-03T12:40:15.422Z"
     }
   ]

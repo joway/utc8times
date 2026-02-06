@@ -4,6 +4,51 @@
   "totalPages": 1641,
   "items": [
     {
+      "id": "29199",
+      "title": "ARM 公版核微架构演进",
+      "link": "https://jia.je/hardware/2025/09/10/arm-core-development/",
+      "rsslink": "https://jia.je/feed.xml",
+      "blogname": "杰哥的小笔记",
+      "createdat": "2025-09-10T00:00:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "29200",
+      "title": "Dokploy安装和部署项目流程",
+      "link": "https://haydenbi.com/posts/Dokploy-install-deploy",
+      "rsslink": "https://haydenbi.com/feed.xml",
+      "blogname": "HaydenBi",
+      "createdat": "2025-09-10T00:00:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "29195",
+      "title": "几种通过 FFmpeg 无损压缩视频的方法",
+      "link": "https://dusays.com/archives/826/",
+      "rsslink": "https://dusays.com/atom.xml",
+      "blogname": "杜老师说",
+      "createdat": "2025-09-09T16:00:00.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "29194",
+      "title": "预防和消灭技术债：Maven CI 如何在编译时禁止调用某些特定 API",
+      "link": "https://www.xlabs.club/blog/ci-maven-forbidden-api/",
+      "rsslink": "https://www.xlabs.club/index.xml",
+      "blogname": "卫星实验室",
+      "createdat": "2025-09-09T14:18:59.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
+      "id": "29193",
+      "title": "Seq2Seq模型与encoder-decoder架构(附代码实现一个小小demo)",
+      "link": "https://blog.xlonglong.cn/encoder-decoder/",
+      "rsslink": "https://blog.xlonglong.cn/feed/",
+      "blogname": "Longlong's Blog",
+      "createdat": "2025-09-09T13:35:11.000Z",
+      "crawledat": "2026-02-03T12:40:15.422Z"
+    },
+    {
       "id": "29192",
       "title": "在命令行 ssh 时按 <kbd>TAB</kbd> 自动补全主机名",
       "link": "https://blog.baicai.me/article/2025/zsh_tab/",
@@ -137,51 +182,6 @@
       "blogname": "C0reFast记事本",
       "createdat": "2025-09-08T12:48:26.000Z",
       "crawledat": "2026-02-04T18:49:25.905Z"
-    },
-    {
-      "id": "29178",
-      "title": "周刊第19期: 一起学习 MCP",
-      "link": "https://hutusi.com/weeklies/19",
-      "rsslink": "https://hutusi.com/feed.xml",
-      "blogname": "胡涂说",
-      "createdat": "2025-09-08T12:35:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "29177",
-      "title": "从 Langchain 到 Spring AI，我们究竟需要怎么样一个企业级 AI 开发框架？",
-      "link": "http://www.phodal.com/blog/from-langchain-to-spring-ai/",
-      "rsslink": "https://www.phodal.com/blog/feeds/rss/",
-      "blogname": "全栈应用开发:精益实践",
-      "createdat": "2025-09-08T11:57:31.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "29176",
-      "title": "一段CSDN文章主要内容的油猴脚本",
-      "link": "https://f2h2h1.github.io/article/一段CSDN文章主要内容的油猴脚本.html",
-      "rsslink": "https://f2h2h1.github.io/rss.xml",
-      "blogname": "f2h2h1's blog",
-      "createdat": "2025-09-08T10:17:14.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "29175",
-      "title": "周报 Vol.29 - 浪浪山小妖怪",
-      "link": "https://blog.gentlelucky.com/zh/2025/09/08/weekly_review_20250907/",
-      "rsslink": "https://blog.gentlelucky.com/zh/index.xml",
-      "blogname": "gentlelucky",
-      "createdat": "2025-09-08T08:55:00.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
-    },
-    {
-      "id": "29174",
-      "title": "复习 CSS Flex 和 Grid 布局",
-      "link": "https://ssshooter.com/css-flex-and-grid/",
-      "rsslink": "https://ssshooter.com/rss.xml",
-      "blogname": "UsubeniFantasy",
-      "createdat": "2025-09-08T06:46:56.000Z",
-      "crawledat": "2026-02-03T12:40:15.422Z"
     }
   ]
 }
