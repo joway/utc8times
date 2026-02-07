@@ -4,6 +4,69 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "30079",
+      "title": "上手：五块钱的目村眼镜",
+      "link": "https://www.krjojo.com/12734.html",
+      "rsslink": "https://www.krjojo.com/feed",
+      "blogname": "手里有只毛毛虫",
+      "createdat": "2026-01-05T12:55:16.000Z",
+      "crawledat": "2026-02-06T02:13:26.258Z"
+    },
+    {
+      "id": "30078",
+      "title": "记一次装机没有一次点亮的排查过程",
+      "link": "https://paugram.com/tech/first-boot-failure-troubleshooting-after-pc-assembly.html",
+      "rsslink": "https://paugram.com/feed",
+      "blogname": "保罗的小宇宙",
+      "createdat": "2026-01-05T10:18:00.000Z",
+      "crawledat": "2026-02-06T02:13:26.258Z"
+    },
+    {
+      "id": "30077",
+      "title": "OpenKruise Agents - An open-source ops and resource suite that builds hibernatable AI agent …",
+      "link": "https://jimmysong.io/ai/openkruise-agents/",
+      "rsslink": "https://jimmysong.io/index.xml",
+      "blogname": "云原生",
+      "createdat": "2026-01-05T10:02:52.000Z",
+      "crawledat": "2026-02-06T02:13:26.258Z"
+    },
+    {
+      "id": "30076",
+      "title": "部署 Obsidian LiveSync 实时同步服务指南",
+      "link": "https://blog.dejavu.moe/posts/selfhosting-obsidian-livesync-service-guide/",
+      "rsslink": "https://blog.dejavu.moe/index.xml",
+      "blogname": "Dejavu's Blog",
+      "createdat": "2026-01-05T09:56:59.000Z",
+      "crawledat": "2026-02-06T02:13:26.258Z"
+    },
+    {
+      "id": "30075",
+      "title": "claude-code-tools - A collection of productivity tools and plugins for Claude Code, Codex-CLI, and …",
+      "link": "https://jimmysong.io/ai/claude-code-tools/",
+      "rsslink": "https://jimmysong.io/index.xml",
+      "blogname": "云原生",
+      "createdat": "2026-01-05T08:46:44.000Z",
+      "crawledat": "2026-02-06T02:13:26.258Z"
+    },
+    {
+      "id": "30074",
+      "title": "Awesome Claude Code Subagents - A VoltAgent community-maintained collection of Claude Code subagents, with …",
+      "link": "https://jimmysong.io/ai/claude-code-subagents/",
+      "rsslink": "https://jimmysong.io/index.xml",
+      "blogname": "云原生",
+      "createdat": "2026-01-05T08:43:30.000Z",
+      "crawledat": "2026-02-06T02:13:26.258Z"
+    },
+    {
+      "id": "30073",
+      "title": "Worktrunk - A developer-focused CLI that simplifies Git worktree workflows for parallel …",
+      "link": "https://jimmysong.io/ai/worktrunk/",
+      "rsslink": "https://jimmysong.io/index.xml",
+      "blogname": "云原生",
+      "createdat": "2026-01-05T08:41:52.000Z",
+      "crawledat": "2026-02-06T02:13:26.258Z"
+    },
+    {
       "id": "30072",
       "title": "学会使用CSSStyleSheet构造CSS样式",
       "link": "https://www.zhangxinxu.com/wordpress/2026/01/dom-cssstylesheet/",
@@ -118,69 +181,6 @@
       "rsslink": "https://afoo.me/feeds.xml",
       "blogname": "福强说 一个架构士的思考与沉淀",
       "createdat": "2026-01-04T16:00:00.000Z",
-      "crawledat": "2026-02-06T02:13:26.258Z"
-    },
-    {
-      "id": "30061",
-      "title": "广东自驾游之粤西篇",
-      "link": "https://elmagnifico.tech/2026/01/05/Guangdong-Self-driving-Travel3/",
-      "rsslink": "http://elmagnifico.tech/feed.xml",
-      "blogname": "elmagnifico",
-      "createdat": "2026-01-04T16:00:00.000Z",
-      "crawledat": "2026-02-06T02:13:26.258Z"
-    },
-    {
-      "id": "30058",
-      "title": "这一年我没能成为超级个体，但我熬过了最难的时光",
-      "link": "https://whyya.xyz/posts/20260104-survived-the-hardest-year-without-becoming-super-individual/",
-      "rsslink": "https://whyya.xyz/rss.xml",
-      "blogname": "小陶持续精进",
-      "createdat": "2026-01-04T15:53:05.000Z",
-      "crawledat": "2026-02-06T02:13:26.258Z"
-    },
-    {
-      "id": "30056",
-      "title": "Introduction to My Home Network",
-      "link": "https://www.bboy.app/2026/01/04/introduction-to-my-home-network/",
-      "rsslink": "https://www.bboy.app/atom.xml",
-      "blogname": "bboysoul的博客",
-      "createdat": "2026-01-04T15:24:00.000Z",
-      "crawledat": "2026-02-06T02:13:26.258Z"
-    },
-    {
-      "id": "30057",
-      "title": "介绍一下我家的网络",
-      "link": "https://www.bboy.app/2026/01/04/%E4%BB%8B%E7%BB%8D%E4%B8%80%E4%B8%8B%E6%88%91%E5%AE%B6%E7%9A%84%E7%BD%91%E7%BB%9C/",
-      "rsslink": "https://www.bboy.app/atom.xml",
-      "blogname": "bboysoul的博客",
-      "createdat": "2026-01-04T15:24:00.000Z",
-      "crawledat": "2026-02-06T02:13:26.258Z"
-    },
-    {
-      "id": "30055",
-      "title": "Things I Know in 2025",
-      "link": "https://maxoxo.me/things-i-know-in-2025/",
-      "rsslink": "https://maxoxo.me/rss/",
-      "blogname": "maxOS",
-      "createdat": "2026-01-04T15:17:07.000Z",
-      "crawledat": "2026-02-06T02:13:26.258Z"
-    },
-    {
-      "id": "30054",
-      "title": "LangGraph 机制深度解析与Agent模式设计",
-      "link": "https://www.edony.ink/deep-insight-of-langgraph-and-bsp-model-in-agent-developing/",
-      "rsslink": "https://www.edony.ink/rss/",
-      "blogname": "Shadow Walker 松烟阁",
-      "createdat": "2026-01-04T15:13:13.000Z",
-      "crawledat": "2026-02-06T02:13:26.258Z"
-    },
-    {
-      "id": "30053",
-      "title": "世界的底色是争，抢，偷",
-      "link": "https://www.wsh233.cn/post/世界的底色是争抢偷",
-      "rsslink": "https://www.wsh233.cn/feed.xml",
-      "blogname": "WSH",
-      "createdat": "2026-01-04T14:38:15.000Z",
       "crawledat": "2026-02-06T02:13:26.258Z"
     }
   ]
