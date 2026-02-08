@@ -4,6 +4,24 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "35083",
+      "title": "浅析下mysql的索引的基数与可选择性",
+      "link": "https://nicksxs.me/2026/02/08/%E6%B5%85%E6%9E%90%E4%B8%8Bmysql%E7%9A%84%E7%B4%A2%E5%BC%95%E7%9A%84%E5%9F%BA%E6%95%B0%E4%B8%8E%E5%8F%AF%E9%80%89%E6%8B%A9%E6%80%A7/",
+      "rsslink": "https://nicksxs.me/atom.xml",
+      "blogname": "Nicksxs's Blog",
+      "createdat": "2026-02-08T12:56:37.000Z",
+      "crawledat": "2026-02-08T15:25:00.280Z"
+    },
+    {
+      "id": "35049",
+      "title": "AI Learning Resources: 44 Curated Collections from Our Cleanup",
+      "link": "https://jimmysong.io/blog/ultimate-ai-learning-resources/",
+      "rsslink": "https://jimmysong.io/index.xml",
+      "blogname": "云原生",
+      "createdat": "2026-02-08T12:20:05.000Z",
+      "crawledat": "2026-02-08T15:25:00.280Z"
+    },
+    {
       "id": "35045",
       "title": "复习 DOM 事件机制",
       "link": "https://ssshooter.com/dom-event/",
@@ -20,6 +38,15 @@
       "blogname": "Lei Mao's Log Book",
       "createdat": "2026-02-08T08:00:00.000Z",
       "crawledat": "2026-02-08T02:28:00.237Z"
+    },
+    {
+      "id": "35050",
+      "title": "Standing on Giants' Shoulders: The Traditional Infrastructure Powering Modern AI",
+      "link": "https://jimmysong.io/blog/giants-beneath-ai-feet/",
+      "rsslink": "https://jimmysong.io/index.xml",
+      "blogname": "云原生",
+      "createdat": "2026-02-08T08:00:00.000Z",
+      "crawledat": "2026-02-08T15:25:00.280Z"
     },
     {
       "id": "35043",
@@ -155,33 +182,6 @@
       "blogname": "浮云翩迁之间",
       "createdat": "2026-02-07T05:38:50.000Z",
       "crawledat": "2026-02-07T21:25:48.248Z"
-    },
-    {
-      "id": "31174",
-      "title": "读《那片血一般红的杜鹃花》",
-      "link": "https://cytrogen.icu/posts/9027.html",
-      "rsslink": "https://cytrogen.icu/atom.xml",
-      "blogname": "万圣节恶魔的领地",
-      "createdat": "2026-02-07T05:00:00.000Z",
-      "crawledat": "2026-02-08T02:28:00.237Z"
-    },
-    {
-      "id": "33216",
-      "title": "闪灵让我恐怖的是什么？",
-      "link": "https://demochen.com/posts/20260207/",
-      "rsslink": "https://www.demochen.com/atom.xml",
-      "blogname": "特立独行的异类",
-      "createdat": "2026-02-07T03:11:05.000Z",
-      "crawledat": "2026-02-08T02:28:00.237Z"
-    },
-    {
-      "id": "31038",
-      "title": "Monty - A minimal, secure Python interpreter written in Rust for safely executing …",
-      "link": "https://jimmysong.io/ai/monty/",
-      "rsslink": "https://jimmysong.io/index.xml",
-      "blogname": "云原生",
-      "createdat": "2026-02-07T02:39:14.000Z",
-      "crawledat": "2026-02-07T04:27:17.041Z"
     }
   ]
 }
