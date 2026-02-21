@@ -4,6 +4,60 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "30982",
+      "title": "科技爱好者周刊（第 384 期）：为什么软件股下跌",
+      "link": "http://www.ruanyifeng.com/blog/2026/02/weekly-issue-384.html",
+      "rsslink": "http://feeds.feedburner.com/ruanyifeng",
+      "blogname": "阮一峰的网络日志",
+      "createdat": "2026-02-06T00:14:20.000Z",
+      "crawledat": "2026-02-06T04:46:07.127Z"
+    },
+    {
+      "id": "30824",
+      "title": "",
+      "link": "https://josherich.me/2025-08-21-the-engineering-state-and-the-lawyerly-society-dan-wang-on-his-new-book-breakneck",
+      "rsslink": "https://www.josherich.me/feed.xml",
+      "blogname": "Josherich的博客",
+      "createdat": "2026-02-06T00:03:57.000Z",
+      "crawledat": "2026-02-06T02:13:26.258Z"
+    },
+    {
+      "id": "31316",
+      "title": "OpenClaw 实测：Cloudflare Worker 部署教程与体验",
+      "link": "https://newzone.top/posts/2026-02-06-openclaw.html",
+      "rsslink": "https://newzone.top/rss.xml",
+      "blogname": "LearnData 开源笔记",
+      "createdat": "2026-02-06T00:00:00.000Z",
+      "crawledat": "2026-02-08T02:28:00.237Z"
+    },
+    {
+      "id": "30823",
+      "title": "学习周刊-总第249期-2026年第06周",
+      "link": "https://wiki.eryajf.net/pages/ddc309/",
+      "rsslink": "https://wiki.eryajf.net/rss.xml",
+      "blogname": "二丫讲梵",
+      "createdat": "2026-02-05T21:49:54.000Z",
+      "crawledat": "2026-02-06T02:13:26.258Z"
+    },
+    {
+      "id": "30822",
+      "title": "A Script to Crash Halo CMS Comment Backend",
+      "link": "https://howiehz.top/archives/halo-comment-payload-tweaker-en",
+      "rsslink": "https://howiehz.top/rss.xml",
+      "blogname": "皓子的小站",
+      "createdat": "2026-02-05T20:20:00.000Z",
+      "crawledat": "2026-02-06T02:13:26.258Z"
+    },
+    {
+      "id": "34990",
+      "title": "Memos: 刚听说 autojump, 真的好用",
+      "link": "https://blog.yasking.org/a/1770358727.html",
+      "rsslink": "https://blog.yasking.org/atom.xml",
+      "blogname": "东东's Blog",
+      "createdat": "2026-02-05T20:19:00.000Z",
+      "crawledat": "2026-02-08T02:28:00.237Z"
+    },
+    {
       "id": "30821",
       "title": "从edgeone迁移到esa",
       "link": "https://xingwangzhe.fun/posts/mv-edgeone-to-esa/",
@@ -127,60 +181,6 @@
       "rsslink": "https://changchen.me/atom.xml",
       "blogname": "Henry Z's blog",
       "createdat": "2026-02-05T07:08:57.000Z",
-      "crawledat": "2026-02-06T02:13:26.258Z"
-    },
-    {
-      "id": "31034",
-      "title": "梅落冬寒，愛鎖重城。",
-      "link": "https://shinekid.com/2026/02/plum-blossoms-in-winter-city/",
-      "rsslink": "https://shinekid.com/feed/",
-      "blogname": "ShineKid",
-      "createdat": "2026-02-05T07:08:36.000Z",
-      "crawledat": "2026-02-07T01:54:47.707Z"
-    },
-    {
-      "id": "30811",
-      "title": "如何让neovim 集成 jupyter",
-      "link": "https://styunlen.cn/archives/post-1711.html",
-      "rsslink": "https://styunlen.cn/feed",
-      "blogname": "九仞之行",
-      "createdat": "2026-02-05T04:28:33.000Z",
-      "crawledat": "2026-02-06T02:13:26.258Z"
-    },
-    {
-      "id": "30810",
-      "title": "平台工程视角下的 AI 应用架构治理",
-      "link": "http://www.phodal.com/blog/platform-engineering-architecture-governance/",
-      "rsslink": "https://www.phodal.com/blog/feeds/rss/",
-      "blogname": "全栈应用开发:精益实践",
-      "createdat": "2026-02-05T03:39:00.000Z",
-      "crawledat": "2026-02-06T02:13:26.258Z"
-    },
-    {
-      "id": "30809",
-      "title": "Memos: 体验 OpenCode + Superpowers + GPT 5.2 开发需求",
-      "link": "https://blog.yasking.org/a/1770255240.html",
-      "rsslink": "https://blog.yasking.org/atom.xml",
-      "blogname": "东东's Blog",
-      "createdat": "2026-02-05T01:34:00.000Z",
-      "crawledat": "2026-02-06T02:13:26.258Z"
-    },
-    {
-      "id": "30807",
-      "title": "CSAPP Cache Lab II: Optimizing Matrix Transposition",
-      "link": "https://blog.aeilot.top/2026/02/04/csapp-cache-lab-2/",
-      "rsslink": "https://blog.aeilot.top/index.xml",
-      "blogname": "Louis Aeilot's Blog",
-      "createdat": "2026-02-05T00:00:00.000Z",
-      "crawledat": "2026-02-06T02:13:26.258Z"
-    },
-    {
-      "id": "30808",
-      "title": "Termux在Proot内播放音频文件的问题",
-      "link": "https://afingpo.top/posts/termux_proot_audio_bug/",
-      "rsslink": "https://blog.afingpo.top/rss.xml",
-      "blogname": "涵哲子居",
-      "createdat": "2026-02-05T00:00:00.000Z",
       "crawledat": "2026-02-06T02:13:26.258Z"
     }
   ]
