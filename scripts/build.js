@@ -45,11 +45,11 @@ const ARTICLE_LINK_BLACKLIST = [
   // "https://example.com/bad-article",
 ];
 const EXTRA_SOURCES = [
-  // {
-  //   rsslink: "https://example.com/feed.xml",
-  //   blogname: "Example Blog",
-  //   homepage: "https://example.com",
-  // },
+  {
+    rsslink: "https://blog.mistivia.com/index.xml",
+    blogname: "Mistivia's Blog",
+    homepage: "https://blog.mistivia.com",
+  },
 ];
 const RSS_DOMAIN_BLACKLIST = [
   "lukefan.com",
