@@ -50,6 +50,11 @@ const EXTRA_SOURCES = [
     blogname: "Mistivia's Blog",
     homepage: "https://blog.mistivia.com",
   },
+  {
+    rsslink: "https://blog.inoki.cc/atom.xml",
+    blogname: "Inoki in the world",
+    homepage: "https://blog.inoki.cc",
+  },
 ];
 const RSS_DOMAIN_BLACKLIST = [
   "lukefan.com",
