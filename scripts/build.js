@@ -71,6 +71,7 @@ const RSS_DOMAIN_BLACKLIST = [
   "zelikk.blogspot.com",
   "51.ruyo.net",
   "shinekid.com",
+  "rowkey.cn",
 ];
 
 const isDryRun = process.argv.includes("--dry-run");
