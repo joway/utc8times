@@ -64,7 +64,7 @@ function renderItem(item) {
 
   const date = document.createElement("div");
   date.className = "item-date";
-  date.textContent = formatDate(item.createdat);
+  date.textContent = formatDate(item.crawledat || item.createdat);
 
   row.appendChild(blog);
   row.appendChild(title);
