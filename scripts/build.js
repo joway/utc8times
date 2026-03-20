@@ -55,12 +55,18 @@ const EXTRA_SOURCES = [
     blogname: "Inoki in the world",
     homepage: "https://blog.inoki.cc",
   },
-    {
+  {
     rsslink: "http://idle.systems/atom.xml",
     blogname: "Idle Systems",
     homepage: "http://idle.systems",
   },
+  {
+    rsslink: "https://blog.youxu.info/feed.xml",
+    blogname: "4G Spaces",
+    homepage: "https://blog.youxu.info",
+  }
 ];
+
 const RSS_DOMAIN_BLACKLIST = [
   "lukefan.com",
   "www.yystv.cn",
