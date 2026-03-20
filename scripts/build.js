@@ -459,16 +459,16 @@ async function writeDb(records) {
 
 function sortByLatest(records) {
   return [...records].sort((a, b) => {
-    const dateA = parseDate(a.crawledat) || parseDate(a.createdat) || new Date(0);
-    const dateB = parseDate(b.crawledat) || parseDate(b.createdat) || new Date(0);
+    const dateA = parseDate(a.createdat) || parseDate(a.crawledat) || new Date(0);
+    const dateB = parseDate(b.createdat) || parseDate(b.crawledat) || new Date(0);
     return dateB.getTime() - dateA.getTime();
   });
 }
 
 function sortByOldest(records) {
   return [...records].sort((a, b) => {
-    const dateA = parseDate(a.crawledat) || parseDate(a.createdat) || new Date(0);
-    const dateB = parseDate(b.crawledat) || parseDate(b.createdat) || new Date(0);
+    const dateA = parseDate(a.createdat) || parseDate(a.crawledat) || new Date(0);
+    const dateB = parseDate(b.createdat) || parseDate(b.crawledat) || new Date(0);
     return dateA.getTime() - dateB.getTime();
   });
 }
