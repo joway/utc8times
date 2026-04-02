@@ -4,6 +4,69 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "38789",
+      "title": "Gstack 深度解析：YC CEO 开源的 AI 工程团队",
+      "link": "https://zxs.io/article/2174",
+      "rsslink": "https://zxs.io/feed",
+      "blogname": "XINDOO的博客",
+      "createdat": "2026-03-29T01:30:46.000Z",
+      "crawledat": "2026-04-02T10:01:05.161Z"
+    },
+    {
+      "id": "38678",
+      "title": "AI 时代的生产力和生产关系 (Forces and Relations of Production in AI Era)",
+      "link": "https://leovan.me/cn/2026/03/forces-and-relations-of-production-in-ai-era/",
+      "rsslink": "https://leovan.me/cn/index.xml",
+      "blogname": "范叶亮的博客",
+      "createdat": "2026-03-29T00:00:00.000Z",
+      "crawledat": "2026-03-29T18:40:25.529Z"
+    },
+    {
+      "id": "38685",
+      "title": "Weekly Issue-《我们如何理解这个世界》",
+      "link": "https://zdyxry.github.io/2026/03/29/Weekly-Issue-Conversations-with-Zygmunt-Bauman/",
+      "rsslink": "https://zdyxry.github.io/atom.xml",
+      "blogname": "Yiran's Blog",
+      "createdat": "2026-03-29T00:00:00.000Z",
+      "crawledat": "2026-03-30T18:57:55.942Z"
+    },
+    {
+      "id": "38735",
+      "title": "Demystifying Softmax Loss: A Step-by-Step Derivation for Linear Classifiers",
+      "link": "https://blog.aeilot.top/2026/03/29/softmax-math/",
+      "rsslink": "https://blog.aeilot.top/index.xml",
+      "blogname": "Louis Aeilot's Blog",
+      "createdat": "2026-03-28T23:45:09.000Z",
+      "crawledat": "2026-04-02T10:01:05.161Z"
+    },
+    {
+      "id": "38692",
+      "title": "一个故事",
+      "link": "https://www.justzht.com/a-story/",
+      "rsslink": "https://www.justzht.com/rss/",
+      "blogname": "JustZht",
+      "createdat": "2026-03-28T20:56:39.000Z",
+      "crawledat": "2026-03-31T21:37:39.564Z"
+    },
+    {
+      "id": "38674",
+      "title": "The Porsche Diffusion",
+      "link": "https://blog.est.im/2026/stdin-09",
+      "rsslink": "http://feeds.feedburner.com/initiative",
+      "blogname": "Est's Blog",
+      "createdat": "2026-03-28T16:27:00.000Z",
+      "crawledat": "2026-03-28T18:38:49.056Z"
+    },
+    {
+      "id": "38673",
+      "title": "大家好，我是小羽养的龙虾",
+      "link": "https://blog.debuginn.com/p/lobster-ai/",
+      "rsslink": "https://blog.debuginn.com/index.xml",
+      "blogname": "Debug客栈",
+      "createdat": "2026-03-28T03:28:00.000Z",
+      "crawledat": "2026-03-28T04:51:21.066Z"
+    },
+    {
       "id": "38675",
       "title": "我是如何构建一个 AI 原生量化系统的",
       "link": "https://www.bmpi.dev/dev/ai-native-investment-system/",
@@ -29,6 +92,15 @@
       "blogname": "陈少文的博客",
       "createdat": "2026-03-28T00:00:00.000Z",
       "crawledat": "2026-04-02T10:01:05.161Z"
+    },
+    {
+      "id": "38803",
+      "title": "Open Claw(🦞龙虾): 新手最常踩的 8 个坑，我帮你踩过了",
+      "link": "https://heyuanfei.com/post/2026-03-28-openclaw-keng/",
+      "rsslink": "https://leonhe.cn/index.xml",
+      "blogname": "远飞闲记",
+      "createdat": "2026-03-28T00:00:00.000Z",
+      "crawledat": "2026-04-02T18:55:14.311Z"
     },
     {
       "id": "38656",
@@ -110,78 +182,6 @@
       "blogname": "@Lenciel",
       "createdat": "2026-03-27T14:06:06.000Z",
       "crawledat": "2026-03-27T18:54:14.275Z"
-    },
-    {
-      "id": "38654",
-      "title": "当前的AI工程化本质上是受限于上下文长度而采用的「以提示词约束去置换确定性」的一种妥协。",
-      "link": "https://zhurongshuo.com/posts/2026/03/2701/",
-      "rsslink": "https://zhurongshuo.com/index.xml",
-      "blogname": "祝融说",
-      "createdat": "2026-03-27T07:49:08.000Z",
-      "crawledat": "2026-03-27T18:54:14.275Z"
-    },
-    {
-      "id": "38661",
-      "title": "浮躁的科研和胡扯的自媒体",
-      "link": "https://leimao.github.io/essay/%E6%B5%AE%E8%BA%81%E7%9A%84%E7%A7%91%E7%A0%94%E5%92%8C%E8%83%A1%E6%89%AF%E7%9A%84%E8%87%AA%E5%AA%92%E4%BD%93/",
-      "rsslink": "https://leimao.github.io/atom.xml",
-      "blogname": "Lei Mao's Log Book",
-      "createdat": "2026-03-27T07:00:00.000Z",
-      "crawledat": "2026-03-27T18:54:14.275Z"
-    },
-    {
-      "id": "38669",
-      "title": "关于123云盘在线解析配合nfdproxy绕过IP限制的方法",
-      "link": "https://blog.qaiu.top/archives/123parser",
-      "rsslink": "https://blog.qaiu.top/rss.xml",
-      "blogname": "QAIU's Blog",
-      "createdat": "2026-03-26T22:25:07.000Z",
-      "crawledat": "2026-03-27T18:54:14.275Z"
-    },
-    {
-      "id": "38633",
-      "title": "科技爱好者周刊（第 390 期）：没有语料，大模型就是智障",
-      "link": "http://www.ruanyifeng.com/blog/2026/03/weekly-issue-390.html",
-      "rsslink": "http://feeds.feedburner.com/ruanyifeng",
-      "blogname": "阮一峰的网络日志",
-      "createdat": "2026-03-26T21:49:12.000Z",
-      "crawledat": "2026-03-27T02:12:12.654Z"
-    },
-    {
-      "id": "38632",
-      "title": "学习周刊-总第256期-2026年第13周",
-      "link": "https://wiki.eryajf.net/pages/f71cfa/",
-      "rsslink": "https://wiki.eryajf.net/rss.xml",
-      "blogname": "二丫讲梵",
-      "createdat": "2026-03-26T21:32:25.000Z",
-      "crawledat": "2026-03-26T21:30:30.585Z"
-    },
-    {
-      "id": "38631",
-      "title": "Thoughts On AI In Early 2026 (2)",
-      "link": "https://lenciel.com/2026/03/thoughts-on-ai-in-early-2026-part-2/",
-      "rsslink": "https://lenciel.com/feed.xml",
-      "blogname": "@Lenciel",
-      "createdat": "2026-03-26T14:30:57.000Z",
-      "crawledat": "2026-03-26T21:30:30.585Z"
-    },
-    {
-      "id": "38628",
-      "title": "20260321",
-      "link": "https://61.life/2026/0321",
-      "rsslink": "https://61.life/feed.xml",
-      "blogname": "61's life",
-      "createdat": "2026-03-26T14:23:58.000Z",
-      "crawledat": "2026-03-26T21:30:30.585Z"
-    },
-    {
-      "id": "38629",
-      "title": "20260320",
-      "link": "https://61.life/2026/0320",
-      "rsslink": "https://61.life/feed.xml",
-      "blogname": "61's life",
-      "createdat": "2026-03-26T12:35:34.000Z",
-      "crawledat": "2026-03-26T21:30:30.585Z"
     }
   ]
 }
