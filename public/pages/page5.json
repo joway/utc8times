@@ -4,6 +4,78 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "39534",
+      "title": "Cuckoo Hashing：最坏 O(1) 查找的优雅设计",
+      "link": "https://quant67.com/post/algorithms/08-cuckoo-hashing/cuckoo-hashing.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-06T00:00:00.000Z",
+      "crawledat": "2026-04-06T18:57:27.745Z"
+    },
+    {
+      "id": "39734",
+      "title": "_dreaming：OpenClaw 的记忆整理机制",
+      "link": "https://arminli.com/dreaming-openclaw-memory/",
+      "rsslink": "https://arminli.com/rss.xml",
+      "blogname": "INTJer",
+      "createdat": "2026-04-06T00:00:00.000Z",
+      "crawledat": "2026-04-07T05:08:15.368Z"
+    },
+    {
+      "id": "40167",
+      "title": "伙伴系统与 SLUB 分配器：Linux 物理内存管理的两层架构",
+      "link": "https://quant67.com/post/algorithms/55-buddy-slab/buddy-slab.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-06T00:00:00.000Z",
+      "crawledat": "2026-04-08T02:22:20.506Z"
+    },
+    {
+      "id": "40179",
+      "title": "epoll 的数据结构：红黑树、就绪队列与回调机制",
+      "link": "https://quant67.com/post/algorithms/57-epoll-internals/epoll-internals.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-06T00:00:00.000Z",
+      "crawledat": "2026-04-08T02:22:20.506Z"
+    },
+    {
+      "id": "40180",
+      "title": "定时器算法：时间轮、最小堆与层级时间轮",
+      "link": "https://quant67.com/post/algorithms/58-timer-algo/timer-algo.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-06T00:00:00.000Z",
+      "crawledat": "2026-04-08T02:22:20.506Z"
+    },
+    {
+      "id": "38845",
+      "title": "Retro of Q1 2026",
+      "link": "https://iphyer.github.io/blog/2026/04/05/retroQ12026/",
+      "rsslink": "https://iphyer.github.io/feed.xml",
+      "blogname": "桑弧蓬矢射四方",
+      "createdat": "2026-04-05T22:54:00.000Z",
+      "crawledat": "2026-04-06T15:44:21.839Z"
+    },
+    {
+      "id": "39727",
+      "title": "2026年，大概将会是最后一个人口保持在14亿以上的年份",
+      "link": "https://www.wsh233.cn/post/2026年大概将会是最后一个人口保持在14亿以上的年份",
+      "rsslink": "https://www.wsh233.cn/feed.xml",
+      "blogname": "WSH",
+      "createdat": "2026-04-05T18:33:35.000Z",
+      "crawledat": "2026-04-06T18:57:27.745Z"
+    },
+    {
+      "id": "38861",
+      "title": "26y：健康、AI行业变化与自我反思",
+      "link": "https://innei.in/notes/211",
+      "rsslink": "https://innei.ren/feed",
+      "blogname": "静かな森",
+      "createdat": "2026-04-05T17:29:22.000Z",
+      "crawledat": "2026-04-06T15:44:21.839Z"
+    },
+    {
       "id": "39000",
       "title": "How OpenClaw Hit 350K Stars in 4 Months",
       "link": "https://finisky.github.io/en/openclaw-why-viral/",
@@ -109,78 +181,6 @@
       "rsslink": "https://finisky.github.io/atom.xml",
       "blogname": "Finisky Garden",
       "createdat": "2026-04-05T12:50:42.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "39009",
-      "title": "Claude Code Fork子Agent的Prompt Cache共享机制",
-      "link": "https://finisky.github.io/claude-code-fork-cache/",
-      "rsslink": "https://finisky.github.io/atom.xml",
-      "blogname": "Finisky Garden",
-      "createdat": "2026-04-05T12:46:42.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "39010",
-      "title": "Context Compaction in Claude Code: A Five-Layer Cascade and the Art of Free Summaries",
-      "link": "https://finisky.github.io/en/claude-code-context-compaction/",
-      "rsslink": "https://finisky.github.io/atom.xml",
-      "blogname": "Finisky Garden",
-      "createdat": "2026-04-05T12:35:17.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "39011",
-      "title": "Claude Code 的上下文压缩:五层级联与免费摘要的艺术",
-      "link": "https://finisky.github.io/claude-code-context-compaction/",
-      "rsslink": "https://finisky.github.io/atom.xml",
-      "blogname": "Finisky Garden",
-      "createdat": "2026-04-05T12:31:17.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "39012",
-      "title": "How Claude Code Defends Against Bash Injection",
-      "link": "https://finisky.github.io/en/claude-code-bash-security/",
-      "rsslink": "https://finisky.github.io/atom.xml",
-      "blogname": "Finisky Garden",
-      "createdat": "2026-04-05T12:19:33.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "39623",
-      "title": "llama.cpp LLM时代核心引擎指南",
-      "link": "https://localfreedom.pages.dev/p/llama.cpp-llm%E6%97%B6%E4%BB%A3%E6%A0%B8%E5%BF%83%E5%BC%95%E6%93%8E%E6%8C%87%E5%8D%97/",
-      "rsslink": "https://localfreedom.pages.dev/index.xml",
-      "blogname": "局域自由",
-      "createdat": "2026-04-05T12:17:21.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "39013",
-      "title": "Claude Code 怎么防住 Bash 注入",
-      "link": "https://finisky.github.io/claude-code-bash-security/",
-      "rsslink": "https://finisky.github.io/atom.xml",
-      "blogname": "Finisky Garden",
-      "createdat": "2026-04-05T12:15:33.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "39014",
-      "title": "Inside Claude Code's YOLO Classifier",
-      "link": "https://finisky.github.io/en/claude-code-auto-mode-security/",
-      "rsslink": "https://finisky.github.io/atom.xml",
-      "blogname": "Finisky Garden",
-      "createdat": "2026-04-05T12:02:56.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "39015",
-      "title": "深入 Claude Code 的 YOLO Classifier",
-      "link": "https://finisky.github.io/claude-code-auto-mode-security/",
-      "rsslink": "https://finisky.github.io/atom.xml",
-      "blogname": "Finisky Garden",
-      "createdat": "2026-04-05T11:58:56.000Z",
       "crawledat": "2026-04-06T18:57:27.745Z"
     }
   ]

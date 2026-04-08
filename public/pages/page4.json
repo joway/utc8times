@@ -4,6 +4,78 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "39639",
+      "title": "玩魔方",
+      "link": "https://kaffa.im/play-rubik-cube.html",
+      "rsslink": "https://kaffa.im/feeds/all.atom.xml",
+      "blogname": "Kaffa",
+      "createdat": "2026-04-06T14:55:00.000Z",
+      "crawledat": "2026-04-06T18:57:27.745Z"
+    },
+    {
+      "id": "39596",
+      "title": "OpenClaw 2026.4.5 Telegram 和飞书无法回复问题的修复指南",
+      "link": "https://www.wangdu.site/course/2332.html",
+      "rsslink": "https://www.wangdu.site/feed",
+      "blogname": "文武科技柜",
+      "createdat": "2026-04-06T14:49:19.000Z",
+      "crawledat": "2026-04-06T18:57:27.745Z"
+    },
+    {
+      "id": "39747",
+      "title": "关于蓝光刻录的一些调查",
+      "link": "https://blog.heysh.xyz/2026/04/06/info-about-bluray-r/",
+      "rsslink": "https://blog.heysh.xyz/feed.xml",
+      "blogname": "贺叶霜的树",
+      "createdat": "2026-04-06T14:14:46.000Z",
+      "crawledat": "2026-04-07T16:09:01.862Z"
+    },
+    {
+      "id": "39684",
+      "title": "苹果的罕见妥协：当高危漏洞遇上“拒升”潮 - 肘子的 Swift 周报 #130",
+      "link": "https://fatbobman.com/zh/weekly/issue-130/",
+      "rsslink": "https://fatbobman.com/zh/rss.xml",
+      "blogname": "肘子的 Swift 记事本",
+      "createdat": "2026-04-06T14:00:00.000Z",
+      "crawledat": "2026-04-06T18:57:27.745Z"
+    },
+    {
+      "id": "38899",
+      "title": "AI Hasn’t Rebuilt the Organization Yet. Anxiety Rebuilt Management First",
+      "link": "https://www.edony.ink/en/ai-hasnt-rebuilt-the-organization-yet-anxiety-rebuilt-management-first/",
+      "rsslink": "https://www.edony.ink/rss/",
+      "blogname": "Shadow Walker 松烟阁",
+      "createdat": "2026-04-06T11:30:51.000Z",
+      "crawledat": "2026-04-06T18:57:27.745Z"
+    },
+    {
+      "id": "39056",
+      "title": "Baby Anti-Spam 自建反垃圾评论系统",
+      "link": "https://zhongxiaojie.cn/2026/04/798/",
+      "rsslink": "https://h4ck.org.cn/feed/",
+      "blogname": "obaby@mars",
+      "createdat": "2026-04-06T10:05:11.000Z",
+      "crawledat": "2026-04-06T18:57:27.745Z"
+    },
+    {
+      "id": "39518",
+      "title": "久违的本社之行",
+      "link": "https://shuiba.co/return-to-head-office",
+      "rsslink": "https://shuiba.co/feed",
+      "blogname": "Shuibaco • 水八口",
+      "createdat": "2026-04-06T09:45:00.000Z",
+      "crawledat": "2026-04-06T18:57:27.745Z"
+    },
+    {
+      "id": "38858",
+      "title": "观后：《忘梦洞》",
+      "link": "https://z.arlmy.me/posts/Review/Review_CaveOfForgottenDreams/",
+      "rsslink": "http://z.arlmy.me/atom.xml",
+      "blogname": "素生",
+      "createdat": "2026-04-06T08:57:14.000Z",
+      "crawledat": "2026-04-06T15:44:21.839Z"
+    },
+    {
       "id": "38859",
       "title": "最近惦念 20260322",
       "link": "https://z.arlmy.me/posts/TILs/thoughts/20260322_Recently/",
@@ -110,78 +182,6 @@
       "blogname": "土法炼钢兴趣小组的博客",
       "createdat": "2026-04-06T00:00:00.000Z",
       "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "39534",
-      "title": "Cuckoo Hashing：最坏 O(1) 查找的优雅设计",
-      "link": "https://quant67.com/post/algorithms/08-cuckoo-hashing/cuckoo-hashing.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-06T00:00:00.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "39734",
-      "title": "_dreaming：OpenClaw 的记忆整理机制",
-      "link": "https://arminli.com/dreaming-openclaw-memory/",
-      "rsslink": "https://arminli.com/rss.xml",
-      "blogname": "INTJer",
-      "createdat": "2026-04-06T00:00:00.000Z",
-      "crawledat": "2026-04-07T05:08:15.368Z"
-    },
-    {
-      "id": "40167",
-      "title": "伙伴系统与 SLUB 分配器：Linux 物理内存管理的两层架构",
-      "link": "https://quant67.com/post/algorithms/55-buddy-slab/buddy-slab.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-06T00:00:00.000Z",
-      "crawledat": "2026-04-08T02:22:20.506Z"
-    },
-    {
-      "id": "40179",
-      "title": "epoll 的数据结构：红黑树、就绪队列与回调机制",
-      "link": "https://quant67.com/post/algorithms/57-epoll-internals/epoll-internals.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-06T00:00:00.000Z",
-      "crawledat": "2026-04-08T02:22:20.506Z"
-    },
-    {
-      "id": "40180",
-      "title": "定时器算法：时间轮、最小堆与层级时间轮",
-      "link": "https://quant67.com/post/algorithms/58-timer-algo/timer-algo.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-06T00:00:00.000Z",
-      "crawledat": "2026-04-08T02:22:20.506Z"
-    },
-    {
-      "id": "38845",
-      "title": "Retro of Q1 2026",
-      "link": "https://iphyer.github.io/blog/2026/04/05/retroQ12026/",
-      "rsslink": "https://iphyer.github.io/feed.xml",
-      "blogname": "桑弧蓬矢射四方",
-      "createdat": "2026-04-05T22:54:00.000Z",
-      "crawledat": "2026-04-06T15:44:21.839Z"
-    },
-    {
-      "id": "39727",
-      "title": "2026年，大概将会是最后一个人口保持在14亿以上的年份",
-      "link": "https://www.wsh233.cn/post/2026年大概将会是最后一个人口保持在14亿以上的年份",
-      "rsslink": "https://www.wsh233.cn/feed.xml",
-      "blogname": "WSH",
-      "createdat": "2026-04-05T18:33:35.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "38861",
-      "title": "26y：健康、AI行业变化与自我反思",
-      "link": "https://innei.in/notes/211",
-      "rsslink": "https://innei.ren/feed",
-      "blogname": "静かな森",
-      "createdat": "2026-04-05T17:29:22.000Z",
-      "crawledat": "2026-04-06T15:44:21.839Z"
     }
   ]
 }
