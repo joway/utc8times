@@ -4,6 +4,114 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "40533",
+      "title": "爱情观",
+      "link": "https://www.wsh233.cn/post/爱情观",
+      "rsslink": "https://www.wsh233.cn/feed.xml",
+      "blogname": "WSH",
+      "createdat": "2026-04-13T18:23:24.000Z",
+      "crawledat": "2026-04-13T19:12:38.444Z"
+    },
+    {
+      "id": "40505",
+      "title": "最近惦念 20260403",
+      "link": "https://z.arlmy.me/posts/TILs/thoughts/20260403_Recently/",
+      "rsslink": "http://z.arlmy.me/atom.xml",
+      "blogname": "素生",
+      "createdat": "2026-04-13T15:20:27.000Z",
+      "crawledat": "2026-04-13T19:12:38.444Z"
+    },
+    {
+      "id": "40506",
+      "title": "问Gemini的问题备份",
+      "link": "https://z.arlmy.me/posts/ZArlmyMe/QuestionsWithGemini_20260413/",
+      "rsslink": "http://z.arlmy.me/atom.xml",
+      "blogname": "素生",
+      "createdat": "2026-04-13T15:06:46.000Z",
+      "crawledat": "2026-04-13T19:12:38.444Z"
+    },
+    {
+      "id": "40531",
+      "title": "被 Vibe 摧毁的版权壁垒，与开发者的新护城河 - 肘子的 Swift 周报 #131",
+      "link": "https://fatbobman.com/zh/weekly/issue-131/",
+      "rsslink": "https://fatbobman.com/zh/rss.xml",
+      "blogname": "肘子的 Swift 记事本",
+      "createdat": "2026-04-13T14:00:00.000Z",
+      "crawledat": "2026-04-13T19:12:38.444Z"
+    },
+    {
+      "id": "40517",
+      "title": "大事件",
+      "link": "https://www.jackpu.com/da-shi-jian/",
+      "rsslink": "https://www.jackpu.com/rss/",
+      "blogname": "蒲小花的博客",
+      "createdat": "2026-04-13T12:14:43.000Z",
+      "crawledat": "2026-04-13T19:12:38.444Z"
+    },
+    {
+      "id": "40511",
+      "title": "How Claude Dreams: Background Memory Defragmentation",
+      "link": "https://finisky.github.io/en/claude-code-auto-dream/",
+      "rsslink": "https://finisky.github.io/atom.xml",
+      "blogname": "Finisky Garden",
+      "createdat": "2026-04-13T11:40:00.000Z",
+      "crawledat": "2026-04-13T19:12:38.444Z"
+    },
+    {
+      "id": "40512",
+      "title": "Claude做梦机制：后台记忆碎片整理",
+      "link": "https://finisky.github.io/claude-code-auto-dream/",
+      "rsslink": "https://finisky.github.io/atom.xml",
+      "blogname": "Finisky Garden",
+      "createdat": "2026-04-13T11:35:00.000Z",
+      "crawledat": "2026-04-13T19:12:38.444Z"
+    },
+    {
+      "id": "40504",
+      "title": "务必谨慎使用JS WeakRef弱引用",
+      "link": "https://www.zhangxinxu.com/wordpress/2026/04/js-weakref/",
+      "rsslink": "http://www.zhangxinxu.com/wordpress/?feed=rss2",
+      "blogname": "张鑫旭-鑫空间-鑫生活",
+      "createdat": "2026-04-13T08:01:51.000Z",
+      "crawledat": "2026-04-13T19:12:38.444Z"
+    },
+    {
+      "id": "40514",
+      "title": "聊聊目前手头的服务器近况 + VMRACK 三网优化线路 VPS 测试",
+      "link": "https://blog.laoda.de/archives/vmrack-test",
+      "rsslink": "https://blog.laoda.de/rss.xml",
+      "blogname": "我不是咕咕鸽",
+      "createdat": "2026-04-13T05:40:00.000Z",
+      "crawledat": "2026-04-13T19:12:38.444Z"
+    },
+    {
+      "id": "40518",
+      "title": "虚惊一场",
+      "link": "https://zhongxiaojie.cn/2026/04/915/",
+      "rsslink": "https://h4ck.org.cn/feed/",
+      "blogname": "obaby@mars",
+      "createdat": "2026-04-13T05:26:35.000Z",
+      "crawledat": "2026-04-13T19:12:38.444Z"
+    },
+    {
+      "id": "40528",
+      "title": "#178 – 我是新來的教學助理 / Claude Code 70 分鐘教學影片上線 / YT 10 萬訂閱啦 ®️雷蒙週報",
+      "link": "https://raymondhouch.com/newsletter/178/",
+      "rsslink": "https://raymondhouch.com/feed",
+      "blogname": "雷蒙三十",
+      "createdat": "2026-04-13T05:19:14.000Z",
+      "crawledat": "2026-04-13T19:12:38.444Z"
+    },
+    {
+      "id": "40532",
+      "title": "Memos: MacOS 下编译安装 Aseprite 脚本",
+      "link": "https://blog.yasking.org/a/1776044367.html",
+      "rsslink": "https://blog.yasking.org/atom.xml",
+      "blogname": "东东's Blog",
+      "createdat": "2026-04-13T05:00:00.000Z",
+      "crawledat": "2026-04-13T19:12:38.444Z"
+    },
+    {
       "id": "40490",
       "title": "Harness Monitor：当多个 Agent 同时写代码时，如何看住质量",
       "link": "http://www.phodal.com/blog/harness-engineering-monitor/",
@@ -11,6 +119,15 @@
       "blogname": "全栈应用开发:精益实践",
       "createdat": "2026-04-13T03:24:00.000Z",
       "crawledat": "2026-04-13T05:40:30.991Z"
+    },
+    {
+      "id": "40520",
+      "title": "GitHub 热门项目周刊 · 第 6 期 · 2026 年第 16 周",
+      "link": "https://www.dqzboy.com/19337.html",
+      "rsslink": "https://www.dqzboy.com/feed",
+      "blogname": "浅时光博客",
+      "createdat": "2026-04-13T01:03:54.000Z",
+      "crawledat": "2026-04-13T19:12:38.444Z"
     },
     {
       "id": "40170",
@@ -31,6 +148,33 @@
       "crawledat": "2026-04-12T18:47:09.380Z"
     },
     {
+      "id": "40523",
+      "title": "Hexo-Butterfly 主题 Preloader 加载页定制",
+      "link": "https://blog.uuanqin.top/p/85371005/",
+      "rsslink": "https://uuanqin.top/atom.xml",
+      "blogname": "半方池水半方田",
+      "createdat": "2026-04-12T18:00:01.000Z",
+      "crawledat": "2026-04-13T19:12:38.444Z"
+    },
+    {
+      "id": "40524",
+      "title": "《永恒的舞动》第一百二十六章",
+      "link": "https://nicrosoft.net/blog/2326/",
+      "rsslink": "https://nicrosoft.net/blog/feed/",
+      "blogname": "农码生涯 无酒无花",
+      "createdat": "2026-04-12T16:43:24.000Z",
+      "crawledat": "2026-04-13T19:12:38.444Z"
+    },
+    {
+      "id": "40526",
+      "title": "赛力斯“车载蹲坑”爆红背后：一份让人窒息的《审查意见》，揭开了残酷真相",
+      "link": "https://zhjwork.online/2026/04/12/%e8%b5%9b%e5%8a%9b%e6%96%af%e8%bd%a6%e8%bd%bd%e8%b9%b2%e5%9d%91%e7%88%86%e7%ba%a2%e8%83%8c%e5%90%8e%ef%bc%9a%e4%b8%80%e4%bb%bd%e8%ae%a9%e4%ba%ba%e7%aa%92%e6%81%af%e7%9a%84%e3%80%8a/",
+      "rsslink": "https://zhjwork.online/feed",
+      "blogname": "专享生活",
+      "createdat": "2026-04-12T15:39:32.000Z",
+      "crawledat": "2026-04-13T19:12:38.444Z"
+    },
+    {
       "id": "40485",
       "title": "说说：#2026-04-12 23:33",
       "link": "https://www.mmbkz.cn/69dbbb3bde97d.html",
@@ -38,150 +182,6 @@
       "blogname": "火喵日记本",
       "createdat": "2026-04-12T15:33:15.000Z",
       "crawledat": "2026-04-12T18:47:09.380Z"
-    },
-    {
-      "id": "40480",
-      "title": "Claude Code 从 AWS Bedrock 切换到 Team 订阅指南",
-      "link": "https://blog.devtang.com/2026/04/12/switch-bedrock-to-team/",
-      "rsslink": "https://blog.devtang.com/atom.xml",
-      "blogname": "唐巧的博客",
-      "createdat": "2026-04-12T14:44:49.000Z",
-      "crawledat": "2026-04-12T18:47:09.380Z"
-    },
-    {
-      "id": "40481",
-      "title": "学习下大神的知识库",
-      "link": "https://nicksxs.me/2026/04/12/%E5%AD%A6%E4%B9%A0%E4%B8%8B%E5%A4%A7%E7%A5%9E%E7%9A%84%E7%9F%A5%E8%AF%86%E5%BA%93/",
-      "rsslink": "https://nicksxs.me/atom.xml",
-      "blogname": "Nicksxs's Blog",
-      "createdat": "2026-04-12T14:20:48.000Z",
-      "crawledat": "2026-04-12T18:47:09.380Z"
-    },
-    {
-      "id": "40487",
-      "title": "同班同学的名字（令和8年）",
-      "link": "https://springwood.me/%e5%90%8c%e7%8f%ad%e5%90%8c%e5%ad%a6%e7%9a%84%e5%90%8d%e5%ad%97%ef%bc%88%e4%bb%a4%e5%92%8c8%e5%b9%b4%ef%bc%89/",
-      "rsslink": "https://springwood.me/feed/",
-      "blogname": "沉舟侧畔 Blog",
-      "createdat": "2026-04-12T13:22:31.000Z",
-      "crawledat": "2026-04-12T18:47:09.380Z"
-    },
-    {
-      "id": "40479",
-      "title": "除法的意义",
-      "link": "https://blog.codingnow.com/2026/04/division.html",
-      "rsslink": "http://blog.codingnow.com/atom.xml",
-      "blogname": "云风的 BLOG",
-      "createdat": "2026-04-12T12:52:17.000Z",
-      "crawledat": "2026-04-12T18:47:09.380Z"
-    },
-    {
-      "id": "40488",
-      "title": "春天",
-      "link": "https://www.skyue.com/26041216.html",
-      "rsslink": "https://www.skyue.com/feed/",
-      "blogname": "SKYue's Home",
-      "createdat": "2026-04-12T08:39:00.000Z",
-      "crawledat": "2026-04-12T18:47:09.380Z"
-    },
-    {
-      "id": "40484",
-      "title": "2026.4.12",
-      "link": "https://www.justzht.com/2026-4-12/",
-      "rsslink": "https://www.justzht.com/rss/",
-      "blogname": "JustZht",
-      "createdat": "2026-04-12T08:11:57.000Z",
-      "crawledat": "2026-04-12T18:47:09.380Z"
-    },
-    {
-      "id": "40369",
-      "title": "中班运动会",
-      "link": "https://shuiba.co/popo-sports-day-2023",
-      "rsslink": "https://shuiba.co/feed",
-      "blogname": "Shuibaco • 水八口",
-      "createdat": "2026-04-12T07:37:00.000Z",
-      "crawledat": "2026-04-12T05:22:27.166Z"
-    },
-    {
-      "id": "40476",
-      "title": "摘：《花间集》",
-      "link": "https://z.arlmy.me/posts/Note/Note_ZhaoChongzuo_HuaJianJi/",
-      "rsslink": "http://z.arlmy.me/atom.xml",
-      "blogname": "素生",
-      "createdat": "2026-04-12T07:04:46.000Z",
-      "crawledat": "2026-04-12T07:12:14.547Z"
-    },
-    {
-      "id": "40477",
-      "title": "Toots 414 2026 Apr.5 - Apr.11",
-      "link": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260411/",
-      "rsslink": "http://z.arlmy.me/atom.xml",
-      "blogname": "素生",
-      "createdat": "2026-04-12T06:50:27.000Z",
-      "crawledat": "2026-04-12T07:12:14.547Z"
-    },
-    {
-      "id": "40478",
-      "title": "摘：《白》",
-      "link": "https://z.arlmy.me/posts/Note/Note_GongShu_Bai/",
-      "rsslink": "http://z.arlmy.me/atom.xml",
-      "blogname": "素生",
-      "createdat": "2026-04-12T05:33:46.000Z",
-      "crawledat": "2026-04-12T07:12:14.547Z"
-    },
-    {
-      "id": "40365",
-      "title": "为什么交往会累",
-      "link": "https://happyxiao.com/relativity/",
-      "rsslink": "https://happyxiao.com/feed",
-      "blogname": "happy xiao 的博客",
-      "createdat": "2026-04-12T02:08:28.000Z",
-      "crawledat": "2026-04-12T05:22:27.166Z"
-    },
-    {
-      "id": "39556",
-      "title": "向量化哈希：xxHash3 与 wyhash 的 SIMD 实现",
-      "link": "https://quant67.com/post/algorithms/14-simd-hash/simd-hash.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-12T00:00:00.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "40349",
-      "title": "Bash中的Indirection与Nameref",
-      "link": "https://lujun9972.github.io/blog/2026/04/12/bash中的indirection与nameref/index.html",
-      "rsslink": "https://www.lujun9972.win/rss.xml",
-      "blogname": "暗无天日",
-      "createdat": "2026-04-12T00:00:00.000Z",
-      "crawledat": "2026-04-12T02:29:15.367Z"
-    },
-    {
-      "id": "40359",
-      "title": "AI 时代的本科 CS 教育随想",
-      "link": "https://jia.je/misc/2026/04/12/ai-era-cs-education/",
-      "rsslink": "https://jia.je/feed.xml",
-      "blogname": "杰哥的小笔记",
-      "createdat": "2026-04-12T00:00:00.000Z",
-      "crawledat": "2026-04-12T02:29:15.367Z"
-    },
-    {
-      "id": "40363",
-      "title": "Linux PAM 简介",
-      "link": "https://lujun9972.github.io/blog/2026/04/12/linux-pam-简介/index.html",
-      "rsslink": "https://www.lujun9972.win/rss.xml",
-      "blogname": "暗无天日",
-      "createdat": "2026-04-12T00:00:00.000Z",
-      "crawledat": "2026-04-12T05:22:27.166Z"
-    },
-    {
-      "id": "40491",
-      "title": "Weekly Issue-《飞行家》",
-      "link": "https://zdyxry.github.io/2026/04/12/Weekly-Issue-Take-Off/",
-      "rsslink": "https://zdyxry.github.io/atom.xml",
-      "blogname": "Yiran's Blog",
-      "createdat": "2026-04-12T00:00:00.000Z",
-      "crawledat": "2026-04-13T05:40:30.991Z"
     }
   ]
 }
