@@ -4,6 +4,42 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "40179",
+      "title": "epoll 的数据结构：红黑树、就绪队列与回调机制",
+      "link": "https://quant67.com/post/algorithms/57-epoll-internals/epoll-internals.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-06T00:00:00.000Z",
+      "crawledat": "2026-04-08T02:22:20.506Z"
+    },
+    {
+      "id": "40180",
+      "title": "定时器算法：时间轮、最小堆与层级时间轮",
+      "link": "https://quant67.com/post/algorithms/58-timer-algo/timer-algo.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-06T00:00:00.000Z",
+      "crawledat": "2026-04-08T02:22:20.506Z"
+    },
+    {
+      "id": "40406",
+      "title": "【密码学百科】椭圆曲线代数：Weierstrass 方程、点群运算与曲线选择",
+      "link": "https://quant67.com/post/cryptography/35-elliptic-curve-algebra/elliptic-curve-algebra.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-06T00:00:00.000Z",
+      "crawledat": "2026-04-12T05:22:27.166Z"
+    },
+    {
+      "id": "40407",
+      "title": "【密码学百科】离散对数与配对密码学：从 DLP 到 BLS 签名",
+      "link": "https://quant67.com/post/cryptography/36-discrete-log-pairings/discrete-log-pairings.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-06T00:00:00.000Z",
+      "crawledat": "2026-04-12T05:22:27.166Z"
+    },
+    {
       "id": "40408",
       "title": "【密码学百科】格密码数学基础：SVP、LWE 与格基约化",
       "link": "https://quant67.com/post/cryptography/37-lattice-math/lattice-math.html",
@@ -145,42 +181,6 @@
       "rsslink": "https://finisky.github.io/atom.xml",
       "blogname": "Finisky Garden",
       "createdat": "2026-04-05T12:50:42.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "39009",
-      "title": "Claude Code Fork子Agent的Prompt Cache共享机制",
-      "link": "https://finisky.github.io/claude-code-fork-cache/",
-      "rsslink": "https://finisky.github.io/atom.xml",
-      "blogname": "Finisky Garden",
-      "createdat": "2026-04-05T12:46:42.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "39010",
-      "title": "Context Compaction in Claude Code: A Five-Layer Cascade and the Art of Free Summaries",
-      "link": "https://finisky.github.io/en/claude-code-context-compaction/",
-      "rsslink": "https://finisky.github.io/atom.xml",
-      "blogname": "Finisky Garden",
-      "createdat": "2026-04-05T12:35:17.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "39011",
-      "title": "Claude Code 的上下文压缩:五层级联与免费摘要的艺术",
-      "link": "https://finisky.github.io/claude-code-context-compaction/",
-      "rsslink": "https://finisky.github.io/atom.xml",
-      "blogname": "Finisky Garden",
-      "createdat": "2026-04-05T12:31:17.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "39012",
-      "title": "How Claude Code Defends Against Bash Injection",
-      "link": "https://finisky.github.io/en/claude-code-bash-security/",
-      "rsslink": "https://finisky.github.io/atom.xml",
-      "blogname": "Finisky Garden",
-      "createdat": "2026-04-05T12:19:33.000Z",
       "crawledat": "2026-04-06T18:57:27.745Z"
     }
   ]
