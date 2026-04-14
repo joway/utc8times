@@ -83,6 +83,7 @@ const RSS_DOMAIN_BLACKLIST = [
   "51.ruyo.net",
   "shinekid.com",
   "rowkey.cn",
+  "zhongxiaojie.cn",
 ];
 
 const isDryRun = process.argv.includes("--dry-run");
