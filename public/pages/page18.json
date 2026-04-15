@@ -4,6 +4,33 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "40374",
+      "title": "【密码学百科】Kerckhoffs 原则与现代密码设计哲学",
+      "link": "https://quant67.com/post/cryptography/03-kerckhoffs-principle/kerckhoffs-principle.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-04T00:00:00.000Z",
+      "crawledat": "2026-04-12T05:22:27.166Z"
+    },
+    {
+      "id": "40375",
+      "title": "【密码学百科】随机性：密码学的基石",
+      "link": "https://quant67.com/post/cryptography/04-randomness/randomness.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-04T00:00:00.000Z",
+      "crawledat": "2026-04-12T05:22:27.166Z"
+    },
+    {
+      "id": "40376",
+      "title": "【密码学百科】信息论入门：熵、完美保密与 Shannon 定理",
+      "link": "https://quant67.com/post/cryptography/05-information-theory-intro/information-theory-intro.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-04T00:00:00.000Z",
+      "crawledat": "2026-04-12T05:22:27.166Z"
+    },
+    {
       "id": "40377",
       "title": "【密码学百科】分组密码原理：Feistel 网络与 SPN 结构",
       "link": "https://quant67.com/post/cryptography/06-block-ciphers/block-ciphers.html",
@@ -151,33 +178,6 @@
       "id": "40393",
       "title": "【密码学百科】TLS 协议全解析：从握手到 0-RTT",
       "link": "https://quant67.com/post/cryptography/22-tls-protocol/tls-protocol.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-04T00:00:00.000Z",
-      "crawledat": "2026-04-12T05:22:27.166Z"
-    },
-    {
-      "id": "40394",
-      "title": "【密码学百科】PKI 与数字证书：信任链的构建与崩塌",
-      "link": "https://quant67.com/post/cryptography/23-pki-certificates/pki-certificates.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-04T00:00:00.000Z",
-      "crawledat": "2026-04-12T05:22:27.166Z"
-    },
-    {
-      "id": "40395",
-      "title": "【密码学百科】密码认证协议：从 SRP 到 OPAQUE",
-      "link": "https://quant67.com/post/cryptography/24-password-auth/password-auth.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-04T00:00:00.000Z",
-      "crawledat": "2026-04-12T05:22:27.166Z"
-    },
-    {
-      "id": "40396",
-      "title": "【密码学百科】零知识证明入门：如何证明你知道而不泄露",
-      "link": "https://quant67.com/post/cryptography/25-zero-knowledge-intro/zero-knowledge-intro.html",
       "rsslink": "https://quant67.com/rss.xml",
       "blogname": "土法炼钢兴趣小组的博客",
       "createdat": "2026-04-04T00:00:00.000Z",
