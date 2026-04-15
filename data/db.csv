@@ -40586,3 +40586,955 @@ id,title,link,rsslink,blogname,createdat,crawledat
 40585,朝鲜人心中世界上最好的三个城市,https://tumutanzi.com/archives/17585,https://tumutanzi.com/feed,土木坛子,2026-04-07T16:00:56.000Z,2026-04-15T16:03:35.378Z
 40586,创建跨平台 ZIP 文件的隐藏陷阱：Extra Field,https://lujun9972.github.io/blog/2026/04/15/创建跨平台-zip-文件的隐藏陷阱：extra-field/index.html,https://www.lujun9972.win/rss.xml,暗无天日,2026-04-15T00:00:00.000Z,2026-04-15T16:03:35.378Z
 40587,X11 Forwarding 排障指南,https://lujun9972.github.io/blog/2026/04/15/x11-forwarding-排障指南/index.html,https://www.lujun9972.win/rss.xml,暗无天日,2026-04-15T00:00:00.000Z,2026-04-15T16:03:35.378Z
+40588,友链,https://frytea.com/friends/,https://www.frytea.com/index.xml,Frytea's Blog,2001-01-01T00:00:00.000Z,2026-04-15T19:16:16.797Z
+40589,openFuyao NPU-Operator故障排查,https://frytea.com/archives/1655/,https://www.frytea.com/index.xml,Frytea's Blog,2026-04-13T09:01:49.000Z,2026-04-15T19:16:16.797Z
+40590,openFuyao 2603 共测测试报告,https://frytea.com/archives/1654/,https://www.frytea.com/index.xml,Frytea's Blog,2026-04-13T09:01:27.000Z,2026-04-15T19:16:16.797Z
+40591,openFuyao InferNex AI推理集成部署 310P(300I Pro) 环境问题记录及解决,https://frytea.com/archives/1653/,https://www.frytea.com/index.xml,Frytea's Blog,2026-04-13T08:53:36.000Z,2026-04-15T19:16:16.797Z
+40592,ceph mon Operation not permitted 问题解决,https://frytea.com/archives/1652/,https://www.frytea.com/index.xml,Frytea's Blog,2026-04-03T03:25:31.000Z,2026-04-15T19:16:16.797Z
+40593,Ascend 310P + openFuyao + NPU-Operator 故障排查,https://frytea.com/archives/1651/,https://www.frytea.com/index.xml,Frytea's Blog,2026-04-01T14:26:36.000Z,2026-04-15T19:16:16.797Z
+40594,KDE Plasma6 禁用全局菜单，恢复正常应用菜单,https://frytea.com/archives/1650/,https://www.frytea.com/index.xml,Frytea's Blog,2026-04-01T05:55:30.000Z,2026-04-15T19:16:16.797Z
+40595,终极指南：在 Linux 裸机服务器上快速部署 Moltbot (原 Clawbot) 并集成飞书,https://frytea.com/archives/1617/,https://www.frytea.com/index.xml,Frytea's Blog,2026-01-29T12:00:15.000Z,2026-04-15T19:16:16.797Z
+40596,Windows 配置 Claude Code 解决  settings.json 不生效,https://frytea.com/archives/1616/,https://www.frytea.com/index.xml,Frytea's Blog,2026-01-09T08:28:00.000Z,2026-04-15T19:16:16.797Z
+40597,Windows 配置 Claude Code 全流程,https://frytea.com/archives/1615/,https://www.frytea.com/index.xml,Frytea's Blog,2026-01-09T08:22:00.000Z,2026-04-15T19:16:16.797Z
+40598,2025-12-31 ｜ 年终总结,https://frytea.com/archives/1614/,https://www.frytea.com/index.xml,Frytea's Blog,2025-12-31T17:49:39.000Z,2026-04-15T19:16:16.797Z
+40599,AI 生图精品提示词｜第二期：城市星球,https://frytea.com/archives/1613/,https://www.frytea.com/index.xml,Frytea's Blog,2025-12-13T07:04:00.000Z,2026-04-15T19:16:16.797Z
+40600,AI 生图精品提示词｜第一期,https://frytea.com/archives/1547/,https://www.frytea.com/index.xml,Frytea's Blog,2025-12-06T06:47:00.000Z,2026-04-15T19:16:16.797Z
+40601,Kubernetes kubectl --raw 使用指南,https://frytea.com/archives/1546/,https://www.frytea.com/index.xml,Frytea's Blog,2025-11-10T13:08:00.000Z,2026-04-15T19:16:16.797Z
+40602,磁盘使用分析工具对比：du vs ncdu vs gdu vs dust,https://frytea.com/archives/1545/,https://www.frytea.com/index.xml,Frytea's Blog,2025-11-03T15:14:51.000Z,2026-04-15T19:16:16.797Z
+40603,2025 年黑五云主机活动汇总(含双十一),https://frytea.com/archives/1544/,https://www.frytea.com/index.xml,Frytea's Blog,2025-11-03T15:14:00.000Z,2026-04-15T19:16:16.797Z
+40604,彻底解决阿里云和 tailscale 冲突,https://frytea.com/archives/1543/,https://www.frytea.com/index.xml,Frytea's Blog,2025-10-27T15:20:01.000Z,2026-04-15T19:16:16.797Z
+40605,2025-10-21 ｜ 沉淀思维,https://frytea.com/archives/1542/,https://www.frytea.com/index.xml,Frytea's Blog,2025-10-21T14:08:25.000Z,2026-04-15T19:16:16.797Z
+40606,macOS 单独为鼠标或触控板开启自然滚动,https://frytea.com/archives/1541/,https://www.frytea.com/index.xml,Frytea's Blog,2025-10-18T16:31:21.000Z,2026-04-15T19:16:16.797Z
+40607,2025-10-16 ｜ 负载高低,https://frytea.com/archives/1540/,https://www.frytea.com/index.xml,Frytea's Blog,2025-10-16T15:10:22.000Z,2026-04-15T19:16:16.797Z
+40608,2025-10-15 ｜ 睡眠周期,https://frytea.com/archives/1539/,https://www.frytea.com/index.xml,Frytea's Blog,2025-10-15T14:27:58.000Z,2026-04-15T19:16:16.797Z
+40609,2025-10-14 ｜ 转换情绪与独立观点,https://frytea.com/archives/1538/,https://www.frytea.com/index.xml,Frytea's Blog,2025-10-14T13:36:33.000Z,2026-04-15T19:16:16.797Z
+40610,go 拉取 gitcode.com 私有 mod,https://frytea.com/archives/1537/,https://www.frytea.com/index.xml,Frytea's Blog,2025-10-14T11:51:14.000Z,2026-04-15T19:16:16.797Z
+40611,Git 将某个文件恢复到其他分支的状态,https://frytea.com/archives/1536/,https://www.frytea.com/index.xml,Frytea's Blog,2025-10-14T04:05:22.000Z,2026-04-15T19:16:16.797Z
+40612,SSH 通过跳板机连接,https://frytea.com/archives/1535/,https://www.frytea.com/index.xml,Frytea's Blog,2025-10-14T04:05:08.000Z,2026-04-15T19:16:16.797Z
+40613,lxc 使用 chronyc 构建 ntp 服务,https://frytea.com/archives/1534/,https://www.frytea.com/index.xml,Frytea's Blog,2025-10-14T04:04:52.000Z,2026-04-15T19:16:16.797Z
+40614,2025-10-13 ｜ 独立思考于未来能源,https://frytea.com/archives/1533/,https://www.frytea.com/index.xml,Frytea's Blog,2025-10-13T13:29:15.000Z,2026-04-15T19:16:16.797Z
+40615,2025-10-12｜AI Review 及高质量工作流,https://frytea.com/archives/1532/,https://www.frytea.com/index.xml,Frytea's Blog,2025-10-12T14:33:31.000Z,2026-04-15T19:16:16.797Z
+40616,2025-10-11 ｜ 人生阶段,https://frytea.com/archives/1531/,https://www.frytea.com/index.xml,Frytea's Blog,2025-10-11T12:27:38.000Z,2026-04-15T19:16:16.797Z
+40617,2025-10-10 ｜ AI Logo ｜ 远程操控 AI,https://frytea.com/archives/1530/,https://www.frytea.com/index.xml,Frytea's Blog,2025-10-10T15:14:00.000Z,2026-04-15T19:16:16.797Z
+40618,2025-10-09 | 去班味｜银杏｜域名,https://frytea.com/archives/1529/,https://www.frytea.com/index.xml,Frytea's Blog,2025-10-09T15:01:00.000Z,2026-04-15T19:16:16.797Z
+40619,2025-10-08,https://frytea.com/archives/1528/,https://www.frytea.com/index.xml,Frytea's Blog,2025-10-08T11:56:59.000Z,2026-04-15T19:16:16.797Z
+40620,2025-10-07,https://frytea.com/archives/1527/,https://www.frytea.com/index.xml,Frytea's Blog,2025-10-07T14:07:48.000Z,2026-04-15T19:16:16.797Z
+40621,2025-10-06,https://frytea.com/archives/1526/,https://www.frytea.com/index.xml,Frytea's Blog,2025-10-06T15:40:54.000Z,2026-04-15T19:16:16.797Z
+40622,2025-10-05,https://frytea.com/archives/1524/,https://www.frytea.com/index.xml,Frytea's Blog,2025-10-05T14:37:36.000Z,2026-04-15T19:16:16.797Z
+40623,优秀的 SubReddit 清单,https://frytea.com/archives/1523/,https://www.frytea.com/index.xml,Frytea's Blog,2025-09-28T15:43:43.000Z,2026-04-15T19:16:16.797Z
+40624,云部署平台全面对比：Railway vs Render vs 其他主流方案（2025年版）,https://frytea.com/archives/1522/,https://www.frytea.com/index.xml,Frytea's Blog,2025-09-19T17:08:57.000Z,2026-04-15T19:16:16.797Z
+40625,Synology 群晖重置 Syncthing 密码,https://frytea.com/archives/1521/,https://www.frytea.com/index.xml,Frytea's Blog,2025-09-13T17:07:13.000Z,2026-04-15T19:16:16.797Z
+40626,整理了一个 AI 提示词库,https://frytea.com/archives/1520/,https://www.frytea.com/index.xml,Frytea's Blog,2025-09-07T17:00:00.000Z,2026-04-15T19:16:16.797Z
+40627,让 LLM 看到真实世界的 Playwright MCP,https://frytea.com/archives/1519/,https://www.frytea.com/index.xml,Frytea's Blog,2025-09-07T14:22:41.000Z,2026-04-15T19:16:16.797Z
+40628,磁盘占用分析利器 ncdu,https://frytea.com/archives/1518/,https://www.frytea.com/index.xml,Frytea's Blog,2025-09-07T14:22:16.000Z,2026-04-15T19:16:16.797Z
+40629,地图标记和兴趣点分享软件合集,https://frytea.com/archives/1517/,https://www.frytea.com/index.xml,Frytea's Blog,2025-09-01T03:19:33.000Z,2026-04-15T19:16:16.797Z
+40630,自建 gitlab 徽标问题导致项目 500 问题解决,https://frytea.com/archives/1516/,https://www.frytea.com/index.xml,Frytea's Blog,2025-08-28T14:33:56.000Z,2026-04-15T19:16:16.797Z
+40631,harbor Chartmuseum helm 图表缓存刷新,https://frytea.com/archives/1515/,https://www.frytea.com/index.xml,Frytea's Blog,2025-08-28T14:33:00.000Z,2026-04-15T19:16:16.797Z
+40632,grep exclude 排除,https://frytea.com/archives/1514/,https://www.frytea.com/index.xml,Frytea's Blog,2025-08-28T14:32:39.000Z,2026-04-15T19:16:16.797Z
+40633,快速感受编程乐趣的编程语言推荐,https://frytea.com/archives/1513/,https://www.frytea.com/index.xml,Frytea's Blog,2025-08-18T14:16:00.000Z,2026-04-15T19:16:16.797Z
+40634,Debian 11 + PVE LACP Mac 冲突问题调查与解决方案,https://frytea.com/archives/1512/,https://www.frytea.com/index.xml,Frytea's Blog,2025-08-15T00:25:46.000Z,2026-04-15T19:16:16.797Z
+40635,Rclone WebUI 选择指南：全面对比各种图形界面方案,https://frytea.com/archives/1511/,https://www.frytea.com/index.xml,Frytea's Blog,2025-08-08T06:45:14.000Z,2026-04-15T19:16:16.797Z
+40636,开源自托管数据备份解决方案全面对比,https://frytea.com/archives/1510/,https://www.frytea.com/index.xml,Frytea's Blog,2025-08-08T06:42:43.000Z,2026-04-15T19:16:16.797Z
+40637,Claude Code 实用技巧,https://frytea.com/archives/1509/,https://www.frytea.com/index.xml,Frytea's Blog,2025-08-07T14:43:03.000Z,2026-04-15T19:16:16.797Z
+40638,CentOS 7 重置 root 密码,https://frytea.com/archives/1508/,https://www.frytea.com/index.xml,Frytea's Blog,2025-08-07T14:34:31.000Z,2026-04-15T19:16:16.797Z
+40639,telnet 如何退出,https://frytea.com/archives/1507/,https://www.frytea.com/index.xml,Frytea's Blog,2025-08-07T14:33:53.000Z,2026-04-15T19:16:16.797Z
+40640,kubernetes 的挂载传播(mount propagation)机制,https://frytea.com/archives/1506/,https://www.frytea.com/index.xml,Frytea's Blog,2025-08-07T14:31:47.000Z,2026-04-15T19:16:16.797Z
+40641,vim 将命令输出到当前位置,https://frytea.com/archives/1505/,https://www.frytea.com/index.xml,Frytea's Blog,2025-08-07T14:31:18.000Z,2026-04-15T19:16:16.797Z
+40642,harbor 替换 ssl 证书,https://frytea.com/archives/1504/,https://www.frytea.com/index.xml,Frytea's Blog,2025-08-07T14:31:00.000Z,2026-04-15T19:16:16.797Z
+40643,独立开发者云平台技术选型深度对比：Vercel vs Cloudflare vs Supabase,https://frytea.com/archives/1503/,https://www.frytea.com/index.xml,Frytea's Blog,2025-08-02T15:47:00.000Z,2026-04-15T19:16:16.797Z
+40644,AI提效之使用 cherry-studio + k8sgpt 实现 AI 巡检 k8s,https://frytea.com/archives/1502/,https://www.frytea.com/index.xml,Frytea's Blog,2025-07-29T01:43:00.000Z,2026-04-15T19:16:16.797Z
+40645,Claude Code Subagents 快速开始,https://frytea.com/archives/1501/,https://www.frytea.com/index.xml,Frytea's Blog,2025-07-29T01:26:08.000Z,2026-04-15T19:16:16.797Z
+40646,边缘计算平台对比：Vercel vs Cloudflare Workers,https://frytea.com/archives/1500/,https://www.frytea.com/index.xml,Frytea's Blog,2025-07-28T15:10:47.000Z,2026-04-15T19:16:16.797Z
+40647,媒体服务器对比：Emby vs Plex vs Jellyfin,https://frytea.com/archives/1499/,https://www.frytea.com/index.xml,Frytea's Blog,2025-07-27T14:45:00.000Z,2026-04-15T19:16:16.797Z
+40648,《我看见的世界：李飞飞自传》,https://frytea.com/archives/1498/,https://www.frytea.com/index.xml,Frytea's Blog,2025-07-20T15:56:26.000Z,2026-04-15T19:16:16.797Z
+40649,Kiro or Cursor? AI IDE工具全面对比：选择最适合的智能编程助手,https://frytea.com/archives/1497/,https://www.frytea.com/index.xml,Frytea's Blog,2025-07-20T10:17:00.000Z,2026-04-15T19:16:16.797Z
+40650,Lyra - AI Prompt Optimization Specialist,https://frytea.com/archives/1496/,https://www.frytea.com/index.xml,Frytea's Blog,2025-07-20T10:09:00.000Z,2026-04-15T19:16:16.797Z
+40651,Linux 自签名 CA 证书安装方法,https://frytea.com/archives/1495/,https://www.frytea.com/index.xml,Frytea's Blog,2025-07-11T09:55:40.000Z,2026-04-15T19:16:16.797Z
+40652,智能理财计算器更新了，一站对比各家理财收益率，避免踩坑！,https://frytea.com/archives/1494/,https://www.frytea.com/index.xml,Frytea's Blog,2025-07-05T06:29:24.000Z,2026-04-15T19:16:16.797Z
+40653,SEMrush vs Ahrefs vs SimilarWeb 功能对比表,https://frytea.com/archives/1493/,https://www.frytea.com/index.xml,Frytea's Blog,2025-07-02T10:19:00.000Z,2026-04-15T19:16:16.797Z
+40654,超级玛丽、魂斗罗等经典小游戏聚合站 | PlayUnb,https://frytea.com/archives/1492/,https://www.frytea.com/index.xml,Frytea's Blog,2025-06-14T16:40:00.000Z,2026-04-15T19:16:16.797Z
+40655,个人业余开发项目清单,https://frytea.com/archives/1491/,https://www.frytea.com/index.xml,Frytea's Blog,2025-06-14T16:34:00.000Z,2026-04-15T19:16:16.797Z
+40656,快速选出收益最高的理财产品 ｜ finance-calculator,https://frytea.com/archives/1490/,https://www.frytea.com/index.xml,Frytea's Blog,2025-06-14T16:11:00.000Z,2026-04-15T19:16:16.797Z
+40657,苹果液态玻璃风格图像生成和模拟器 ｜ LiquedGlass.icu,https://frytea.com/archives/1489/,https://www.frytea.com/index.xml,Frytea's Blog,2025-06-14T15:44:00.000Z,2026-04-15T19:16:16.797Z
+40658,Linux 进程绑定NUMA节点或CPU核心,https://frytea.com/archives/1488/,https://www.frytea.com/index.xml,Frytea's Blog,2025-06-05T09:20:00.000Z,2026-04-15T19:16:16.797Z
+40659,判断GPT是否降智的几个问题,https://frytea.com/archives/1487/,https://www.frytea.com/index.xml,Frytea's Blog,2025-06-05T09:19:00.000Z,2026-04-15T19:16:16.797Z
+40660,Harmony next hap 安装,https://frytea.com/archives/1486/,https://www.frytea.com/index.xml,Frytea's Blog,2025-05-28T15:08:58.000Z,2026-04-15T19:16:16.797Z
+40661,名侦探柯南贝尔摩德出场集数,https://frytea.com/archives/1485/,https://www.frytea.com/index.xml,Frytea's Blog,2025-05-11T05:00:00.000Z,2026-04-15T19:16:16.797Z
+40662,k3s k8s 快速部署轻量节点监控方案 beszel,https://frytea.com/archives/1484/,https://www.frytea.com/index.xml,Frytea's Blog,2025-05-08T13:21:00.000Z,2026-04-15T19:16:16.797Z
+40663,k3s-k8s 实现 DevOps 方案横向对比,https://frytea.com/archives/1483/,https://www.frytea.com/index.xml,Frytea's Blog,2025-05-07T10:03:00.000Z,2026-04-15T19:16:16.797Z
+40664,k8s 配置访问私有镜像仓库,https://frytea.com/archives/1482/,https://www.frytea.com/index.xml,Frytea's Blog,2025-05-07T06:19:00.000Z,2026-04-15T19:16:16.797Z
+40665,GoAccess 分析多网站日志方法,https://frytea.com/archives/1481/,https://www.frytea.com/index.xml,Frytea's Blog,2025-04-29T03:59:14.000Z,2026-04-15T19:16:16.797Z
+40666,Octant - 以开发人员为中心的开源 Kubernetes Web 界面,https://frytea.com/archives/1480/,https://www.frytea.com/index.xml,Frytea's Blog,2025-04-28T09:13:17.000Z,2026-04-15T19:16:16.797Z
+40667,Tailscale 自建 DERP 并配置 SSL 完整教程,https://frytea.com/archives/1479/,https://www.frytea.com/index.xml,Frytea's Blog,2025-04-22T13:38:00.000Z,2026-04-15T19:16:16.797Z
+40668,OpenManus 使用记录,https://frytea.com/archives/1478/,https://www.frytea.com/index.xml,Frytea's Blog,2025-04-21T08:35:45.000Z,2026-04-15T19:16:16.797Z
+40669,Plausible 缺失 location 信息的研究,https://frytea.com/archives/1477/,https://www.frytea.com/index.xml,Frytea's Blog,2025-04-21T08:35:22.000Z,2026-04-15T19:16:16.797Z
+40670,解决 Nginx Ingress returns 413 Entity Too Large,https://frytea.com/archives/1475/,https://www.frytea.com/index.xml,Frytea's Blog,2025-04-21T08:34:15.000Z,2026-04-15T19:16:16.797Z
+40671,绘图模型效果对比之城市气象,https://frytea.com/archives/1476/,https://www.frytea.com/index.xml,Frytea's Blog,2025-04-21T08:34:00.000Z,2026-04-15T19:16:16.797Z
+40672,【转】k8s 认知路线,https://frytea.com/archives/1474/,https://www.frytea.com/index.xml,Frytea's Blog,2025-04-21T08:11:00.000Z,2026-04-15T19:16:16.797Z
+40673,OpenFOAM 两大分支的详细比较,https://frytea.com/archives/1473/,https://www.frytea.com/index.xml,Frytea's Blog,2025-04-21T03:05:26.000Z,2026-04-15T19:16:16.797Z
+40674,第一个 CUDA 程序之矩阵运算计算效能对比,https://frytea.com/archives/1472/,https://www.frytea.com/index.xml,Frytea's Blog,2025-04-19T02:21:24.000Z,2026-04-15T19:16:16.797Z
+40675,Archlinux KDE Apache JMeter 配置高分屏缩放,https://frytea.com/archives/1471/,https://www.frytea.com/index.xml,Frytea's Blog,2025-04-17T06:11:00.000Z,2026-04-15T19:16:16.797Z
+40676,解决 gitlab-runner 移除残留文件  permission denied,https://frytea.com/archives/1470/,https://www.frytea.com/index.xml,Frytea's Blog,2025-04-15T06:54:45.000Z,2026-04-15T19:16:16.797Z
+40677,nginx-ingress 配置路由 302,https://frytea.com/archives/1469/,https://www.frytea.com/index.xml,Frytea's Blog,2025-04-15T06:54:21.000Z,2026-04-15T19:16:16.797Z
+40678,常见 S3 存储服务多维度横评（附1TB存储传输成本）,https://frytea.com/archives/1467/,https://www.frytea.com/index.xml,Frytea's Blog,2025-04-12T16:18:00.000Z,2026-04-15T19:16:16.797Z
+40679,k8s 触发 pod 重新拉取镜像平滑升级的方法,https://frytea.com/archives/1466/,https://www.frytea.com/index.xml,Frytea's Blog,2025-04-10T09:29:10.000Z,2026-04-15T19:16:16.797Z
+40680,Clickhouse 迁移后 permission denied 问题解决,https://frytea.com/archives/1465/,https://www.frytea.com/index.xml,Frytea's Blog,2025-04-10T09:28:48.000Z,2026-04-15T19:16:16.797Z
+40681,Linux CPU 运行模式及功耗分析,https://frytea.com/archives/1464/,https://www.frytea.com/index.xml,Frytea's Blog,2025-04-09T01:55:00.000Z,2026-04-15T19:16:16.797Z
+40682,Linux vim vi 翻页跳转命令快捷键,https://frytea.com/archives/1463/,https://www.frytea.com/index.xml,Frytea's Blog,2025-04-07T09:24:05.000Z,2026-04-15T19:16:16.797Z
+40683,git 拉取所有 branch 和 tag 到本地并推送到远程,https://frytea.com/archives/1462/,https://www.frytea.com/index.xml,Frytea's Blog,2025-04-07T09:23:34.000Z,2026-04-15T19:16:16.797Z
+40684,Rails 性能分析工具 rack-mini-profiler 和 bullet,https://frytea.com/archives/1441/,https://www.frytea.com/index.xml,Frytea's Blog,2025-04-07T09:21:44.000Z,2026-04-15T19:16:16.797Z
+40685,全球国家、城市、地区开源数据库,https://frytea.com/archives/1440/,https://www.frytea.com/index.xml,Frytea's Blog,2025-04-07T09:21:31.000Z,2026-04-15T19:16:16.797Z
+40686,Rails Active Record 常用命令,https://frytea.com/archives/1439/,https://www.frytea.com/index.xml,Frytea's Blog,2025-04-07T09:21:19.000Z,2026-04-15T19:16:16.797Z
+40687,Rails Rake 简介与编写,https://frytea.com/archives/1438/,https://www.frytea.com/index.xml,Frytea's Blog,2025-04-07T09:21:09.000Z,2026-04-15T19:16:16.797Z
+40688,如何调试 Vim 脚本,https://frytea.com/archives/1437/,https://www.frytea.com/index.xml,Frytea's Blog,2025-04-07T09:20:57.000Z,2026-04-15T19:16:16.797Z
+40689,tailscale zerotier wireguard  横向对比,https://frytea.com/archives/1461/,https://www.frytea.com/index.xml,Frytea's Blog,2025-04-07T09:20:35.000Z,2026-04-15T19:16:16.797Z
+40690,Tailscale 自建 Derp,https://frytea.com/archives/1460/,https://www.frytea.com/index.xml,Frytea's Blog,2025-04-07T09:20:20.000Z,2026-04-15T19:16:16.797Z
+40691,Ceph 检查 rbd io 排名,https://frytea.com/archives/1459/,https://www.frytea.com/index.xml,Frytea's Blog,2025-04-07T09:19:22.000Z,2026-04-15T19:16:16.797Z
+40692,k8s csi-driver-nfs的一个坑,https://frytea.com/archives/1458/,https://www.frytea.com/index.xml,Frytea's Blog,2025-03-31T10:01:43.000Z,2026-04-15T19:16:16.797Z
+40693,一条命令测试 pg 查询延迟,https://frytea.com/archives/1457/,https://www.frytea.com/index.xml,Frytea's Blog,2025-03-31T10:01:13.000Z,2026-04-15T19:16:16.797Z
+40694,k3s 容器 mirror 配置方法,https://frytea.com/archives/1456/,https://www.frytea.com/index.xml,Frytea's Blog,2025-03-31T10:00:40.000Z,2026-04-15T19:16:16.797Z
+40695,wordpress 使用 k8s 部署并使用 nginx ingress 代理无限 302 到 ssl 问题解决,https://frytea.com/archives/1455/,https://www.frytea.com/index.xml,Frytea's Blog,2025-03-31T09:59:51.000Z,2026-04-15T19:16:16.797Z
+40696,ArchLinux pacman 一键找到最快的镜像源清单,https://frytea.com/archives/1454/,https://www.frytea.com/index.xml,Frytea's Blog,2025-03-14T17:26:36.000Z,2026-04-15T19:16:16.797Z
+40697,LLM 聚合 API 价格对比,https://frytea.com/archives/1453/,https://www.frytea.com/index.xml,Frytea's Blog,2025-03-14T17:26:01.000Z,2026-04-15T19:16:16.797Z
+40698,k8s 使用 pv-migrate  迁移 pvc,https://frytea.com/archives/1452/,https://www.frytea.com/index.xml,Frytea's Blog,2025-03-14T17:25:34.000Z,2026-04-15T19:16:16.797Z
+40699,k8s 使用 OpenEBS 存储,https://frytea.com/archives/1451/,https://www.frytea.com/index.xml,Frytea's Blog,2025-03-14T17:25:14.000Z,2026-04-15T19:16:16.797Z
+40700,k3s 部署 kube-prometheus-stack 监控栈,https://frytea.com/archives/1450/,https://www.frytea.com/index.xml,Frytea's Blog,2025-03-14T17:24:28.000Z,2026-04-15T19:16:16.797Z
+40701,k8s-k3s 标记节点暂时不可用及排空,https://frytea.com/archives/1449/,https://www.frytea.com/index.xml,Frytea's Blog,2025-03-14T17:24:01.000Z,2026-04-15T19:16:16.797Z
+40702,helm operation 中断锁死问题解决,https://frytea.com/archives/1448/,https://www.frytea.com/index.xml,Frytea's Blog,2025-03-14T10:00:21.000Z,2026-04-15T19:16:16.797Z
+40703,将当前系统做成 docker 镜像,https://frytea.com/archives/1447/,https://www.frytea.com/index.xml,Frytea's Blog,2025-03-12T01:45:00.000Z,2026-04-15T19:16:16.797Z
+40704,cert-manager CNAME 问题记录,https://frytea.com/archives/1446/,https://www.frytea.com/index.xml,Frytea's Blog,2025-03-06T03:59:28.000Z,2026-04-15T19:16:16.797Z
+40705,ProxmoxVE (PVE) NAT 网络配置方法,https://frytea.com/archives/1445/,https://www.frytea.com/index.xml,Frytea's Blog,2025-03-04T01:32:45.000Z,2026-04-15T19:16:16.797Z
+40706,Linux 备份和恢复 docker volume 脚本分享,https://frytea.com/archives/1443/,https://www.frytea.com/index.xml,Frytea's Blog,2025-02-27T15:36:16.000Z,2026-04-15T19:16:16.797Z
+40707,ArchLinux 休眠到交换文件,https://frytea.com/archives/1436/,https://www.frytea.com/index.xml,Frytea's Blog,2025-02-27T15:35:55.000Z,2026-04-15T19:16:16.797Z
+40708,Vim 下大小写敏感的搜索-替换,https://frytea.com/archives/1435/,https://www.frytea.com/index.xml,Frytea's Blog,2025-02-27T15:35:46.000Z,2026-04-15T19:16:16.797Z
+40709,对 tail -f 使用管道,https://frytea.com/archives/1434/,https://www.frytea.com/index.xml,Frytea's Blog,2025-02-27T15:35:38.000Z,2026-04-15T19:16:16.797Z
+40710,Vim 使用系统剪切板,https://frytea.com/archives/1433/,https://www.frytea.com/index.xml,Frytea's Blog,2025-02-23T06:04:53.000Z,2026-04-15T19:16:16.797Z
+40711,Vim 寄存器完全手册,https://frytea.com/archives/1432/,https://www.frytea.com/index.xml,Frytea's Blog,2025-02-23T06:04:43.000Z,2026-04-15T19:16:16.797Z
+40712,Vim 宏录制和重放,https://frytea.com/archives/1431/,https://www.frytea.com/index.xml,Frytea's Blog,2025-02-23T06:04:35.000Z,2026-04-15T19:16:16.797Z
+40713,ArchLinux 快速本地部署 DeepSeek,https://frytea.com/archives/1444/,https://www.frytea.com/index.xml,Frytea's Blog,2025-02-18T07:19:37.000Z,2026-04-15T19:16:16.797Z
+40714,全球艺术天气网站,https://frytea.com/archives/1430/,https://www.frytea.com/index.xml,Frytea's Blog,2025-02-02T15:08:00.000Z,2026-04-15T19:16:16.797Z
+40715,Docker 官方脚本一键安装,https://frytea.com/archives/1429/,https://www.frytea.com/index.xml,Frytea's Blog,2025-01-22T06:47:51.000Z,2026-04-15T19:16:16.797Z
+40716,《奔跑吧，程序员：从零开始打造产品、技术和团队》,https://frytea.com/archives/1425/,https://www.frytea.com/index.xml,Frytea's Blog,2025-01-20T15:30:39.000Z,2026-04-15T19:16:16.797Z
+40717,s3cmd  常见用法,https://frytea.com/archives/1419/,https://www.frytea.com/index.xml,Frytea's Blog,2025-01-20T15:30:24.000Z,2026-04-15T19:16:16.797Z
+40718,跟着 《Hell Yes! CSS!》和 AI 学 CSS,https://frytea.com/archives/1428/,https://www.frytea.com/index.xml,Frytea's Blog,2025-01-20T12:00:00.000Z,2026-04-15T19:16:16.797Z
+40719,《赵玉平说职场智慧》,https://frytea.com/archives/1424/,https://www.frytea.com/index.xml,Frytea's Blog,2025-01-19T05:41:16.000Z,2026-04-15T19:16:16.797Z
+40720,Rails 7  已有项目引入 Bootstrap 3,https://frytea.com/archives/1418/,https://www.frytea.com/index.xml,Frytea's Blog,2025-01-18T15:42:59.000Z,2026-04-15T19:16:16.797Z
+40721,Ruby 多版本管理工具 rbenv,https://frytea.com/archives/1420/,https://www.frytea.com/index.xml,Frytea's Blog,2025-01-09T09:55:44.000Z,2026-04-15T19:16:16.797Z
+40722,使用 GCOP AI 助力提升 git commit 效率,https://frytea.com/archives/1423/,https://www.frytea.com/index.xml,Frytea's Blog,2025-01-04T01:54:12.000Z,2026-04-15T19:16:16.797Z
+40723,Linux buffer-cache 占用过高性能调整,https://frytea.com/archives/1411/,https://www.frytea.com/index.xml,Frytea's Blog,2025-01-04T01:39:00.000Z,2026-04-15T19:16:16.797Z
+40724,VirtualBox VERR_NO_LOW_MEMORY 解决,https://frytea.com/archives/1412/,https://www.frytea.com/index.xml,Frytea's Blog,2025-01-04T01:39:00.000Z,2026-04-15T19:16:16.797Z
+40725,GitHub 个人仓库批量备份到自建 Gitea,https://frytea.com/archives/1417/,https://www.frytea.com/index.xml,Frytea's Blog,2025-01-03T10:12:00.000Z,2026-04-15T19:16:16.797Z
+40726,支持 helm 的 harbor 版本,https://frytea.com/archives/1409/,https://www.frytea.com/index.xml,Frytea's Blog,2024-12-30T15:54:00.000Z,2026-04-15T19:16:16.797Z
+40727,配置 harbor 及 docker 等使用 https,https://frytea.com/archives/1408/,https://www.frytea.com/index.xml,Frytea's Blog,2024-12-30T15:53:59.000Z,2026-04-15T19:16:16.797Z
+40728,[转] 编程十年的感悟,https://frytea.com/archives/1415/,https://www.frytea.com/index.xml,Frytea's Blog,2024-12-27T10:29:00.000Z,2026-04-15T19:16:16.797Z
+40729,【Ai Agent】智能体实验之城市天气画报,https://frytea.com/archives/1416/,https://www.frytea.com/index.xml,Frytea's Blog,2024-12-27T10:19:00.000Z,2026-04-15T19:16:16.797Z
+40730,收藏一个上古软件，在 Linux 终端上使用行编辑器 ed,https://frytea.com/archives/1407/,https://www.frytea.com/index.xml,Frytea's Blog,2024-12-24T11:23:18.000Z,2026-04-15T19:16:16.797Z
+40731,Buildah 简明教程：让镜像构建更轻量，告别 Docker 依赖,https://frytea.com/archives/1403/,https://www.frytea.com/index.xml,Frytea's Blog,2024-12-24T11:23:04.000Z,2026-04-15T19:16:16.797Z
+40732,2025年Gartner十大战略性技术趋势,https://frytea.com/archives/1414/,https://www.frytea.com/index.xml,Frytea's Blog,2024-12-23T16:17:44.000Z,2026-04-15T19:16:16.797Z
+40733,2024年Gartner十大战略性技术趋势,https://frytea.com/archives/1413/,https://www.frytea.com/index.xml,Frytea's Blog,2024-12-23T16:02:46.000Z,2026-04-15T19:16:16.797Z
+40734,tmux 加大缓冲区大小,https://frytea.com/archives/1398/,https://www.frytea.com/index.xml,Frytea's Blog,2024-12-21T06:53:29.000Z,2026-04-15T19:16:16.797Z
+40735,在Word文档中添加打勾的小方框,https://frytea.com/archives/1410/,https://www.frytea.com/index.xml,Frytea's Blog,2024-12-21T06:53:00.000Z,2026-04-15T19:16:16.797Z
+40736,推送 helm 到 harbor,https://frytea.com/archives/1406/,https://www.frytea.com/index.xml,Frytea's Blog,2024-12-20T11:00:00.000Z,2026-04-15T19:16:16.797Z
+40737,自托管 AIGC UI APP 汇总,https://frytea.com/archives/1405/,https://www.frytea.com/index.xml,Frytea's Blog,2024-12-20T04:16:00.000Z,2026-04-15T19:16:16.797Z
+40738,深度解析根技术、根产业及发展格局,https://frytea.com/archives/1404/,https://www.frytea.com/index.xml,Frytea's Blog,2024-12-19T10:20:07.000Z,2026-04-15T19:16:16.797Z
+40739,使用脚本镜像 helm charts 仓库,https://frytea.com/archives/1402/,https://www.frytea.com/index.xml,Frytea's Blog,2024-12-18T10:19:00.000Z,2026-04-15T19:16:16.797Z
+40740,Delve 调试 GO 程序,https://frytea.com/archives/1397/,https://www.frytea.com/index.xml,Frytea's Blog,2024-12-18T10:17:17.000Z,2026-04-15T19:16:16.797Z
+40741,以沙箱的方式运行容器-安全容器Kata Containers,https://frytea.com/archives/1393/,https://www.frytea.com/index.xml,Frytea's Blog,2024-12-18T10:17:08.000Z,2026-04-15T19:16:16.797Z
+40742,快速清理 docker 容器和镜像等资源,https://frytea.com/archives/1392/,https://www.frytea.com/index.xml,Frytea's Blog,2024-12-14T14:59:47.000Z,2026-04-15T19:16:16.797Z
+40743,HA 可用性表格,https://frytea.com/archives/1401/,https://www.frytea.com/index.xml,Frytea's Blog,2024-12-14T14:59:30.000Z,2026-04-15T19:16:16.797Z
+40744,Linux SWAP 占用情况排查 - smem,https://frytea.com/archives/1399/,https://www.frytea.com/index.xml,Frytea's Blog,2024-12-13T10:52:08.000Z,2026-04-15T19:16:16.797Z
+40745,毫秒到秒以及更多关于时间尺度,https://frytea.com/archives/1400/,https://www.frytea.com/index.xml,Frytea's Blog,2024-12-13T10:39:00.000Z,2026-04-15T19:16:16.797Z
+40746,linux vps dd windows,https://frytea.com/archives/1389/,https://www.frytea.com/index.xml,Frytea's Blog,2024-12-13T10:25:00.000Z,2026-04-15T19:16:16.797Z
+40747,AI Prompt 整理,https://frytea.com/archives/1396/,https://www.frytea.com/index.xml,Frytea's Blog,2024-12-12T10:50:00.000Z,2026-04-15T19:16:16.797Z
+40748,dig获取并批量路由IP地址到指定网关,https://frytea.com/archives/1386/,https://www.frytea.com/index.xml,Frytea's Blog,2024-12-12T10:50:00.000Z,2026-04-15T19:16:16.797Z
+40749,查看文件所属 RPM 包的方法,https://frytea.com/archives/1387/,https://www.frytea.com/index.xml,Frytea's Blog,2024-12-11T23:20:00.000Z,2026-04-15T19:16:16.797Z
+40750,Git 覆写上次提交,https://frytea.com/archives/1385/,https://www.frytea.com/index.xml,Frytea's Blog,2024-12-11T23:19:00.000Z,2026-04-15T19:16:16.797Z
+40751,Linux 网卡多队列配置方法,https://frytea.com/archives/1395/,https://www.frytea.com/index.xml,Frytea's Blog,2024-12-10T10:03:00.000Z,2026-04-15T19:16:16.797Z
+40752,使用 GDB 调试 Go 程序,https://frytea.com/archives/1394/,https://www.frytea.com/index.xml,Frytea's Blog,2024-12-10T10:03:00.000Z,2026-04-15T19:16:16.797Z
+40753,Linux overcommit 及 oom-killer 机制,https://frytea.com/archives/1388/,https://www.frytea.com/index.xml,Frytea's Blog,2024-12-06T10:11:00.000Z,2026-04-15T19:16:16.797Z
+40754,listmonk 导入 Mailchimp 邮件清单,https://frytea.com/archives/1379/,https://www.frytea.com/index.xml,Frytea's Blog,2024-12-06T10:06:00.000Z,2026-04-15T19:16:16.797Z
+40755,基于 listmonk 实现 rss to mail,https://frytea.com/archives/1380/,https://www.frytea.com/index.xml,Frytea's Blog,2024-12-06T10:06:00.000Z,2026-04-15T19:16:16.797Z
+40756,Docker 部署 mautic 并增加插件和翻译包等,https://frytea.com/archives/1381/,https://www.frytea.com/index.xml,Frytea's Blog,2024-12-03T11:49:59.000Z,2026-04-15T19:16:16.797Z
+40757,Ceph RBD 查看实际占用top,https://frytea.com/archives/1375/,https://www.frytea.com/index.xml,Frytea's Blog,2024-12-02T10:12:37.000Z,2026-04-15T19:16:16.797Z
+40758,Bash 条件判断,https://frytea.com/archives/1374/,https://www.frytea.com/index.xml,Frytea's Blog,2024-12-02T10:12:28.000Z,2026-04-15T19:16:16.797Z
+40759,Z-Library 官方地址入口,https://frytea.com/archives/1384/,https://www.frytea.com/index.xml,Frytea's Blog,2024-12-01T06:32:00.000Z,2026-04-15T19:16:16.797Z
+40760,SmokePing 搭建及多节点探测,https://frytea.com/archives/1373/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-30T17:59:28.000Z,2026-04-15T19:16:16.797Z
+40761,BWH DC99 掉线事件记录,https://frytea.com/archives/1383/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-30T17:08:00.000Z,2026-04-15T19:16:16.797Z
+40762,常用在线网络测试工具的对比矩阵,https://frytea.com/archives/1382/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-30T16:53:00.000Z,2026-04-15T19:16:16.797Z
+40763,RockLinux 安装 Docker,https://frytea.com/archives/1371/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-29T10:40:01.000Z,2026-04-15T19:16:16.797Z
+40764,常用公共 DNS 服务器,https://frytea.com/archives/1372/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-29T10:40:00.000Z,2026-04-15T19:16:16.797Z
+40765,ArchLinux 图片压缩工具,https://frytea.com/archives/1370/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-29T10:39:52.000Z,2026-04-15T19:16:16.797Z
+40766,K8s 第一个容器及服务 whoami,https://frytea.com/archives/1367/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-28T10:11:38.000Z,2026-04-15T19:16:16.797Z
+40767,kuboard v3 快速部署,https://frytea.com/archives/1366/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-28T10:11:29.000Z,2026-04-15T19:16:16.797Z
+40768,Ubuntu 22.04设置DNS,https://frytea.com/archives/1365/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-28T10:11:14.000Z,2026-04-15T19:16:16.797Z
+40769,claw hk 网络监控稳定晚上出现小幅波动,https://frytea.com/archives/1378/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-27T15:56:46.000Z,2026-04-15T19:16:16.797Z
+40770,Obsidian 多设备同步方案整理,https://frytea.com/archives/1377/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-26T11:21:00.000Z,2026-04-15T19:16:16.797Z
+40771,各大云服务主机商测试 IP 整理,https://frytea.com/archives/1376/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-23T16:12:00.000Z,2026-04-15T19:16:16.797Z
+40772,查找文件所属 rpm 安装包的方法,https://frytea.com/archives/1364/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-23T03:00:12.000Z,2026-04-15T19:16:16.797Z
+40773,Kubespray 部署生产级 k8s 集群,https://frytea.com/archives/1363/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-23T03:00:00.000Z,2026-04-15T19:16:16.797Z
+40774,OpenWRT 软件源整理,https://frytea.com/archives/1354/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-23T02:59:38.000Z,2026-04-15T19:16:16.797Z
+40775,镜像操作神器 skopeo 用法总结,https://frytea.com/archives/1353/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-23T02:59:30.000Z,2026-04-15T19:16:16.797Z
+40776,开源项目管理软件对比总结,https://frytea.com/archives/1350/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-23T02:59:22.000Z,2026-04-15T19:16:16.797Z
+40777,Linux 使用 rinetd 实现端口转发重定向,https://frytea.com/archives/1357/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-23T02:59:11.000Z,2026-04-15T19:16:16.797Z
+40778,mysql bin 日志过大处理方法,https://frytea.com/archives/1356/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-23T02:59:01.000Z,2026-04-15T19:16:16.797Z
+40779,BWH-DC99,https://frytea.com/archives/1359/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-21T16:12:48.000Z,2026-04-15T19:16:16.797Z
+40780,Hetzner-CX22,https://frytea.com/archives/1360/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-21T16:12:32.000Z,2026-04-15T19:16:16.797Z
+40781,Aliyun-ecs.e-c1m1.large,https://frytea.com/archives/1361/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-21T16:12:16.000Z,2026-04-15T19:16:16.797Z
+40782,Tencent-轻量-2C4G,https://frytea.com/archives/1362/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-21T16:12:09.000Z,2026-04-15T19:16:16.797Z
+40783,SugarHosts 2024 圣诞活动,https://frytea.com/archives/1368/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-21T11:07:00.000Z,2026-04-15T19:16:16.797Z
+40784,DogYun-HK-EQ,https://frytea.com/archives/1369/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-21T11:05:00.000Z,2026-04-15T19:16:16.797Z
+40785,Kubernetes 使用 Kubectl 重启 Pod 的多种方法,https://frytea.com/archives/1349/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-20T10:10:31.000Z,2026-04-15T19:16:16.797Z
+40786,使用 earlyoom 提前终止 Linux 高内存占用进程,https://frytea.com/archives/1348/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-20T10:09:47.000Z,2026-04-15T19:16:16.797Z
+40787,2024 年黑五云服务活动汇总,https://frytea.com/archives/1358/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-20T10:09:00.000Z,2026-04-15T19:16:16.797Z
+40788,Kubernetes 使用 multus 插件增加子接口并固定 ip,https://frytea.com/archives/1347/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-19T16:17:46.000Z,2026-04-15T19:16:16.797Z
+40789,华为官方鸿蒙开发者及核心云技术认证仅需1元,https://frytea.com/archives/1352/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-16T02:55:00.000Z,2026-04-15T19:16:16.797Z
+40790,华为云沃土计划，401元无门槛代金券,https://frytea.com/archives/1351/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-16T02:47:28.000Z,2026-04-15T19:16:16.797Z
+40791,kubernetes 使用 multus 为 pod 增加子接口,https://frytea.com/archives/1346/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-15T13:01:05.000Z,2026-04-15T19:16:16.797Z
+40792,Oracle Cloud （甲骨文云）全球各主要地区 IP 测试地址,https://frytea.com/archives/1344/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-15T13:00:43.000Z,2026-04-15T19:16:16.797Z
+40793,解决 PVE 报错 rbd error list images,https://frytea.com/archives/1345/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-14T11:47:06.000Z,2026-04-15T19:16:16.797Z
+40794,getopts 处理 shell 参数,https://frytea.com/archives/1337/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-14T11:46:53.000Z,2026-04-15T19:16:16.797Z
+40795,名侦探柯南松田阵平出场集数（最新1069话）,https://frytea.com/archives/1343/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-13T04:01:00.000Z,2026-04-15T19:16:16.797Z
+40796,rsync 用法教程,https://frytea.com/archives/1336/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-11T13:51:44.000Z,2026-04-15T19:16:16.797Z
+40797,k8s 使用官方 compose 部署 plausible,https://frytea.com/archives/1335/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-11T13:50:41.000Z,2026-04-15T19:16:16.797Z
+40798,Vim 替换文本,https://frytea.com/archives/1334/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-10T11:40:21.000Z,2026-04-15T19:16:16.797Z
+40799,限制线程数避免Hugo资源耗尽被杀,https://frytea.com/archives/1333/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-10T11:40:10.000Z,2026-04-15T19:16:16.797Z
+40800,名侦探柯南妃英理出场集数（最新1069话）,https://frytea.com/archives/1341/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-10T11:40:00.000Z,2026-04-15T19:16:16.797Z
+40801,《名侦探柯南》官方人气投票结果,https://frytea.com/archives/1340/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-09T02:33:00.000Z,2026-04-15T19:16:16.797Z
+40802,名侦探柯南TV安室透出场集数（最新1110话）,https://frytea.com/archives/1339/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-09T02:27:00.000Z,2026-04-15T19:16:16.797Z
+40803,apt 源 Connection reset by peer 问题解决,https://frytea.com/archives/1331/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-08T10:08:14.000Z,2026-04-15T19:16:16.797Z
+40804,Linux 能否使用 ACL 默认为新目录配置粘滞位,https://frytea.com/archives/1326/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-08T10:08:07.000Z,2026-04-15T19:16:16.797Z
+40805,软件架构开发模型特征总结,https://frytea.com/archives/1338/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-08T10:07:21.000Z,2026-04-15T19:16:16.797Z
+40806,名侦探柯南TV赤井秀一出场集数（更新至1194话）,https://frytea.com/archives/1332/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-08T10:07:00.000Z,2026-04-15T19:16:16.797Z
+40807,Linux 文件管理之隐藏属性,https://frytea.com/archives/1327/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-03T06:40:03.000Z,2026-04-15T19:16:16.797Z
+40808,宝塔面板手动编译安装 PHP 插件 fileinfo,https://frytea.com/archives/1330/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-02T06:22:00.000Z,2026-04-15T19:16:16.797Z
+40809,《凤凰架构：构建可靠的大型分布式系统》,https://frytea.com/archives/1321/,https://www.frytea.com/index.xml,Frytea's Blog,2024-11-01T16:50:28.000Z,2026-04-15T19:16:16.797Z
+40810,Linux 文件管理之默认权限 umask,https://frytea.com/archives/1324/,https://www.frytea.com/index.xml,Frytea's Blog,2024-10-31T12:46:41.000Z,2026-04-15T19:16:16.797Z
+40811,煮雪 - 林清玄,https://frytea.com/archives/1328/,https://www.frytea.com/index.xml,Frytea's Blog,2024-10-31T12:46:28.000Z,2026-04-15T19:16:16.797Z
+40812,[转]名侦探柯南TV主线集数整理（截止1165集）,https://frytea.com/archives/1329/,https://www.frytea.com/index.xml,Frytea's Blog,2024-10-31T12:46:00.000Z,2026-04-15T19:16:16.797Z
+40813,Linux 文件管理之特殊权限,https://frytea.com/archives/1323/,https://www.frytea.com/index.xml,Frytea's Blog,2024-10-29T17:19:03.000Z,2026-04-15T19:16:16.797Z
+40814,Linux 文件管理常规操作,https://frytea.com/archives/1322/,https://www.frytea.com/index.xml,Frytea's Blog,2024-10-29T17:18:52.000Z,2026-04-15T19:16:16.797Z
+40815,Linux 粘滞位 Sticky Bit,https://frytea.com/archives/1325/,https://www.frytea.com/index.xml,Frytea's Blog,2024-10-28T10:09:46.000Z,2026-04-15T19:16:16.797Z
+40816,《芯片战争：世界最关键技术的争夺战（财之道丛书）》,https://frytea.com/archives/1320/,https://www.frytea.com/index.xml,Frytea's Blog,2024-10-26T09:25:00.000Z,2026-04-15T19:16:16.797Z
+40817,架构风格总结,https://frytea.com/archives/1319/,https://www.frytea.com/index.xml,Frytea's Blog,2024-10-26T09:18:00.000Z,2026-04-15T19:16:16.797Z
+40818,软件架构设计必备概念,https://frytea.com/archives/1318/,https://www.frytea.com/index.xml,Frytea's Blog,2024-10-26T09:18:00.000Z,2026-04-15T19:16:16.797Z
+40819,Kubernetes helm 部署 prometheus stack,https://frytea.com/archives/1316/,https://www.frytea.com/index.xml,Frytea's Blog,2024-10-22T14:25:08.000Z,2026-04-15T19:16:16.797Z
+40820,kompose 转换 docker compose 应用为 k8s 资源清单,https://frytea.com/archives/1315/,https://www.frytea.com/index.xml,Frytea's Blog,2024-10-22T00:02:57.000Z,2026-04-15T19:16:16.797Z
+40821,kubernetes 部署 cert-manager 快速实现自动 ssl,https://frytea.com/archives/1314/,https://www.frytea.com/index.xml,Frytea's Blog,2024-10-20T10:45:51.000Z,2026-04-15T19:16:16.797Z
+40822,临时解决 vagrant 不支持 virtualbox7.1,https://frytea.com/archives/1313/,https://www.frytea.com/index.xml,Frytea's Blog,2024-10-19T16:25:01.000Z,2026-04-15T19:16:16.797Z
+40823,查看 linux 安装时间,https://frytea.com/archives/1312/,https://www.frytea.com/index.xml,Frytea's Blog,2024-10-18T16:48:10.000Z,2026-04-15T19:16:16.797Z
+40824,《解密》,https://frytea.com/archives/1309/,https://www.frytea.com/index.xml,Frytea's Blog,2024-10-13T06:22:22.000Z,2026-04-15T19:16:16.797Z
+40825,《Helm学习指南：Kubernetes上的应用程序管理》,https://frytea.com/archives/1310/,https://www.frytea.com/index.xml,Frytea's Blog,2024-10-06T10:56:00.000Z,2026-04-15T19:16:16.797Z
+40826,《大话设计模式》,https://frytea.com/archives/1311/,https://www.frytea.com/index.xml,Frytea's Blog,2024-10-05T10:00:00.000Z,2026-04-15T19:16:16.797Z
+40827,[转译] 深思熟虑的编程练习,https://frytea.com/archives/1300/,https://www.frytea.com/index.xml,Frytea's Blog,2024-10-01T10:04:59.000Z,2026-04-15T19:16:16.797Z
+40828,[转译] CheatGPT,https://frytea.com/archives/1301/,https://www.frytea.com/index.xml,Frytea's Blog,2024-10-01T10:04:49.000Z,2026-04-15T19:16:16.797Z
+40829,[转译] 别相信任何告诉你编程很简单的人,https://frytea.com/archives/1299/,https://www.frytea.com/index.xml,Frytea's Blog,2024-09-27T16:38:03.000Z,2026-04-15T19:16:16.797Z
+40830,[转译] 如何增加休息时间来提升你的工作效率,https://frytea.com/archives/1302/,https://www.frytea.com/index.xml,Frytea's Blog,2024-09-26T14:57:59.000Z,2026-04-15T19:16:16.797Z
+40831,[转译] 如何成为一个好的开发者？,https://frytea.com/archives/1298/,https://www.frytea.com/index.xml,Frytea's Blog,2024-09-26T14:57:00.000Z,2026-04-15T19:16:16.797Z
+40832,解决 archlinux fcitx5 中文输入错漏乱序问题,https://frytea.com/archives/1297/,https://www.frytea.com/index.xml,Frytea's Blog,2024-09-20T01:17:00.000Z,2026-04-15T19:16:16.797Z
+40833,虽怀念必前行,https://frytea.com/archives/1296/,https://www.frytea.com/index.xml,Frytea's Blog,2024-09-14T10:20:00.000Z,2026-04-15T19:16:16.797Z
+40834,好久没有写毛笔字了,https://frytea.com/archives/1290/,https://www.frytea.com/index.xml,Frytea's Blog,2024-09-08T07:28:00.000Z,2026-04-15T19:16:16.797Z
+40835,网站上线一周不到就被全站克隆,https://frytea.com/archives/1287/,https://www.frytea.com/index.xml,Frytea's Blog,2024-09-07T02:28:39.000Z,2026-04-15T19:16:16.797Z
+40836,解决 containerd Name is already used,https://frytea.com/archives/1208/,https://www.frytea.com/index.xml,Frytea's Blog,2024-08-25T04:00:21.000Z,2026-04-15T19:16:16.797Z
+40837,neovim 打通 OS 剪贴板,https://frytea.com/archives/1183/,https://www.frytea.com/index.xml,Frytea's Blog,2024-08-25T04:00:08.000Z,2026-04-15T19:16:16.797Z
+40838,Kubernetes 1.22.17 源码阅读指南,https://frytea.com/archives/1267/,https://www.frytea.com/index.xml,Frytea's Blog,2024-08-25T03:59:58.000Z,2026-04-15T19:16:16.797Z
+40839,Kubeadm 版本与 API 版本对应,https://frytea.com/archives/1227/,https://www.frytea.com/index.xml,Frytea's Blog,2024-08-25T03:59:44.000Z,2026-04-15T19:16:16.797Z
+40840,git 创建全新分支,https://frytea.com/archives/1187/,https://www.frytea.com/index.xml,Frytea's Blog,2024-08-25T03:59:34.000Z,2026-04-15T19:16:16.797Z
+40841,linux下显示dd命令的进度,https://frytea.com/archives/1195/,https://www.frytea.com/index.xml,Frytea's Blog,2024-08-25T03:59:24.000Z,2026-04-15T19:16:16.797Z
+40842,archlinux 列出来自 aur 安装的包,https://frytea.com/archives/1206/,https://www.frytea.com/index.xml,Frytea's Blog,2024-08-25T03:58:01.000Z,2026-04-15T19:16:16.797Z
+40843,用 testdisk 恢复 Linux 上已删除的文件,https://frytea.com/archives/1245/,https://www.frytea.com/index.xml,Frytea's Blog,2024-08-25T03:57:20.000Z,2026-04-15T19:16:16.797Z
+40844,简单工厂模式,https://frytea.com/archives/1148/,https://www.frytea.com/index.xml,Frytea's Blog,2024-08-25T03:57:04.000Z,2026-04-15T19:16:16.797Z
+40845,数据存储单位,https://frytea.com/archives/1146/,https://www.frytea.com/index.xml,Frytea's Blog,2024-08-25T03:56:00.000Z,2026-04-15T19:16:16.797Z
+40846,linux 配置登陆 MOTD,https://frytea.com/archives/1216/,https://www.frytea.com/index.xml,Frytea's Blog,2024-08-25T03:55:31.000Z,2026-04-15T19:16:16.797Z
+40847,ubuntu 配置 nfs 服务,https://frytea.com/archives/1220/,https://www.frytea.com/index.xml,Frytea's Blog,2024-07-27T08:43:42.000Z,2026-04-15T19:16:16.797Z
+40848,ubuntu 克隆 netplan dhcp ip 冲突问题,https://frytea.com/archives/1218/,https://www.frytea.com/index.xml,Frytea's Blog,2024-07-27T08:43:23.000Z,2026-04-15T19:16:16.797Z
+40849,Windows XP 所有版本密钥集合,https://frytea.com/archives/1185/,https://www.frytea.com/index.xml,Frytea's Blog,2024-07-27T08:43:13.000Z,2026-04-15T19:16:16.797Z
+40850,PVE 解决  x86/split lock detection,https://frytea.com/archives/1252/,https://www.frytea.com/index.xml,Frytea's Blog,2024-07-27T08:43:01.000Z,2026-04-15T19:16:16.797Z
+40851,VirtualBox 安装 macOS,https://frytea.com/archives/1285/,https://www.frytea.com/index.xml,Frytea's Blog,2024-07-27T08:42:43.000Z,2026-04-15T19:16:16.797Z
+40852,Docker  交叉编译多架构镜像,https://frytea.com/archives/1271/,https://www.frytea.com/index.xml,Frytea's Blog,2024-07-27T08:42:31.000Z,2026-04-15T19:16:16.797Z
+40853,《人月神话》,https://frytea.com/archives/1062/,https://www.frytea.com/index.xml,Frytea's Blog,2024-07-11T10:59:29.000Z,2026-04-15T19:16:16.797Z
+40854,Linux 生成随机字符串的方法,https://frytea.com/archives/1276/,https://www.frytea.com/index.xml,Frytea's Blog,2024-06-30T04:54:00.000Z,2026-04-15T19:16:16.797Z
+40855,debian 软件包仓库优先级配置,https://frytea.com/archives/1270/,https://www.frytea.com/index.xml,Frytea's Blog,2024-06-30T04:53:21.000Z,2026-04-15T19:16:16.797Z
+40856,软件分发方法概述,https://frytea.com/archives/1137/,https://www.frytea.com/index.xml,Frytea's Blog,2024-06-30T04:53:10.000Z,2026-04-15T19:16:16.797Z
+40857,自建多设备电子书阅读及进度同步方案,https://frytea.com/archives/1179/,https://www.frytea.com/index.xml,Frytea's Blog,2024-06-30T04:53:00.000Z,2026-04-15T19:16:16.797Z
+40858,在 Docker 中运行 Docker DinD,https://frytea.com/archives/1250/,https://www.frytea.com/index.xml,Frytea's Blog,2024-06-30T04:52:36.000Z,2026-04-15T19:16:16.797Z
+40859,archlinux 升级忽略某软件包,https://frytea.com/archives/1284/,https://www.frytea.com/index.xml,Frytea's Blog,2024-06-30T04:52:00.000Z,2026-04-15T19:16:16.797Z
+40860,《普林斯顿计算机公开课》,https://frytea.com/archives/1046/,https://www.frytea.com/index.xml,Frytea's Blog,2024-06-30T04:51:19.000Z,2026-04-15T19:16:16.797Z
+40861,2024-06-29 #26,https://frytea.com/archives/1120/,https://www.frytea.com/index.xml,Frytea's Blog,2024-06-30T04:51:00.000Z,2026-04-15T19:16:16.797Z
+40862,《云边有个小卖铺》,https://frytea.com/archives/1083/,https://www.frytea.com/index.xml,Frytea's Blog,2024-06-30T02:09:02.000Z,2026-04-15T19:16:16.797Z
+40863,PVE 获取 cloud 镜像快速初始化 VM,https://frytea.com/archives/1175/,https://www.frytea.com/index.xml,Frytea's Blog,2024-06-23T02:11:48.000Z,2026-04-15T19:16:16.797Z
+40864,linux 前后台切换,https://frytea.com/archives/1188/,https://www.frytea.com/index.xml,Frytea's Blog,2024-06-23T02:09:00.000Z,2026-04-15T19:16:16.797Z
+40865,代码量统计方案,https://frytea.com/archives/1182/,https://www.frytea.com/index.xml,Frytea's Blog,2024-06-23T02:08:00.000Z,2026-04-15T19:16:16.797Z
+40866,python setup.py 安装和卸载,https://frytea.com/archives/1223/,https://www.frytea.com/index.xml,Frytea's Blog,2024-06-23T02:07:33.000Z,2026-04-15T19:16:16.797Z
+40867,Tmux 常用快捷键,https://frytea.com/archives/1255/,https://www.frytea.com/index.xml,Frytea's Blog,2024-06-23T02:06:00.000Z,2026-04-15T19:16:16.797Z
+40868,使用 registry/distribution 自建Docker Hub镜像服务,https://frytea.com/archives/1180/,https://www.frytea.com/index.xml,Frytea's Blog,2024-06-23T02:05:00.000Z,2026-04-15T19:16:16.797Z
+40869,《UNIX传奇》,https://frytea.com/archives/1061/,https://www.frytea.com/index.xml,Frytea's Blog,2024-06-11T11:55:20.000Z,2026-04-15T19:16:16.797Z
+40870,《鱿鱼游戏》,https://frytea.com/archives/1084/,https://www.frytea.com/index.xml,Frytea's Blog,2024-06-10T08:22:31.000Z,2026-04-15T19:16:16.797Z
+40871,linux 显示 16 进制内容 - xxd,https://frytea.com/archives/1243/,https://www.frytea.com/index.xml,Frytea's Blog,2024-05-30T16:27:01.000Z,2026-04-15T19:16:16.797Z
+40872,Python 虚拟环境工具 conda 用法,https://frytea.com/archives/1264/,https://www.frytea.com/index.xml,Frytea's Blog,2024-05-29T14:19:17.000Z,2026-04-15T19:16:16.797Z
+40873,pve lxc 映射主机路径到容器,https://frytea.com/archives/1193/,https://www.frytea.com/index.xml,Frytea's Blog,2024-05-29T14:18:56.000Z,2026-04-15T19:16:16.797Z
+40874,Linux 防暴力破解 - fail2ban,https://frytea.com/archives/1241/,https://www.frytea.com/index.xml,Frytea's Blog,2024-05-29T14:18:41.000Z,2026-04-15T19:16:16.797Z
+40875,Linux 下使用 ClamAV 扫描病毒,https://frytea.com/archives/1236/,https://www.frytea.com/index.xml,Frytea's Blog,2024-05-29T14:18:28.000Z,2026-04-15T19:16:16.797Z
+40876,archlinux gnome 安装 fcitx5 及扩展面板,https://frytea.com/archives/1278/,https://www.frytea.com/index.xml,Frytea's Blog,2024-05-26T08:38:07.000Z,2026-04-15T19:16:16.797Z
+40877,pixel4 xl 安装 PixysOS v7.1.2 Beta4,https://frytea.com/archives/1275/,https://www.frytea.com/index.xml,Frytea's Blog,2024-05-26T08:37:36.000Z,2026-04-15T19:16:16.797Z
+40878,gitlab 迁移后CI/CD页面500错误问题,https://frytea.com/archives/1177/,https://www.frytea.com/index.xml,Frytea's Blog,2024-05-26T08:37:00.000Z,2026-04-15T19:16:16.797Z
+40879,使用 ModelArts 训练并发布手写数字识别模型,https://frytea.com/archives/1156/,https://www.frytea.com/index.xml,Frytea's Blog,2024-05-26T08:36:00.000Z,2026-04-15T19:16:16.797Z
+40880,containerd 命令行工具 nerdctl 和 crictl,https://frytea.com/archives/1281/,https://www.frytea.com/index.xml,Frytea's Blog,2024-05-26T08:35:00.000Z,2026-04-15T19:16:16.797Z
+40881,linux 查看运行 xwayland 程序清单,https://frytea.com/archives/1186/,https://www.frytea.com/index.xml,Frytea's Blog,2024-05-18T16:30:45.000Z,2026-04-15T19:16:16.797Z
+40882,GNOME 新增应用状态图标拓展,https://frytea.com/archives/1212/,https://www.frytea.com/index.xml,Frytea's Blog,2024-05-18T16:30:00.000Z,2026-04-15T19:16:16.797Z
+40883,Archlinux 基于 waydroid运行 android,https://frytea.com/archives/1207/,https://www.frytea.com/index.xml,Frytea's Blog,2024-05-18T16:29:00.000Z,2026-04-15T19:16:16.797Z
+40884,2023 年终 - 酸甜苦辣人间真味,https://frytea.com/archives/1116/,https://www.frytea.com/index.xml,Frytea's Blog,2023-12-24T06:04:00.000Z,2026-04-15T19:16:16.797Z
+40885,2023 周录 #51 感谢自己不完美,https://frytea.com/archives/1085/,https://www.frytea.com/index.xml,Frytea's Blog,2023-12-23T04:41:00.000Z,2026-04-15T19:16:16.797Z
+40886,2023 周录 #50 告别 13mini 你好 Mate60,https://frytea.com/archives/1086/,https://www.frytea.com/index.xml,Frytea's Blog,2023-12-16T18:15:00.000Z,2026-04-15T19:16:16.797Z
+40887,Harbor使用方法,https://frytea.com/archives/1268/,https://www.frytea.com/index.xml,Frytea's Blog,2023-08-19T04:19:51.000Z,2026-04-15T19:16:16.797Z
+40888,debian 挂载官方 iso 为本地 apt 软件源,https://frytea.com/archives/1240/,https://www.frytea.com/index.xml,Frytea's Blog,2023-08-19T04:19:20.000Z,2026-04-15T19:16:16.797Z
+40889,go 闭包函数问题,https://frytea.com/archives/1273/,https://www.frytea.com/index.xml,Frytea's Blog,2023-08-19T04:16:49.000Z,2026-04-15T19:16:16.797Z
+40890,多 GPU CUDA 压力测试,https://frytea.com/archives/1238/,https://www.frytea.com/index.xml,Frytea's Blog,2023-08-19T04:15:25.000Z,2026-04-15T19:16:16.797Z
+40891,开源许可证GPL、BSD、MIT、Mozilla、Apache和LGPL的区别,https://frytea.com/archives/1147/,https://www.frytea.com/index.xml,Frytea's Blog,2023-08-19T04:14:01.000Z,2026-04-15T19:16:16.797Z
+40892,Linux 终端获取本机公网 IP 的方法,https://frytea.com/archives/1199/,https://www.frytea.com/index.xml,Frytea's Blog,2023-08-19T04:13:06.000Z,2026-04-15T19:16:16.797Z
+40893,GPT4检验方法,https://frytea.com/archives/1141/,https://www.frytea.com/index.xml,Frytea's Blog,2023-08-16T10:00:00.000Z,2026-04-15T19:16:16.797Z
+40894,Youtube Premium 优惠攻略,https://frytea.com/archives/1176/,https://www.frytea.com/index.xml,Frytea's Blog,2023-08-13T08:40:22.000Z,2026-04-15T19:16:16.797Z
+40895,搬瓦工所有机房信息及测试 IP 一览（2023）,https://frytea.com/archives/1178/,https://www.frytea.com/index.xml,Frytea's Blog,2023-08-13T08:40:22.000Z,2026-04-15T19:16:16.797Z
+40896,iperf3 网络性能测试,https://frytea.com/archives/1247/,https://www.frytea.com/index.xml,Frytea's Blog,2023-07-31T07:46:53.000Z,2026-04-15T19:16:16.797Z
+40897,自建 speedtest 服务端 web 并使用 cli 测试内网带宽,https://frytea.com/archives/1215/,https://www.frytea.com/index.xml,Frytea's Blog,2023-07-25T09:36:00.000Z,2026-04-15T19:16:16.797Z
+40898,vim 分割窗口打开内建 shell,https://frytea.com/archives/1190/,https://www.frytea.com/index.xml,Frytea's Blog,2023-07-25T09:23:36.000Z,2026-04-15T19:16:16.797Z
+40899,debian 挂载 iso 为本地 apt 软件源,https://frytea.com/archives/1217/,https://www.frytea.com/index.xml,Frytea's Blog,2023-07-22T02:16:27.000Z,2026-04-15T19:16:16.797Z
+40900,Debian 开启 IOMMU 支持,https://frytea.com/archives/1253/,https://www.frytea.com/index.xml,Frytea's Blog,2023-07-22T02:11:50.000Z,2026-04-15T19:16:16.797Z
+40901,nexus3 上传 docker 镜像,https://frytea.com/archives/1274/,https://www.frytea.com/index.xml,Frytea's Blog,2023-07-19T06:00:03.000Z,2026-04-15T19:16:16.797Z
+40902,macOS 内存测试 memtest,https://frytea.com/archives/1231/,https://www.frytea.com/index.xml,Frytea's Blog,2023-07-19T02:52:55.000Z,2026-04-15T19:16:16.797Z
+40903,查看所有由 docker-compose 启动的 docker,https://frytea.com/archives/1263/,https://www.frytea.com/index.xml,Frytea's Blog,2023-07-19T02:51:10.000Z,2026-04-15T19:16:16.797Z
+40904,ipmitool 基本使用,https://frytea.com/archives/1280/,https://www.frytea.com/index.xml,Frytea's Blog,2023-07-17T03:47:00.000Z,2026-04-15T19:16:16.797Z
+40905,SSH 密钥类型及格式,https://frytea.com/archives/1282/,https://www.frytea.com/index.xml,Frytea's Blog,2023-06-26T02:07:27.000Z,2026-04-15T19:16:16.797Z
+40906,使用 java 手动执行生成的类文件,https://frytea.com/archives/1256/,https://www.frytea.com/index.xml,Frytea's Blog,2023-06-20T15:59:20.000Z,2026-04-15T19:16:16.797Z
+40907,检查网站的TLS版本,https://frytea.com/archives/1279/,https://www.frytea.com/index.xml,Frytea's Blog,2023-05-26T02:52:34.000Z,2026-04-15T19:16:16.797Z
+40908,解决 target is busy 的一种方法,https://frytea.com/archives/1213/,https://www.frytea.com/index.xml,Frytea's Blog,2023-05-25T09:26:42.000Z,2026-04-15T19:16:16.797Z
+40909,macOS 禁用 Safari 下载自动解压,https://frytea.com/archives/1205/,https://www.frytea.com/index.xml,Frytea's Blog,2023-05-25T01:07:05.000Z,2026-04-15T19:16:16.797Z
+40910,debian bullseye iptables 配置持久化,https://frytea.com/archives/1258/,https://www.frytea.com/index.xml,Frytea's Blog,2023-05-23T02:07:50.000Z,2026-04-15T19:16:16.797Z
+40911,sshd 拒绝连接错误 refused connected from,https://frytea.com/archives/1283/,https://www.frytea.com/index.xml,Frytea's Blog,2023-05-19T02:16:16.000Z,2026-04-15T19:16:16.797Z
+40912,Linux 常见主设备号设备清单,https://frytea.com/archives/1138/,https://www.frytea.com/index.xml,Frytea's Blog,2023-05-18T02:34:59.000Z,2026-04-15T19:16:16.797Z
+40913,Linux 常见固定主次设备号设备清单,https://frytea.com/archives/1134/,https://www.frytea.com/index.xml,Frytea's Blog,2023-05-18T02:06:09.000Z,2026-04-15T19:16:16.797Z
+40914,Unix/Linux 常见设备清单,https://frytea.com/archives/1136/,https://www.frytea.com/index.xml,Frytea's Blog,2023-05-18T02:01:10.000Z,2026-04-15T19:16:16.797Z
+40915,Unix/Linux 常见设备类型前缀清单,https://frytea.com/archives/1143/,https://www.frytea.com/index.xml,Frytea's Blog,2023-05-18T01:58:28.000Z,2026-04-15T19:16:16.797Z
+40916,替换 apt-key 导入私有公钥,https://frytea.com/archives/1192/,https://www.frytea.com/index.xml,Frytea's Blog,2023-05-17T03:29:33.000Z,2026-04-15T19:16:16.797Z
+40917,PVE 迁入 Win xp/2003 解决蓝屏问题,https://frytea.com/archives/1194/,https://www.frytea.com/index.xml,Frytea's Blog,2023-05-12T02:47:52.000Z,2026-04-15T19:16:16.797Z
+40918,群晖 nas 连接 Headscale,https://frytea.com/archives/1225/,https://www.frytea.com/index.xml,Frytea's Blog,2023-05-11T09:42:54.000Z,2026-04-15T19:16:16.797Z
+40919,LXC 开机自启,https://frytea.com/archives/1189/,https://www.frytea.com/index.xml,Frytea's Blog,2023-05-08T11:56:54.000Z,2026-04-15T19:16:16.797Z
+40920,LXC 直通硬盘,https://frytea.com/archives/1246/,https://www.frytea.com/index.xml,Frytea's Blog,2023-05-06T10:29:03.000Z,2026-04-15T19:16:16.797Z
+40921,使用 distrobuilder 制作 LXC/LXD 镜像,https://frytea.com/archives/1230/,https://www.frytea.com/index.xml,Frytea's Blog,2023-05-05T08:55:44.000Z,2026-04-15T19:16:16.797Z
+40922,在线小店 ｜ 网络服务,https://frytea.com/archives/1082/,https://www.frytea.com/index.xml,Frytea's Blog,2023-05-03T08:40:00.000Z,2026-04-15T19:16:16.797Z
+40923,检查当前机器是不是虚拟机并确认底层虚拟化技术,https://frytea.com/archives/776/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-30T16:06:47.000Z,2026-04-15T19:16:16.797Z
+40924,Surge 从零开始配置,https://frytea.com/archives/782/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-30T16:06:42.000Z,2026-04-15T19:16:16.797Z
+40925,dnsmasq 多网卡分网段配置,https://frytea.com/archives/784/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-30T16:06:39.000Z,2026-04-15T19:16:16.797Z
+40926,AutoGPT 用法,https://frytea.com/archives/785/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-30T16:06:36.000Z,2026-04-15T19:16:16.797Z
+40927,apt 查看软件库中软件包所有可用版本,https://frytea.com/archives/786/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-30T16:06:32.000Z,2026-04-15T19:16:16.797Z
+40928,判断 IP 或端口被封(墙),https://frytea.com/archives/787/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-30T16:06:29.000Z,2026-04-15T19:16:16.797Z
+40929,Ubuntu 安装指定版本 docker,https://frytea.com/archives/789/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-30T16:06:25.000Z,2026-04-15T19:16:16.797Z
+40930,debmirror 镜像 nexus3 apt 仓库,https://frytea.com/archives/790/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-30T16:06:21.000Z,2026-04-15T19:16:16.797Z
+40931,debian/ubuntu 防火墙 ufw 简单使用,https://frytea.com/archives/1211/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-30T03:17:46.000Z,2026-04-15T19:16:16.797Z
+40932,2023 即刻 AIGC 大目录 – 第五期,https://frytea.com/archives/1172/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-27T14:17:40.000Z,2026-04-15T19:16:16.797Z
+40933,2023 即刻 AIGC 大目录 – 第四期,https://frytea.com/archives/1173/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-27T14:17:23.000Z,2026-04-15T19:16:16.797Z
+40934,2023 即刻 AIGC 大目录 – 第三期,https://frytea.com/archives/1170/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-27T14:16:55.000Z,2026-04-15T19:16:16.797Z
+40935,2023 即刻 AIGC 大目录 – 第二期,https://frytea.com/archives/1164/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-27T14:16:39.000Z,2026-04-15T19:16:16.797Z
+40936,2023 即刻 AIGC 大目录 – 第一期,https://frytea.com/archives/1152/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-27T14:08:58.000Z,2026-04-15T19:16:16.797Z
+40937,检查当前终端是不是 Docker,https://frytea.com/archives/775/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-27T14:07:15.000Z,2026-04-15T19:16:16.797Z
+40938,批量修改 git 仓库地址,https://frytea.com/archives/788/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-27T14:07:01.000Z,2026-04-15T19:16:16.797Z
+40939,AIGC Weekly,https://frytea.com/archives/1159/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-26T01:20:02.000Z,2026-04-15T19:16:16.797Z
+40940,AIGC Weekly,https://frytea.com/archives/1171/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-26T01:11:09.000Z,2026-04-15T19:16:16.797Z
+40941,AIGC Weekly 16  AIGC周刊,https://frytea.com/archives/1153/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-26T01:07:19.000Z,2026-04-15T19:16:16.797Z
+40942,AIGC Weekly,https://frytea.com/archives/1160/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-25T16:28:52.000Z,2026-04-15T19:16:16.797Z
+40943,git 整体提交记录(rabase)后合并(merge),https://frytea.com/archives/1198/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-22T15:44:24.000Z,2026-04-15T19:16:16.797Z
+40944,git 整体提交记录(rabase)后合并(merge),https://frytea.com/archives/783/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-22T07:44:24.000Z,2026-04-15T19:16:16.797Z
+40945,Tiddlywiki 单体/文件夹互转,https://frytea.com/archives/781/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-22T07:40:07.000Z,2026-04-15T19:16:16.797Z
+40946,在浏览器里运行 ChatGPT 和 Stable Diffusion,https://frytea.com/archives/780/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-20T13:58:02.000Z,2026-04-15T19:16:16.797Z
+40947,一次 AutoGPT 试用体验,https://frytea.com/archives/1165/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-17T12:37:11.000Z,2026-04-15T19:16:16.797Z
+40948,在自己的电脑运行清华开源语言模型 ChatGLM-6B,https://frytea.com/archives/779/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-15T10:14:00.000Z,2026-04-15T19:16:16.797Z
+40949,在 Linux 和 M1 macOS 上自托管运行清华开源语言模型 ChatGLM-6B,https://frytea.com/archives/1154/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-15T09:47:48.000Z,2026-04-15T19:16:16.797Z
+40950,推荐一份 ChatGPT 中文调教指南,https://frytea.com/archives/1169/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-13T15:00:09.000Z,2026-04-15T19:16:16.797Z
+40951,确认当前终端是否运行在 LXC 容器,https://frytea.com/archives/774/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-10T14:56:37.000Z,2026-04-15T19:16:16.797Z
+40952,【转】理解 DALL·E 2， Stable Diffusion和 Midjourney 的工作原理,https://frytea.com/archives/1162/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-09T16:48:29.000Z,2026-04-15T19:16:16.797Z
+40953,在 MacBook 上运行开源版 AI 图像生成模型之 Mochi Diffusion,https://frytea.com/archives/778/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-09T07:11:00.000Z,2026-04-15T19:16:16.797Z
+40954,安装启动 Git LFS 大型文件处理模块,https://frytea.com/archives/777/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-09T07:02:46.000Z,2026-04-15T19:16:16.797Z
+40955,运行在 macOS 中的 Linux —— multipass 方案,https://frytea.com/archives/773/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-09T07:02:12.000Z,2026-04-15T19:16:16.797Z
+40956,运行在 macOS 中的 Linux —— OrbStack 方案,https://frytea.com/archives/772/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-09T07:02:08.000Z,2026-04-15T19:16:16.797Z
+40957,PVE 批量销毁虚拟机,https://frytea.com/archives/771/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-08T06:56:44.000Z,2026-04-15T19:16:16.797Z
+40958,拯救全网的 ChatGPT 解封攻略,https://frytea.com/archives/770/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-03T15:46:22.000Z,2026-04-15T19:16:16.797Z
+40959,【转】拯救全网的 ChatGPT 解封攻略,https://frytea.com/archives/1151/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-03T15:32:36.000Z,2026-04-15T19:16:16.797Z
+40960,使用 Mac 快速上手 Stable Diffusion —— Mochi Diffusion,https://frytea.com/archives/1174/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-03T15:20:39.000Z,2026-04-15T19:16:16.797Z
+40961,介绍一个 AI 提示词学习网站 —— Learn Prompting,https://frytea.com/archives/1168/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-03T15:10:35.000Z,2026-04-15T19:16:16.797Z
+40962,在自己的电脑运行开源版 ChatGPT —— gpt4all,https://frytea.com/archives/769/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-02T07:20:46.000Z,2026-04-15T19:16:16.797Z
+40963,运行开源版 ChatGPT —— gpt4all,https://frytea.com/archives/1158/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-02T07:17:50.000Z,2026-04-15T19:16:16.797Z
+40964,ChatGPT 给出的计算机科学学习计划,https://frytea.com/archives/768/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-01T07:43:57.000Z,2026-04-15T19:16:16.797Z
+40965,如何提升博客访问量,https://frytea.com/archives/767/,https://www.frytea.com/index.xml,Frytea's Blog,2023-04-01T06:11:19.000Z,2026-04-15T19:16:16.797Z
+40966,一种 ChatGPT 充值的方法—— nobepay,https://frytea.com/archives/766/,https://www.frytea.com/index.xml,Frytea's Blog,2023-03-31T16:26:34.000Z,2026-04-15T19:16:16.797Z
+40967,一种 ChatGPT 充值的方法 —— Depay,https://frytea.com/archives/765/,https://www.frytea.com/index.xml,Frytea's Blog,2023-03-31T16:22:44.000Z,2026-04-15T19:16:16.797Z
+40968,AIGC Weekly,https://frytea.com/archives/1157/,https://www.frytea.com/index.xml,Frytea's Blog,2023-03-30T14:52:50.000Z,2026-04-15T19:16:16.797Z
+40969,macOS 使用 dd 制作 USB 启动盘,https://frytea.com/archives/764/,https://www.frytea.com/index.xml,Frytea's Blog,2023-03-30T14:39:40.000Z,2026-04-15T19:16:16.797Z
+40970,推荐几个 AI 生成 logo 的方法,https://frytea.com/archives/1167/,https://www.frytea.com/index.xml,Frytea's Blog,2023-03-30T14:11:20.000Z,2026-04-15T19:16:16.797Z
+40971,基于chatGPT 创建个人知识库助手 – copilot hub,https://frytea.com/archives/1161/,https://www.frytea.com/index.xml,Frytea's Blog,2023-03-30T13:57:05.000Z,2026-04-15T19:16:16.797Z
+40972,破解海外 ChatGPT 检测技巧,https://frytea.com/archives/1155/,https://www.frytea.com/index.xml,Frytea's Blog,2023-03-30T13:51:11.000Z,2026-04-15T19:16:16.797Z
+40973,用 ChatGPT 学日语,https://frytea.com/archives/1150/,https://www.frytea.com/index.xml,Frytea's Blog,2023-03-30T13:48:32.000Z,2026-04-15T19:16:16.797Z
+40974,虚拟磁盘扩容后扩展 LVM vg,https://frytea.com/archives/763/,https://www.frytea.com/index.xml,Frytea's Blog,2023-03-29T10:42:08.000Z,2026-04-15T19:16:16.797Z
+40975,查看 Docker cp 进度,https://frytea.com/archives/762/,https://www.frytea.com/index.xml,Frytea's Blog,2023-03-29T01:18:12.000Z,2026-04-15T19:16:16.797Z
+40976,迁移 Docker volume 到本地挂载点,https://frytea.com/archives/760/,https://www.frytea.com/index.xml,Frytea's Blog,2023-03-28T10:22:02.000Z,2026-04-15T19:16:16.797Z
+40977,适合海淘的诺贝 nobepay 虚拟信用卡申请 – 小 z 博客,https://frytea.com/archives/1163/,https://www.frytea.com/index.xml,Frytea's Blog,2023-03-28T08:57:03.000Z,2026-04-15T19:16:16.797Z
+40978,服务器使用 systemd 自动启动 wireguard,https://frytea.com/archives/761/,https://www.frytea.com/index.xml,Frytea's Blog,2023-03-27T15:34:04.000Z,2026-04-15T19:16:16.797Z
+40979,【转】推荐一家支持USDT充值的虚拟信用卡Depay，支持OpenAI（ChatGPT）绑定,https://frytea.com/archives/1166/,https://www.frytea.com/index.xml,Frytea's Blog,2023-03-26T07:40:15.000Z,2026-04-15T19:16:16.797Z
+40980,管理情绪的秘诀：5 个实用技巧,https://frytea.com/archives/758/,https://www.frytea.com/index.xml,Frytea's Blog,2023-03-19T13:52:09.000Z,2026-04-15T19:16:16.797Z
+40981,AIGC 相关资源合辑,https://frytea.com/archives/757/,https://www.frytea.com/index.xml,Frytea's Blog,2023-03-19T13:01:10.000Z,2026-04-15T19:16:16.797Z
+40982,最近使用 AI 的一点感受 —— 快速验证及落地方案,https://frytea.com/archives/756/,https://www.frytea.com/index.xml,Frytea's Blog,2023-03-19T10:15:14.000Z,2026-04-15T19:16:16.797Z
+40983,从百度文心一言发布标志着海内外AI正面竞争的开始,https://frytea.com/archives/755/,https://www.frytea.com/index.xml,Frytea's Blog,2023-03-18T14:09:21.000Z,2026-04-15T19:16:16.797Z
+40984,PVE 删除/离开集群,https://frytea.com/archives/753/,https://www.frytea.com/index.xml,Frytea's Blog,2023-03-16T11:34:00.000Z,2026-04-15T19:16:16.797Z
+40985,SSH 密钥类型,https://frytea.com/archives/754/,https://www.frytea.com/index.xml,Frytea's Blog,2023-03-16T05:10:24.000Z,2026-04-15T19:16:16.797Z
+40986,macOS 清理时间机器快照,https://frytea.com/archives/750/,https://www.frytea.com/index.xml,Frytea's Blog,2023-03-14T00:48:24.000Z,2026-04-15T19:16:16.797Z
+40987,Dockerfile 禁止弹出 apt 安装交互视图,https://frytea.com/archives/749/,https://www.frytea.com/index.xml,Frytea's Blog,2023-03-13T00:41:20.000Z,2026-04-15T19:16:16.797Z
+40988,ChatGPT VS Notion AI,https://frytea.com/archives/752/,https://www.frytea.com/index.xml,Frytea's Blog,2023-03-12T12:23:34.000Z,2026-04-15T19:16:16.797Z
+40989,chatGPT 席卷全球后，我们的工作方式会发生什么变化,https://frytea.com/archives/751/,https://www.frytea.com/index.xml,Frytea's Blog,2023-03-12T12:22:08.000Z,2026-04-15T19:16:16.797Z
+40990,PVE 手动创建 lvm-thin-pool 加入多磁盘,https://frytea.com/archives/748/,https://www.frytea.com/index.xml,Frytea's Blog,2023-03-12T05:21:21.000Z,2026-04-15T19:16:16.797Z
+40991,virsh 批量克隆虚拟机,https://frytea.com/archives/747/,https://www.frytea.com/index.xml,Frytea's Blog,2023-03-12T05:21:17.000Z,2026-04-15T19:16:16.797Z
+40992,ChatGPT 现象概述,https://frytea.com/archives/746/,https://www.frytea.com/index.xml,Frytea's Blog,2023-03-08T09:52:58.000Z,2026-04-15T19:16:16.797Z
+40993,Arch Linux 高分屏缩放方案,https://frytea.com/archives/742/,https://www.frytea.com/index.xml,Frytea's Blog,2023-03-02T15:09:06.000Z,2026-04-15T19:16:16.797Z
+40994,firefox 使用侧边标签栏替换顶部标签栏,https://frytea.com/archives/745/,https://www.frytea.com/index.xml,Frytea's Blog,2023-03-01T13:13:35.000Z,2026-04-15T19:16:16.797Z
+40995,《高能效人士的七个习惯》,https://frytea.com/archives/1060/,https://www.frytea.com/index.xml,Frytea's Blog,2023-02-28T19:56:21.000Z,2026-04-15T19:16:16.797Z
+40996,高能效人士的七个习惯,https://frytea.com/archives/744/,https://www.frytea.com/index.xml,Frytea's Blog,2023-02-28T11:56:21.000Z,2026-04-15T19:16:16.797Z
+40997,整理 Notion 导出文档名称,https://frytea.com/archives/743/,https://www.frytea.com/index.xml,Frytea's Blog,2023-02-28T11:40:56.000Z,2026-04-15T19:16:16.797Z
+40998,Arch Linux ARM 安装 electron 版微信,https://frytea.com/archives/741/,https://www.frytea.com/index.xml,Frytea's Blog,2023-02-19T02:39:42.000Z,2026-04-15T19:16:16.797Z
+40999,Parallels m1 安装 arch 虚拟机并配置 KDE 和辅助程序,https://frytea.com/archives/740/,https://www.frytea.com/index.xml,Frytea's Blog,2023-02-11T11:32:00.000Z,2026-04-15T19:16:16.797Z
+41000,arm64 版 picgo 提示已损坏解决办法,https://frytea.com/archives/739/,https://www.frytea.com/index.xml,Frytea's Blog,2023-02-09T14:31:00.000Z,2026-04-15T19:16:16.797Z
+41001,Emacs 集成 Github Copilot,https://frytea.com/archives/738/,https://www.frytea.com/index.xml,Frytea's Blog,2023-02-09T14:21:22.000Z,2026-04-15T19:16:16.797Z
+41002,PVE 批量创建、配置虚拟机 IP、网卡、启停及销毁,https://frytea.com/archives/737/,https://www.frytea.com/index.xml,Frytea's Blog,2023-02-08T00:46:10.000Z,2026-04-15T19:16:16.797Z
+41003,PVE 虚拟机导入 vmdk 磁盘,https://frytea.com/archives/736/,https://www.frytea.com/index.xml,Frytea's Blog,2023-02-01T01:45:31.000Z,2026-04-15T19:16:16.797Z
+41004,iptables 设置默认规则,https://frytea.com/archives/735/,https://www.frytea.com/index.xml,Frytea's Blog,2023-01-31T12:48:53.000Z,2026-04-15T19:16:16.797Z
+41005,每次离开的时候才会特别想家,https://frytea.com/archives/734/,https://www.frytea.com/index.xml,Frytea's Blog,2023-01-27T14:03:27.000Z,2026-04-15T19:16:16.797Z
+41006,macOS 安装 Emacs,https://frytea.com/archives/733/,https://www.frytea.com/index.xml,Frytea's Blog,2023-01-27T08:14:00.000Z,2026-04-15T19:16:16.797Z
+41007,顺利返程，这个年就算过完了（流水账）,https://frytea.com/archives/731/,https://www.frytea.com/index.xml,Frytea's Blog,2023-01-26T12:26:00.000Z,2026-04-15T19:16:16.797Z
+41008,使用 dos2unix 解决跨操作系统换行符问题,https://frytea.com/archives/728/,https://www.frytea.com/index.xml,Frytea's Blog,2023-01-16T00:29:00.000Z,2026-04-15T19:16:16.797Z
+41009,Prometheus 部署 Black Exporter 黑盒监控 DNS-TCP-ICMP,https://frytea.com/archives/727/,https://www.frytea.com/index.xml,Frytea's Blog,2023-01-15T00:27:24.000Z,2026-04-15T19:16:16.797Z
+41010,Paralles Desktop 修改虚拟机用户密码,https://frytea.com/archives/726/,https://www.frytea.com/index.xml,Frytea's Blog,2023-01-11T02:42:51.000Z,2026-04-15T19:16:16.797Z
+41011,m1 MacBook 安装 asahi linux 磁盘调整失败解决,https://frytea.com/archives/725/,https://www.frytea.com/index.xml,Frytea's Blog,2023-01-10T13:05:22.000Z,2026-04-15T19:16:16.797Z
+41012,一次过年返乡机票的教训，亏了900块,https://frytea.com/archives/724/,https://www.frytea.com/index.xml,Frytea's Blog,2023-01-09T04:40:33.000Z,2026-04-15T19:16:16.797Z
+41013,Linux 使用 chrony 进行 NTP 时间同步及自建方法,https://frytea.com/archives/721/,https://www.frytea.com/index.xml,Frytea's Blog,2023-01-08T10:45:31.000Z,2026-04-15T19:16:16.797Z
+41014,Linux 删除 LVM 步骤,https://frytea.com/archives/723/,https://www.frytea.com/index.xml,Frytea's Blog,2023-01-07T11:55:57.000Z,2026-04-15T19:16:16.797Z
+41015,Linux 禁用 SWAP,https://frytea.com/archives/722/,https://www.frytea.com/index.xml,Frytea's Blog,2023-01-06T00:37:44.000Z,2026-04-15T19:16:16.797Z
+41016,pkg-config 自动补全 C 编译库依赖,https://frytea.com/archives/719/,https://www.frytea.com/index.xml,Frytea's Blog,2023-01-05T00:43:52.000Z,2026-04-15T19:16:16.797Z
+41017,在 linux 中解析 lib 文件,https://frytea.com/archives/720/,https://www.frytea.com/index.xml,Frytea's Blog,2023-01-04T00:23:51.000Z,2026-04-15T19:16:16.797Z
+41018,新冠恢复一部份后的感受,https://frytea.com/archives/718/,https://www.frytea.com/index.xml,Frytea's Blog,2023-01-03T00:43:54.000Z,2026-04-15T19:16:16.797Z
+41019,2022 年博客经营报告,https://frytea.com/archives/717/,https://www.frytea.com/index.xml,Frytea's Blog,2023-01-02T06:07:00.000Z,2026-04-15T19:16:16.797Z
+41020,2022 年终 - 欢呼,https://frytea.com/archives/1118/,https://www.frytea.com/index.xml,Frytea's Blog,2023-01-01T14:54:00.000Z,2026-04-15T19:16:16.797Z
+41021,《任正非传》,https://frytea.com/archives/1064/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-31T18:16:05.000Z,2026-04-15T19:16:16.797Z
+41022,[摘录]《任正非传》 - 孙力科,https://frytea.com/archives/706/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-31T10:16:05.000Z,2026-04-15T19:16:16.797Z
+41023,《人人都懂设计模式：从生活中领悟设计模式（Python实现） 》 - 罗伟富,https://frytea.com/archives/1063/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-30T19:56:59.000Z,2026-04-15T19:16:16.797Z
+41024,[摘录]《人人都懂设计模式：从生活中领悟设计模式（Python实现） 》 - 罗伟富,https://frytea.com/archives/700/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-30T11:56:59.000Z,2026-04-15T19:16:16.797Z
+41025,《大型网站技术架构》 - 李智慧,https://frytea.com/archives/1074/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-28T10:36:08.000Z,2026-04-15T19:16:16.797Z
+41026,[摘录]《大型网站技术架构》 - 李智慧,https://frytea.com/archives/702/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-28T02:36:08.000Z,2026-04-15T19:16:16.797Z
+41027,《刘强东：人到绝境是重生》 - 黄鸿涯,https://frytea.com/archives/1078/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-27T20:15:28.000Z,2026-04-15T19:16:16.797Z
+41028,[摘录]《刘强东：人到绝境是重生》 - 黄鸿涯,https://frytea.com/archives/705/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-27T12:15:28.000Z,2026-04-15T19:16:16.797Z
+41029,《让你的时间更有价值：空闲时间就是你的未来财富（独家定制版） 》 - 张萌,https://frytea.com/archives/1050/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-26T08:09:37.000Z,2026-04-15T19:16:16.797Z
+41030,《加速：从拖延到高效，过三倍速度人生》- 张萌,https://frytea.com/archives/1054/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-26T08:09:04.000Z,2026-04-15T19:16:16.797Z
+41031,[摘录]《让你的时间更有价值：空闲时间就是你的未来财富（独家定制版） 》 - 张萌,https://frytea.com/archives/704/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-26T00:09:37.000Z,2026-04-15T19:16:16.797Z
+41032,[摘录]《加速：从拖延到高效，过三倍速度人生》- 张萌,https://frytea.com/archives/698/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-26T00:09:04.000Z,2026-04-15T19:16:16.797Z
+41033,《写作是最好的自我投资》 - Spenser,https://frytea.com/archives/1077/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-24T12:32:42.000Z,2026-04-15T19:16:16.797Z
+41034,从 Windows 迭代看为什么要用 Linux,https://frytea.com/archives/1277/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-24T10:59:00.000Z,2026-04-15T19:16:16.797Z
+41035,《Linux系统命令及Shell脚本实践指南》 - 王军,https://frytea.com/archives/1065/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-24T10:45:00.000Z,2026-04-15T19:16:16.797Z
+41036,圣诞节怎么过？看看历年圣诞节怎么过就知道了,https://frytea.com/archives/715/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-24T09:31:00.000Z,2026-04-15T19:16:16.797Z
+41037,[摘录]《写作是最好的自我投资》 - Spenser,https://frytea.com/archives/703/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-24T04:32:42.000Z,2026-04-15T19:16:16.797Z
+41038,从 Windows 迭代看为什么要用 Linux,https://frytea.com/archives/714/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-24T02:59:00.000Z,2026-04-15T19:16:16.797Z
+41039,失眠，整理如何对抗焦虑,https://frytea.com/archives/710/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-24T02:46:18.000Z,2026-04-15T19:16:16.797Z
+41040,[摘录]《Linux系统命令及Shell脚本实践指南》 - 王军,https://frytea.com/archives/699/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-24T02:45:00.000Z,2026-04-15T19:16:16.797Z
+41041,《Ceph分布式存储实战》 - Ceph中国社区,https://frytea.com/archives/1045/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-22T08:59:58.000Z,2026-04-15T19:16:16.797Z
+41042,[摘录]《Ceph分布式存储实战》 - Ceph中国社区,https://frytea.com/archives/701/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-22T00:59:58.000Z,2026-04-15T19:16:16.797Z
+41043,《梁永安：阅读、游历和爱情》,https://frytea.com/archives/1076/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-21T09:14:56.000Z,2026-04-15T19:16:16.797Z
+41044,[摘录]《梁永安：阅读、游历和爱情》,https://frytea.com/archives/697/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-21T01:14:56.000Z,2026-04-15T19:16:16.797Z
+41045,《聪明人都下笨功夫 愚蠢人只想走捷径》 - 夏文芳,https://frytea.com/archives/1073/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-20T09:25:53.000Z,2026-04-15T19:16:16.797Z
+41046,[摘录]《聪明人都下笨功夫 愚蠢人只想走捷径》 - 夏文芳,https://frytea.com/archives/696/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-20T01:25:53.000Z,2026-04-15T19:16:16.797Z
+41047,[转] 疫情开放后的一次医患对话,https://frytea.com/archives/707/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-18T01:30:00.000Z,2026-04-15T19:16:16.797Z
+41048,《GitHub入门与实践》 - 大塚弘记,https://frytea.com/archives/1066/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-17T11:02:13.000Z,2026-04-15T19:16:16.797Z
+41049,《发布！设计与部署稳定的分布式系统（第2版）》- 迈克尔·尼加德,https://frytea.com/archives/1067/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-17T11:01:00.000Z,2026-04-15T19:16:16.797Z
+41050,[摘录]《GitHub入门与实践 - 大塚弘记》,https://frytea.com/archives/694/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-17T03:02:13.000Z,2026-04-15T19:16:16.797Z
+41051,[摘录]《发布！设计与部署稳定的分布式系统（第2版） - 迈克尔·尼加德》,https://frytea.com/archives/693/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-17T03:01:00.000Z,2026-04-15T19:16:16.797Z
+41052,《微信小程序开发入门与实践》 - 雷磊,https://frytea.com/archives/1056/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-16T20:21:00.000Z,2026-04-15T19:16:16.797Z
+41053,阿里云域名续费优惠口令（com和cn续费优惠）- 2022,https://frytea.com/archives/689/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-16T12:28:00.000Z,2026-04-15T19:16:16.797Z
+41054,[摘录]《微信小程序开发入门与实践》 - 雷磊,https://frytea.com/archives/679/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-16T12:21:00.000Z,2026-04-15T19:16:16.797Z
+41055,[今日一梗] 体验一下用语言让人窒息的感觉,https://frytea.com/archives/691/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-16T05:04:00.000Z,2026-04-15T19:16:16.797Z
+41056,查询谷歌账号注册时间方法（2022）,https://frytea.com/archives/683/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-16T00:35:00.000Z,2026-04-15T19:16:16.797Z
+41057,《OpenResty完全开发指南：构建百万级别并发的Web应用》 - 罗剑锋,https://frytea.com/archives/1080/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-15T19:20:00.000Z,2026-04-15T19:16:16.797Z
+41058,[摘录]《OpenResty完全开发指南：构建百万级别并发的Web应用》 - 罗剑锋,https://frytea.com/archives/678/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-15T11:20:00.000Z,2026-04-15T19:16:16.797Z
+41059,第一反应要三思,https://frytea.com/archives/690/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-15T01:01:00.000Z,2026-04-15T19:16:16.797Z
+41060,坚持习惯从身边的点滴做起,https://frytea.com/archives/686/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-14T00:41:36.000Z,2026-04-15T19:16:16.797Z
+41061,前事不忘，后事之师,https://frytea.com/archives/687/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-13T00:25:00.000Z,2026-04-15T19:16:16.797Z
+41062,精神力充能跟吃饭一样重要,https://frytea.com/archives/682/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-12T00:41:27.000Z,2026-04-15T19:16:16.797Z
+41063,《Go语言精进之路：从新手到高手的编程思想、方法和技巧1 》- 白明,https://frytea.com/archives/1057/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-11T22:20:00.000Z,2026-04-15T19:16:16.797Z
+41064,事事有回音，才更容易坚持,https://frytea.com/archives/674/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-11T14:25:30.000Z,2026-04-15T19:16:16.797Z
+41065,[摘录]《Go语言精进之路：从新手到高手的编程思想、方法和技巧1 - 白明》,https://frytea.com/archives/680/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-11T14:20:00.000Z,2026-04-15T19:16:16.797Z
+41066,Linux (Debian 系) 安装官方微信 (Electron，非 wine 版),https://frytea.com/archives/677/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-09T14:00:00.000Z,2026-04-15T19:16:16.797Z
+41067,关于新时代“电子毒品”的思考,https://frytea.com/archives/676/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-08T15:45:35.000Z,2026-04-15T19:16:16.797Z
+41068,转载一篇知乎上的文章：抖音是如何毁掉我们的？,https://frytea.com/archives/675/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-08T10:36:00.000Z,2026-04-15T19:16:16.797Z
+41069,ChatGPT 注册方法（附万能接码方法）,https://frytea.com/archives/671/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-06T15:25:00.000Z,2026-04-15T19:16:16.797Z
+41070,拨云见日站在新的《起跑线》，让人放松的喜剧片,https://frytea.com/archives/672/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-06T15:22:12.000Z,2026-04-15T19:16:16.797Z
+41071,部署 Prometheus 主机监控完全体,https://frytea.com/archives/664/,https://www.frytea.com/index.xml,Frytea's Blog,2022-12-02T01:57:00.000Z,2026-04-15T19:16:16.797Z
+41072,「2022-11｜愿抗疫大业早日胜利」,https://frytea.com/archives/1096/,https://www.frytea.com/index.xml,Frytea's Blog,2022-11-30T20:40:00.000Z,2026-04-15T19:16:16.797Z
+41073,mermaid.js 效果相册,https://frytea.com/archives/663/,https://www.frytea.com/index.xml,Frytea's Blog,2022-11-24T06:38:35.000Z,2026-04-15T19:16:16.797Z
+41074,Juice FS 初探 ｜ 一种为 VPS 提供无限磁盘空间的解决方案,https://frytea.com/archives/660/,https://www.frytea.com/index.xml,Frytea's Blog,2022-11-20T13:56:00.000Z,2026-04-15T19:16:16.797Z
+41075,2022 年注册美区 Apple ID 方法概述（使用美区 Paypal）,https://frytea.com/archives/659/,https://www.frytea.com/index.xml,Frytea's Blog,2022-11-20T09:43:00.000Z,2026-04-15T19:16:16.797Z
+41076,Nginx Proxy Manager - Docker 建站最佳伴侣,https://frytea.com/archives/658/,https://www.frytea.com/index.xml,Frytea's Blog,2022-11-20T02:28:00.000Z,2026-04-15T19:16:16.797Z
+41077,OpenEuler 防火墙放通端口 (以 8084 为例),https://frytea.com/archives/648/,https://www.frytea.com/index.xml,Frytea's Blog,2022-11-17T01:56:00.000Z,2026-04-15T19:16:16.797Z
+41078,kali linux 配置 xrdp 远程桌面服务,https://frytea.com/archives/645/,https://www.frytea.com/index.xml,Frytea's Blog,2022-11-08T06:53:00.000Z,2026-04-15T19:16:16.797Z
+41079,「2022-10｜生日」,https://frytea.com/archives/1089/,https://www.frytea.com/index.xml,Frytea's Blog,2022-11-07T20:40:00.000Z,2026-04-15T19:16:16.797Z
+41080,Go 语言命名规范整理,https://frytea.com/archives/1139/,https://www.frytea.com/index.xml,Frytea's Blog,2022-11-07T18:44:16.000Z,2026-04-15T19:16:16.797Z
+41081,macOS 使用 arping 扫描 ip 冲突,https://frytea.com/archives/644/,https://www.frytea.com/index.xml,Frytea's Blog,2022-11-07T06:51:47.000Z,2026-04-15T19:16:16.797Z
+41082,macOS12 使用 UTM 体验 macOS 13 Ventura (多图预警),https://frytea.com/archives/643/,https://www.frytea.com/index.xml,Frytea's Blog,2022-11-03T16:23:00.000Z,2026-04-15T19:16:16.797Z
+41083,macOS12 使用 UTM 体验 macOS13,https://frytea.com/archives/1196/,https://www.frytea.com/index.xml,Frytea's Blog,2022-11-03T06:44:16.000Z,2026-04-15T19:16:16.797Z
+41084,根本解决C程序 ignoring return value of ‘***’,https://frytea.com/archives/641/,https://www.frytea.com/index.xml,Frytea's Blog,2022-11-02T05:22:00.000Z,2026-04-15T19:16:16.797Z
+41085,Linux 使用 diff 分栏对比文本差异,https://frytea.com/archives/640/,https://www.frytea.com/index.xml,Frytea's Blog,2022-11-02T02:19:00.000Z,2026-04-15T19:16:16.797Z
+41086,linux grep 过滤多个单词,https://frytea.com/archives/636/,https://www.frytea.com/index.xml,Frytea's Blog,2022-10-31T09:49:00.000Z,2026-04-15T19:16:16.797Z
+41087,群晖 Docker 配置镜像源和私有源,https://frytea.com/archives/1286/,https://www.frytea.com/index.xml,Frytea's Blog,2022-10-26T10:18:19.000Z,2026-04-15T19:16:16.797Z
+41088,解决 m1 macOS 下 Alacritty 解决不断请求权限问题,https://frytea.com/archives/1221/,https://www.frytea.com/index.xml,Frytea's Blog,2022-10-17T11:29:39.000Z,2026-04-15T19:16:16.797Z
+41089,「2022-09」天气渐寒,https://frytea.com/archives/1094/,https://www.frytea.com/index.xml,Frytea's Blog,2022-10-07T20:40:00.000Z,2026-04-15T19:16:16.797Z
+41090,「2022-08」秋意浓,https://frytea.com/archives/1093/,https://www.frytea.com/index.xml,Frytea's Blog,2022-09-09T20:40:00.000Z,2026-04-15T19:16:16.797Z
+41091,一次简单的http-get攻击,https://frytea.com/archives/1259/,https://www.frytea.com/index.xml,Frytea's Blog,2022-08-31T07:08:22.000Z,2026-04-15T19:16:16.797Z
+41092,VMware ovftool arm zip 包安装,https://frytea.com/archives/634/,https://www.frytea.com/index.xml,Frytea's Blog,2022-08-25T03:59:10.000Z,2026-04-15T19:16:16.797Z
+41093,Linux USB 设备基础理论,https://frytea.com/archives/633/,https://www.frytea.com/index.xml,Frytea's Blog,2022-08-24T10:04:46.000Z,2026-04-15T19:16:16.797Z
+41094,使用 qemu-img 转换镜像格式,https://frytea.com/archives/632/,https://www.frytea.com/index.xml,Frytea's Blog,2022-08-16T08:00:04.000Z,2026-04-15T19:16:16.797Z
+41095,Win11 手动调整任务栏大小 ｜ 定制任务栏 2022,https://frytea.com/archives/631/,https://www.frytea.com/index.xml,Frytea's Blog,2022-08-15T03:14:00.000Z,2026-04-15T19:16:16.797Z
+41096,「2022-07」尽量将错误“安排”在低成本时刻,https://frytea.com/archives/1091/,https://www.frytea.com/index.xml,Frytea's Blog,2022-08-13T20:40:00.000Z,2026-04-15T19:16:16.797Z
+41097,Perl 特性之不安全的依赖,https://frytea.com/archives/630/,https://www.frytea.com/index.xml,Frytea's Blog,2022-07-27T06:56:22.000Z,2026-04-15T19:16:16.797Z
+41098,「2022-06」夏日已至,https://frytea.com/archives/1097/,https://www.frytea.com/index.xml,Frytea's Blog,2022-07-08T20:40:00.000Z,2026-04-15T19:16:16.797Z
+41099,「2022-04」第一个月，适应到释放,https://frytea.com/archives/1090/,https://www.frytea.com/index.xml,Frytea's Blog,2022-05-16T04:40:00.000Z,2026-04-15T19:16:16.797Z
+41100,「2022-05」隔离、本职和希望,https://frytea.com/archives/1092/,https://www.frytea.com/index.xml,Frytea's Blog,2022-05-13T04:40:00.000Z,2026-04-15T19:16:16.797Z
+41101,Openwrt 使用 Wireguard 异地组网（远程家庭网所有设备）,https://frytea.com/archives/1261/,https://www.frytea.com/index.xml,Frytea's Blog,2022-04-23T07:42:39.000Z,2026-04-15T19:16:16.797Z
+41102,shell 中格式化显示 json 字符串,https://frytea.com/archives/629/,https://www.frytea.com/index.xml,Frytea's Blog,2022-04-20T02:11:00.000Z,2026-04-15T19:16:16.797Z
+41103,「2022-03」突然间，一切都成了回忆,https://frytea.com/archives/1100/,https://www.frytea.com/index.xml,Frytea's Blog,2022-04-16T04:40:00.000Z,2026-04-15T19:16:16.797Z
+41104,Proxmox VE (PVE) 销毁集群,https://frytea.com/archives/628/,https://www.frytea.com/index.xml,Frytea's Blog,2022-04-14T02:43:42.000Z,2026-04-15T19:16:16.797Z
+41105,iso 和 img 的区别,https://frytea.com/archives/1219/,https://www.frytea.com/index.xml,Frytea's Blog,2022-04-06T14:22:49.000Z,2026-04-15T19:16:16.797Z
+41106,*.iso 和 *.img 的区别,https://frytea.com/archives/627/,https://www.frytea.com/index.xml,Frytea's Blog,2022-04-06T06:22:49.000Z,2026-04-15T19:16:16.797Z
+41107,「2022-02」寒风中过年，整装待发,https://frytea.com/archives/1088/,https://www.frytea.com/index.xml,Frytea's Blog,2022-03-17T15:55:00.000Z,2026-04-15T19:16:16.797Z
+41108,k3s 使用 Letsencrypt 和 Traefik 完成 https 入口部署,https://frytea.com/archives/1232/,https://www.frytea.com/index.xml,Frytea's Blog,2022-03-08T06:43:39.000Z,2026-04-15T19:16:16.797Z
+41109,公网部署 k3s 集群方法总结,https://frytea.com/archives/1191/,https://www.frytea.com/index.xml,Frytea's Blog,2022-03-08T06:36:35.000Z,2026-04-15T19:16:16.797Z
+41110,Kubernetes Pod 配置文件(完整注释),https://frytea.com/archives/1142/,https://www.frytea.com/index.xml,Frytea's Blog,2022-02-04T05:06:26.000Z,2026-04-15T19:16:16.797Z
+41111,kubernetes 核心技术概念,https://frytea.com/archives/1149/,https://www.frytea.com/index.xml,Frytea's Blog,2022-02-04T05:04:34.000Z,2026-04-15T19:16:16.797Z
+41112,Kubernetes 系列文章概述,https://frytea.com/archives/1135/,https://www.frytea.com/index.xml,Frytea's Blog,2022-02-04T05:02:37.000Z,2026-04-15T19:16:16.797Z
+41113,「2022-01」除夕,https://frytea.com/archives/1099/,https://www.frytea.com/index.xml,Frytea's Blog,2022-01-31T03:18:00.000Z,2026-04-15T19:16:16.797Z
+41114,INOTIFY - 监听事件,https://frytea.com/archives/626/,https://www.frytea.com/index.xml,Frytea's Blog,2022-01-27T01:35:37.000Z,2026-04-15T19:16:16.797Z
+41115,Wiki.js 离线部署方法 ｜ 离线拉取语言包,https://frytea.com/archives/625/,https://www.frytea.com/index.xml,Frytea's Blog,2022-01-27T01:25:31.000Z,2026-04-15T19:16:16.797Z
+41116,macOS 使用 remote-viewer 连接 spice ｜ PC 连接 spice 云桌面,https://frytea.com/archives/1260/,https://www.frytea.com/index.xml,Frytea's Blog,2022-01-25T07:12:46.000Z,2026-04-15T19:16:16.797Z
+41117,macOS 使用 remote-viewer 连接 spice 服务 ｜ PC 连接 spice 云桌面方法,https://frytea.com/archives/624/,https://www.frytea.com/index.xml,Frytea's Blog,2022-01-25T07:10:58.000Z,2026-04-15T19:16:16.797Z
+41118,「周录-202205」神奇动物在哪里,https://frytea.com/archives/1098/,https://www.frytea.com/index.xml,Frytea's Blog,2022-01-20T13:40:00.000Z,2026-04-15T19:16:16.797Z
+41119,解决 SSH 无操作自动断开 | pychram 超时无响应,https://frytea.com/archives/623/,https://www.frytea.com/index.xml,Frytea's Blog,2022-01-19T01:49:24.000Z,2026-04-15T19:16:16.797Z
+41120,Python 传值 or 传引用,https://frytea.com/archives/622/,https://www.frytea.com/index.xml,Frytea's Blog,2022-01-19T01:11:11.000Z,2026-04-15T19:16:16.797Z
+41121,Python 二进制结构化数据处理和封装,https://frytea.com/archives/621/,https://www.frytea.com/index.xml,Frytea's Blog,2022-01-17T08:04:48.000Z,2026-04-15T19:16:16.797Z
+41122,「周录-202202」持久的内容,https://frytea.com/archives/1095/,https://www.frytea.com/index.xml,Frytea's Blog,2022-01-15T13:40:00.000Z,2026-04-15T19:16:16.797Z
+41123,Linux 下的文件锁,https://frytea.com/archives/620/,https://www.frytea.com/index.xml,Frytea's Blog,2022-01-13T06:30:39.000Z,2026-04-15T19:16:16.797Z
+41124,Perl //= 和 ||= 的区别 | 附实验,https://frytea.com/archives/619/,https://www.frytea.com/index.xml,Frytea's Blog,2022-01-12T07:42:03.000Z,2026-04-15T19:16:16.797Z
+41125,OS-Wars,https://frytea.com/archives/618/,https://www.frytea.com/index.xml,Frytea's Blog,2022-01-12T05:32:00.000Z,2026-04-15T19:16:16.797Z
+41126,Perl 常用内置函数 -r -e 等,https://frytea.com/archives/617/,https://www.frytea.com/index.xml,Frytea's Blog,2022-01-11T07:55:24.000Z,2026-04-15T19:16:16.797Z
+41127,2021 下半年博客「经营」报告,https://frytea.com/archives/616/,https://www.frytea.com/index.xml,Frytea's Blog,2022-01-01T07:36:00.000Z,2026-04-15T19:16:16.797Z
+41128,什么是 WEB3 以及其发展概要,https://frytea.com/archives/615/,https://www.frytea.com/index.xml,Frytea's Blog,2021-12-31T09:17:07.000Z,2026-04-15T19:16:16.797Z
+41129,国内对象存储/CDN服务价格汇总,https://frytea.com/archives/1145/,https://www.frytea.com/index.xml,Frytea's Blog,2021-12-30T12:14:00.000Z,2026-04-15T19:16:16.797Z
+41130,国内对象存储/CDN服务价格横评,https://frytea.com/archives/614/,https://www.frytea.com/index.xml,Frytea's Blog,2021-12-30T12:11:59.000Z,2026-04-15T19:16:16.797Z
+41131,Ubuntu 安装 GitKraken 并汉化,https://frytea.com/archives/613/,https://www.frytea.com/index.xml,Frytea's Blog,2021-12-30T01:31:05.000Z,2026-04-15T19:16:16.797Z
+41132,2021年终 - 平淡中蓄力 · 习惯中突破,https://frytea.com/archives/1117/,https://www.frytea.com/index.xml,Frytea's Blog,2021-12-29T14:54:00.000Z,2026-04-15T19:16:16.797Z
+41133,深挖 docker 默认网络 | 为什么 docker 默认网络能上外网,https://frytea.com/archives/612/,https://www.frytea.com/index.xml,Frytea's Blog,2021-12-28T06:49:46.000Z,2026-04-15T19:16:16.797Z
+41134,理解网桥、集线器、交换机、路由器的本质,https://frytea.com/archives/611/,https://www.frytea.com/index.xml,Frytea's Blog,2021-12-28T02:19:27.000Z,2026-04-15T19:16:16.797Z
+41135,Python 实战项目解决循环依赖问题,https://frytea.com/archives/610/,https://www.frytea.com/index.xml,Frytea's Blog,2021-12-27T06:15:49.000Z,2026-04-15T19:16:16.797Z
+41136,解决 perl: warning: Setting locale failed.,https://frytea.com/archives/609/,https://www.frytea.com/index.xml,Frytea's Blog,2021-12-27T01:28:48.000Z,2026-04-15T19:16:16.797Z
+41137,Perl 调试打印 HASH 内容,https://frytea.com/archives/608/,https://www.frytea.com/index.xml,Frytea's Blog,2021-12-23T06:14:27.000Z,2026-04-15T19:16:16.797Z
+41138,分享一个快捷内网、漏洞扫描工具 fscan,https://frytea.com/archives/607/,https://www.frytea.com/index.xml,Frytea's Blog,2021-12-21T01:10:30.000Z,2026-04-15T19:16:16.797Z
+41139,周录/50 ｜ 做减法与激励机制,https://frytea.com/archives/1112/,https://www.frytea.com/index.xml,Frytea's Blog,2021-12-18T15:35:00.000Z,2026-04-15T19:16:16.797Z
+41140,Windows 禁用 AppXSVC 解决 CPU 占用高问题,https://frytea.com/archives/606/,https://www.frytea.com/index.xml,Frytea's Blog,2021-12-16T03:26:36.000Z,2026-04-15T19:16:16.797Z
+41141,无代理国内镜像加速 GitHub 资源拉取,https://frytea.com/archives/1237/,https://www.frytea.com/index.xml,Frytea's Blog,2021-12-15T07:32:54.000Z,2026-04-15T19:16:16.797Z
+41142,解决拉取 github 仓库报错 “gnutls_handshake () failed” 问题,https://frytea.com/archives/1210/,https://www.frytea.com/index.xml,Frytea's Blog,2021-12-15T07:25:55.000Z,2026-04-15T19:16:16.797Z
+41143,Git 常用操作,https://frytea.com/archives/1233/,https://www.frytea.com/index.xml,Frytea's Blog,2021-12-15T07:21:48.000Z,2026-04-15T19:16:16.797Z
+41144,Git 修改提交历史中的邮箱和用户名,https://frytea.com/archives/1200/,https://www.frytea.com/index.xml,Frytea's Blog,2021-12-15T07:16:03.000Z,2026-04-15T19:16:16.797Z
+41145,更换 PVE7 软件仓库源和 CT模板（LXC）源为国内源,https://frytea.com/archives/605/,https://www.frytea.com/index.xml,Frytea's Blog,2021-12-14T01:05:00.000Z,2026-04-15T19:16:16.797Z
+41146,Git 修改提交过的邮箱和用户名,https://frytea.com/archives/604/,https://www.frytea.com/index.xml,Frytea's Blog,2021-12-13T02:00:16.000Z,2026-04-15T19:16:16.797Z
+41147,使用 LeanCloud 云引擎部署 React Web 应用,https://frytea.com/archives/603/,https://www.frytea.com/index.xml,Frytea's Blog,2021-12-12T14:48:58.000Z,2026-04-15T19:16:16.797Z
+41148,个人项目,https://frytea.com/archives/1110/,https://www.frytea.com/index.xml,Frytea's Blog,2021-12-12T05:10:00.000Z,2026-04-15T19:16:16.797Z
+41149,周录/49 ｜ 内容为王的时代 ｜ 云原生的时代,https://frytea.com/archives/1114/,https://www.frytea.com/index.xml,Frytea's Blog,2021-12-10T15:29:00.000Z,2026-04-15T19:16:16.797Z
+41150,云原生初体验 ｜ 使用 3C 活动服务器体验 KubeSphere,https://frytea.com/archives/1254/,https://www.frytea.com/index.xml,Frytea's Blog,2021-12-07T15:49:51.000Z,2026-04-15T19:16:16.797Z
+41151,PVE 内核模块 pve-kernal 编译安装方法,https://frytea.com/archives/1262/,https://www.frytea.com/index.xml,Frytea's Blog,2021-12-06T06:29:16.000Z,2026-04-15T19:16:16.797Z
+41152,GDB 调试 QEMU 源码（跟踪 QMP 协议执行细节）,https://frytea.com/archives/1203/,https://www.frytea.com/index.xml,Frytea's Blog,2021-12-06T06:13:17.000Z,2026-04-15T19:16:16.797Z
+41153,Qemu，KVM，Virsh 概念指南,https://frytea.com/archives/1214/,https://www.frytea.com/index.xml,Frytea's Blog,2021-12-06T06:10:11.000Z,2026-04-15T19:16:16.797Z
+41154,Libvirt domblkinfo 命令源码跟踪记 (GDB),https://frytea.com/archives/1257/,https://www.frytea.com/index.xml,Frytea's Blog,2021-12-06T06:03:38.000Z,2026-04-15T19:16:16.797Z
+41155,「2021年11月复盘」买了个小太阳很暖和,https://frytea.com/archives/1101/,https://www.frytea.com/index.xml,Frytea's Blog,2021-12-02T14:25:00.000Z,2026-04-15T19:16:16.797Z
+41156,使用 Cloud Studio 撰写、预览 Hugo 的配置方法,https://frytea.com/archives/1265/,https://www.frytea.com/index.xml,Frytea's Blog,2021-12-02T06:32:08.000Z,2026-04-15T19:16:16.797Z
+41157,从零构建 Docker 镜像 | 申威下从零构建 debian 并打包为 docker,https://frytea.com/archives/1242/,https://www.frytea.com/index.xml,Frytea's Blog,2021-12-02T02:24:39.000Z,2026-04-15T19:16:16.797Z
+41158,周录｜「2021总第47周」记账与做事,https://frytea.com/archives/1102/,https://www.frytea.com/index.xml,Frytea's Blog,2021-11-27T12:32:00.000Z,2026-04-15T19:16:16.797Z
+41159,从零构建 Docker 镜像 | 基于 busybox 制作 | 深入理解 Docker 镜像构建,https://frytea.com/archives/1229/,https://www.frytea.com/index.xml,Frytea's Blog,2021-11-26T08:16:40.000Z,2026-04-15T19:16:16.797Z
+41160,perl '-&gt;' 和 '::' 的区别 | 方法和函数的区别,https://frytea.com/archives/1222/,https://www.frytea.com/index.xml,Frytea's Blog,2021-11-24T17:38:00.000Z,2026-04-15T19:16:16.797Z
+41161,perl '-&gt;' 和 '::' 的区别 | 方法和函数的区别,https://frytea.com/archives/600/,https://www.frytea.com/index.xml,Frytea's Blog,2021-11-24T09:38:00.000Z,2026-04-15T19:16:16.797Z
+41162,最新 2021 Win10 LTSC 20H1 安装激活方法,https://frytea.com/archives/599/,https://www.frytea.com/index.xml,Frytea's Blog,2021-11-21T06:54:27.000Z,2026-04-15T19:16:16.797Z
+41163,深入理解 Linux 启动过程 | QEMU 启动 linux 内核和自制根文件系统,https://frytea.com/archives/1272/,https://www.frytea.com/index.xml,Frytea's Blog,2021-11-17T03:29:39.000Z,2026-04-15T19:16:16.797Z
+41164,两种终端跑分方法介绍 | Linux 下如何跑分,https://frytea.com/archives/1209/,https://www.frytea.com/index.xml,Frytea's Blog,2021-11-17T01:20:21.000Z,2026-04-15T19:16:16.797Z
+41165,把 FireFox 装进 Docker ｜ VPS/群晖 搭建『云端/内网 浏览器』,https://frytea.com/archives/1181/,https://www.frytea.com/index.xml,Frytea's Blog,2021-11-12T15:54:19.000Z,2026-04-15T19:16:16.797Z
+41166,申威（神/声）（SW）1621 + UOS 20 编译安装 Docker | 容器国产化适配,https://frytea.com/archives/598/,https://www.frytea.com/index.xml,Frytea's Blog,2021-11-10T10:08:00.000Z,2026-04-15T19:16:16.797Z
+41167,Linux 下新硬盘分区、格式化、挂载全流程,https://frytea.com/archives/597/,https://www.frytea.com/index.xml,Frytea's Blog,2021-11-09T07:45:00.000Z,2026-04-15T19:16:16.797Z
+41168,Linux 解决远程连接的“Gtk-WARNING **: cannot open display;”,https://frytea.com/archives/595/,https://www.frytea.com/index.xml,Frytea's Blog,2021-11-08T10:43:30.000Z,2026-04-15T19:16:16.797Z
+41169,Vim 对比文件差异 | Linux 下同屏查看文件差异并修改,https://frytea.com/archives/594/,https://www.frytea.com/index.xml,Frytea's Blog,2021-11-08T04:31:37.000Z,2026-04-15T19:16:16.797Z
+41170,Perl 编译安装 （Linux）,https://frytea.com/archives/1197/,https://www.frytea.com/index.xml,Frytea's Blog,2021-11-05T01:20:18.000Z,2026-04-15T19:16:16.797Z
+41171,配置 Ubuntu 软件包管理 apt 的国内镜像源（Debian 系通用）,https://frytea.com/archives/1202/,https://www.frytea.com/index.xml,Frytea's Blog,2021-11-05T00:46:42.000Z,2026-04-15T19:16:16.797Z
+41172,Ubuntu 20.04 修改网卡配置,https://frytea.com/archives/1239/,https://www.frytea.com/index.xml,Frytea's Blog,2021-11-05T00:32:22.000Z,2026-04-15T19:16:16.797Z
+41173,Ubuntu 16.04 网卡配置方法,https://frytea.com/archives/1269/,https://www.frytea.com/index.xml,Frytea's Blog,2021-11-05T00:30:54.000Z,2026-04-15T19:16:16.797Z
+41174,C 实现零空间开销交换两个数的值,https://frytea.com/archives/1266/,https://www.frytea.com/index.xml,Frytea's Blog,2021-11-03T06:48:31.000Z,2026-04-15T19:16:16.797Z
+41175,Linux 系统时间校对方法,https://frytea.com/archives/1248/,https://www.frytea.com/index.xml,Frytea's Blog,2021-11-03T06:44:16.000Z,2026-04-15T19:16:16.797Z
+41176,Bash快捷指令,https://frytea.com/archives/1244/,https://www.frytea.com/index.xml,Frytea's Blog,2021-11-03T06:39:21.000Z,2026-04-15T19:16:16.797Z
+41177,Tcpdump,https://frytea.com/archives/1204/,https://www.frytea.com/index.xml,Frytea's Blog,2021-11-03T06:37:08.000Z,2026-04-15T19:16:16.797Z
+41178,Vim 一键编译运行 C/C++,https://frytea.com/archives/1184/,https://www.frytea.com/index.xml,Frytea's Blog,2021-11-03T06:30:19.000Z,2026-04-15T19:16:16.797Z
+41179,Vim 多窗口、多文件之间切换,https://frytea.com/archives/1251/,https://www.frytea.com/index.xml,Frytea's Blog,2021-11-03T06:24:33.000Z,2026-04-15T19:16:16.797Z
+41180,vim 代码折叠之设置默认代码不折叠,https://frytea.com/archives/1235/,https://www.frytea.com/index.xml,Frytea's Blog,2021-11-03T06:22:02.000Z,2026-04-15T19:16:16.797Z
+41181,VIM 文件自动添加头部注释的方法,https://frytea.com/archives/1249/,https://www.frytea.com/index.xml,Frytea's Blog,2021-11-03T06:13:38.000Z,2026-04-15T19:16:16.797Z
+41182,Vim 安装插件管理器 Vundle,https://frytea.com/archives/1228/,https://www.frytea.com/index.xml,Frytea's Blog,2021-11-03T06:04:30.000Z,2026-04-15T19:16:16.797Z
+41183,「2021年10月复盘 ｜ 正秋时,https://frytea.com/archives/1107/,https://www.frytea.com/index.xml,Frytea's Blog,2021-10-31T16:14:00.000Z,2026-04-15T19:16:16.797Z
+41184,Uname,https://frytea.com/archives/1201/,https://www.frytea.com/index.xml,Frytea's Blog,2021-10-31T03:47:24.000Z,2026-04-15T19:16:16.797Z
+41185,Tmux,https://frytea.com/archives/1224/,https://www.frytea.com/index.xml,Frytea's Blog,2021-10-30T16:26:08.000Z,2026-04-15T19:16:16.797Z
+41186,优质软件集,https://frytea.com/archives/1144/,https://www.frytea.com/index.xml,Frytea's Blog,2021-10-28T07:08:22.000Z,2026-04-15T19:16:16.797Z
+41187,deb 软件包里都有什么,https://frytea.com/archives/591/,https://www.frytea.com/index.xml,Frytea's Blog,2021-10-28T03:32:28.000Z,2026-04-15T19:16:16.797Z
+41188,Google Adsense 注意事项,https://frytea.com/archives/590/,https://www.frytea.com/index.xml,Frytea's Blog,2021-10-27T16:21:06.000Z,2026-04-15T19:16:16.797Z
+41189,CDN 中的 「回源HOST」与「源站」,https://frytea.com/archives/589/,https://www.frytea.com/index.xml,Frytea's Blog,2021-10-27T16:11:48.000Z,2026-04-15T19:16:16.797Z
+41190,新 Hugo 博客相关记录笔记,https://frytea.com/archives/588/,https://www.frytea.com/index.xml,Frytea's Blog,2021-10-27T16:10:00.000Z,2026-04-15T19:16:16.797Z
+41191,Homebrew 安装策略（M1芯片 Macbook）,https://frytea.com/archives/587/,https://www.frytea.com/index.xml,Frytea's Blog,2021-10-27T16:08:29.000Z,2026-04-15T19:16:16.797Z
+41192,pve-kernal 编译安装步骤,https://frytea.com/archives/586/,https://www.frytea.com/index.xml,Frytea's Blog,2021-10-20T01:55:57.000Z,2026-04-15T19:16:16.797Z
+41193,Tmux 使用笔记,https://frytea.com/archives/585/,https://www.frytea.com/index.xml,Frytea's Blog,2021-10-13T06:30:27.000Z,2026-04-15T19:16:16.797Z
+41194,Cloud-init 概述及 PVE 下创建步骤说明,https://frytea.com/archives/583/,https://www.frytea.com/index.xml,Frytea's Blog,2021-10-12T03:45:28.000Z,2026-04-15T19:16:16.797Z
+41195,「2021年9月复盘」国庆快乐！,https://frytea.com/archives/1111/,https://www.frytea.com/index.xml,Frytea's Blog,2021-10-04T15:25:00.000Z,2026-04-15T19:16:16.797Z
+41196,一个 Notion 一站式记账复盘看板系统 ｜ BJ-PFD 正式发布,https://frytea.com/archives/578/,https://www.frytea.com/index.xml,Frytea's Blog,2021-09-25T15:40:00.000Z,2026-04-15T19:16:16.797Z
+41197,原生 clash linux 环境配置方法,https://frytea.com/archives/577/,https://www.frytea.com/index.xml,Frytea's Blog,2021-09-24T02:53:26.000Z,2026-04-15T19:16:16.797Z
+41198,Docker 内部安装 postfix,https://frytea.com/archives/576/,https://www.frytea.com/index.xml,Frytea's Blog,2021-09-18T09:42:36.000Z,2026-04-15T19:16:16.797Z
+41199,自动递归下载依赖 deb 包 bash 脚本,https://frytea.com/archives/575/,https://www.frytea.com/index.xml,Frytea's Blog,2021-09-18T09:35:23.000Z,2026-04-15T19:16:16.797Z
+41200,Bullet Journal for Notion 之个人财务架构 ｜ 好的设计胜千言,https://frytea.com/archives/574/,https://www.frytea.com/index.xml,Frytea's Blog,2021-09-13T14:41:50.000Z,2026-04-15T19:16:16.797Z
+41201,Bullet Journal for Notion 之快速入门,https://frytea.com/archives/573/,https://www.frytea.com/index.xml,Frytea's Blog,2021-09-11T08:49:10.000Z,2026-04-15T19:16:16.797Z
+41202,Windows Terminal 快速快捷键指南,https://frytea.com/archives/572/,https://www.frytea.com/index.xml,Frytea's Blog,2021-09-10T10:06:00.000Z,2026-04-15T19:16:16.797Z
+41203,BJ-PFD2 - 2.快速预览,https://frytea.com/archives/1131/,https://www.frytea.com/index.xml,Frytea's Blog,2021-09-09T23:40:02.000Z,2026-04-15T19:16:16.797Z
+41204,BJ-PFD2 - 1.简介,https://frytea.com/archives/1133/,https://www.frytea.com/index.xml,Frytea's Blog,2021-09-09T22:40:02.000Z,2026-04-15T19:16:16.797Z
+41205,BJ-PFD2 - 0.欢迎使用,https://frytea.com/archives/1132/,https://www.frytea.com/index.xml,Frytea's Blog,2021-09-09T21:40:02.000Z,2026-04-15T19:16:16.797Z
+41206,Bullet Journal for Notion 之概览,https://frytea.com/archives/571/,https://www.frytea.com/index.xml,Frytea's Blog,2021-09-09T16:31:00.000Z,2026-04-15T19:16:16.797Z
+41207,Libpcap 落地包转发及性能调优,https://frytea.com/archives/570/,https://www.frytea.com/index.xml,Frytea's Blog,2021-09-07T07:34:30.000Z,2026-04-15T19:16:16.797Z
+41208,「2021年8月复盘」秋意浓,https://frytea.com/archives/1113/,https://www.frytea.com/index.xml,Frytea's Blog,2021-09-04T15:32:00.000Z,2026-04-15T19:16:16.797Z
+41209,一键在 vs code online 中打开任意 github 仓库,https://frytea.com/archives/568/,https://www.frytea.com/index.xml,Frytea's Blog,2021-09-03T09:58:13.000Z,2026-04-15T19:16:16.797Z
+41210,虚拟机 img 镜像密码修改,https://frytea.com/archives/567/,https://www.frytea.com/index.xml,Frytea's Blog,2021-09-03T07:29:19.000Z,2026-04-15T19:16:16.797Z
+41211,GDB 调试 QEMU 源码跟踪 QMP 协议执行,https://frytea.com/archives/566/,https://www.frytea.com/index.xml,Frytea's Blog,2021-09-03T01:53:08.000Z,2026-04-15T19:16:16.797Z
+41212,GDB 调试 libvirt 源码之 domblkinfo 命令源码跟踪记,https://frytea.com/archives/565/,https://www.frytea.com/index.xml,Frytea's Blog,2021-09-02T05:42:00.000Z,2026-04-15T19:16:16.797Z
+41213,解决 Clash for windows 端口为 0 导致无法使用,https://frytea.com/archives/564/,https://www.frytea.com/index.xml,Frytea's Blog,2021-08-30T01:58:33.000Z,2026-04-15T19:16:16.797Z
+41214,Perl 程序后台执行示例,https://frytea.com/archives/563/,https://www.frytea.com/index.xml,Frytea's Blog,2021-08-26T03:51:48.000Z,2026-04-15T19:16:16.797Z
+41215,Perl 面向对象之基类(use base),https://frytea.com/archives/562/,https://www.frytea.com/index.xml,Frytea's Blog,2021-08-25T08:39:33.000Z,2026-04-15T19:16:16.797Z
+41216,Perl 模块路径指定（调试环境）,https://frytea.com/archives/561/,https://www.frytea.com/index.xml,Frytea's Blog,2021-08-25T08:33:50.000Z,2026-04-15T19:16:16.797Z
+41217,QEMU 编译报错 undefined reference to g_app_info_launch_default_for_uri_finish 解决过程,https://frytea.com/archives/560/,https://www.frytea.com/index.xml,Frytea's Blog,2021-08-20T03:56:31.000Z,2026-04-15T19:16:16.797Z
+41218,鲲鹏ARM环境编译升级虚拟化组件（QEMU+libvirt）,https://frytea.com/archives/559/,https://www.frytea.com/index.xml,Frytea's Blog,2021-08-18T01:57:00.000Z,2026-04-15T19:16:16.797Z
+41219,【爱发电】入驻声明,https://frytea.com/archives/558/,https://www.frytea.com/index.xml,Frytea's Blog,2021-08-14T12:53:00.000Z,2026-04-15T19:16:16.797Z
+41220,BJ-PFD - PFD 使用指南,https://frytea.com/archives/1127/,https://www.frytea.com/index.xml,Frytea's Blog,2021-08-10T12:40:02.000Z,2026-04-15T19:16:16.797Z
+41221,一键修改Windows远程桌面（RDP）端口号,https://frytea.com/archives/555/,https://www.frytea.com/index.xml,Frytea's Blog,2021-08-10T03:25:36.000Z,2026-04-15T19:16:16.797Z
+41222,BJ-PFD - BJ 使用指南,https://frytea.com/archives/1130/,https://www.frytea.com/index.xml,Frytea's Blog,2021-08-10T02:40:02.000Z,2026-04-15T19:16:16.797Z
+41223,BJ-PFD - 快速开始,https://frytea.com/archives/1124/,https://www.frytea.com/index.xml,Frytea's Blog,2021-08-09T23:40:02.000Z,2026-04-15T19:16:16.797Z
+41224,BJ-PFD - 快速预览,https://frytea.com/archives/1129/,https://www.frytea.com/index.xml,Frytea's Blog,2021-08-09T22:40:02.000Z,2026-04-15T19:16:16.797Z
+41225,BJ-PFD - 简介,https://frytea.com/archives/1121/,https://www.frytea.com/index.xml,Frytea's Blog,2021-08-09T21:40:02.000Z,2026-04-15T19:16:16.797Z
+41226,BJ-PFD(请升级),https://frytea.com/archives/1126/,https://www.frytea.com/index.xml,Frytea's Blog,2021-08-09T20:40:02.000Z,2026-04-15T19:16:16.797Z
+41227,Mac 下解决 zsh: no matches found: postcss@^7,https://frytea.com/archives/554/,https://www.frytea.com/index.xml,Frytea's Blog,2021-08-08T11:22:24.000Z,2026-04-15T19:16:16.797Z
+41228,解决OpenVPN证书过期问题,https://frytea.com/archives/553/,https://www.frytea.com/index.xml,Frytea's Blog,2021-08-01T15:36:00.000Z,2026-04-15T19:16:16.797Z
+41229,「2021年7月复盘」灾前大爱!,https://frytea.com/archives/1105/,https://www.frytea.com/index.xml,Frytea's Blog,2021-08-01T15:35:00.000Z,2026-04-15T19:16:16.797Z
+41230,2021 上半年博客「经营」报告,https://frytea.com/archives/549/,https://www.frytea.com/index.xml,Frytea's Blog,2021-07-09T16:05:00.000Z,2026-04-15T19:16:16.797Z
+41231,virt-manager 启动提示 virt qemu-sock no such file or directory,https://frytea.com/archives/548/,https://www.frytea.com/index.xml,Frytea's Blog,2021-07-09T10:08:00.000Z,2026-04-15T19:16:16.797Z
+41232,Centos7.6 下编译安装 Libvirt 7.5,https://frytea.com/archives/546/,https://www.frytea.com/index.xml,Frytea's Blog,2021-07-07T06:47:00.000Z,2026-04-15T19:16:16.797Z
+41233,C实现不用临时变量交换两个数的值（一行代码）,https://frytea.com/archives/545/,https://www.frytea.com/index.xml,Frytea's Blog,2021-07-07T03:19:00.000Z,2026-04-15T19:16:16.797Z
+41234,Linux 下 Shell 命令寻址顺序,https://frytea.com/archives/544/,https://www.frytea.com/index.xml,Frytea's Blog,2021-07-06T08:32:10.000Z,2026-04-15T19:16:16.797Z
+41235,Linux虚拟化入门（五）KVM 管理命令指南,https://frytea.com/archives/543/,https://www.frytea.com/index.xml,Frytea's Blog,2021-07-05T07:04:46.000Z,2026-04-15T19:16:16.797Z
+41236,Linux虚拟化入门（四）KVM 创建一个 Centos 实例,https://frytea.com/archives/542/,https://www.frytea.com/index.xml,Frytea's Blog,2021-07-05T07:04:00.000Z,2026-04-15T19:16:16.797Z
+41237,Linux虚拟化入门（三）Fedora 安装 KVM 管理环境,https://frytea.com/archives/541/,https://www.frytea.com/index.xml,Frytea's Blog,2021-07-05T07:03:00.000Z,2026-04-15T19:16:16.797Z
+41238,Linux虚拟化入门（二）Hyper-V 开启 KVM 嵌套虚拟化,https://frytea.com/archives/540/,https://www.frytea.com/index.xml,Frytea's Blog,2021-07-05T07:02:00.000Z,2026-04-15T19:16:16.797Z
+41239,Linux虚拟化入门（一）Qemu，KVM，Virsh 概念指南,https://frytea.com/archives/539/,https://www.frytea.com/index.xml,Frytea's Blog,2021-07-05T07:02:00.000Z,2026-04-15T19:16:16.797Z
+41240,「2021年6月复盘」,https://frytea.com/archives/1104/,https://www.frytea.com/index.xml,Frytea's Blog,2021-07-04T15:37:00.000Z,2026-04-15T19:16:16.797Z
+41241,C++中冒号（:）和双冒号（::）的用法总结,https://frytea.com/archives/536/,https://www.frytea.com/index.xml,Frytea's Blog,2021-06-09T03:53:00.000Z,2026-04-15T19:16:16.797Z
+41242,Typecho 博客文首自动添加本页链接,https://frytea.com/archives/535/,https://www.frytea.com/index.xml,Frytea's Blog,2021-06-09T01:25:00.000Z,2026-04-15T19:16:16.797Z
+41243,Bullet Journal （肆）&amp; 日常管理,https://frytea.com/archives/1123/,https://www.frytea.com/index.xml,Frytea's Blog,2021-06-09T00:06:00.000Z,2026-04-15T19:16:16.797Z
+41244,Bullet Journal （肆）&amp; 日常管理,https://frytea.com/archives/534/,https://www.frytea.com/index.xml,Frytea's Blog,2021-06-08T16:06:00.000Z,2026-04-15T19:16:16.797Z
+41245,从 Redis 表项看 SONiC 架构,https://frytea.com/archives/533/,https://www.frytea.com/index.xml,Frytea's Blog,2021-06-08T09:18:00.000Z,2026-04-15T19:16:16.797Z
+41246,「2021年5月复盘」,https://frytea.com/archives/1109/,https://www.frytea.com/index.xml,Frytea's Blog,2021-06-06T15:39:00.000Z,2026-04-15T19:16:16.797Z
+41247,Bullet Journal （叁）&amp; 目标管理 ｜ 一起来规划人生吧,https://frytea.com/archives/1125/,https://www.frytea.com/index.xml,Frytea's Blog,2021-05-29T10:52:00.000Z,2026-04-15T19:16:16.797Z
+41248,Bullet Journal （叁）&amp; 目标管理 ｜ 一起来规划人生吧,https://frytea.com/archives/531/,https://www.frytea.com/index.xml,Frytea's Blog,2021-05-29T02:52:00.000Z,2026-04-15T19:16:16.797Z
+41249,Bullet Journal （二）&amp; 财务管理,https://frytea.com/archives/1122/,https://www.frytea.com/index.xml,Frytea's Blog,2021-05-20T22:17:00.000Z,2026-04-15T19:16:16.797Z
+41250,Bullet Journal （二）&amp; 财务管理,https://frytea.com/archives/530/,https://www.frytea.com/index.xml,Frytea's Blog,2021-05-20T14:17:00.000Z,2026-04-15T19:16:16.797Z
+41251,Bullet Journal （一） &amp; Notion,https://frytea.com/archives/1128/,https://www.frytea.com/index.xml,Frytea's Blog,2021-05-15T21:33:00.000Z,2026-04-15T19:16:16.797Z
+41252,Bullet Journal （一） &amp; Notion,https://frytea.com/archives/529/,https://www.frytea.com/index.xml,Frytea's Blog,2021-05-15T13:33:00.000Z,2026-04-15T19:16:16.797Z
+41253,「2021年4月复盘」,https://frytea.com/archives/1106/,https://www.frytea.com/index.xml,Frytea's Blog,2021-05-07T15:39:00.000Z,2026-04-15T19:16:16.797Z
+41254,解决 Fedora 无法访问码云私有库问题,https://frytea.com/archives/526/,https://www.frytea.com/index.xml,Frytea's Blog,2021-04-17T02:30:00.000Z,2026-04-15T19:16:16.797Z
+41255,为 Windows 10 新增物理网卡子接口,https://frytea.com/archives/525/,https://www.frytea.com/index.xml,Frytea's Blog,2021-04-12T00:55:00.000Z,2026-04-15T19:16:16.797Z
+41256,三步激活 StarUML V4.0.1 (WIN10为例) | 仅供学习,https://frytea.com/archives/524/,https://www.frytea.com/index.xml,Frytea's Blog,2021-04-07T13:05:00.000Z,2026-04-15T19:16:16.797Z
+41257,「2021年3月复盘」,https://frytea.com/archives/1115/,https://www.frytea.com/index.xml,Frytea's Blog,2021-04-06T15:39:00.000Z,2026-04-15T19:16:16.797Z
+41258,「送你一朵小红花」,https://frytea.com/archives/519/,https://www.frytea.com/index.xml,Frytea's Blog,2021-03-09T15:50:14.000Z,2026-04-15T19:16:16.797Z
+41259,Windows CMD 换肤,https://frytea.com/archives/518/,https://www.frytea.com/index.xml,Frytea's Blog,2021-03-03T01:28:25.000Z,2026-04-15T19:16:16.797Z
+41260,「2021年2月复盘」,https://frytea.com/archives/1103/,https://www.frytea.com/index.xml,Frytea's Blog,2021-03-01T15:39:00.000Z,2026-04-15T19:16:16.797Z
+41261,解决 Win10 热点无法上网及与 Hyper-V 虚拟网卡冲突问题,https://frytea.com/archives/514/,https://www.frytea.com/index.xml,Frytea's Blog,2021-02-26T08:49:38.000Z,2026-04-15T19:16:16.797Z
+41262,「2021年1月复盘」,https://frytea.com/archives/1108/,https://www.frytea.com/index.xml,Frytea's Blog,2021-02-01T15:39:00.000Z,2026-04-15T19:16:16.797Z
+41263,NMAP 基础扫描,https://frytea.com/archives/507/,https://www.frytea.com/index.xml,Frytea's Blog,2021-01-26T09:18:25.000Z,2026-04-15T19:16:16.797Z
+41264,Linux 多进程通信开发之 UNIX domain Socket 通信机制从 TCP 切换为 UDP,https://frytea.com/archives/505/,https://www.frytea.com/index.xml,Frytea's Blog,2021-01-13T10:09:00.000Z,2026-04-15T19:16:16.797Z
+41265,无需代理直接加速各种 GitHub 资源拉取 | 国内镜像赋能 | 助力开发,https://frytea.com/archives/504/,https://www.frytea.com/index.xml,Frytea's Blog,2021-01-04T06:05:45.000Z,2026-04-15T19:16:16.797Z
+41266,《小狗钱钱》,https://frytea.com/archives/1059/,https://www.frytea.com/index.xml,Frytea's Blog,2021-01-03T12:16:23.000Z,2026-04-15T19:16:16.797Z
+41267,小狗钱钱 ｜ 伪装成童话的入门理财书籍,https://frytea.com/archives/503/,https://www.frytea.com/index.xml,Frytea's Blog,2021-01-03T04:16:23.000Z,2026-04-15T19:16:16.797Z
+41268,2020 年度 - 经历的都是财富,https://frytea.com/archives/1119/,https://www.frytea.com/index.xml,Frytea's Blog,2021-01-01T14:54:00.000Z,2026-04-15T19:16:16.797Z
+41269,一种C程序使用IPC多进程共享内存并实现热迁移的方法,https://frytea.com/archives/501/,https://www.frytea.com/index.xml,Frytea's Blog,2020-12-30T16:23:00.000Z,2026-04-15T19:16:16.797Z
+41270,Docker 热迁移探索，基于CRIU实现运行状态迁移,https://frytea.com/archives/499/,https://www.frytea.com/index.xml,Frytea's Blog,2020-12-23T05:57:29.000Z,2026-04-15T19:16:16.797Z
+41271,tcpdump 过滤数据包长度,https://frytea.com/archives/496/,https://www.frytea.com/index.xml,Frytea's Blog,2020-12-15T06:31:23.000Z,2026-04-15T19:16:16.797Z
+41272,聊聊搜索引擎的那些事儿 ｜ 又一款国产搜索引擎502了,https://frytea.com/archives/491/,https://www.frytea.com/index.xml,Frytea's Blog,2020-11-29T02:33:20.000Z,2026-04-15T19:16:16.797Z
+41273,BuJo ｜ 使用Notion进行个人账目管理、投资管理,https://frytea.com/archives/490/,https://www.frytea.com/index.xml,Frytea's Blog,2020-11-28T05:23:00.000Z,2026-04-15T19:16:16.797Z
+41274,Bullet Journal 的前世今生 ｜ 效率至上,https://frytea.com/archives/488/,https://www.frytea.com/index.xml,Frytea's Blog,2020-11-20T14:25:00.000Z,2026-04-15T19:16:16.797Z
+41275,苹果M1芯片对大众生活的影响 ｜ M1现存问题及未来发展 ｜ MacBook,https://frytea.com/archives/486/,https://www.frytea.com/index.xml,Frytea's Blog,2020-11-18T14:33:25.000Z,2026-04-15T19:16:16.797Z
+41276,随机命令自动测试脚本 | SecureCRT 下 Python 实现,https://frytea.com/archives/485/,https://www.frytea.com/index.xml,Frytea's Blog,2020-11-17T03:52:00.000Z,2026-04-15T19:16:16.797Z
+41277,《天气之子》 有时需要些治愈系,https://frytea.com/archives/1047/,https://www.frytea.com/index.xml,Frytea's Blog,2020-11-15T19:43:05.000Z,2026-04-15T19:16:16.797Z
+41278,【阅记】天气之子 ｜ 有时需要些治愈系,https://frytea.com/archives/483/,https://www.frytea.com/index.xml,Frytea's Blog,2020-11-15T11:43:05.000Z,2026-04-15T19:16:16.797Z
+41279,frp实现内网穿透 | frp服务端配置 | frp客户端配置,https://frytea.com/archives/482/,https://www.frytea.com/index.xml,Frytea's Blog,2020-11-13T06:59:00.000Z,2026-04-15T19:16:16.797Z
+41280,群晖OpenVPN服务器网关配置,https://frytea.com/archives/481/,https://www.frytea.com/index.xml,Frytea's Blog,2020-11-13T06:19:50.000Z,2026-04-15T19:16:16.797Z
+41281,使用git将code同时提交多个远程仓,https://frytea.com/archives/480/,https://www.frytea.com/index.xml,Frytea's Blog,2020-11-13T03:40:08.000Z,2026-04-15T19:16:16.797Z
+41282,Git 回滚到某个 commit 上及返回主分支,https://frytea.com/archives/479/,https://www.frytea.com/index.xml,Frytea's Blog,2020-11-13T03:39:24.000Z,2026-04-15T19:16:16.797Z
+41283,解决群晖Moment不显示拷入照片,https://frytea.com/archives/477/,https://www.frytea.com/index.xml,Frytea's Blog,2020-11-07T15:19:00.000Z,2026-04-15T19:16:16.797Z
+41284,《斯坦福高效睡眠法》 ｜ 高效睡眠 ｜ 高效人生,https://frytea.com/archives/1075/,https://www.frytea.com/index.xml,Frytea's Blog,2020-11-05T22:31:01.000Z,2026-04-15T19:16:16.797Z
+41285,【阅记】斯坦福高效睡眠法 ｜ 高效睡眠 ｜ 高效人生,https://frytea.com/archives/476/,https://www.frytea.com/index.xml,Frytea's Blog,2020-11-05T14:31:01.000Z,2026-04-15T19:16:16.797Z
+41286,局域网内跨平台传输文件、文字 ｜ Dukto,https://frytea.com/archives/474/,https://www.frytea.com/index.xml,Frytea's Blog,2020-10-30T03:34:00.000Z,2026-04-15T19:16:16.797Z
+41287,iTerms 常用快捷键,https://frytea.com/archives/472/,https://www.frytea.com/index.xml,Frytea's Blog,2020-10-22T07:21:00.000Z,2026-04-15T19:16:16.797Z
+41288,Python执行或远程执行shell命令,https://frytea.com/archives/471/,https://www.frytea.com/index.xml,Frytea's Blog,2020-10-21T13:34:00.000Z,2026-04-15T19:16:16.797Z
+41289,终端抓包神器 ｜ tcpdump参数解析及使用,https://frytea.com/archives/470/,https://www.frytea.com/index.xml,Frytea's Blog,2020-10-20T09:21:00.000Z,2026-04-15T19:16:16.797Z
+41290,SecureCRT下Python脚本编写,https://frytea.com/archives/469/,https://www.frytea.com/index.xml,Frytea's Blog,2020-10-15T13:40:00.000Z,2026-04-15T19:16:16.797Z
+41291,Make参数,https://frytea.com/archives/468/,https://www.frytea.com/index.xml,Frytea's Blog,2020-10-14T15:03:11.000Z,2026-04-15T19:16:16.797Z
+41292,Makefile实例：批量编译多个目标,https://frytea.com/archives/467/,https://www.frytea.com/index.xml,Frytea's Blog,2020-10-14T14:56:37.000Z,2026-04-15T19:16:16.797Z
+41293,Makefile中部分函数的使用,https://frytea.com/archives/466/,https://www.frytea.com/index.xml,Frytea's Blog,2020-10-14T14:55:08.000Z,2026-04-15T19:16:16.797Z
+41294,Makefile基础语法,https://frytea.com/archives/465/,https://www.frytea.com/index.xml,Frytea's Blog,2020-10-14T14:53:18.000Z,2026-04-15T19:16:16.797Z
+41295,Make/Makefile 简介,https://frytea.com/archives/464/,https://www.frytea.com/index.xml,Frytea's Blog,2020-10-14T14:52:50.000Z,2026-04-15T19:16:16.797Z
+41296,自建KMS服务器 | 持续激活Windows,https://frytea.com/archives/462/,https://www.frytea.com/index.xml,Frytea's Blog,2020-10-09T08:19:00.000Z,2026-04-15T19:16:16.797Z
+41297,Chevereto 配合 Picgo 打造个人相册/图床解决方案,https://frytea.com/archives/459/,https://www.frytea.com/index.xml,Frytea's Blog,2020-10-05T00:54:00.000Z,2026-04-15T19:16:16.797Z
+41298,夺冠的感觉？ ｜ 精神传承 ｜ 自我到为人,https://frytea.com/archives/458/,https://www.frytea.com/index.xml,Frytea's Blog,2020-09-29T16:34:41.000Z,2026-04-15T19:16:16.797Z
+41299,微PE制作U盘启动盘，并安装Win10,https://frytea.com/archives/457/,https://www.frytea.com/index.xml,Frytea's Blog,2020-09-28T13:59:45.000Z,2026-04-15T19:16:16.797Z
+41300,"Linux 特殊权限 SUID,SGID,SBIT",https://frytea.com/archives/454/,https://www.frytea.com/index.xml,Frytea's Blog,2020-09-16T02:05:00.000Z,2026-04-15T19:16:16.797Z
+41301,Python解析变长结构体,https://frytea.com/archives/453/,https://www.frytea.com/index.xml,Frytea's Blog,2020-09-14T08:21:00.000Z,2026-04-15T19:16:16.797Z
+41302,《幸福领导力》 ｜ 高层次的激励力量,https://frytea.com/archives/1048/,https://www.frytea.com/index.xml,Frytea's Blog,2020-09-12T09:59:48.000Z,2026-04-15T19:16:16.797Z
+41303,幸福领导力 ｜ 高层次的激励力量,https://frytea.com/archives/452/,https://www.frytea.com/index.xml,Frytea's Blog,2020-09-12T01:59:48.000Z,2026-04-15T19:16:16.797Z
+41304,Python3下基于Scapy库完成网卡抓包解析,https://frytea.com/archives/451/,https://www.frytea.com/index.xml,Frytea's Blog,2020-09-07T06:55:08.000Z,2026-04-15T19:16:16.797Z
+41305,LEDE(OpenWrt)安装openclash ｜旁路由技巧 ｜ 配置网络流量全部通过旁路由,https://frytea.com/archives/450/,https://www.frytea.com/index.xml,Frytea's Blog,2020-09-04T04:25:00.000Z,2026-04-15T19:16:16.797Z
+41306,Esxi安装LEDE(OpenWrt) ｜ 旧电脑变旁路由,https://frytea.com/archives/449/,https://www.frytea.com/index.xml,Frytea's Blog,2020-09-04T04:09:00.000Z,2026-04-15T19:16:16.797Z
+41307,变废为宝 ｜ 旧电脑变云数据中心 ｜ Esxi 配置,https://frytea.com/archives/448/,https://www.frytea.com/index.xml,Frytea's Blog,2020-09-04T03:43:05.000Z,2026-04-15T19:16:16.797Z
+41308,解决SSH登录缓慢,https://frytea.com/archives/446/,https://www.frytea.com/index.xml,Frytea's Blog,2020-09-02T09:52:00.000Z,2026-04-15T19:16:16.797Z
+41309,《加速》,https://frytea.com/archives/1071/,https://www.frytea.com/index.xml,Frytea's Blog,2020-08-30T23:54:57.000Z,2026-04-15T19:16:16.797Z
+41310,想要加速人生吗 ｜ 加速 ｜ 阅后记,https://frytea.com/archives/445/,https://www.frytea.com/index.xml,Frytea's Blog,2020-08-30T15:54:57.000Z,2026-04-15T19:16:16.797Z
+41311,《蒂姆·库克传》 - 苹果的转机与未来,https://frytea.com/archives/1044/,https://www.frytea.com/index.xml,Frytea's Blog,2020-08-29T16:19:00.000Z,2026-04-15T19:16:16.797Z
+41312,苹果的转机与未来 ｜ 蒂姆·库克传阅后记,https://frytea.com/archives/444/,https://www.frytea.com/index.xml,Frytea's Blog,2020-08-29T08:19:00.000Z,2026-04-15T19:16:16.797Z
+41313,《刘强东（传）》 - 人到绝境是重生 ｜ 创业就是解决问题 ｜,https://frytea.com/archives/1069/,https://www.frytea.com/index.xml,Frytea's Blog,2020-08-24T22:25:44.000Z,2026-04-15T19:16:16.797Z
+41314,人到绝境是重生 ｜ 创业就是解决问题 ｜ 刘强东（传）阅后记,https://frytea.com/archives/441/,https://www.frytea.com/index.xml,Frytea's Blog,2020-08-24T14:25:44.000Z,2026-04-15T19:16:16.797Z
+41315,OpsnSSH抓包分析 | SSH协议分析,https://frytea.com/archives/440/,https://www.frytea.com/index.xml,Frytea's Blog,2020-08-24T11:30:00.000Z,2026-04-15T19:16:16.797Z
+41316,Linux下文件系统技巧 | 统计个数 | 只见文件或目录,https://frytea.com/archives/439/,https://www.frytea.com/index.xml,Frytea's Blog,2020-08-24T02:42:00.000Z,2026-04-15T19:16:16.797Z
+41317,Putty个性化配置,https://frytea.com/archives/437/,https://www.frytea.com/index.xml,Frytea's Blog,2020-08-21T02:19:52.000Z,2026-04-15T19:16:16.797Z
+41318,时代终将遗忘无输出的人 ｜ 写作是最好的自我投资 ｜ 阅后记,https://frytea.com/archives/436/,https://www.frytea.com/index.xml,Frytea's Blog,2020-08-20T13:15:07.000Z,2026-04-15T19:16:16.797Z
+41319,Ubuntu20.04修改网卡配置,https://frytea.com/archives/435/,https://www.frytea.com/index.xml,Frytea's Blog,2020-08-20T01:52:00.000Z,2026-04-15T19:16:16.797Z
+41320,Aria2 + Rclone 实现离线下载 | 完美脚本配置 | 解决无法上传问题,https://frytea.com/archives/433/,https://www.frytea.com/index.xml,Frytea's Blog,2020-08-19T12:08:00.000Z,2026-04-15T19:16:16.797Z
+41321,《4点起床：最养生和高效的时间管理》摘录总结 ｜ 十句阅读,https://frytea.com/archives/432/,https://www.frytea.com/index.xml,Frytea's Blog,2020-08-16T22:29:32.000Z,2026-04-15T19:16:16.797Z
+41322,《哈利·波特与魔法石》观影记录 ｜ 感动 ｜ 魔法永恒,https://frytea.com/archives/431/,https://www.frytea.com/index.xml,Frytea's Blog,2020-08-16T13:28:00.000Z,2026-04-15T19:16:16.797Z
+41323,个性化终端 | zsh bash oh-my-zsh,https://frytea.com/archives/430/,https://www.frytea.com/index.xml,Frytea's Blog,2020-08-15T04:09:00.000Z,2026-04-15T19:16:16.797Z
+41324,VirtualBox无限嵌套方法 | 虚拟机套娃,https://frytea.com/archives/429/,https://www.frytea.com/index.xml,Frytea's Blog,2020-08-15T03:18:14.000Z,2026-04-15T19:16:16.797Z
+41325,Win10 LTSC 激活方法 | Win10专业版(永久激活)长期服务版 LTSC 2019密钥,https://frytea.com/archives/428/,https://www.frytea.com/index.xml,Frytea's Blog,2020-08-15T01:17:45.000Z,2026-04-15T19:16:16.797Z
+41326,一站式安装 X终端全家桶 ｜ XShell Xstp Xmanager ｜ 官方渠道 ｜ 破解,https://frytea.com/archives/427/,https://www.frytea.com/index.xml,Frytea's Blog,2020-08-14T00:40:00.000Z,2026-04-15T19:16:16.797Z
+41327,VMware 安装运行 deepin 虚拟机 | 体验中国深度,https://frytea.com/archives/426/,https://www.frytea.com/index.xml,Frytea's Blog,2020-08-13T11:49:06.000Z,2026-04-15T19:16:16.797Z
+41328,《让你的时间更有价值》十句感悟,https://frytea.com/archives/425/,https://www.frytea.com/index.xml,Frytea's Blog,2020-08-08T13:21:41.000Z,2026-04-15T19:16:16.797Z
+41329,计算机基础之位运算 | 按位取反,https://frytea.com/archives/424/,https://www.frytea.com/index.xml,Frytea's Blog,2020-08-06T11:25:00.000Z,2026-04-15T19:16:16.797Z
+41330,《任正非传》十句摘录,https://frytea.com/archives/422/,https://www.frytea.com/index.xml,Frytea's Blog,2020-08-02T15:10:10.000Z,2026-04-15T19:16:16.797Z
+41331,解决拉取github仓库报错“gnutls_handshake() failed”问题,https://frytea.com/archives/421/,https://www.frytea.com/index.xml,Frytea's Blog,2020-07-27T00:21:00.000Z,2026-04-15T19:16:16.797Z
+41332,Vim安装插件管理器Vundle,https://frytea.com/archives/418/,https://www.frytea.com/index.xml,Frytea's Blog,2020-07-26T11:17:16.000Z,2026-04-15T19:16:16.797Z
+41333,Ubuntu下为vim安装YouCompleteMe插件,https://frytea.com/archives/419/,https://www.frytea.com/index.xml,Frytea's Blog,2020-07-26T11:17:00.000Z,2026-04-15T19:16:16.797Z
+41334,VIM 创建程序文件自动添加头部注释,https://frytea.com/archives/416/,https://www.frytea.com/index.xml,Frytea's Blog,2020-07-26T11:16:37.000Z,2026-04-15T19:16:16.797Z
+41335,VIM个性化配置（一）,https://frytea.com/archives/417/,https://www.frytea.com/index.xml,Frytea's Blog,2020-07-26T11:16:00.000Z,2026-04-15T19:16:16.797Z
+41336,Vim 版本升级（Vim8）,https://frytea.com/archives/415/,https://www.frytea.com/index.xml,Frytea's Blog,2020-07-26T11:15:57.000Z,2026-04-15T19:16:16.797Z
+41337,Windows 开机自启VMware虚拟机,https://frytea.com/archives/413/,https://www.frytea.com/index.xml,Frytea's Blog,2020-07-22T01:08:11.000Z,2026-04-15T19:16:16.797Z
+41338,VIM 创建程序文件自动添加头部注释,https://frytea.com/archives/412/,https://www.frytea.com/index.xml,Frytea's Blog,2020-07-20T12:04:23.000Z,2026-04-15T19:16:16.797Z
+41339,【简记】Linux 计划任务 Crontab,https://frytea.com/archives/411/,https://www.frytea.com/index.xml,Frytea's Blog,2020-07-20T03:45:40.000Z,2026-04-15T19:16:16.797Z
+41340,VS Code 免密登录Linux服务器,https://frytea.com/archives/410/,https://www.frytea.com/index.xml,Frytea's Blog,2020-07-20T01:38:00.000Z,2026-04-15T19:16:16.797Z
+41341,Linux部署私钥实现免密登录,https://frytea.com/archives/409/,https://www.frytea.com/index.xml,Frytea's Blog,2020-07-20T01:37:37.000Z,2026-04-15T19:16:16.797Z
+41342,《断舍离》,https://frytea.com/archives/1079/,https://www.frytea.com/index.xml,Frytea's Blog,2020-07-19T17:07:00.000Z,2026-04-15T19:16:16.797Z
+41343,《断舍离》十句感触,https://frytea.com/archives/408/,https://www.frytea.com/index.xml,Frytea's Blog,2020-07-19T09:07:00.000Z,2026-04-15T19:16:16.797Z
+41344,在终端打印地图,https://frytea.com/archives/407/,https://www.frytea.com/index.xml,Frytea's Blog,2020-07-18T09:58:34.000Z,2026-04-15T19:16:16.797Z
+41345,解决git不小心提交大文件导致无法提交问题,https://frytea.com/archives/406/,https://www.frytea.com/index.xml,Frytea's Blog,2020-07-17T07:37:55.000Z,2026-04-15T19:16:16.797Z
+41346,计算 Linux 内存使用率方法及C实现,https://frytea.com/archives/405/,https://www.frytea.com/index.xml,Frytea's Blog,2020-07-16T07:21:33.000Z,2026-04-15T19:16:16.797Z
+41347,计算 Linux CPU 利用率,https://frytea.com/archives/404/,https://www.frytea.com/index.xml,Frytea's Blog,2020-07-15T10:01:00.000Z,2026-04-15T19:16:16.797Z
+41348,Linux 内存参数详细说明,https://frytea.com/archives/403/,https://www.frytea.com/index.xml,Frytea's Blog,2020-07-14T10:30:00.000Z,2026-04-15T19:16:16.797Z
+41349,Linux 下 Sysstat 系统监控程序详解,https://frytea.com/archives/402/,https://www.frytea.com/index.xml,Frytea's Blog,2020-07-14T05:58:00.000Z,2026-04-15T19:16:16.797Z
+41350,安装 Linux系统监控工具 systat,https://frytea.com/archives/401/,https://www.frytea.com/index.xml,Frytea's Blog,2020-07-14T03:01:00.000Z,2026-04-15T19:16:16.797Z
+41351,Linux 中 /proc 文件系统内容详述,https://frytea.com/archives/400/,https://www.frytea.com/index.xml,Frytea's Blog,2020-07-14T01:06:35.000Z,2026-04-15T19:16:16.797Z
+41352,拯救你的硬盘，一切井井有条,https://frytea.com/archives/399/,https://www.frytea.com/index.xml,Frytea's Blog,2020-07-05T02:06:00.000Z,2026-04-15T19:16:16.797Z
+41353,VIM学习使用笔记,https://frytea.com/archives/398/,https://www.frytea.com/index.xml,Frytea's Blog,2020-07-03T10:07:00.000Z,2026-04-15T19:16:16.797Z
+41354,Vim第七讲 帮助、个性化和补全,https://frytea.com/archives/397/,https://www.frytea.com/index.xml,Frytea's Blog,2020-07-03T10:06:46.000Z,2026-04-15T19:16:16.797Z
+41355,Vim第六讲 插入、附加、复制粘贴、高级选项,https://frytea.com/archives/396/,https://www.frytea.com/index.xml,Frytea's Blog,2020-07-03T10:06:35.000Z,2026-04-15T19:16:16.797Z
+41356,Vim第五讲 内部命令、另存、部分保存、插入文件,https://frytea.com/archives/395/,https://www.frytea.com/index.xml,Frytea's Blog,2020-07-03T10:06:20.000Z,2026-04-15T19:16:16.797Z
+41357,Vim第四讲 搜索、查找、替换,https://frytea.com/archives/394/,https://www.frytea.com/index.xml,Frytea's Blog,2020-07-03T10:06:07.000Z,2026-04-15T19:16:16.797Z
+41358,Vim第三讲 置入、替换、更改,https://frytea.com/archives/393/,https://www.frytea.com/index.xml,Frytea's Blog,2020-07-03T10:05:52.000Z,2026-04-15T19:16:16.797Z
+41359,Vim第二讲 删除、重复、撤销,https://frytea.com/archives/392/,https://www.frytea.com/index.xml,Frytea's Blog,2020-07-03T10:05:38.000Z,2026-04-15T19:16:16.797Z
+41360,Vim第一讲 基础操作,https://frytea.com/archives/391/,https://www.frytea.com/index.xml,Frytea's Blog,2020-07-03T10:05:10.000Z,2026-04-15T19:16:16.797Z
+41361,GCC -l选项：手动添加链接库,https://frytea.com/archives/390/,https://www.frytea.com/index.xml,Frytea's Blog,2020-07-03T02:06:02.000Z,2026-04-15T19:16:16.797Z
+41362,《房思琪的初恋乐园》,https://frytea.com/archives/1052/,https://www.frytea.com/index.xml,Frytea's Blog,2020-06-21T10:55:00.000Z,2026-04-15T19:16:16.797Z
+41363,《房思琪的初恋乐园》阅读笔记,https://frytea.com/archives/388/,https://www.frytea.com/index.xml,Frytea's Blog,2020-06-21T02:55:00.000Z,2026-04-15T19:16:16.797Z
+41364,资源分享之计算机网络虚拟实践,https://frytea.com/archives/387/,https://www.frytea.com/index.xml,Frytea's Blog,2020-06-20T02:25:00.000Z,2026-04-15T19:16:16.797Z
+41365,Cisco PT 案例九：单臂路由,https://frytea.com/archives/350/,https://www.frytea.com/index.xml,Frytea's Blog,2020-06-19T08:32:00.000Z,2026-04-15T19:16:16.797Z
+41366,Cisco PT  案例八：配置基本ACL访问控制,https://frytea.com/archives/349/,https://www.frytea.com/index.xml,Frytea's Blog,2020-06-19T01:52:23.000Z,2026-04-15T19:16:16.797Z
+41367,Cisco PT 案例七：配置链路聚合 / 负载均衡,https://frytea.com/archives/348/,https://www.frytea.com/index.xml,Frytea's Blog,2020-06-19T01:51:53.000Z,2026-04-15T19:16:16.797Z
+41368,Cisco PT 案例六：交换机端口与Mac地址绑定,https://frytea.com/archives/347/,https://www.frytea.com/index.xml,Frytea's Blog,2020-06-19T01:51:04.000Z,2026-04-15T19:16:16.797Z
+41369,Cisco PT 案例五：VLAN（Trunk模式实践）,https://frytea.com/archives/346/,https://www.frytea.com/index.xml,Frytea's Blog,2020-06-19T01:50:29.000Z,2026-04-15T19:16:16.797Z
+41370,Cisco PT 案例四：VLAN（Access模式实践）,https://frytea.com/archives/345/,https://www.frytea.com/index.xml,Frytea's Blog,2020-06-19T01:49:46.000Z,2026-04-15T19:16:16.797Z
+41371,Cisco PT 案例三：端口使能/禁用,https://frytea.com/archives/344/,https://www.frytea.com/index.xml,Frytea's Blog,2020-06-19T01:48:54.000Z,2026-04-15T19:16:16.797Z
+41372,Cisco PT 案例二：为路由器配置并连接SSH,https://frytea.com/archives/343/,https://www.frytea.com/index.xml,Frytea's Blog,2020-06-19T01:47:49.000Z,2026-04-15T19:16:16.797Z
+41373,Cisco PT案例一：为交换机配置并连接TELNET,https://frytea.com/archives/342/,https://www.frytea.com/index.xml,Frytea's Blog,2020-06-19T01:42:00.000Z,2026-04-15T19:16:16.797Z
+41374,解决ClashR打开配置空白,https://frytea.com/archives/341/,https://www.frytea.com/index.xml,Frytea's Blog,2020-06-16T14:24:53.000Z,2026-04-15T19:16:16.797Z
+41375,解决Win10下H3C网络设备模拟器无法启动问题,https://frytea.com/archives/338/,https://www.frytea.com/index.xml,Frytea's Blog,2020-06-10T02:39:04.000Z,2026-04-15T19:16:16.797Z
+41376,解决Windows下帮助文件打开空白,https://frytea.com/archives/337/,https://www.frytea.com/index.xml,Frytea's Blog,2020-06-10T01:22:43.000Z,2026-04-15T19:16:16.797Z
+41377,【ZMQ】第一个C服务器,https://frytea.com/archives/335/,https://www.frytea.com/index.xml,Frytea's Blog,2020-06-08T08:47:00.000Z,2026-04-15T19:16:16.797Z
+41378,Minecraft 从安装到入门,https://frytea.com/archives/325/,https://www.frytea.com/index.xml,Frytea's Blog,2020-04-02T02:47:00.000Z,2026-04-15T19:16:16.797Z
+41379,适当愉悦，自建 Minecraft 服务器,https://frytea.com/archives/322/,https://www.frytea.com/index.xml,Frytea's Blog,2020-03-27T03:32:00.000Z,2026-04-15T19:16:16.797Z
+41380,[编程题]和为S的连续正数序列,https://frytea.com/archives/320/,https://www.frytea.com/index.xml,Frytea's Blog,2020-03-03T10:01:00.000Z,2026-04-15T19:16:16.797Z
+41381,[编程题]evaluate-reverse-polish-notati,https://frytea.com/archives/319/,https://www.frytea.com/index.xml,Frytea's Blog,2020-02-25T03:44:00.000Z,2026-04-15T19:16:16.797Z
+41382,助力求职之STAR法则,https://frytea.com/archives/318/,https://www.frytea.com/index.xml,Frytea's Blog,2020-02-24T10:03:00.000Z,2026-04-15T19:16:16.797Z
+41383,[编程题]minimum-depth-of-binary-tree,https://frytea.com/archives/317/,https://www.frytea.com/index.xml,Frytea's Blog,2020-02-23T10:18:00.000Z,2026-04-15T19:16:16.797Z
+41384,[编程题]进制转换,https://frytea.com/archives/315/,https://www.frytea.com/index.xml,Frytea's Blog,2020-02-22T08:25:00.000Z,2026-04-15T19:16:16.797Z
+41385,这款云盘在国内表现很惊艳了！,https://frytea.com/archives/314/,https://www.frytea.com/index.xml,Frytea's Blog,2020-02-18T13:51:53.000Z,2026-04-15T19:16:16.797Z
+41386,一键配置 Seafile 云盘并开启 https 访问,https://frytea.com/archives/313/,https://www.frytea.com/index.xml,Frytea's Blog,2020-02-13T07:42:00.000Z,2026-04-15T19:16:16.797Z
+41387,GitLab 神奇问题之ssl,https://frytea.com/archives/311/,https://www.frytea.com/index.xml,Frytea's Blog,2020-02-06T18:12:01.000Z,2026-04-15T19:16:16.797Z
+41388,迁移 GitLab 小记,https://frytea.com/archives/310/,https://www.frytea.com/index.xml,Frytea's Blog,2020-02-06T11:30:00.000Z,2026-04-15T19:16:16.797Z
+41389,解决VMeare 安装 Android x86 错误,https://frytea.com/archives/309/,https://www.frytea.com/index.xml,Frytea's Blog,2020-02-05T14:04:25.000Z,2026-04-15T19:16:16.797Z
+41390,还记得使用手机的最基本诉求吗,https://frytea.com/archives/308/,https://www.frytea.com/index.xml,Frytea's Blog,2020-02-05T13:51:00.000Z,2026-04-15T19:16:16.797Z
+41391,你会查列车的信用吗？,https://frytea.com/archives/307/,https://www.frytea.com/index.xml,Frytea's Blog,2020-02-05T07:51:44.000Z,2026-04-15T19:16:16.797Z
+41392,华为鲲鹏服务器初探,https://frytea.com/archives/306/,https://www.frytea.com/index.xml,Frytea's Blog,2020-02-04T09:29:21.000Z,2026-04-15T19:16:16.797Z
+41393,告别 Android 开发“Read timed out”,https://frytea.com/archives/304/,https://www.frytea.com/index.xml,Frytea's Blog,2020-02-01T07:34:00.000Z,2026-04-15T19:16:16.797Z
+41394,基于 Ubuntu 平台安装 OS X 10.15 虚拟机,https://frytea.com/archives/302/,https://www.frytea.com/index.xml,Frytea's Blog,2020-01-30T12:06:00.000Z,2026-04-15T19:16:16.797Z
+41395,一个方便转存 Google Drive 分享文件的方法,https://frytea.com/archives/301/,https://www.frytea.com/index.xml,Frytea's Blog,2020-01-30T03:40:00.000Z,2026-04-15T19:16:16.797Z
+41396,今天，你上云了吗？,https://frytea.com/archives/300/,https://www.frytea.com/index.xml,Frytea's Blog,2020-01-24T04:05:00.000Z,2026-04-15T19:16:16.797Z
+41397,这项技术解决了博客访问的大问题,https://frytea.com/archives/299/,https://www.frytea.com/index.xml,Frytea's Blog,2020-01-23T03:35:00.000Z,2026-04-15T19:16:16.797Z
+41398,版本控制及代码托管平台综述,https://frytea.com/archives/297/,https://www.frytea.com/index.xml,Frytea's Blog,2020-01-19T16:50:00.000Z,2026-04-15T19:16:16.797Z
+41399,为Linux发行版安装中文字体,https://frytea.com/archives/296/,https://www.frytea.com/index.xml,Frytea's Blog,2020-01-16T03:17:00.000Z,2026-04-15T19:16:16.797Z
+41400,一种高兼容度的通用文档解决方案,https://frytea.com/archives/294/,https://www.frytea.com/index.xml,Frytea's Blog,2020-01-09T10:12:00.000Z,2026-04-15T19:16:16.797Z
+41401,这款来自爱尔兰的操作系统真的是爱了,https://frytea.com/archives/293/,https://www.frytea.com/index.xml,Frytea's Blog,2020-01-07T03:15:11.000Z,2026-04-15T19:16:16.797Z
+41402,Typecho 调取随机文章,https://frytea.com/archives/292/,https://www.frytea.com/index.xml,Frytea's Blog,2020-01-06T12:17:00.000Z,2026-04-15T19:16:16.797Z
+41403,Typecho插件之飘雪插件,https://frytea.com/archives/290/,https://www.frytea.com/index.xml,Frytea's Blog,2020-01-06T11:44:17.000Z,2026-04-15T19:16:16.797Z
+41404,时空位置与大数据,https://frytea.com/archives/289/,https://www.frytea.com/index.xml,Frytea's Blog,2020-01-06T02:51:00.000Z,2026-04-15T19:16:16.797Z
+41405,如何随时随地免费使用中国知网？,https://frytea.com/archives/287/,https://www.frytea.com/index.xml,Frytea's Blog,2020-01-03T10:07:00.000Z,2026-04-15T19:16:16.797Z
+41406,一种用于Linux 自动更换精美壁纸的方法,https://frytea.com/archives/285/,https://www.frytea.com/index.xml,Frytea's Blog,2019-12-26T05:13:00.000Z,2026-04-15T19:16:16.797Z
+41407,Ubuntu 安装 Android Studio,https://frytea.com/archives/284/,https://www.frytea.com/index.xml,Frytea's Blog,2019-12-24T09:25:00.000Z,2026-04-15T19:16:16.797Z
+41408,GitLab Pipline 使用 mkdocs 及 docs-material 自动编译生成静态页面并自动提交 GitLab Pages,https://frytea.com/archives/275/,https://www.frytea.com/index.xml,Frytea's Blog,2019-12-03T10:33:00.000Z,2026-04-15T19:16:16.797Z
+41409,Kvm 虚拟机安装 OnlyOffice,https://frytea.com/archives/272/,https://www.frytea.com/index.xml,Frytea's Blog,2019-12-01T11:22:00.000Z,2026-04-15T19:16:16.797Z
+41410,【GitLab CI/CD】记一个脑残问题  `too large archive`,https://frytea.com/archives/271/,https://www.frytea.com/index.xml,Frytea's Blog,2019-11-30T16:01:00.000Z,2026-04-15T19:16:16.797Z
+41411,综述 DevOps,https://frytea.com/archives/1140/,https://www.frytea.com/index.xml,Frytea's Blog,2019-11-28T20:53:00.000Z,2026-04-15T19:16:16.797Z
+41412,GitLab 绑定 GCP 使用 Auto DevOps（可领取GCP $200.00 赠金）,https://frytea.com/archives/269/,https://www.frytea.com/index.xml,Frytea's Blog,2019-11-28T13:44:00.000Z,2026-04-15T19:16:16.797Z
+41413,综述 DevOps,https://frytea.com/archives/268/,https://www.frytea.com/index.xml,Frytea's Blog,2019-11-28T12:53:00.000Z,2026-04-15T19:16:16.797Z
+41414,Linux 使用 DNSMasq 自建 DNS 服务器,https://frytea.com/archives/267/,https://www.frytea.com/index.xml,Frytea's Blog,2019-11-28T08:35:00.000Z,2026-04-15T19:16:16.797Z
+41415,KVM虚拟机安装 GitLab EE,https://frytea.com/archives/266/,https://www.frytea.com/index.xml,Frytea's Blog,2019-11-28T08:20:00.000Z,2026-04-15T19:16:16.797Z
+41416,自建网盘之 NextCloud 终极记录,https://frytea.com/archives/265/,https://www.frytea.com/index.xml,Frytea's Blog,2019-11-27T02:34:00.000Z,2026-04-15T19:16:16.797Z
+41417,解决 MySQL 报错 “ Column count of mysql.user is wrong...”,https://frytea.com/archives/264/,https://www.frytea.com/index.xml,Frytea's Blog,2019-11-23T12:34:00.000Z,2026-04-15T19:16:16.797Z
+41418,kvm 虚拟化安装 Ubuntu 18.04 server,https://frytea.com/archives/1234/,https://www.frytea.com/index.xml,Frytea's Blog,2019-11-23T10:37:00.000Z,2026-04-15T19:16:16.797Z
+41419,NextCloud手动添加文件并列出,https://frytea.com/archives/263/,https://www.frytea.com/index.xml,Frytea's Blog,2019-11-23T03:08:50.000Z,2026-04-15T19:16:16.797Z
+41420,kvm 虚拟化安装 Ubuntu 18.04 server,https://frytea.com/archives/262/,https://www.frytea.com/index.xml,Frytea's Blog,2019-11-23T02:37:00.000Z,2026-04-15T19:16:16.797Z
+41421,裸金属服务器kvm虚拟化安装win10,https://frytea.com/archives/261/,https://www.frytea.com/index.xml,Frytea's Blog,2019-11-21T08:39:00.000Z,2026-04-15T19:16:16.797Z
+41422,【持续集成】Android使用Github Action自动打包并发布Fir.im内测,https://frytea.com/archives/260/,https://www.frytea.com/index.xml,Frytea's Blog,2019-11-17T13:36:00.000Z,2026-04-15T19:16:16.797Z
+41423,《哈利 · 波特 与混血王子（2005）》,https://frytea.com/archives/1053/,https://www.frytea.com/index.xml,Frytea's Blog,2019-11-03T16:53:00.000Z,2026-04-15T19:16:16.797Z
+41424,《哈利 · 波特 与密室（1998）》,https://frytea.com/archives/1072/,https://www.frytea.com/index.xml,Frytea's Blog,2019-11-03T16:51:00.000Z,2026-04-15T19:16:16.797Z
+41425,[摘录] 哈利 · 波特 与混血王子（2005）,https://frytea.com/archives/174/,https://www.frytea.com/index.xml,Frytea's Blog,2019-11-03T08:53:00.000Z,2026-04-15T19:16:16.797Z
+41426,[摘录] 哈利 · 波特 与密室（1998）,https://frytea.com/archives/173/,https://www.frytea.com/index.xml,Frytea's Blog,2019-11-03T08:51:00.000Z,2026-04-15T19:16:16.797Z
+41427,5 步打造自己的资讯阅读平台,https://frytea.com/archives/170/,https://www.frytea.com/index.xml,Frytea's Blog,2019-10-29T11:26:00.000Z,2026-04-15T19:16:16.797Z
+41428,GTD高效工具之 WorkFlowy 推荐,https://frytea.com/archives/169/,https://www.frytea.com/index.xml,Frytea's Blog,2019-10-26T15:30:00.000Z,2026-04-15T19:16:16.797Z
+41429,【趣味操作】Terminals显示带有酷炫linux标志的基本硬件信息,https://frytea.com/archives/168/,https://www.frytea.com/index.xml,Frytea's Blog,2019-10-21T09:39:00.000Z,2026-04-15T19:16:16.797Z
+41430,泛谈云计算,https://frytea.com/archives/166/,https://www.frytea.com/index.xml,Frytea's Blog,2019-10-13T11:09:12.000Z,2026-04-15T19:16:16.797Z
+41431,《哈利 · 波特 与凤凰社（2003）》,https://frytea.com/archives/1055/,https://www.frytea.com/index.xml,Frytea's Blog,2019-09-26T21:19:00.000Z,2026-04-15T19:16:16.797Z
+41432,[摘录] 哈利 · 波特 与凤凰社（2003）,https://frytea.com/archives/162/,https://www.frytea.com/index.xml,Frytea's Blog,2019-09-26T13:19:00.000Z,2026-04-15T19:16:16.797Z
+41433,《哈利 · 波特 与火焰杯（2000）》,https://frytea.com/archives/1051/,https://www.frytea.com/index.xml,Frytea's Blog,2019-08-29T16:16:00.000Z,2026-04-15T19:16:16.797Z
+41434,[摘录] 哈利 · 波特 与火焰杯（2000）,https://frytea.com/archives/158/,https://www.frytea.com/index.xml,Frytea's Blog,2019-08-29T08:16:00.000Z,2026-04-15T19:16:16.797Z
+41435,《哈利 · 波特 与阿兹卡班的囚徒（1999）》,https://frytea.com/archives/1068/,https://www.frytea.com/index.xml,Frytea's Blog,2019-08-15T09:24:00.000Z,2026-04-15T19:16:16.797Z
+41436,[摘录] 哈利 · 波特 与阿兹卡班的囚徒（1999）,https://frytea.com/archives/157/,https://www.frytea.com/index.xml,Frytea's Blog,2019-08-15T01:24:00.000Z,2026-04-15T19:16:16.797Z
+41437,《人人都能用英语》,https://frytea.com/archives/1070/,https://www.frytea.com/index.xml,Frytea's Blog,2019-08-14T19:18:00.000Z,2026-04-15T19:16:16.797Z
+41438,【摘录笔记】人人都能用英语,https://frytea.com/archives/156/,https://www.frytea.com/index.xml,Frytea's Blog,2019-08-14T11:18:00.000Z,2026-04-15T19:16:16.797Z
+41439,The Legend of 1900,https://frytea.com/archives/155/,https://www.frytea.com/index.xml,Frytea's Blog,2019-08-13T08:26:00.000Z,2026-04-15T19:16:16.797Z
+41440,【翻译】早起的7个好处,https://frytea.com/archives/154/,https://www.frytea.com/index.xml,Frytea's Blog,2019-08-05T12:15:55.000Z,2026-04-15T19:16:16.797Z
+41441,【翻译】十分钟助您明晰方向、激发创造,https://frytea.com/archives/153/,https://www.frytea.com/index.xml,Frytea's Blog,2019-08-03T09:02:00.000Z,2026-04-15T19:16:16.797Z
+41442,【长句分析】2019.8.2,https://frytea.com/archives/152/,https://www.frytea.com/index.xml,Frytea's Blog,2019-08-02T11:58:00.000Z,2026-04-15T19:16:16.797Z
+41443,【长句分析】2019.8.1.md,https://frytea.com/archives/151/,https://www.frytea.com/index.xml,Frytea's Blog,2019-08-01T12:19:00.000Z,2026-04-15T19:16:16.797Z
+41444,【长句分析】2019.7.31,https://frytea.com/archives/150/,https://www.frytea.com/index.xml,Frytea's Blog,2019-08-01T12:10:36.000Z,2026-04-15T19:16:16.797Z
+41445,【长句分析】2019.7.30,https://frytea.com/archives/149/,https://www.frytea.com/index.xml,Frytea's Blog,2019-08-01T12:00:26.000Z,2026-04-15T19:16:16.797Z
+41446,【长句分析】2019.7.29,https://frytea.com/archives/148/,https://www.frytea.com/index.xml,Frytea's Blog,2019-08-01T11:48:15.000Z,2026-04-15T19:16:16.797Z
+41447,【长句分析】2019.7.26,https://frytea.com/archives/147/,https://www.frytea.com/index.xml,Frytea's Blog,2019-08-01T11:34:10.000Z,2026-04-15T19:16:16.797Z
+41448,【翻译】看看Netflix如何躲避瘟疫一般的规则,https://frytea.com/archives/146/,https://www.frytea.com/index.xml,Frytea's Blog,2019-08-01T09:12:00.000Z,2026-04-15T19:16:16.797Z
+41449,【翻译】Being ‘Busy’ Doesn’t Mean You’re Successful,https://frytea.com/archives/145/,https://www.frytea.com/index.xml,Frytea's Blog,2019-07-30T07:14:00.000Z,2026-04-15T19:16:16.797Z
+41450,【翻译】How to Fall Asleep in 120 Seconds,https://frytea.com/archives/144/,https://www.frytea.com/index.xml,Frytea's Blog,2019-07-28T09:03:00.000Z,2026-04-15T19:16:16.797Z
+41451,《人民的名义》,https://frytea.com/archives/1058/,https://www.frytea.com/index.xml,Frytea's Blog,2019-07-27T08:39:37.000Z,2026-04-15T19:16:16.797Z
+41452,阅读摘录,https://frytea.com/archives/143/,https://www.frytea.com/index.xml,Frytea's Blog,2019-07-27T00:39:37.000Z,2026-04-15T19:16:16.797Z
+41453,【长句分析】2019.7.25,https://frytea.com/archives/142/,https://www.frytea.com/index.xml,Frytea's Blog,2019-07-26T06:29:52.000Z,2026-04-15T19:16:16.797Z
+41454,【长句分析】2019.7.24,https://frytea.com/archives/141/,https://www.frytea.com/index.xml,Frytea's Blog,2019-07-25T09:41:00.000Z,2026-04-15T19:16:16.797Z
+41455,【翻译】10 Bad Habits of Unsuccessful People,https://frytea.com/archives/140/,https://www.frytea.com/index.xml,Frytea's Blog,2019-07-25T09:06:00.000Z,2026-04-15T19:16:16.797Z
+41456,【研译】评分标准与技巧,https://frytea.com/archives/139/,https://www.frytea.com/index.xml,Frytea's Blog,2019-07-24T09:29:31.000Z,2026-04-15T19:16:16.797Z
+41457,【长句分析】2019.7.24,https://frytea.com/archives/138/,https://www.frytea.com/index.xml,Frytea's Blog,2019-07-24T01:09:37.000Z,2026-04-15T19:16:16.797Z
+41458,【史纲】第七章 为新中国而奋斗,https://frytea.com/archives/137/,https://www.frytea.com/index.xml,Frytea's Blog,2019-07-23T12:53:00.000Z,2026-04-15T19:16:16.797Z
+41459,【史纲】第六章 中华民族的抗日战争,https://frytea.com/archives/135/,https://www.frytea.com/index.xml,Frytea's Blog,2019-07-23T09:35:00.000Z,2026-04-15T19:16:16.797Z
+41460,【翻译】The Only Sleep Hack That Actually Works,https://frytea.com/archives/134/,https://www.frytea.com/index.xml,Frytea's Blog,2019-07-22T09:38:00.000Z,2026-04-15T19:16:16.797Z
+41461,【高2.2】中值定理及导数的应用,https://frytea.com/archives/133/,https://www.frytea.com/index.xml,Frytea's Blog,2019-07-22T02:29:00.000Z,2026-04-15T19:16:16.797Z
+41462,【长句分析】2019.7.11,https://frytea.com/archives/132/,https://www.frytea.com/index.xml,Frytea's Blog,2019-07-21T23:10:00.000Z,2026-04-15T19:16:16.797Z
+41463,【语法三四】长难句三大套路,https://frytea.com/archives/131/,https://www.frytea.com/index.xml,Frytea's Blog,2019-07-21T09:37:00.000Z,2026-04-15T19:16:16.797Z
+41464,【高 1】 函数、极限、连续,https://frytea.com/archives/130/,https://www.frytea.com/index.xml,Frytea's Blog,2019-07-21T09:00:45.000Z,2026-04-15T19:16:16.797Z
+41465,考研数二知识说明,https://frytea.com/archives/129/,https://www.frytea.com/index.xml,Frytea's Blog,2019-07-21T08:53:00.000Z,2026-04-15T19:16:16.797Z
+41466,【史纲】近现代史纲要知识说明,https://frytea.com/archives/128/,https://www.frytea.com/index.xml,Frytea's Blog,2019-07-20T11:02:00.000Z,2026-04-15T19:16:16.797Z
+41467,【史纲】第四章 开天辟地的大事变,https://frytea.com/archives/126/,https://www.frytea.com/index.xml,Frytea's Blog,2019-07-20T11:01:00.000Z,2026-04-15T19:16:16.797Z
+41468,【史纲】第五章 中国革命的新道路,https://frytea.com/archives/127/,https://www.frytea.com/index.xml,Frytea's Blog,2019-07-20T11:01:00.000Z,2026-04-15T19:16:16.797Z
+41469,【史纲】第二章 对国家出路的早期探索,https://frytea.com/archives/124/,https://www.frytea.com/index.xml,Frytea's Blog,2019-07-20T11:00:00.000Z,2026-04-15T19:16:16.797Z
+41470,【史纲】第三章 辛亥革命与君主专制制度的终结,https://frytea.com/archives/125/,https://www.frytea.com/index.xml,Frytea's Blog,2019-07-20T11:00:00.000Z,2026-04-15T19:16:16.797Z
+41471,【史纲】第一章   反对外国侵略的斗争,https://frytea.com/archives/123/,https://www.frytea.com/index.xml,Frytea's Blog,2019-07-20T11:00:00.000Z,2026-04-15T19:16:16.797Z
+41472,【语法二】长难句入门,https://frytea.com/archives/120/,https://www.frytea.com/index.xml,Frytea's Blog,2019-07-20T08:12:00.000Z,2026-04-15T19:16:16.797Z
+41473,【高2.1】函数与微分,https://frytea.com/archives/117/,https://www.frytea.com/index.xml,Frytea's Blog,2019-07-19T03:26:00.000Z,2026-04-15T19:16:16.797Z
+41474,【语法一】基础语法入门,https://frytea.com/archives/115/,https://www.frytea.com/index.xml,Frytea's Blog,2019-07-18T08:39:00.000Z,2026-04-15T19:16:16.797Z
+41475,Deepin（Linux）下实现Android投屏,https://frytea.com/archives/34/,https://www.frytea.com/index.xml,Frytea's Blog,2019-06-18T00:39:00.000Z,2026-04-15T19:16:16.797Z
+41476,software engineering Final Review | 软件工程期末复习,https://frytea.com/archives/96/,https://www.frytea.com/index.xml,Frytea's Blog,2019-06-02T13:18:00.000Z,2026-04-15T19:16:16.797Z
+41477,Spatial database,https://frytea.com/archives/95/,https://www.frytea.com/index.xml,Frytea's Blog,2019-05-21T06:12:00.000Z,2026-04-15T19:16:16.797Z
+41478,智能手机中的传感器,https://frytea.com/archives/97/,https://www.frytea.com/index.xml,Frytea's Blog,2019-05-11T14:35:00.000Z,2026-04-15T19:16:16.797Z
+41479,Android编程之Navigation项目迁移AndroidX踩坑记录,https://frytea.com/archives/27/,https://www.frytea.com/index.xml,Frytea's Blog,2019-05-08T11:19:00.000Z,2026-04-15T19:16:16.797Z
+41480,Linux下使用rclone挂载网盘到本地,https://frytea.com/archives/31/,https://www.frytea.com/index.xml,Frytea's Blog,2019-05-06T15:58:00.000Z,2026-04-15T19:16:16.797Z
+41481,Windows Update服务启动弹出“拒绝访问的解决方案,https://frytea.com/archives/49/,https://www.frytea.com/index.xml,Frytea's Blog,2019-04-13T14:25:00.000Z,2026-04-15T19:16:16.797Z
+41482,私有vpn搭建工具集合及靠谱的vpn提供商,https://frytea.com/archives/39/,https://www.frytea.com/index.xml,Frytea's Blog,2019-04-12T12:04:00.000Z,2026-04-15T19:16:16.797Z
+41483,Win10安装Rational_Rose_2007步骤及安装包下载,https://frytea.com/archives/45/,https://www.frytea.com/index.xml,Frytea's Blog,2019-04-11T14:34:00.000Z,2026-04-15T19:16:16.797Z
+41484,物联网技术概论,https://frytea.com/archives/98/,https://www.frytea.com/index.xml,Frytea's Blog,2019-04-09T02:51:00.000Z,2026-04-15T19:16:16.797Z
+41485,《一条狗的回家路》观后感,https://frytea.com/archives/107/,https://www.frytea.com/index.xml,Frytea's Blog,2019-03-25T15:40:00.000Z,2026-04-15T19:16:16.797Z
+41486,《神探蒲松龄》观影有感,https://frytea.com/archives/109/,https://www.frytea.com/index.xml,Frytea's Blog,2019-03-23T13:42:00.000Z,2026-04-15T19:16:16.797Z
+41487,vue项目使用axios对接第三方api，并做跨域处理,https://frytea.com/archives/40/,https://www.frytea.com/index.xml,Frytea's Blog,2019-03-17T09:51:00.000Z,2026-04-15T19:16:16.797Z
+41488,私人网盘搭建之centos下安装cloudreve,https://frytea.com/archives/29/,https://www.frytea.com/index.xml,Frytea's Blog,2019-03-15T05:10:00.000Z,2026-04-15T19:16:16.797Z
+41489,Centos系统安装docker,https://frytea.com/archives/37/,https://www.frytea.com/index.xml,Frytea's Blog,2019-03-12T03:13:00.000Z,2026-04-15T19:16:16.797Z
+41490,Vue项目使用经验积累,https://frytea.com/archives/42/,https://www.frytea.com/index.xml,Frytea's Blog,2019-03-12T02:51:00.000Z,2026-04-15T19:16:16.797Z
+41491,Vue项目api加载json文件,https://frytea.com/archives/44/,https://www.frytea.com/index.xml,Frytea's Blog,2019-03-10T04:00:00.000Z,2026-04-15T19:16:16.797Z
+41492,获取指定尺寸随机美图,https://frytea.com/archives/1226/,https://www.frytea.com/index.xml,Frytea's Blog,2019-03-09T11:53:00.000Z,2026-04-15T19:16:16.797Z
+41493,获取指定尺寸随机美图,https://frytea.com/archives/51/,https://www.frytea.com/index.xml,Frytea's Blog,2019-03-09T03:53:00.000Z,2026-04-15T19:16:16.797Z
+41494,Vue项目使用leaflet+heatmap.js加载热力图,https://frytea.com/archives/41/,https://www.frytea.com/index.xml,Frytea's Blog,2019-03-08T16:29:00.000Z,2026-04-15T19:16:16.797Z
+41495,Vue项目使用Vue2Leaflet插件实现地图显示,https://frytea.com/archives/43/,https://www.frytea.com/index.xml,Frytea's Blog,2019-03-03T10:47:00.000Z,2026-04-15T19:16:16.797Z
+41496,Windows下纯控制台配置vue环境并创建第一个vue项目,https://frytea.com/archives/48/,https://www.frytea.com/index.xml,Frytea's Blog,2019-03-01T01:50:00.000Z,2026-04-15T19:16:16.797Z
+41497,WebStorm中使用Git同步代码到Github,https://frytea.com/archives/47/,https://www.frytea.com/index.xml,Frytea's Blog,2019-02-27T02:01:00.000Z,2026-04-15T19:16:16.797Z
+41498,《一百个人的十年》,https://frytea.com/archives/1049/,https://www.frytea.com/index.xml,Frytea's Blog,2019-02-23T01:23:00.000Z,2026-04-15T19:16:16.797Z
+41499,【书评】一百个人的十年,https://frytea.com/archives/103/,https://www.frytea.com/index.xml,Frytea's Blog,2019-02-22T17:23:00.000Z,2026-04-15T19:16:16.797Z
+41500,Hexo在GitHub及gitee配置小记,https://frytea.com/archives/56/,https://www.frytea.com/index.xml,Frytea's Blog,2019-02-22T07:51:00.000Z,2026-04-15T19:16:16.797Z
+41501,网页版终端webssh2配置,https://frytea.com/archives/33/,https://www.frytea.com/index.xml,Frytea's Blog,2019-02-21T10:17:00.000Z,2026-04-15T19:16:16.797Z
+41502,Markdown语法,https://frytea.com/archives/58/,https://www.frytea.com/index.xml,Frytea's Blog,2019-02-21T07:46:00.000Z,2026-04-15T19:16:16.797Z
+41503,Linux后台运行hexo,https://frytea.com/archives/50/,https://www.frytea.com/index.xml,Frytea's Blog,2019-02-21T07:22:00.000Z,2026-04-15T19:16:16.797Z
+41504,Hexo右上角添加GitHub Corner,https://frytea.com/archives/52/,https://www.frytea.com/index.xml,Frytea's Blog,2019-02-21T05:46:00.000Z,2026-04-15T19:16:16.797Z
+41505,《别让无效努力毁了你》书评,https://frytea.com/archives/113/,https://www.frytea.com/index.xml,Frytea's Blog,2019-01-29T14:54:00.000Z,2026-04-15T19:16:16.797Z
+41506,《密室逃生》电影观后感,https://frytea.com/archives/110/,https://www.frytea.com/index.xml,Frytea's Blog,2019-01-27T11:09:00.000Z,2026-04-15T19:16:16.797Z
+41507,纪录片《为民而商》观后感,https://frytea.com/archives/100/,https://www.frytea.com/index.xml,Frytea's Blog,2019-01-27T10:29:00.000Z,2026-04-15T19:16:16.797Z
+41508,使用aria2实现离线下载,https://frytea.com/archives/36/,https://www.frytea.com/index.xml,Frytea's Blog,2019-01-23T13:56:00.000Z,2026-04-15T19:16:16.797Z
+41509,Android 集成腾讯定位,https://frytea.com/archives/28/,https://www.frytea.com/index.xml,Frytea's Blog,2019-01-17T15:44:00.000Z,2026-04-15T19:16:16.797Z
+41510,Wordpress邮件通知插件Notification使用小记,https://frytea.com/archives/55/,https://www.frytea.com/index.xml,Frytea's Blog,2019-01-17T07:39:00.000Z,2026-04-15T19:16:16.797Z
+41511,【影评】爱情公寓2018电影观后感,https://frytea.com/archives/102/,https://www.frytea.com/index.xml,Frytea's Blog,2019-01-16T16:03:00.000Z,2026-04-15T19:16:16.797Z
+41512,【书评】白鹿原,https://frytea.com/archives/106/,https://www.frytea.com/index.xml,Frytea's Blog,2019-01-15T23:29:00.000Z,2026-04-15T19:16:16.797Z
+41513,ArcGis综合运用实践,https://frytea.com/archives/46/,https://www.frytea.com/index.xml,Frytea's Blog,2019-01-15T09:46:00.000Z,2026-04-15T19:16:16.797Z
+41514,《西南联大》之八音合奏读后感,https://frytea.com/archives/108/,https://www.frytea.com/index.xml,Frytea's Blog,2019-01-15T06:14:00.000Z,2026-04-15T19:16:16.797Z
+41515,Wordpress评论区爆炸特效,https://frytea.com/archives/54/,https://www.frytea.com/index.xml,Frytea's Blog,2019-01-15T02:26:00.000Z,2026-04-15T19:16:16.797Z
+41516,Linux 常用命令,https://frytea.com/archives/38/,https://www.frytea.com/index.xml,Frytea's Blog,2019-01-14T12:32:00.000Z,2026-04-15T19:16:16.797Z
+41517,vps使用Shadowsocks搭建vpn,https://frytea.com/archives/30/,https://www.frytea.com/index.xml,Frytea's Blog,2019-01-12T03:52:00.000Z,2026-04-15T19:16:16.797Z
+41518,Wordpress鼠标指针样式自定义,https://frytea.com/archives/53/,https://www.frytea.com/index.xml,Frytea's Blog,2019-01-11T16:55:00.000Z,2026-04-15T19:16:16.797Z
+41519,Wordpress鼠标点击出现爱心,https://frytea.com/archives/60/,https://www.frytea.com/index.xml,Frytea's Blog,2019-01-11T16:37:00.000Z,2026-04-15T19:16:16.797Z
+41520,Wordpress 添加下雪特效,https://frytea.com/archives/59/,https://www.frytea.com/index.xml,Frytea's Blog,2019-01-11T15:48:00.000Z,2026-04-15T19:16:16.797Z
+41521,Wordpress自动推送新文章收录百度,https://frytea.com/archives/57/,https://www.frytea.com/index.xml,Frytea's Blog,2019-01-11T15:14:00.000Z,2026-04-15T19:16:16.797Z
+41522,Wordpress检测文章手否被百度收录,https://frytea.com/archives/61/,https://www.frytea.com/index.xml,Frytea's Blog,2019-01-11T14:38:00.000Z,2026-04-15T19:16:16.797Z
+41523,私人网盘nextcloud配置问题解决,https://frytea.com/archives/32/,https://www.frytea.com/index.xml,Frytea's Blog,2019-01-10T03:29:00.000Z,2026-04-15T19:16:16.797Z
+41524,DirectoryLister搭建个人资源分享站点及私人云盘搭建小记,https://frytea.com/archives/35/,https://www.frytea.com/index.xml,Frytea's Blog,2019-01-08T14:53:00.000Z,2026-04-15T19:16:16.797Z
+41525,《开讲啦》王树国校长开讲感受,https://frytea.com/archives/111/,https://www.frytea.com/index.xml,Frytea's Blog,2019-01-04T15:19:00.000Z,2026-04-15T19:16:16.797Z
+41526,《海王》电影观后小感,https://frytea.com/archives/112/,https://www.frytea.com/index.xml,Frytea's Blog,2019-01-02T02:31:00.000Z,2026-04-15T19:16:16.797Z
+41527,智能生活管家项目之一-系统简介,https://frytea.com/archives/1087/,https://www.frytea.com/index.xml,Frytea's Blog,2018-12-04T02:30:00.000Z,2026-04-15T19:16:16.797Z
+41528,智能生活管家项目之一-系统简介,https://frytea.com/archives/26/,https://www.frytea.com/index.xml,Frytea's Blog,2018-12-03T18:30:00.000Z,2026-04-15T19:16:16.797Z
+41529,【影评】名侦探柯南·零的执行人,https://frytea.com/archives/101/,https://www.frytea.com/index.xml,Frytea's Blog,2018-11-25T07:23:00.000Z,2026-04-15T19:16:16.797Z
+41530,【书评】蛙,https://frytea.com/archives/104/,https://www.frytea.com/index.xml,Frytea's Blog,2018-11-19T12:18:00.000Z,2026-04-15T19:16:16.797Z
+41531,【书评】山茶文具店,https://frytea.com/archives/105/,https://www.frytea.com/index.xml,Frytea's Blog,2018-10-19T08:47:00.000Z,2026-04-15T19:16:16.797Z
+41532,关于,https://frytea.com/about/,https://www.frytea.com/index.xml,Frytea's Blog,2001-01-01T00:00:00.000Z,2026-04-15T19:16:16.797Z
+41533,免责声明,https://frytea.com/disclaimer/,https://www.frytea.com/index.xml,Frytea's Blog,2001-01-01T00:00:00.000Z,2026-04-15T19:16:16.797Z
+41534,项目,https://frytea.com/projects/,https://www.frytea.com/index.xml,Frytea's Blog,2001-01-01T00:00:00.000Z,2026-04-15T19:16:16.797Z
+41535,20260415,https://61.life/2026/0415,https://61.life/feed.xml,61's life,2026-04-15T14:45:31.000Z,2026-04-15T19:16:16.797Z
+41536,利用Cloudflare Workers将Google Drive转换成S3兼容存储,https://musenxi.com/post/GDtoS3,https://musenxi.com/feed,夜庭記,2026-04-14T13:51:00.000Z,2026-04-15T19:16:16.797Z
+41537,Mikusa Annual Issue 6,https://www.himiku.com/archives/mikusa-annual-issue-6.html,https://www.himiku.com/feed,初之音,2026-04-15T15:02:00.000Z,2026-04-15T19:16:16.797Z
+41538,文章选题汇总,https://www.xiaozonglin.cn/article-potential-topics/,https://www.xiaozonglin.cn/feed/,林林杂语,2026-04-15T14:09:19.000Z,2026-04-15T19:16:16.797Z
+41539,阿富汗花朵钩织法,https://www.jfsay.com/archives/3904.html,http://www.jfsay.com/feed,静风说,2026-04-14T07:02:07.000Z,2026-04-15T19:16:16.797Z
