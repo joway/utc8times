@@ -4,6 +4,51 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "40378",
+      "title": "【密码学百科】AES 逐步拆解：SubBytes 到 MixColumns 的数学",
+      "link": "https://quant67.com/post/cryptography/07-aes-internals/aes-internals.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-04T00:00:00.000Z",
+      "crawledat": "2026-04-12T05:22:27.166Z"
+    },
+    {
+      "id": "40379",
+      "title": "【密码学百科】分组密码工作模式全览：ECB/CBC/CTR/OFB/CFB",
+      "link": "https://quant67.com/post/cryptography/08-block-cipher-modes/block-cipher-modes.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-04T00:00:00.000Z",
+      "crawledat": "2026-04-12T05:22:27.166Z"
+    },
+    {
+      "id": "40380",
+      "title": "【密码学百科】流密码：RC4 的兴衰与 ChaCha20 的崛起",
+      "link": "https://quant67.com/post/cryptography/09-stream-ciphers/stream-ciphers.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-04T00:00:00.000Z",
+      "crawledat": "2026-04-12T05:22:27.166Z"
+    },
+    {
+      "id": "40381",
+      "title": "【密码学百科】密码学哈希函数：MD5→SHA-2→SHA-3 的进化之路",
+      "link": "https://quant67.com/post/cryptography/10-hash-functions/hash-functions.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-04T00:00:00.000Z",
+      "crawledat": "2026-04-12T05:22:27.166Z"
+    },
+    {
+      "id": "40382",
+      "title": "【密码学百科】MAC 与 HMAC：消息认证的正确姿势",
+      "link": "https://quant67.com/post/cryptography/11-mac-and-hmac/mac-and-hmac.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-04T00:00:00.000Z",
+      "crawledat": "2026-04-12T05:22:27.166Z"
+    },
+    {
       "id": "40383",
       "title": "【密码学百科】认证加密（AEAD）：GCM、ChaCha20-Poly1305 与 OCB",
       "link": "https://quant67.com/post/cryptography/12-aead/aead.html",
@@ -133,51 +178,6 @@
       "id": "40397",
       "title": "【密码学百科】安全信道构造：Noise 协议框架与 Signal 协议",
       "link": "https://quant67.com/post/cryptography/26-secure-channels/secure-channels.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-04T00:00:00.000Z",
-      "crawledat": "2026-04-12T05:22:27.166Z"
-    },
-    {
-      "id": "40398",
-      "title": "【密码学百科】密钥管理工程：HSM、KMS 与密钥生命周期",
-      "link": "https://quant67.com/post/cryptography/27-key-management/key-management.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-04T00:00:00.000Z",
-      "crawledat": "2026-04-12T05:22:27.166Z"
-    },
-    {
-      "id": "40399",
-      "title": "【密码学百科】侧信道攻击：从时序攻击到功耗分析",
-      "link": "https://quant67.com/post/cryptography/28-side-channel-attacks/side-channel-attacks.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-04T00:00:00.000Z",
-      "crawledat": "2026-04-12T05:22:27.166Z"
-    },
-    {
-      "id": "40400",
-      "title": "【密码学百科】密码学实现陷阱：三层漏洞分类、审计工具链与系统性预防",
-      "link": "https://quant67.com/post/cryptography/29-implementation-pitfalls/implementation-pitfalls.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-04T00:00:00.000Z",
-      "crawledat": "2026-04-12T05:22:27.166Z"
-    },
-    {
-      "id": "40401",
-      "title": "密码敏捷性：如何设计可升级的密码系统",
-      "link": "https://quant67.com/post/cryptography/30-crypto-agility/crypto-agility.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-04T00:00:00.000Z",
-      "crawledat": "2026-04-12T05:22:27.166Z"
-    },
-    {
-      "id": "40402",
-      "title": "【密码学百科】OpenSSL/BoringSSL 架构剖析：ENGINE、Provider 与 FIPS 模块",
-      "link": "https://quant67.com/post/cryptography/31-openssl-internals/openssl-internals.html",
       "rsslink": "https://quant67.com/rss.xml",
       "blogname": "土法炼钢兴趣小组的博客",
       "createdat": "2026-04-04T00:00:00.000Z",

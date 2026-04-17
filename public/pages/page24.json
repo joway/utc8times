@@ -4,6 +4,51 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "40398",
+      "title": "【密码学百科】密钥管理工程：HSM、KMS 与密钥生命周期",
+      "link": "https://quant67.com/post/cryptography/27-key-management/key-management.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-04T00:00:00.000Z",
+      "crawledat": "2026-04-12T05:22:27.166Z"
+    },
+    {
+      "id": "40399",
+      "title": "【密码学百科】侧信道攻击：从时序攻击到功耗分析",
+      "link": "https://quant67.com/post/cryptography/28-side-channel-attacks/side-channel-attacks.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-04T00:00:00.000Z",
+      "crawledat": "2026-04-12T05:22:27.166Z"
+    },
+    {
+      "id": "40400",
+      "title": "【密码学百科】密码学实现陷阱：三层漏洞分类、审计工具链与系统性预防",
+      "link": "https://quant67.com/post/cryptography/29-implementation-pitfalls/implementation-pitfalls.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-04T00:00:00.000Z",
+      "crawledat": "2026-04-12T05:22:27.166Z"
+    },
+    {
+      "id": "40401",
+      "title": "密码敏捷性：如何设计可升级的密码系统",
+      "link": "https://quant67.com/post/cryptography/30-crypto-agility/crypto-agility.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-04T00:00:00.000Z",
+      "crawledat": "2026-04-12T05:22:27.166Z"
+    },
+    {
+      "id": "40402",
+      "title": "【密码学百科】OpenSSL/BoringSSL 架构剖析：ENGINE、Provider 与 FIPS 模块",
+      "link": "https://quant67.com/post/cryptography/31-openssl-internals/openssl-internals.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-04T00:00:00.000Z",
+      "crawledat": "2026-04-12T05:22:27.166Z"
+    },
+    {
       "id": "39767",
       "title": "跟着AI学编译原理",
       "link": "https://xiaket.github.io/2026/writing-a-toy-compiler-in-go.html",
@@ -136,51 +181,6 @@
       "rsslink": "https://kerrynotes.com/feed/",
       "blogname": "Kerry的学习笔记",
       "createdat": "2026-04-03T08:47:33.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "38840",
-      "title": "学习周刊-总第257期-2026年第14周",
-      "link": "https://wiki.eryajf.net/pages/22ef3d/",
-      "rsslink": "https://wiki.eryajf.net/rss.xml",
-      "blogname": "二丫讲梵",
-      "createdat": "2026-04-03T08:32:49.000Z",
-      "crawledat": "2026-04-05T21:30:17.189Z"
-    },
-    {
-      "id": "38862",
-      "title": "Markon Review Express Weekly #35",
-      "link": "https://markonreview.com/2026/04/03/markon-review-express-weekly-35/",
-      "rsslink": "https://markonreview.com/rss/",
-      "blogname": "Markon Review",
-      "createdat": "2026-04-03T08:25:24.000Z",
-      "crawledat": "2026-04-06T15:44:21.839Z"
-    },
-    {
-      "id": "38993",
-      "title": "穿行大凉山腹地：从西昌到卡哈洛",
-      "link": "https://mecll.com/1065.html",
-      "rsslink": "https://maie.name/feed",
-      "blogname": "流浪天下",
-      "createdat": "2026-04-03T08:25:10.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "39702",
-      "title": "Lesson 12 Penrose 过程与 Hawking 辐射",
-      "link": "https://physnya.top/GR/lesson-12-penrose-process-hawking-radiation/",
-      "rsslink": "https://physnya.top/atom.xml",
-      "blogname": "菲兹克斯喵",
-      "createdat": "2026-04-03T07:47:43.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "39703",
-      "title": "Lesson 6 Homology",
-      "link": "https://physnya.top/star-planet/lesson-6-homology/",
-      "rsslink": "https://physnya.top/atom.xml",
-      "blogname": "菲兹克斯喵",
-      "createdat": "2026-04-03T07:47:43.000Z",
       "crawledat": "2026-04-06T18:57:27.745Z"
     }
   ]
