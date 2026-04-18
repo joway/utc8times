@@ -4,6 +4,69 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "39012",
+      "title": "How Claude Code Defends Against Bash Injection",
+      "link": "https://finisky.github.io/en/claude-code-bash-security/",
+      "rsslink": "https://finisky.github.io/atom.xml",
+      "blogname": "Finisky Garden",
+      "createdat": "2026-04-05T12:19:33.000Z",
+      "crawledat": "2026-04-06T18:57:27.745Z"
+    },
+    {
+      "id": "39623",
+      "title": "llama.cpp LLM时代核心引擎指南",
+      "link": "https://localfreedom.pages.dev/p/llama.cpp-llm%E6%97%B6%E4%BB%A3%E6%A0%B8%E5%BF%83%E5%BC%95%E6%93%8E%E6%8C%87%E5%8D%97/",
+      "rsslink": "https://localfreedom.pages.dev/index.xml",
+      "blogname": "局域自由",
+      "createdat": "2026-04-05T12:17:21.000Z",
+      "crawledat": "2026-04-06T18:57:27.745Z"
+    },
+    {
+      "id": "39013",
+      "title": "Claude Code 怎么防住 Bash 注入",
+      "link": "https://finisky.github.io/claude-code-bash-security/",
+      "rsslink": "https://finisky.github.io/atom.xml",
+      "blogname": "Finisky Garden",
+      "createdat": "2026-04-05T12:15:33.000Z",
+      "crawledat": "2026-04-06T18:57:27.745Z"
+    },
+    {
+      "id": "39014",
+      "title": "Inside Claude Code's YOLO Classifier",
+      "link": "https://finisky.github.io/en/claude-code-auto-mode-security/",
+      "rsslink": "https://finisky.github.io/atom.xml",
+      "blogname": "Finisky Garden",
+      "createdat": "2026-04-05T12:02:56.000Z",
+      "crawledat": "2026-04-06T18:57:27.745Z"
+    },
+    {
+      "id": "39015",
+      "title": "深入 Claude Code 的 YOLO Classifier",
+      "link": "https://finisky.github.io/claude-code-auto-mode-security/",
+      "rsslink": "https://finisky.github.io/atom.xml",
+      "blogname": "Finisky Garden",
+      "createdat": "2026-04-05T11:58:56.000Z",
+      "crawledat": "2026-04-06T18:57:27.745Z"
+    },
+    {
+      "id": "40192",
+      "title": "#177 – 砍掉重來的教學影片 / AI 分身上班記錄 / Vibe Coding 設計銷售網頁 ®️雷蒙週報",
+      "link": "https://raymondhouch.com/newsletter/177/",
+      "rsslink": "https://raymondhouch.com/feed",
+      "blogname": "雷蒙三十",
+      "createdat": "2026-04-05T11:34:30.000Z",
+      "crawledat": "2026-04-08T02:22:20.506Z"
+    },
+    {
+      "id": "39805",
+      "title": "你就是不敢",
+      "link": "https://surmon.me/article/315",
+      "rsslink": "https://surmon.me/rss.xml",
+      "blogname": "Surmon.me",
+      "createdat": "2026-04-05T10:41:48.000Z",
+      "crawledat": "2026-04-08T02:22:20.506Z"
+    },
+    {
       "id": "39605",
       "title": "Vol.97 AI领域前沿动态：从智能体工程化到开源模型演进",
       "link": "https://liduos.com/weekly/the-weekly-gradient-97",
@@ -119,69 +182,6 @@
       "blogname": "土法炼钢兴趣小组的博客",
       "createdat": "2026-04-05T00:00:00.000Z",
       "crawledat": "2026-04-12T05:22:27.166Z"
-    },
-    {
-      "id": "40404",
-      "title": "【密码学百科】有限域算术：GF(2^n) 运算与在 AES/ECC 中的应用",
-      "link": "https://quant67.com/post/cryptography/33-finite-fields/finite-fields.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-05T00:00:00.000Z",
-      "crawledat": "2026-04-12T05:22:27.166Z"
-    },
-    {
-      "id": "40405",
-      "title": "【密码学百科】数论进阶：二次剩余、椭圆曲线上的 Weil 配对",
-      "link": "https://quant67.com/post/cryptography/34-number-theory-deep/number-theory-deep.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-05T00:00:00.000Z",
-      "crawledat": "2026-04-12T05:22:27.166Z"
-    },
-    {
-      "id": "40496",
-      "title": "读 Claude Code 源码 - Web Search &amp; Web Fetch",
-      "link": "https://shiina18.github.io/llm/2026/04/05/cc-web-search/",
-      "rsslink": "https://shiina18.github.io/atom.xml",
-      "blogname": "Measure Zero",
-      "createdat": "2026-04-05T00:00:00.000Z",
-      "crawledat": "2026-04-13T16:11:02.228Z"
-    },
-    {
-      "id": "38908",
-      "title": "Codeforces Round 1089 (Div. 2)",
-      "link": "https://blog.mauve.icu/2026/04/04/acm/codeforces/CodeforcesRound1089/",
-      "rsslink": "https://hukeqing.github.io/rss.xml",
-      "blogname": "Shiroha白羽的博客",
-      "createdat": "2026-04-04T16:43:38.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "40193",
-      "title": "數位遊牧工作者的 EDC 清單：一個背包走天下的極簡裝備",
-      "link": "https://raymondhouch.com/unboxing/digital-nomad-edc-travel-gear/",
-      "rsslink": "https://raymondhouch.com/feed",
-      "blogname": "雷蒙三十",
-      "createdat": "2026-04-04T16:34:34.000Z",
-      "crawledat": "2026-04-08T02:22:20.506Z"
-    },
-    {
-      "id": "38839",
-      "title": "只是更难了：关于境外券商的一点观察",
-      "link": "https://tumutanzi.com/archives/17584",
-      "rsslink": "https://tumutanzi.com/feed",
-      "blogname": "土木坛子",
-      "createdat": "2026-04-04T16:00:14.000Z",
-      "crawledat": "2026-04-05T18:41:40.204Z"
-    },
-    {
-      "id": "40254",
-      "title": "ChronoFrame - 一款优雅的瀑布流相册系统",
-      "link": "https://blog.liushen.fun/posts/381a41ac/",
-      "rsslink": "https://blog.liushen.fun/atom.xml",
-      "blogname": "清羽飞扬",
-      "createdat": "2026-04-04T16:00:00.000Z",
-      "crawledat": "2026-04-08T10:06:00.388Z"
     }
   ]
 }
