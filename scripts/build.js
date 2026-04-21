@@ -85,6 +85,7 @@ const RSS_DOMAIN_BLACKLIST = [
   "rowkey.cn",
   "zhongxiaojie.cn",
   "h4ck.org.cn",
+  "quant67.com",
 ];
 
 const isDryRun = process.argv.includes("--dry-run");
