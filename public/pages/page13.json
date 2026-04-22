@@ -4,6 +4,51 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "40517",
+      "title": "大事件",
+      "link": "https://www.jackpu.com/da-shi-jian/",
+      "rsslink": "https://www.jackpu.com/rss/",
+      "blogname": "蒲小花的博客",
+      "createdat": "2026-04-13T12:14:43.000Z",
+      "crawledat": "2026-04-13T19:12:38.444Z"
+    },
+    {
+      "id": "40511",
+      "title": "How Claude Dreams: Background Memory Defragmentation",
+      "link": "https://finisky.github.io/en/claude-code-auto-dream/",
+      "rsslink": "https://finisky.github.io/atom.xml",
+      "blogname": "Finisky Garden",
+      "createdat": "2026-04-13T11:40:00.000Z",
+      "crawledat": "2026-04-13T19:12:38.444Z"
+    },
+    {
+      "id": "40512",
+      "title": "Claude做梦机制：后台记忆碎片整理",
+      "link": "https://finisky.github.io/claude-code-auto-dream/",
+      "rsslink": "https://finisky.github.io/atom.xml",
+      "blogname": "Finisky Garden",
+      "createdat": "2026-04-13T11:35:00.000Z",
+      "crawledat": "2026-04-13T19:12:38.444Z"
+    },
+    {
+      "id": "40589",
+      "title": "openFuyao NPU-Operator故障排查",
+      "link": "https://frytea.com/archives/1655/",
+      "rsslink": "https://www.frytea.com/index.xml",
+      "blogname": "Frytea's Blog",
+      "createdat": "2026-04-13T09:01:49.000Z",
+      "crawledat": "2026-04-15T19:16:16.797Z"
+    },
+    {
+      "id": "40590",
+      "title": "openFuyao 2603 共测测试报告",
+      "link": "https://frytea.com/archives/1654/",
+      "rsslink": "https://www.frytea.com/index.xml",
+      "blogname": "Frytea's Blog",
+      "createdat": "2026-04-13T09:01:27.000Z",
+      "crawledat": "2026-04-15T19:16:16.797Z"
+    },
+    {
       "id": "40591",
       "title": "openFuyao InferNex AI推理集成部署 310P(300I Pro) 环境问题记录及解决",
       "link": "https://frytea.com/archives/1653/",
@@ -133,51 +178,6 @@
       "id": "41547",
       "title": "【系统架构设计百科】复杂性管理：架构的核心战场",
       "link": "https://quant67.com/post/architecture/05-complexity-management/complexity-management.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-13T00:00:00.000Z",
-      "crawledat": "2026-04-15T21:51:13.037Z"
-    },
-    {
-      "id": "41548",
-      "title": "【系统架构设计百科】微服务架构深度审视：优势、代价与适用边界",
-      "link": "https://quant67.com/post/architecture/09-microservices/microservices.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-13T00:00:00.000Z",
-      "crawledat": "2026-04-15T21:51:13.037Z"
-    },
-    {
-      "id": "41549",
-      "title": "【系统架构设计百科】CQRS：读写分离的架构哲学",
-      "link": "https://quant67.com/post/architecture/11-cqrs/cqrs.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-13T00:00:00.000Z",
-      "crawledat": "2026-04-15T21:51:13.037Z"
-    },
-    {
-      "id": "41550",
-      "title": "【系统架构设计百科】管道与过滤器：Unix 哲学的架构表达",
-      "link": "https://quant67.com/post/architecture/13-pipe-filter/pipe-filter.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-13T00:00:00.000Z",
-      "crawledat": "2026-04-15T21:51:13.037Z"
-    },
-    {
-      "id": "41551",
-      "title": "【系统架构设计百科】空间架构：极端扩展场景的解法",
-      "link": "https://quant67.com/post/architecture/14-space-based/space-based.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-13T00:00:00.000Z",
-      "crawledat": "2026-04-15T21:51:13.037Z"
-    },
-    {
-      "id": "41552",
-      "title": "【系统架构设计百科】扩展性原理：水平、垂直与对角扩展",
-      "link": "https://quant67.com/post/architecture/15-scaling-principles/scaling-principles.html",
       "rsslink": "https://quant67.com/rss.xml",
       "blogname": "土法炼钢兴趣小组的博客",
       "createdat": "2026-04-13T00:00:00.000Z",
