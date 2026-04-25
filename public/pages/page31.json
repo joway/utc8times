@@ -4,6 +4,60 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "39533",
+      "title": "哈希表内部：开放寻址、链式、Robin Hood 的三国演义",
+      "link": "https://quant67.com/post/algorithms/07-hash-table-internals/hash-table-internals.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-06T00:00:00.000Z",
+      "crawledat": "2026-04-06T18:57:27.745Z"
+    },
+    {
+      "id": "39534",
+      "title": "Cuckoo Hashing：最坏 O(1) 查找的优雅设计",
+      "link": "https://quant67.com/post/algorithms/08-cuckoo-hashing/cuckoo-hashing.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-06T00:00:00.000Z",
+      "crawledat": "2026-04-06T18:57:27.745Z"
+    },
+    {
+      "id": "39734",
+      "title": "_dreaming：OpenClaw 的记忆整理机制",
+      "link": "https://arminli.com/dreaming-openclaw-memory/",
+      "rsslink": "https://arminli.com/rss.xml",
+      "blogname": "INTJer",
+      "createdat": "2026-04-06T00:00:00.000Z",
+      "crawledat": "2026-04-07T05:08:15.368Z"
+    },
+    {
+      "id": "40167",
+      "title": "伙伴系统与 SLUB 分配器：Linux 物理内存管理的两层架构",
+      "link": "https://quant67.com/post/algorithms/55-buddy-slab/buddy-slab.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-06T00:00:00.000Z",
+      "crawledat": "2026-04-08T02:22:20.506Z"
+    },
+    {
+      "id": "40179",
+      "title": "epoll 的数据结构：红黑树、就绪队列与回调机制",
+      "link": "https://quant67.com/post/algorithms/57-epoll-internals/epoll-internals.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-06T00:00:00.000Z",
+      "crawledat": "2026-04-08T02:22:20.506Z"
+    },
+    {
+      "id": "40180",
+      "title": "定时器算法：时间轮、最小堆与层级时间轮",
+      "link": "https://quant67.com/post/algorithms/58-timer-algo/timer-algo.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-06T00:00:00.000Z",
+      "crawledat": "2026-04-08T02:22:20.506Z"
+    },
+    {
       "id": "40406",
       "title": "【密码学百科】椭圆曲线代数：Weierstrass 方程、点群运算与曲线选择",
       "link": "https://quant67.com/post/cryptography/35-elliptic-curve-algebra/elliptic-curve-algebra.html",
@@ -127,60 +181,6 @@
       "rsslink": "https://finisky.github.io/atom.xml",
       "blogname": "Finisky Garden",
       "createdat": "2026-04-05T13:33:24.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "39004",
-      "title": "Why Claude Code's Edit Tool Doesn't Mangle Your Files",
-      "link": "https://finisky.github.io/en/claude-code-edit-tool/",
-      "rsslink": "https://finisky.github.io/atom.xml",
-      "blogname": "Finisky Garden",
-      "createdat": "2026-04-05T13:21:51.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "39005",
-      "title": "Claude Code 的 Edit 工具为什么不会改错文件",
-      "link": "https://finisky.github.io/claude-code-edit-tool/",
-      "rsslink": "https://finisky.github.io/atom.xml",
-      "blogname": "Finisky Garden",
-      "createdat": "2026-04-05T13:17:51.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "39006",
-      "title": "Claude Code's Undercover Mode: When AI Learns to Hide Itself",
-      "link": "https://finisky.github.io/en/claude-code-undercover/",
-      "rsslink": "https://finisky.github.io/atom.xml",
-      "blogname": "Finisky Garden",
-      "createdat": "2026-04-05T13:06:08.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "39007",
-      "title": "Claude Code的Undercover Mode：当AI学会隐藏自己",
-      "link": "https://finisky.github.io/claude-code-undercover/",
-      "rsslink": "https://finisky.github.io/atom.xml",
-      "blogname": "Finisky Garden",
-      "createdat": "2026-04-05T13:02:08.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "39008",
-      "title": "How Claude Code's Forked Sub-Agents Share Prompt Cache",
-      "link": "https://finisky.github.io/en/claude-code-fork-cache/",
-      "rsslink": "https://finisky.github.io/atom.xml",
-      "blogname": "Finisky Garden",
-      "createdat": "2026-04-05T12:50:42.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "39009",
-      "title": "Claude Code Fork子Agent的Prompt Cache共享机制",
-      "link": "https://finisky.github.io/claude-code-fork-cache/",
-      "rsslink": "https://finisky.github.io/atom.xml",
-      "blogname": "Finisky Garden",
-      "createdat": "2026-04-05T12:46:42.000Z",
       "crawledat": "2026-04-06T18:57:27.745Z"
     }
   ]
