@@ -4,6 +4,24 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "41559",
+      "title": "【系统架构设计百科】高可用设计模式：冗余、故障转移与仲裁",
+      "link": "https://quant67.com/post/architecture/23-ha-patterns/ha-patterns.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-15T21:51:13.037Z"
+    },
+    {
+      "id": "41560",
+      "title": "【系统架构设计百科】弹性设计模式：熔断器、舱壁与超时",
+      "link": "https://quant67.com/post/architecture/24-resilience-patterns/resilience-patterns.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-15T21:51:13.037Z"
+    },
+    {
       "id": "41561",
       "title": "【系统架构设计百科】容灾架构：多活与灾备设计",
       "link": "https://quant67.com/post/architecture/27-disaster-recovery/disaster-recovery.html",
@@ -160,24 +178,6 @@
       "id": "41578",
       "title": "【系统架构设计百科】数据迁移与版本化：在线不停机的数据演进",
       "link": "https://quant67.com/post/architecture/44-data-migration/data-migration.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-13T00:00:00.000Z",
-      "crawledat": "2026-04-15T21:51:13.037Z"
-    },
-    {
-      "id": "41579",
-      "title": "【系统架构设计百科】应用层数据一致性模式：在正确性与性能之间走钢丝",
-      "link": "https://quant67.com/post/architecture/45-consistency-patterns/consistency-patterns.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-13T00:00:00.000Z",
-      "crawledat": "2026-04-15T21:51:13.037Z"
-    },
-    {
-      "id": "41580",
-      "title": "【系统架构设计百科】API 设计哲学：REST vs GraphQL vs gRPC 的真实权衡",
-      "link": "https://quant67.com/post/architecture/46-api-design/api-design.html",
       "rsslink": "https://quant67.com/rss.xml",
       "blogname": "土法炼钢兴趣小组的博客",
       "createdat": "2026-04-13T00:00:00.000Z",
