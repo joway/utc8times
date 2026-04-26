@@ -4,184 +4,184 @@
   "totalPages": 50,
   "items": [
     {
-      "id": "40484",
-      "title": "2026.4.12",
-      "link": "https://www.justzht.com/2026-4-12/",
-      "rsslink": "https://www.justzht.com/rss/",
-      "blogname": "JustZht",
-      "createdat": "2026-04-12T08:11:57.000Z",
+      "id": "41578",
+      "title": "【系统架构设计百科】数据迁移与版本化：在线不停机的数据演进",
+      "link": "https://quant67.com/post/architecture/44-data-migration/data-migration.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-15T21:51:13.037Z"
+    },
+    {
+      "id": "41579",
+      "title": "【系统架构设计百科】应用层数据一致性模式：在正确性与性能之间走钢丝",
+      "link": "https://quant67.com/post/architecture/45-consistency-patterns/consistency-patterns.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-15T21:51:13.037Z"
+    },
+    {
+      "id": "41580",
+      "title": "【系统架构设计百科】API 设计哲学：REST vs GraphQL vs gRPC 的真实权衡",
+      "link": "https://quant67.com/post/architecture/46-api-design/api-design.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-15T21:51:13.037Z"
+    },
+    {
+      "id": "41581",
+      "title": "【系统架构设计百科】API 网关设计：入口层的职责边界",
+      "link": "https://quant67.com/post/architecture/47-api-gateway/api-gateway.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-15T21:51:13.037Z"
+    },
+    {
+      "id": "41582",
+      "title": "【系统架构设计百科】服务发现与注册：动态拓扑的基础设施",
+      "link": "https://quant67.com/post/architecture/48-service-discovery/service-discovery.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-15T21:51:13.037Z"
+    },
+    {
+      "id": "41583",
+      "title": "【系统架构设计百科】配置管理架构：从配置文件到配置中心",
+      "link": "https://quant67.com/post/architecture/49-config-management/config-management.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-15T21:51:13.037Z"
+    },
+    {
+      "id": "41584",
+      "title": "【系统架构设计百科】幂等性设计：分布式环境下的安全重试",
+      "link": "https://quant67.com/post/architecture/50-idempotency/idempotency.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-15T21:51:13.037Z"
+    },
+    {
+      "id": "41585",
+      "title": "【系统架构设计百科】契约测试与 Schema 演进：服务间的信任协议",
+      "link": "https://quant67.com/post/architecture/51-contract-testing/contract-testing.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-15T21:51:13.037Z"
+    },
+    {
+      "id": "41586",
+      "title": "【系统架构设计百科】长连接与推送架构：WebSocket、SSE 与 MQTT",
+      "link": "https://quant67.com/post/architecture/52-push-architecture/push-architecture.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-15T21:51:13.037Z"
+    },
+    {
+      "id": "41587",
+      "title": "【系统架构设计百科】DDD 战略设计：限界上下文与上下文映射",
+      "link": "https://quant67.com/post/architecture/53-ddd-strategic/ddd-strategic.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-15T21:51:13.037Z"
+    },
+    {
+      "id": "41588",
+      "title": "【系统架构设计百科】DDD 战术模式：聚合、实体与值对象",
+      "link": "https://quant67.com/post/architecture/54-ddd-tactical/ddd-tactical.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-15T21:51:13.037Z"
+    },
+    {
+      "id": "41589",
+      "title": "【系统架构设计百科】领域事件与事件风暴：从业务到架构的桥梁",
+      "link": "https://quant67.com/post/architecture/55-event-storming/event-storming.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-15T21:51:13.037Z"
+    },
+    {
+      "id": "41590",
+      "title": "【系统架构设计百科】防腐层与开放主机服务：系统集成的 DDD 方案",
+      "link": "https://quant67.com/post/architecture/56-acl-ohs/acl-ohs.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-15T21:51:13.037Z"
+    },
+    {
+      "id": "41591",
+      "title": "【系统架构设计百科】CQRS + Event Sourcing 完整实战：从领域建模到部署",
+      "link": "https://quant67.com/post/architecture/57-cqrs-es-practice/cqrs-es-practice.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-15T21:51:13.037Z"
+    },
+    {
+      "id": "41592",
+      "title": "【系统架构设计百科】DDD 与微服务：用领域模型划分服务边界",
+      "link": "https://quant67.com/post/architecture/58-ddd-microservices/ddd-microservices.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-15T21:51:13.037Z"
+    },
+    {
+      "id": "41593",
+      "title": "【系统架构设计百科】认证架构：从 Session 到 JWT 到 OIDC",
+      "link": "https://quant67.com/post/architecture/59-authn-architecture/authn-architecture.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-15T21:51:13.037Z"
+    },
+    {
+      "id": "41902",
+      "title": "Harness Cheatsheet",
+      "link": "https://shiina18.github.io/llm/2026/04/13/harness/",
+      "rsslink": "https://shiina18.github.io/atom.xml",
+      "blogname": "Measure Zero",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-23T05:28:41.081Z"
+    },
+    {
+      "id": "40576",
+      "title": "自動微分 | DIY 實現自己的 PyTorch",
+      "link": "https://blog.aeilot.top/2026/04/13/simplegrad/",
+      "rsslink": "https://blog.aeilot.top/index.xml",
+      "blogname": "Louis Aeilot's Blog",
+      "createdat": "2026-04-12T23:45:09.000Z",
+      "crawledat": "2026-04-15T13:22:04.277Z"
+    },
+    {
+      "id": "40483",
+      "title": "从零配置 VS Code C++ 环境",
+      "link": "http://www.z16388.top/2026/04/12/cpp-vscode/",
+      "rsslink": "http://www.z16388.top/atom.xml",
+      "blogname": "崎径 其镜赵安琪的博客",
+      "createdat": "2026-04-12T22:32:49.000Z",
       "crawledat": "2026-04-12T18:47:09.380Z"
     },
     {
-      "id": "40522",
-      "title": "Vol.98 AI领域精选话题解析：从技术发展到应用实践全面解读",
-      "link": "https://liduos.com/weekly/the-weekly-gradient-98",
-      "rsslink": "https://liduos.com/atom.xml",
-      "blogname": "莫尔索",
-      "createdat": "2026-04-12T08:00:00.000Z",
+      "id": "40523",
+      "title": "Hexo-Butterfly 主题 Preloader 加载页定制",
+      "link": "https://blog.uuanqin.top/p/85371005/",
+      "rsslink": "https://uuanqin.top/atom.xml",
+      "blogname": "半方池水半方田",
+      "createdat": "2026-04-12T18:00:01.000Z",
       "crawledat": "2026-04-13T19:12:38.444Z"
-    },
-    {
-      "id": "40527",
-      "title": "视野修炼第129期 | 上一次古法编程是什么时候",
-      "link": "https://sugarat.top/weekly/2026-04-11.html",
-      "rsslink": "https://sugarat.top/feed.rss",
-      "blogname": "粥里有勺糖",
-      "createdat": "2026-04-12T07:40:26.000Z",
-      "crawledat": "2026-04-13T19:12:38.444Z"
-    },
-    {
-      "id": "40369",
-      "title": "中班运动会",
-      "link": "https://shuiba.co/popo-sports-day-2023",
-      "rsslink": "https://shuiba.co/feed",
-      "blogname": "Shuibaco • 水八口",
-      "createdat": "2026-04-12T07:37:00.000Z",
-      "crawledat": "2026-04-12T05:22:27.166Z"
-    },
-    {
-      "id": "40476",
-      "title": "摘：《花间集》",
-      "link": "https://z.arlmy.me/posts/Note/Note_ZhaoChongzuo_HuaJianJi/",
-      "rsslink": "http://z.arlmy.me/atom.xml",
-      "blogname": "素生",
-      "createdat": "2026-04-12T07:04:46.000Z",
-      "crawledat": "2026-04-12T07:12:14.547Z"
-    },
-    {
-      "id": "41642",
-      "title": "2026 Airport Runway Run at San Carlos Airport 5K 竞赛",
-      "link": "https://leimao.github.io/life/2026-Airport-Runway-Run-San-Carlos-Airport-5K/",
-      "rsslink": "https://leimao.github.io/atom.xml",
-      "blogname": "Lei Mao's Log Book",
-      "createdat": "2026-04-12T07:00:00.000Z",
-      "crawledat": "2026-04-17T18:58:27.291Z"
-    },
-    {
-      "id": "41650",
-      "title": "Page Table for Page-Locked Host Memory",
-      "link": "https://leimao.github.io/blog/Page-Locked-Host-Memory-Page-Table/",
-      "rsslink": "https://leimao.github.io/atom.xml",
-      "blogname": "Lei Mao's Log Book",
-      "createdat": "2026-04-12T07:00:00.000Z",
-      "crawledat": "2026-04-18T07:05:45.300Z"
-    },
-    {
-      "id": "40477",
-      "title": "Toots 414 2026 Apr.5 - Apr.11",
-      "link": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260411/",
-      "rsslink": "http://z.arlmy.me/atom.xml",
-      "blogname": "素生",
-      "createdat": "2026-04-12T06:50:27.000Z",
-      "crawledat": "2026-04-12T07:12:14.547Z"
-    },
-    {
-      "id": "40510",
-      "title": "那个集记账、基金、股票于一体的APP，又往前迈了一大步",
-      "link": "https://blog.ops-coffee.com/fire/expense-funds-stock-integrated-finance-app.html",
-      "rsslink": "https://blog.ops-coffee.cn/feed.xml",
-      "blogname": "运维咖啡吧",
-      "createdat": "2026-04-12T06:40:39.000Z",
-      "crawledat": "2026-04-13T19:12:38.444Z"
-    },
-    {
-      "id": "40478",
-      "title": "摘：《白》",
-      "link": "https://z.arlmy.me/posts/Note/Note_GongShu_Bai/",
-      "rsslink": "http://z.arlmy.me/atom.xml",
-      "blogname": "素生",
-      "createdat": "2026-04-12T05:33:46.000Z",
-      "crawledat": "2026-04-12T07:12:14.547Z"
-    },
-    {
-      "id": "40521",
-      "title": "程序员AI量化理财体系课[完结无密]",
-      "link": "https://www.dqzboy.com/19331.html",
-      "rsslink": "https://www.dqzboy.com/feed",
-      "blogname": "浅时光博客",
-      "createdat": "2026-04-12T05:24:43.000Z",
-      "crawledat": "2026-04-13T19:12:38.444Z"
-    },
-    {
-      "id": "40513",
-      "title": "小鸭子钩织法",
-      "link": "https://www.jfsay.com/archives/3888.html",
-      "rsslink": "http://www.jfsay.com/feed",
-      "blogname": "静风说",
-      "createdat": "2026-04-12T05:12:46.000Z",
-      "crawledat": "2026-04-13T19:12:38.444Z"
-    },
-    {
-      "id": "40365",
-      "title": "为什么交往会累",
-      "link": "https://happyxiao.com/relativity/",
-      "rsslink": "https://happyxiao.com/feed",
-      "blogname": "happy xiao 的博客",
-      "createdat": "2026-04-12T02:08:28.000Z",
-      "crawledat": "2026-04-12T05:22:27.166Z"
-    },
-    {
-      "id": "39556",
-      "title": "向量化哈希：xxHash3 与 wyhash 的 SIMD 实现",
-      "link": "https://quant67.com/post/algorithms/14-simd-hash/simd-hash.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-12T00:00:00.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "40349",
-      "title": "Bash中的Indirection与Nameref",
-      "link": "https://lujun9972.github.io/blog/2026/04/12/bash中的indirection与nameref/index.html",
-      "rsslink": "https://www.lujun9972.win/rss.xml",
-      "blogname": "暗无天日",
-      "createdat": "2026-04-12T00:00:00.000Z",
-      "crawledat": "2026-04-12T02:29:15.367Z"
-    },
-    {
-      "id": "40359",
-      "title": "AI 时代的本科 CS 教育随想",
-      "link": "https://jia.je/misc/2026/04/12/ai-era-cs-education/",
-      "rsslink": "https://jia.je/feed.xml",
-      "blogname": "杰哥的小笔记",
-      "createdat": "2026-04-12T00:00:00.000Z",
-      "crawledat": "2026-04-12T02:29:15.367Z"
-    },
-    {
-      "id": "40363",
-      "title": "Linux PAM 简介",
-      "link": "https://lujun9972.github.io/blog/2026/04/12/linux-pam-简介/index.html",
-      "rsslink": "https://www.lujun9972.win/rss.xml",
-      "blogname": "暗无天日",
-      "createdat": "2026-04-12T00:00:00.000Z",
-      "crawledat": "2026-04-12T05:22:27.166Z"
-    },
-    {
-      "id": "40491",
-      "title": "Weekly Issue-《飞行家》",
-      "link": "https://zdyxry.github.io/2026/04/12/Weekly-Issue-Take-Off/",
-      "rsslink": "https://zdyxry.github.io/atom.xml",
-      "blogname": "Yiran's Blog",
-      "createdat": "2026-04-12T00:00:00.000Z",
-      "crawledat": "2026-04-13T05:40:30.991Z"
-    },
-    {
-      "id": "40492",
-      "title": "yes 管道 head 发生了什么",
-      "link": "https://lujun9972.github.io/blog/2026/04/12/yes-管道-head-发生了什么/index.html",
-      "rsslink": "https://www.lujun9972.win/rss.xml",
-      "blogname": "暗无天日",
-      "createdat": "2026-04-12T00:00:00.000Z",
-      "crawledat": "2026-04-13T16:11:02.228Z"
-    },
-    {
-      "id": "40493",
-      "title": "为什么 nohup 在 crontab 中不起作用",
-      "link": "https://lujun9972.github.io/blog/2026/04/12/为什么-nohup-在-crontab-中不起作用/index.html",
-      "rsslink": "https://www.lujun9972.win/rss.xml",
-      "blogname": "暗无天日",
-      "createdat": "2026-04-12T00:00:00.000Z",
-      "crawledat": "2026-04-13T16:11:02.228Z"
     }
   ]
 }
