@@ -4,184 +4,184 @@
   "totalPages": 50,
   "items": [
     {
-      "id": "41655",
-      "title": "使用 auto-cpufreq 平衡 Linux 性能功耗",
-      "link": "https://blog.dejavu.moe/posts/fedora-balance-performance-and-power-consumption-with-auto-cpufreq/",
-      "rsslink": "https://blog.dejavu.moe/index.xml",
-      "blogname": "Dejavu's Blog",
-      "createdat": "2026-04-18T01:59:02.000Z",
-      "crawledat": "2026-04-18T07:05:45.300Z"
+      "id": "41768",
+      "title": "命令行的艺术",
+      "link": "https://blog.sunmkt.uk/post/the-art-of-command-line-zh/",
+      "rsslink": "https://blog.sunmkt.uk/feed.xml",
+      "blogname": "Sunset 的重构博客",
+      "createdat": "2026-04-19T00:00:00.000Z",
+      "crawledat": "2026-04-20T05:39:37.790Z"
     },
     {
-      "id": "41849",
-      "title": "面向 AI / Agent 友好的 CLI 开发建议",
-      "link": "http://blog.michealwayne.cn/2026/04/18/ai/%E9%9D%A2%E5%90%91%20AI%20:%20Agent%20%E5%8F%8B%E5%A5%BD%E7%9A%84%20CLI%20%E5%BC%80%E5%8F%91%E5%BB%BA%E8%AE%AE/",
-      "rsslink": "https://blog.michealwayne.cn/atom.xml",
-      "blogname": "Wayne的技术博客",
-      "createdat": "2026-04-18T01:11:33.000Z",
-      "crawledat": "2026-04-21T21:43:20.355Z"
+      "id": "41697",
+      "title": "野生作家观察：读马特创作、宁山哀点评的《盲目流动》",
+      "link": "https://www.xianrenlife.com/2026/04/blog-post.html",
+      "rsslink": "https://www.xianrenlife.com/feeds/posts/default",
+      "blogname": "闲人Life",
+      "createdat": "2026-04-18T19:35:00.003Z",
+      "crawledat": "2026-04-18T21:33:44.075Z"
     },
     {
-      "id": "39558",
-      "title": "B-tree 深度解剖：从磁盘 I/O 模型到 boltdb 源码",
-      "link": "https://quant67.com/post/algorithms/16-btree-deep-dive/btree-deep-dive.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-18T00:00:00.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "41648",
-      "title": "用 .pdbrc 自定义 Python 调试器",
-      "link": "https://lujun9972.github.io/blog/2026/04/18/用-.pdbrc-自定义-python-调试器/index.html",
-      "rsslink": "https://www.lujun9972.win/rss.xml",
-      "blogname": "暗无天日",
-      "createdat": "2026-04-18T00:00:00.000Z",
-      "crawledat": "2026-04-18T07:05:45.300Z"
-    },
-    {
-      "id": "41668",
-      "title": "Problems with Vibe Coding pt.2",
-      "link": "https://jw1.ai/problems-with-vibe-coding-pt-2",
-      "rsslink": "https://jw1.dev/atom.xml",
-      "blogname": "Jacky's Blog",
-      "createdat": "2026-04-18T00:00:00.000Z",
-      "crawledat": "2026-04-18T12:59:43.887Z"
-    },
-    {
-      "id": "41672",
-      "title": "TIL: repeat-mode 省去重复按键前缀",
-      "link": "https://lujun9972.github.io/blog/2026/04/18/til-repeat-mode-省去重复按键前缀/index.html",
-      "rsslink": "https://www.lujun9972.win/rss.xml",
-      "blogname": "暗无天日",
-      "createdat": "2026-04-18T00:00:00.000Z",
-      "crawledat": "2026-04-18T15:36:18.748Z"
-    },
-    {
-      "id": "41673",
-      "title": "TIL: 用 read-extended-command-predicate 精简 M-x 候选列表",
-      "link": "https://lujun9972.github.io/blog/2026/04/18/til-用-read-extended-command-predicate-精简-m-x-候选列表/index.html",
-      "rsslink": "https://www.lujun9972.win/rss.xml",
-      "blogname": "暗无天日",
-      "createdat": "2026-04-18T00:00:00.000Z",
-      "crawledat": "2026-04-18T15:36:18.748Z"
-    },
-    {
-      "id": "41674",
-      "title": "为什么 Lisp 统治元编程",
-      "link": "https://lujun9972.github.io/blog/2026/04/18/为什么-lisp-统治元编程/index.html",
-      "rsslink": "https://www.lujun9972.win/rss.xml",
-      "blogname": "暗无天日",
-      "createdat": "2026-04-18T00:00:00.000Z",
-      "crawledat": "2026-04-18T15:36:18.748Z"
-    },
-    {
-      "id": "41675",
-      "title": "降低程序内存的五个原则",
-      "link": "https://lujun9972.github.io/blog/2026/04/18/降低程序内存的五个原则/index.html",
-      "rsslink": "https://www.lujun9972.win/rss.xml",
-      "blogname": "暗无天日",
-      "createdat": "2026-04-18T00:00:00.000Z",
-      "crawledat": "2026-04-18T15:36:18.748Z"
-    },
-    {
-      "id": "41676",
-      "title": "本地部署 OpenClaw，QwenPaw 和 Hermes Agent",
-      "link": "https://leovan.me/cn/2026/04/local-deployment-of-openclaw-qwenpaw-and-hermes-agent/",
-      "rsslink": "https://leovan.me/cn/index.xml",
-      "blogname": "范叶亮的博客",
-      "createdat": "2026-04-18T00:00:00.000Z",
+      "id": "41677",
+      "title": "最近惦念 20260410",
+      "link": "https://z.arlmy.me/posts/TILs/thoughts/20260410_Recently/",
+      "rsslink": "http://z.arlmy.me/atom.xml",
+      "blogname": "素生",
+      "createdat": "2026-04-18T16:50:27.000Z",
       "crawledat": "2026-04-18T18:49:48.436Z"
     },
     {
-      "id": "41682",
-      "title": "Hermes Agent(爱马仕)：如何记得更牢,能越用越聪明的方式",
-      "link": "https://heyuanfei.com/post/2026-04-18-hermes-agent-memory/",
-      "rsslink": "https://leonhe.cn/index.xml",
-      "blogname": "远飞闲记",
-      "createdat": "2026-04-18T00:00:00.000Z",
+      "id": "41678",
+      "title": "Toots 415 2026 Apr.12 - Apr.18",
+      "link": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260418/",
+      "rsslink": "http://z.arlmy.me/atom.xml",
+      "blogname": "素生",
+      "createdat": "2026-04-18T16:19:27.000Z",
       "crawledat": "2026-04-18T18:49:48.436Z"
     },
     {
-      "id": "41687",
-      "title": "Python 潮流周刊#147：Python 和 Ruby 的 JIT 故事",
-      "link": "https://pythoncat.top/posts/2026-04-18-weekly/",
-      "rsslink": "https://pythoncat.top/rss.xml",
-      "blogname": "豌豆花下猫 - Python猫",
-      "createdat": "2026-04-18T00:00:00.000Z",
+      "id": "41702",
+      "title": "美国债券购买学习笔记",
+      "link": "https://tumutanzi.com/archives/17589",
+      "rsslink": "https://tumutanzi.com/feed",
+      "blogname": "土木坛子",
+      "createdat": "2026-04-18T16:00:54.000Z",
+      "crawledat": "2026-04-19T18:49:47.987Z"
+    },
+    {
+      "id": "41698",
+      "title": "CVE-2024-21626浅析",
+      "link": "https://blog.deepchirp.com/2026/04/18/CVE-2024-21626-Notes/",
+      "rsslink": "https://blog.deepchirp.com/atom.xml",
+      "blogname": "空鸣深语",
+      "createdat": "2026-04-18T14:48:28.000Z",
+      "crawledat": "2026-04-18T21:33:44.075Z"
+    },
+    {
+      "id": "41671",
+      "title": "人机协作逆向：用 AI + Frida 打通微信 4.1.8 macOS 数据库密钥提取",
+      "link": "https://igaojin.me/2026/04/18/%E4%BA%BA%E6%9C%BA%E5%8D%8F%E4%BD%9C%E9%80%86%E5%90%91%EF%BC%9A%E7%94%A8-AI-Frida-%E6%89%93%E9%80%9A%E5%BE%AE%E4%BF%A1-4-1-8-macOS-%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AF%86%E9%92%A5%E6%8F%90%E5%8F%96/",
+      "rsslink": "https://igaojin.me/atom.xml",
+      "blogname": "高金的博客",
+      "createdat": "2026-04-18T14:37:45.000Z",
+      "crawledat": "2026-04-18T15:36:18.748Z"
+    },
+    {
+      "id": "41669",
+      "title": "Wayfire支持不缩放Xwayland啦",
+      "link": "https://blog.lilydjwg.me/posts/217024.html",
+      "rsslink": "https://blog.lilydjwg.me/posts.rss",
+      "blogname": "依云's Blog",
+      "createdat": "2026-04-18T13:22:54.000Z",
+      "crawledat": "2026-04-18T15:36:18.748Z"
+    },
+    {
+      "id": "41670",
+      "title": "开源了一个 Hugo 主题，专门用来展示 AI Skill",
+      "link": "https://blog.debuginn.com/p/hugo-theme-skills/",
+      "rsslink": "https://blog.debuginn.com/index.xml",
+      "blogname": "Debug客栈",
+      "createdat": "2026-04-18T13:19:00.000Z",
+      "crawledat": "2026-04-18T15:36:18.748Z"
+    },
+    {
+      "id": "41686",
+      "title": "1Password涨价后，别急着退订1Password，这个操作能帮你省25%",
+      "link": "https://blog.renfei.net/posts/1626402130325676138",
+      "rsslink": "https://blog.renfei.net/rss.xml",
+      "blogname": "任霏博客",
+      "createdat": "2026-04-18T12:38:49.000Z",
       "crawledat": "2026-04-18T18:49:48.436Z"
     },
     {
-      "id": "41930",
-      "title": "部署 JuiceFS CSI Driver",
-      "link": "https://www.chenshaowen.com/blog/deploy-juicefs-csi-driver.html",
-      "rsslink": "https://www.chenshaowen.com/atom.xml",
-      "blogname": "陈少文的博客",
-      "createdat": "2026-04-18T00:00:00.000Z",
-      "crawledat": "2026-04-24T08:01:28.827Z"
+      "id": "41689",
+      "title": "分享一下笔者的 Mac 装机必备软件",
+      "link": "https://sugarat.top/essay/dev/mac-init.html",
+      "rsslink": "https://sugarat.top/feed.rss",
+      "blogname": "粥里有勺糖",
+      "createdat": "2026-04-18T12:29:46.000Z",
+      "crawledat": "2026-04-18T18:49:48.436Z"
     },
     {
-      "id": "41633",
-      "title": "AI 时代下的技术博客、文档驱动开发与头脑风暴实践",
-      "link": "https://innei.in/posts/experience/ai-era-tech-blogging-document-driven-development-and-brainstorming",
-      "rsslink": "https://innei.ren/feed",
-      "blogname": "静かな森",
-      "createdat": "2026-04-17T16:51:03.000Z",
-      "crawledat": "2026-04-17T18:58:27.291Z"
+      "id": "41696",
+      "title": "紫藤花和二月兰",
+      "link": "https://fxpai.com/article/zitenghuaheeryuelan",
+      "rsslink": "https://fxpai.com/feed",
+      "blogname": "非学·派",
+      "createdat": "2026-04-18T12:21:55.000Z",
+      "crawledat": "2026-04-18T21:33:44.075Z"
     },
     {
-      "id": "41656",
-      "title": "Cloud gaming: Shadow vs GeForce Now",
-      "link": "https://anotherdayu.com/shadow-vs-geforcenow/",
-      "rsslink": "https://anotherdayu.com/feed/",
-      "blogname": "Another Dayu",
-      "createdat": "2026-04-17T16:26:00.000Z",
-      "crawledat": "2026-04-18T07:05:45.300Z"
+      "id": "41691",
+      "title": "Album#36 - Quicksand",
+      "link": "https://taxodium.ink/album-36.html",
+      "rsslink": "https://taxodium.ink/rss.xml",
+      "blogname": "Taxodium",
+      "createdat": "2026-04-18T11:00:00.000Z",
+      "crawledat": "2026-04-18T18:49:48.436Z"
     },
     {
-      "id": "41638",
-      "title": "感恩 2025",
-      "link": "https://diff.im/blog/?p=1743",
-      "rsslink": "https://diff.im/blog/?feed=rss2",
-      "blogname": "Diff客旅日记",
-      "createdat": "2026-04-17T15:44:05.000Z",
-      "crawledat": "2026-04-17T18:58:27.291Z"
+      "id": "41680",
+      "title": "OpenClaw劲敌GenericAgent——3K行代码的自我进化AI Agent",
+      "link": "https://www.luckydesigner.space/openclaw-genericagent-ai-level-up/",
+      "rsslink": "https://www.luckydesigner.space/feed",
+      "blogname": "行运设计师",
+      "createdat": "2026-04-18T10:54:25.000Z",
+      "crawledat": "2026-04-18T18:49:48.436Z"
     },
     {
-      "id": "41636",
-      "title": "20260417",
-      "link": "https://61.life/2026/0417",
-      "rsslink": "https://61.life/feed.xml",
-      "blogname": "61's life",
-      "createdat": "2026-04-17T15:07:56.000Z",
-      "crawledat": "2026-04-17T18:58:27.291Z"
-    },
-    {
-      "id": "41937",
-      "title": "非公开的文章 Soft Mode",
-      "link": "https://blog.uuanqin.top/p/6472cf77/",
-      "rsslink": "https://uuanqin.top/atom.xml",
-      "blogname": "半方池水半方田",
-      "createdat": "2026-04-17T14:06:48.000Z",
-      "crawledat": "2026-04-24T08:01:28.827Z"
-    },
-    {
-      "id": "41938",
-      "title": "非公开的文章 Strict Mode",
-      "link": "https://blog.uuanqin.top/p/cb840d58/",
-      "rsslink": "https://uuanqin.top/atom.xml",
-      "blogname": "半方池水半方田",
-      "createdat": "2026-04-17T14:06:48.000Z",
-      "crawledat": "2026-04-24T08:01:28.827Z"
-    },
-    {
-      "id": "41661",
-      "title": "日本关西系列｜Day 3 天授庵、禅林寺与排水渠",
-      "link": "https://blog.yasking.org/a/series-kansai-travel-day3.html",
+      "id": "41690",
+      "title": "北京・莽山国家森林公园（2026）",
+      "link": "https://blog.yasking.org/a/photos-beijing-mangshan.html",
       "rsslink": "https://blog.yasking.org/atom.xml",
       "blogname": "东东's Blog",
-      "createdat": "2026-04-17T12:58:44.000Z",
-      "crawledat": "2026-04-18T07:05:45.300Z"
+      "createdat": "2026-04-18T10:51:41.000Z",
+      "crawledat": "2026-04-18T18:49:48.436Z"
+    },
+    {
+      "id": "41681",
+      "title": "改变我们管理知识的方式LLM Wiki，包融会贯通的",
+      "link": "https://www.luckydesigner.space/llm-wiki-learning-to-get/",
+      "rsslink": "https://www.luckydesigner.space/feed",
+      "blogname": "行运设计师",
+      "createdat": "2026-04-18T10:02:37.000Z",
+      "crawledat": "2026-04-18T18:49:48.436Z"
+    },
+    {
+      "id": "41683",
+      "title": "被纠正的好处",
+      "link": "https://happyxiao.com/correct/",
+      "rsslink": "https://happyxiao.com/feed",
+      "blogname": "happy xiao 的博客",
+      "createdat": "2026-04-18T07:39:39.000Z",
+      "crawledat": "2026-04-18T18:49:48.436Z"
+    },
+    {
+      "id": "41679",
+      "title": "旧事重提：大学生“AI+信息素养”大赛参赛微记",
+      "link": "https://www.xiaozonglin.cn/a-micro-journal-of-my-participation-in-the-university-student-ai-information-literacy-competition/",
+      "rsslink": "https://www.xiaozonglin.cn/feed/",
+      "blogname": "林林杂语",
+      "createdat": "2026-04-18T07:06:25.000Z",
+      "crawledat": "2026-04-18T18:49:48.436Z"
+    },
+    {
+      "id": "41713",
+      "title": "Lake Chabot Regional Park",
+      "link": "https://leimao.github.io/photography/Lake-Chabot-Regional-Park-2026-04-18/",
+      "rsslink": "https://leimao.github.io/atom.xml",
+      "blogname": "Lei Mao's Log Book",
+      "createdat": "2026-04-18T07:00:00.000Z",
+      "crawledat": "2026-04-19T18:49:47.987Z"
+    },
+    {
+      "id": "41714",
+      "title": "Lake Chabot Regional Park 徒步",
+      "link": "https://leimao.github.io/life/Lake-Chabot-Regional-Park-2026-04-18/",
+      "rsslink": "https://leimao.github.io/atom.xml",
+      "blogname": "Lei Mao's Log Book",
+      "createdat": "2026-04-18T07:00:00.000Z",
+      "crawledat": "2026-04-19T18:49:47.987Z"
     }
   ]
 }
