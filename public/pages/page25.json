@@ -4,6 +4,141 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "41576",
+      "title": "【系统架构设计百科】搜索引擎架构：倒排索引之上的系统设计",
+      "link": "https://quant67.com/post/architecture/42-search-architecture/search-architecture.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-15T21:51:13.037Z"
+    },
+    {
+      "id": "41577",
+      "title": "【系统架构设计百科】时序数据架构：监控与 IoT 的存储设计",
+      "link": "https://quant67.com/post/architecture/43-timeseries-architecture/timeseries-architecture.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-15T21:51:13.037Z"
+    },
+    {
+      "id": "41578",
+      "title": "【系统架构设计百科】数据迁移与版本化：在线不停机的数据演进",
+      "link": "https://quant67.com/post/architecture/44-data-migration/data-migration.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-15T21:51:13.037Z"
+    },
+    {
+      "id": "41579",
+      "title": "【系统架构设计百科】应用层数据一致性模式：在正确性与性能之间走钢丝",
+      "link": "https://quant67.com/post/architecture/45-consistency-patterns/consistency-patterns.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-15T21:51:13.037Z"
+    },
+    {
+      "id": "41580",
+      "title": "【系统架构设计百科】API 设计哲学：REST vs GraphQL vs gRPC 的真实权衡",
+      "link": "https://quant67.com/post/architecture/46-api-design/api-design.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-15T21:51:13.037Z"
+    },
+    {
+      "id": "41581",
+      "title": "【系统架构设计百科】API 网关设计：入口层的职责边界",
+      "link": "https://quant67.com/post/architecture/47-api-gateway/api-gateway.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-15T21:51:13.037Z"
+    },
+    {
+      "id": "41582",
+      "title": "【系统架构设计百科】服务发现与注册：动态拓扑的基础设施",
+      "link": "https://quant67.com/post/architecture/48-service-discovery/service-discovery.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-15T21:51:13.037Z"
+    },
+    {
+      "id": "41583",
+      "title": "【系统架构设计百科】配置管理架构：从配置文件到配置中心",
+      "link": "https://quant67.com/post/architecture/49-config-management/config-management.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-15T21:51:13.037Z"
+    },
+    {
+      "id": "41584",
+      "title": "【系统架构设计百科】幂等性设计：分布式环境下的安全重试",
+      "link": "https://quant67.com/post/architecture/50-idempotency/idempotency.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-15T21:51:13.037Z"
+    },
+    {
+      "id": "41585",
+      "title": "【系统架构设计百科】契约测试与 Schema 演进：服务间的信任协议",
+      "link": "https://quant67.com/post/architecture/51-contract-testing/contract-testing.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-15T21:51:13.037Z"
+    },
+    {
+      "id": "41586",
+      "title": "【系统架构设计百科】长连接与推送架构：WebSocket、SSE 与 MQTT",
+      "link": "https://quant67.com/post/architecture/52-push-architecture/push-architecture.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-15T21:51:13.037Z"
+    },
+    {
+      "id": "41587",
+      "title": "【系统架构设计百科】DDD 战略设计：限界上下文与上下文映射",
+      "link": "https://quant67.com/post/architecture/53-ddd-strategic/ddd-strategic.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-15T21:51:13.037Z"
+    },
+    {
+      "id": "41588",
+      "title": "【系统架构设计百科】DDD 战术模式：聚合、实体与值对象",
+      "link": "https://quant67.com/post/architecture/54-ddd-tactical/ddd-tactical.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-15T21:51:13.037Z"
+    },
+    {
+      "id": "41589",
+      "title": "【系统架构设计百科】领域事件与事件风暴：从业务到架构的桥梁",
+      "link": "https://quant67.com/post/architecture/55-event-storming/event-storming.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-15T21:51:13.037Z"
+    },
+    {
+      "id": "41590",
+      "title": "【系统架构设计百科】防腐层与开放主机服务：系统集成的 DDD 方案",
+      "link": "https://quant67.com/post/architecture/56-acl-ohs/acl-ohs.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-15T21:51:13.037Z"
+    },
+    {
       "id": "41591",
       "title": "【系统架构设计百科】CQRS + Event Sourcing 完整实战：从领域建模到部署",
       "link": "https://quant67.com/post/architecture/57-cqrs-es-practice/cqrs-es-practice.html",
@@ -47,141 +182,6 @@
       "blogname": "Louis Aeilot's Blog",
       "createdat": "2026-04-12T23:45:09.000Z",
       "crawledat": "2026-04-15T13:22:04.277Z"
-    },
-    {
-      "id": "40483",
-      "title": "从零配置 VS Code C++ 环境",
-      "link": "http://www.z16388.top/2026/04/12/cpp-vscode/",
-      "rsslink": "http://www.z16388.top/atom.xml",
-      "blogname": "崎径 其镜赵安琪的博客",
-      "createdat": "2026-04-12T22:32:49.000Z",
-      "crawledat": "2026-04-12T18:47:09.380Z"
-    },
-    {
-      "id": "40523",
-      "title": "Hexo-Butterfly 主题 Preloader 加载页定制",
-      "link": "https://blog.uuanqin.top/p/85371005/",
-      "rsslink": "https://uuanqin.top/atom.xml",
-      "blogname": "半方池水半方田",
-      "createdat": "2026-04-12T18:00:01.000Z",
-      "crawledat": "2026-04-13T19:12:38.444Z"
-    },
-    {
-      "id": "40524",
-      "title": "《永恒的舞动》第一百二十六章",
-      "link": "https://nicrosoft.net/blog/2326/",
-      "rsslink": "https://nicrosoft.net/blog/feed/",
-      "blogname": "农码生涯 无酒无花",
-      "createdat": "2026-04-12T16:43:24.000Z",
-      "crawledat": "2026-04-13T19:12:38.444Z"
-    },
-    {
-      "id": "40526",
-      "title": "赛力斯“车载蹲坑”爆红背后：一份让人窒息的《审查意见》，揭开了残酷真相",
-      "link": "https://zhjwork.online/2026/04/12/%e8%b5%9b%e5%8a%9b%e6%96%af%e8%bd%a6%e8%bd%bd%e8%b9%b2%e5%9d%91%e7%88%86%e7%ba%a2%e8%83%8c%e5%90%8e%ef%bc%9a%e4%b8%80%e4%bb%bd%e8%ae%a9%e4%ba%ba%e7%aa%92%e6%81%af%e7%9a%84%e3%80%8a/",
-      "rsslink": "https://zhjwork.online/feed",
-      "blogname": "专享生活",
-      "createdat": "2026-04-12T15:39:32.000Z",
-      "crawledat": "2026-04-13T19:12:38.444Z"
-    },
-    {
-      "id": "40485",
-      "title": "说说：#2026-04-12 23:33",
-      "link": "https://www.mmbkz.cn/69dbbb3bde97d.html",
-      "rsslink": "https://www.mmbkz.cn/feed",
-      "blogname": "火喵日记本",
-      "createdat": "2026-04-12T15:33:15.000Z",
-      "crawledat": "2026-04-12T18:47:09.380Z"
-    },
-    {
-      "id": "41722",
-      "title": "观草木虫鱼鸟兽",
-      "link": "https://blog.si-on.top/2026/AllCreaturesGreat&Small/",
-      "rsslink": "https://blog.si-on.top/atom.xml",
-      "blogname": "子虚栈",
-      "createdat": "2026-04-12T14:58:02.000Z",
-      "crawledat": "2026-04-19T18:49:47.987Z"
-    },
-    {
-      "id": "40480",
-      "title": "Claude Code 从 AWS Bedrock 切换到 Team 订阅指南",
-      "link": "https://blog.devtang.com/2026/04/12/switch-bedrock-to-team/",
-      "rsslink": "https://blog.devtang.com/atom.xml",
-      "blogname": "唐巧的博客",
-      "createdat": "2026-04-12T14:44:49.000Z",
-      "crawledat": "2026-04-12T18:47:09.380Z"
-    },
-    {
-      "id": "40529",
-      "title": "2026 春节叙事",
-      "link": "https://bluehe.cn/archives/spring-festival-2026",
-      "rsslink": "https://bluehe.cn/feed/",
-      "blogname": "云心怀鹤",
-      "createdat": "2026-04-12T14:25:00.000Z",
-      "crawledat": "2026-04-13T19:12:38.444Z"
-    },
-    {
-      "id": "40481",
-      "title": "学习下大神的知识库",
-      "link": "https://nicksxs.me/2026/04/12/%E5%AD%A6%E4%B9%A0%E4%B8%8B%E5%A4%A7%E7%A5%9E%E7%9A%84%E7%9F%A5%E8%AF%86%E5%BA%93/",
-      "rsslink": "https://nicksxs.me/atom.xml",
-      "blogname": "Nicksxs's Blog",
-      "createdat": "2026-04-12T14:20:48.000Z",
-      "crawledat": "2026-04-12T18:47:09.380Z"
-    },
-    {
-      "id": "40549",
-      "title": "一篇博文，三种时间：网页幻灯与 Remotion 动效的交付逻辑",
-      "link": "https://sumsec.me/2026/%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87%EF%BC%8C%E4%B8%89%E7%A7%8D%E6%97%B6%E9%97%B4%EF%BC%9A%E7%BD%91%E9%A1%B5%E5%B9%BB%E7%81%AF%E4%B8%8E%20Remotion%20%E5%8A%A8%E6%95%88%E7%9A%84%E4%BA%A4%E4%BB%98%E9%80%BB%E8%BE%91.html",
-      "rsslink": "https://sumsec.me/resources/atom.xml",
-      "blogname": "像清水一般清澈透明",
-      "createdat": "2026-04-12T14:07:56.000Z",
-      "crawledat": "2026-04-14T19:13:23.640Z"
-    },
-    {
-      "id": "40547",
-      "title": "AI播客牛逼",
-      "link": "https://blog.amamiyayuuko.com/p/podcast-powered-by-ai/",
-      "rsslink": "https://yuukoamamiya.github.io/index.xml",
-      "blogname": "Yuko's Blog",
-      "createdat": "2026-04-12T13:55:00.000Z",
-      "crawledat": "2026-04-14T19:13:23.640Z"
-    },
-    {
-      "id": "40487",
-      "title": "同班同学的名字（令和8年）",
-      "link": "https://springwood.me/%e5%90%8c%e7%8f%ad%e5%90%8c%e5%ad%a6%e7%9a%84%e5%90%8d%e5%ad%97%ef%bc%88%e4%bb%a4%e5%92%8c8%e5%b9%b4%ef%bc%89/",
-      "rsslink": "https://springwood.me/feed/",
-      "blogname": "沉舟侧畔 Blog",
-      "createdat": "2026-04-12T13:22:31.000Z",
-      "crawledat": "2026-04-12T18:47:09.380Z"
-    },
-    {
-      "id": "41898",
-      "title": "同班同学的名字（令和8年）",
-      "link": "https://springwood.me/jp-kids-name-r8/",
-      "rsslink": "https://springwood.me/feed/",
-      "blogname": "沉舟侧畔 Blog",
-      "createdat": "2026-04-12T13:22:31.000Z",
-      "crawledat": "2026-04-23T05:28:41.081Z"
-    },
-    {
-      "id": "40564",
-      "title": "记一次 2026 北京环球影城原神联动羽球节互动主题区游玩体验",
-      "link": "https://blog.cmyr.ltd/archives/2026-universal-studios-beijing-genshin.html",
-      "rsslink": "https://blog.cmyr.ltd/atom.xml",
-      "blogname": "草梅友仁的博客",
-      "createdat": "2026-04-12T13:15:35.000Z",
-      "crawledat": "2026-04-14T19:13:23.640Z"
-    },
-    {
-      "id": "40479",
-      "title": "除法的意义",
-      "link": "https://blog.codingnow.com/2026/04/division.html",
-      "rsslink": "http://blog.codingnow.com/atom.xml",
-      "blogname": "云风的 BLOG",
-      "createdat": "2026-04-12T12:52:17.000Z",
-      "crawledat": "2026-04-12T18:47:09.380Z"
     }
   ]
 }
