@@ -4,6 +4,69 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "38861",
+      "title": "26y：健康、AI行业变化与自我反思",
+      "link": "https://innei.in/notes/211",
+      "rsslink": "https://innei.ren/feed",
+      "blogname": "静かな森",
+      "createdat": "2026-04-05T17:29:22.000Z",
+      "crawledat": "2026-04-06T15:44:21.839Z"
+    },
+    {
+      "id": "39000",
+      "title": "How OpenClaw Hit 350K Stars in 4 Months",
+      "link": "https://finisky.github.io/en/openclaw-why-viral/",
+      "rsslink": "https://finisky.github.io/atom.xml",
+      "blogname": "Finisky Garden",
+      "createdat": "2026-04-05T16:16:37.000Z",
+      "crawledat": "2026-04-06T18:57:27.745Z"
+    },
+    {
+      "id": "39001",
+      "title": "OpenClaw 为什么能 4 个月拿下 35 万 Star",
+      "link": "https://finisky.github.io/openclaw-why-viral/",
+      "rsslink": "https://finisky.github.io/atom.xml",
+      "blogname": "Finisky Garden",
+      "createdat": "2026-04-05T16:12:37.000Z",
+      "crawledat": "2026-04-06T18:57:27.745Z"
+    },
+    {
+      "id": "38894",
+      "title": "AC录像转行车线与轨迹分析",
+      "link": "https://elmagnifico.tech/2026/04/06/AC-Replay2AILine/",
+      "rsslink": "http://elmagnifico.tech/feed.xml",
+      "blogname": "elmagnifico",
+      "createdat": "2026-04-05T16:00:00.000Z",
+      "crawledat": "2026-04-06T18:57:27.745Z"
+    },
+    {
+      "id": "38907",
+      "title": "两年三站：腾讯云、百度，以及我的 PostgreSQL 之路",
+      "link": "https://www.timochan.cn/notes/46",
+      "rsslink": "https://www.timochan.cn/feed",
+      "blogname": "TimochanのBlog",
+      "createdat": "2026-04-05T15:38:27.000Z",
+      "crawledat": "2026-04-06T18:57:27.745Z"
+    },
+    {
+      "id": "38838",
+      "title": "体验下微软开源的Markdown转换工具Markitdown",
+      "link": "https://nicksxs.me/2026/04/05/%E4%BD%93%E9%AA%8C%E4%B8%8B%E5%BE%AE%E8%BD%AF%E5%BC%80%E6%BA%90%E7%9A%84Markdown%E8%BD%AC%E6%8D%A2%E5%B7%A5%E5%85%B7Markitdown/",
+      "rsslink": "https://nicksxs.me/atom.xml",
+      "blogname": "Nicksxs's Blog",
+      "createdat": "2026-04-05T14:11:22.000Z",
+      "crawledat": "2026-04-05T18:41:40.204Z"
+    },
+    {
+      "id": "39002",
+      "title": "Lazy-Loading Tools in Claude Code: Discovery Over Declaration",
+      "link": "https://finisky.github.io/en/claude-code-deferred-tools/",
+      "rsslink": "https://finisky.github.io/atom.xml",
+      "blogname": "Finisky Garden",
+      "createdat": "2026-04-05T13:37:24.000Z",
+      "crawledat": "2026-04-06T18:57:27.745Z"
+    },
+    {
       "id": "39003",
       "title": "Claude Code 的工具懒加载机制: 用发现代替声明",
       "link": "https://finisky.github.io/claude-code-deferred-tools/",
@@ -118,69 +181,6 @@
       "rsslink": "https://finisky.github.io/atom.xml",
       "blogname": "Finisky Garden",
       "createdat": "2026-04-05T12:02:56.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "39015",
-      "title": "深入 Claude Code 的 YOLO Classifier",
-      "link": "https://finisky.github.io/claude-code-auto-mode-security/",
-      "rsslink": "https://finisky.github.io/atom.xml",
-      "blogname": "Finisky Garden",
-      "createdat": "2026-04-05T11:58:56.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "40192",
-      "title": "#177 – 砍掉重來的教學影片 / AI 分身上班記錄 / Vibe Coding 設計銷售網頁 ®️雷蒙週報",
-      "link": "https://raymondhouch.com/newsletter/177/",
-      "rsslink": "https://raymondhouch.com/feed",
-      "blogname": "雷蒙三十",
-      "createdat": "2026-04-05T11:34:30.000Z",
-      "crawledat": "2026-04-08T02:22:20.506Z"
-    },
-    {
-      "id": "39805",
-      "title": "你就是不敢",
-      "link": "https://surmon.me/article/315",
-      "rsslink": "https://surmon.me/rss.xml",
-      "blogname": "Surmon.me",
-      "createdat": "2026-04-05T10:41:48.000Z",
-      "crawledat": "2026-04-08T02:22:20.506Z"
-    },
-    {
-      "id": "39605",
-      "title": "Vol.97 AI领域前沿动态：从智能体工程化到开源模型演进",
-      "link": "https://liduos.com/weekly/the-weekly-gradient-97",
-      "rsslink": "https://liduos.com/atom.xml",
-      "blogname": "莫尔索",
-      "createdat": "2026-04-05T08:00:00.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "38891",
-      "title": "PyTorch Graph Symbolic Integer",
-      "link": "https://leimao.github.io/blog/PyTorch-Graph-Symbolic-Integer/",
-      "rsslink": "https://leimao.github.io/atom.xml",
-      "blogname": "Lei Mao's Log Book",
-      "createdat": "2026-04-05T07:00:00.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "38842",
-      "title": "使用策略模式重构复杂业务分支",
-      "link": "https://blog.pushihao.com/article/1eec664f.html",
-      "rsslink": "https://blog.pushihao.com/atom.xml",
-      "blogname": "披萨盒的博客",
-      "createdat": "2026-04-05T05:54:30.000Z",
-      "crawledat": "2026-04-06T10:07:38.524Z"
-    },
-    {
-      "id": "39620",
-      "title": "Home Assistant 配合小米人体传感器 2s 实现人走关灯",
-      "link": "https://wuminboke.site/uncategorized/home-assistant-xiaomi-motion-sensor-turn-off-lights-when-leaving-room/",
-      "rsslink": "https://wuminboke.site/feed/",
-      "blogname": "无名博客",
-      "createdat": "2026-04-05T05:53:30.000Z",
       "crawledat": "2026-04-06T18:57:27.745Z"
     }
   ]
