@@ -13,6 +13,60 @@
       "crawledat": "2026-04-20T19:03:15.391Z"
     },
     {
+      "id": "42200",
+      "title": "当写作软件遇上 AI：Scrivener 论坛上一场持续三年的产品哲学之争",
+      "link": "https://oldj.net/posts/three-year-ai-debate-on-scrivener-forum",
+      "rsslink": "https://oldj.net/feed",
+      "blogname": "oldj's blog",
+      "createdat": "2026-05-02T05:30:55.000Z",
+      "crawledat": "2026-05-02T05:35:39.345Z"
+    },
+    {
+      "id": "42203",
+      "title": "Hermes Agent(爱马仕) × Obsidian × LLMWiki：打造你的个人AI知识中枢",
+      "link": "https://heyuanfei.com/post/2026-05-02-hermes-obsidian-llmwiki/",
+      "rsslink": "https://leonhe.cn/index.xml",
+      "blogname": "远飞闲记",
+      "createdat": "2026-05-02T03:40:00.000Z",
+      "crawledat": "2026-05-02T05:35:39.345Z"
+    },
+    {
+      "id": "42204",
+      "title": "近况、2026x五一快乐",
+      "link": "https://blog.moeworld.tech/2026/05/02/%e8%bf%91%e5%86%b5%e3%80%812026x%e4%ba%94%e4%b8%80%e5%bf%ab%e4%b9%90/",
+      "rsslink": "https://blog.moeworld.tech/feed/",
+      "blogname": "晓空blog",
+      "createdat": "2026-05-02T03:19:31.000Z",
+      "crawledat": "2026-05-02T05:35:39.345Z"
+    },
+    {
+      "id": "42199",
+      "title": "用 AI 當編輯，將 100 集 podcast 編輯成書",
+      "link": "https://mrpm.cc/1831/",
+      "rsslink": "http://feeds.feedburner.com/pmmustknow",
+      "blogname": "Mr. PM 下午先生",
+      "createdat": "2026-05-02T02:55:14.000Z",
+      "crawledat": "2026-05-02T05:35:39.345Z"
+    },
+    {
+      "id": "42201",
+      "title": "TIL-用 curl + w3m + awk 从 HTML 表格提取数据",
+      "link": "https://lujun9972.github.io/blog/2026/05/02/til-用-curl-+-w3m-+-awk-从-html-表格提取数据/index.html",
+      "rsslink": "https://www.lujun9972.win/rss.xml",
+      "blogname": "暗无天日",
+      "createdat": "2026-05-02T00:00:00.000Z",
+      "crawledat": "2026-05-02T05:35:39.345Z"
+    },
+    {
+      "id": "42202",
+      "title": "读：Shell脚本安全编码的五条铁律",
+      "link": "https://lujun9972.github.io/blog/2026/05/02/读：shell脚本安全编码的五条铁律/index.html",
+      "rsslink": "https://www.lujun9972.win/rss.xml",
+      "blogname": "暗无天日",
+      "createdat": "2026-05-02T00:00:00.000Z",
+      "crawledat": "2026-05-02T05:35:39.345Z"
+    },
+    {
       "id": "42151",
       "title": "不要坚持",
       "link": "https://yinji.org/do-not-insist.html",
@@ -124,60 +178,6 @@
       "id": "42127",
       "title": "读：AI Agent 安全日志——从可见性与隐私的两难说起",
       "link": "https://lujun9972.github.io/blog/2026/05/01/读：ai-agent-安全日志——从可见性与隐私的两难说起/index.html",
-      "rsslink": "https://www.lujun9972.win/rss.xml",
-      "blogname": "暗无天日",
-      "createdat": "2026-05-01T00:00:00.000Z",
-      "crawledat": "2026-05-01T15:56:13.131Z"
-    },
-    {
-      "id": "42128",
-      "title": "读：AI Agent 生产化——一份从原型到上线的速查清单",
-      "link": "https://lujun9972.github.io/blog/2026/05/01/读：ai-agent-生产化——一份从原型到上线的速查清单/index.html",
-      "rsslink": "https://www.lujun9972.win/rss.xml",
-      "blogname": "暗无天日",
-      "createdat": "2026-05-01T00:00:00.000Z",
-      "crawledat": "2026-05-01T15:56:13.131Z"
-    },
-    {
-      "id": "42129",
-      "title": "读：LLM 生产环境六种失败原型——基准测试无法预测的那些故障",
-      "link": "https://lujun9972.github.io/blog/2026/05/01/读：llm-生产环境六种失败原型——基准测试无法预测的那些故障/index.html",
-      "rsslink": "https://www.lujun9972.win/rss.xml",
-      "blogname": "暗无天日",
-      "createdat": "2026-05-01T00:00:00.000Z",
-      "crawledat": "2026-05-01T15:56:13.131Z"
-    },
-    {
-      "id": "42130",
-      "title": "读：Prompt Injection 五层纵深防御——从输入过滤到审计追踪",
-      "link": "https://lujun9972.github.io/blog/2026/05/01/读：prompt-injection-五层纵深防御——从输入过滤到审计追踪/index.html",
-      "rsslink": "https://www.lujun9972.win/rss.xml",
-      "blogname": "暗无天日",
-      "createdat": "2026-05-01T00:00:00.000Z",
-      "crawledat": "2026-05-01T15:56:13.131Z"
-    },
-    {
-      "id": "42131",
-      "title": "读：为什么所有 Prompt Injection 防御都会被攻破——以及架构上该怎么办",
-      "link": "https://lujun9972.github.io/blog/2026/05/01/读：为什么所有-prompt-injection-防御都会被攻破——以及架构上该怎么办/index.html",
-      "rsslink": "https://www.lujun9972.win/rss.xml",
-      "blogname": "暗无天日",
-      "createdat": "2026-05-01T00:00:00.000Z",
-      "crawledat": "2026-05-01T15:56:13.131Z"
-    },
-    {
-      "id": "42132",
-      "title": "读：JVM 后端性能调优备忘——从一次生产事故中学到的优化要点",
-      "link": "https://lujun9972.github.io/blog/2026/05/01/读：jvm-后端性能调优备忘——从一次生产事故中学到的优化要点/index.html",
-      "rsslink": "https://www.lujun9972.win/rss.xml",
-      "blogname": "暗无天日",
-      "createdat": "2026-05-01T00:00:00.000Z",
-      "crawledat": "2026-05-01T15:56:13.131Z"
-    },
-    {
-      "id": "42133",
-      "title": "读：Java 容器化——从 Fat JAR 到高效 Docker 镜像",
-      "link": "https://lujun9972.github.io/blog/2026/05/01/读：java-容器化——从-fat-jar-到高效-docker-镜像/index.html",
       "rsslink": "https://www.lujun9972.win/rss.xml",
       "blogname": "暗无天日",
       "createdat": "2026-05-01T00:00:00.000Z",

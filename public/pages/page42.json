@@ -4,6 +4,60 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "38842",
+      "title": "使用策略模式重构复杂业务分支",
+      "link": "https://blog.pushihao.com/article/1eec664f.html",
+      "rsslink": "https://blog.pushihao.com/atom.xml",
+      "blogname": "披萨盒的博客",
+      "createdat": "2026-04-05T05:54:30.000Z",
+      "crawledat": "2026-04-06T10:07:38.524Z"
+    },
+    {
+      "id": "39620",
+      "title": "Home Assistant 配合小米人体传感器 2s 实现人走关灯",
+      "link": "https://wuminboke.site/uncategorized/home-assistant-xiaomi-motion-sensor-turn-off-lights-when-leaving-room/",
+      "rsslink": "https://wuminboke.site/feed/",
+      "blogname": "无名博客",
+      "createdat": "2026-04-05T05:53:30.000Z",
+      "crawledat": "2026-04-06T18:57:27.745Z"
+    },
+    {
+      "id": "39073",
+      "title": "国家统计局数据查询 MCP",
+      "link": "https://log.cns.red/cnbs/",
+      "rsslink": "https://blog.thatcoder.cn/atom.xml",
+      "blogname": "钟意博客",
+      "createdat": "2026-04-05T03:30:00.000Z",
+      "crawledat": "2026-04-06T18:57:27.745Z"
+    },
+    {
+      "id": "41971",
+      "title": "2026 AI 开发新范式：Harness Engineering（驾驭工程）为何是智能体的决胜点？",
+      "link": "https://wangxin.io/aigc/aigc_harness_engineering_agent_winning_point/",
+      "rsslink": "https://wangxin.io/atom.xml",
+      "blogname": "王欣的博客",
+      "createdat": "2026-04-05T02:00:00.000Z",
+      "crawledat": "2026-04-26T15:40:10.883Z"
+    },
+    {
+      "id": "39519",
+      "title": "重整厨房",
+      "link": "https://shuiba.co/kitchen-reset",
+      "rsslink": "https://shuiba.co/feed",
+      "blogname": "Shuibaco • 水八口",
+      "createdat": "2026-04-05T00:52:00.000Z",
+      "crawledat": "2026-04-06T18:57:27.745Z"
+    },
+    {
+      "id": "38988",
+      "title": "使用 Magsafe 磁吸保护壳，但是磁力比较低，怎么办",
+      "link": "https://blog.zhheo.com/p/idp0qt15.html",
+      "rsslink": "https://blog.zhheo.com/rss.xml",
+      "blogname": "张洪Heo",
+      "createdat": "2026-04-05T00:41:04.000Z",
+      "crawledat": "2026-04-06T18:57:27.745Z"
+    },
+    {
       "id": "40293",
       "title": "Vol.126 中共一大背后的李汉俊:辛亥之子与工运先驱",
       "link": "https://josherich.me/podcast/%E5%8E%86%E5%8F%B2%E5%AD%A6%E4%BA%BA/vol126-%E4%B8%AD%E5%85%B1%E4%B8%80%E5%A4%A7%E8%83%8C%E5%90%8E%E7%9A%84%E6%9D%8E%E6%B1%89%E4%BF%8A%E8%BE%9B%E4%BA%A5%E4%B9%8B%E5%AD%90%E4%B8%8E%E5%B7%A5%E8%BF%90%E5%85%88%E9%A9%B1",
@@ -128,60 +182,6 @@
       "blogname": "61's life",
       "createdat": "2026-04-04T14:45:36.000Z",
       "crawledat": "2026-04-05T07:04:28.367Z"
-    },
-    {
-      "id": "39604",
-      "title": "习惯了语音输入后，再也不想打字了",
-      "link": "https://demochen.com/posts/20260404/",
-      "rsslink": "https://www.demochen.com/atom.xml",
-      "blogname": "特立独行的异类",
-      "createdat": "2026-04-04T13:06:57.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "39050",
-      "title": "在 Linux 上使用 Yubikey OpenPGP 应用",
-      "link": "https://blog.dejavu.moe/posts/yubikey-openpgp-on-linux/",
-      "rsslink": "https://blog.dejavu.moe/index.xml",
-      "blogname": "Dejavu's Blog",
-      "createdat": "2026-04-04T10:46:58.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "38835",
-      "title": "AI 时代，还有什么值得自己写？",
-      "link": "https://scottyeung.top/2026/note-taking-in-ai-era/",
-      "rsslink": "http://scottyeung.top/atom.xml",
-      "blogname": "YeungYeah 的乱写地",
-      "createdat": "2026-04-04T08:00:00.000Z",
-      "crawledat": "2026-04-05T07:04:28.367Z"
-    },
-    {
-      "id": "39021",
-      "title": "读《人生的枷锁》",
-      "link": "https://www.jfsay.com/archives/4021.html",
-      "rsslink": "http://www.jfsay.com/feed",
-      "blogname": "静风说",
-      "createdat": "2026-04-04T07:11:20.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "39642",
-      "title": "网站字体应用之坑——font-family 篇",
-      "link": "https://howiehz.top/archives/web-font-pitfalls-font-family",
-      "rsslink": "https://howiehz.top/rss.xml",
-      "blogname": "皓子的小站",
-      "createdat": "2026-04-04T07:03:01.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "38892",
-      "title": "Contra Costa Canal Regional Trail 徒步",
-      "link": "https://leimao.github.io/life/Contra-Costa-Canal-Regional-Trail-2026-04-04/",
-      "rsslink": "https://leimao.github.io/atom.xml",
-      "blogname": "Lei Mao's Log Book",
-      "createdat": "2026-04-04T07:00:00.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
     }
   ]
 }
