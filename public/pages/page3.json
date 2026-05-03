@@ -4,6 +4,60 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "42128",
+      "title": "读：AI Agent 生产化——一份从原型到上线的速查清单",
+      "link": "https://lujun9972.github.io/blog/2026/05/01/读：ai-agent-生产化——一份从原型到上线的速查清单/index.html",
+      "rsslink": "https://www.lujun9972.win/rss.xml",
+      "blogname": "暗无天日",
+      "createdat": "2026-05-01T00:00:00.000Z",
+      "crawledat": "2026-05-01T15:56:13.131Z"
+    },
+    {
+      "id": "42129",
+      "title": "读：LLM 生产环境六种失败原型——基准测试无法预测的那些故障",
+      "link": "https://lujun9972.github.io/blog/2026/05/01/读：llm-生产环境六种失败原型——基准测试无法预测的那些故障/index.html",
+      "rsslink": "https://www.lujun9972.win/rss.xml",
+      "blogname": "暗无天日",
+      "createdat": "2026-05-01T00:00:00.000Z",
+      "crawledat": "2026-05-01T15:56:13.131Z"
+    },
+    {
+      "id": "42130",
+      "title": "读：Prompt Injection 五层纵深防御——从输入过滤到审计追踪",
+      "link": "https://lujun9972.github.io/blog/2026/05/01/读：prompt-injection-五层纵深防御——从输入过滤到审计追踪/index.html",
+      "rsslink": "https://www.lujun9972.win/rss.xml",
+      "blogname": "暗无天日",
+      "createdat": "2026-05-01T00:00:00.000Z",
+      "crawledat": "2026-05-01T15:56:13.131Z"
+    },
+    {
+      "id": "42131",
+      "title": "读：为什么所有 Prompt Injection 防御都会被攻破——以及架构上该怎么办",
+      "link": "https://lujun9972.github.io/blog/2026/05/01/读：为什么所有-prompt-injection-防御都会被攻破——以及架构上该怎么办/index.html",
+      "rsslink": "https://www.lujun9972.win/rss.xml",
+      "blogname": "暗无天日",
+      "createdat": "2026-05-01T00:00:00.000Z",
+      "crawledat": "2026-05-01T15:56:13.131Z"
+    },
+    {
+      "id": "42132",
+      "title": "读：JVM 后端性能调优备忘——从一次生产事故中学到的优化要点",
+      "link": "https://lujun9972.github.io/blog/2026/05/01/读：jvm-后端性能调优备忘——从一次生产事故中学到的优化要点/index.html",
+      "rsslink": "https://www.lujun9972.win/rss.xml",
+      "blogname": "暗无天日",
+      "createdat": "2026-05-01T00:00:00.000Z",
+      "crawledat": "2026-05-01T15:56:13.131Z"
+    },
+    {
+      "id": "42133",
+      "title": "读：Java 容器化——从 Fat JAR 到高效 Docker 镜像",
+      "link": "https://lujun9972.github.io/blog/2026/05/01/读：java-容器化——从-fat-jar-到高效-docker-镜像/index.html",
+      "rsslink": "https://www.lujun9972.win/rss.xml",
+      "blogname": "暗无天日",
+      "createdat": "2026-05-01T00:00:00.000Z",
+      "crawledat": "2026-05-01T15:56:13.131Z"
+    },
+    {
       "id": "42134",
       "title": "读：整洁代码的几个通用原则——从 Go 生态看起",
       "link": "https://lujun9972.github.io/blog/2026/05/01/读：整洁代码的几个通用原则——从-go-生态看起/index.html",
@@ -67,6 +121,15 @@
       "crawledat": "2026-05-02T21:38:51.783Z"
     },
     {
+      "id": "42223",
+      "title": "国产大模型编码能力实测(GLM 5.1、Kimi K2.6、Mimo v2.5 Pro 和 DeepSeek V4 Pro)",
+      "link": "//owent.net/2026/2607.html",
+      "rsslink": "https://owent.net/index.xml",
+      "blogname": "I'm OWenT",
+      "createdat": "2026-04-30T18:00:45.000Z",
+      "crawledat": "2026-05-03T13:07:02.136Z"
+    },
+    {
       "id": "42140",
       "title": "魔法战胜魔法：AI提示词还得AI写",
       "link": "https://heyuanfei.com/post/2026-05-01-%E9%AD%94%E6%B3%95%E6%88%98%E8%83%9C%E9%AD%94%E6%B3%95ai%E6%8F%90%E7%A4%BA%E8%AF%8D%E8%BF%98%E5%BE%97ai%E5%86%99/",
@@ -119,69 +182,6 @@
       "blogname": "EE Archeology 电子考古学",
       "createdat": "2026-04-30T14:00:00.000Z",
       "crawledat": "2026-05-02T02:36:00.903Z"
-    },
-    {
-      "id": "42118",
-      "title": "20260430",
-      "link": "https://61.life/2026/0430",
-      "rsslink": "https://61.life/feed.xml",
-      "blogname": "61's life",
-      "createdat": "2026-04-30T13:59:28.000Z",
-      "crawledat": "2026-04-30T19:18:47.097Z"
-    },
-    {
-      "id": "42121",
-      "title": "Cassotis IME（言泉输入法）v0.3.0",
-      "link": "https://nicrosoft.net/blog/2328/",
-      "rsslink": "https://nicrosoft.net/blog/feed/",
-      "blogname": "农码生涯 无酒无花",
-      "createdat": "2026-04-30T13:25:40.000Z",
-      "crawledat": "2026-04-30T19:18:47.097Z"
-    },
-    {
-      "id": "42137",
-      "title": "Frytea",
-      "link": "https://frytea.com/memos/sjeidwyaupeumf59ayw8t4/",
-      "rsslink": "https://www.frytea.com/index.xml",
-      "blogname": "Frytea's Blog",
-      "createdat": "2026-04-30T08:37:27.000Z",
-      "crawledat": "2026-05-01T19:09:26.460Z"
-    },
-    {
-      "id": "42103",
-      "title": "阿里云 ESA 免费 CDN 教程：全球加速 + DDoS 防护，手把手续期至 2051 年",
-      "link": "https://www.iyouhun.com/post-317.html",
-      "rsslink": "https://www.iyouhun.com/rss.php",
-      "blogname": "游魂博客",
-      "createdat": "2026-04-30T07:19:30.000Z",
-      "crawledat": "2026-04-30T08:28:41.153Z"
-    },
-    {
-      "id": "42154",
-      "title": "2026 年 3 月和 4 月该入手的模型手办",
-      "link": "https://leimao.github.io/essay/2026%E5%B9%B43%E6%9C%88%E5%92%8C4%E6%9C%88%E8%AF%A5%E5%85%A5%E6%89%8B%E7%9A%84%E6%A8%A1%E5%9E%8B%E6%89%8B%E5%8A%9E/",
-      "rsslink": "https://leimao.github.io/atom.xml",
-      "blogname": "Lei Mao's Log Book",
-      "createdat": "2026-04-30T07:00:00.000Z",
-      "crawledat": "2026-05-02T02:36:00.903Z"
-    },
-    {
-      "id": "42159",
-      "title": "【深度干货】伯衡君自制OpenClaw投资技能——8位投资顾问详细使用指南",
-      "link": "https://www.luckydesigner.space/openclaw-how-to-use-boheng-investment-workflow/",
-      "rsslink": "https://www.luckydesigner.space/feed",
-      "blogname": "行运设计师",
-      "createdat": "2026-04-30T00:42:24.000Z",
-      "crawledat": "2026-05-02T02:36:00.903Z"
-    },
-    {
-      "id": "42104",
-      "title": "读：在Emacs中使用Claude Code（Spacemacs适配版）",
-      "link": "https://lujun9972.github.io/blog/2026/04/30/读：在emacs中使用claude-code（spacemacs适配版）/index.html",
-      "rsslink": "https://www.lujun9972.win/rss.xml",
-      "blogname": "暗无天日",
-      "createdat": "2026-04-30T00:00:00.000Z",
-      "crawledat": "2026-04-30T08:28:41.153Z"
     }
   ]
 }
