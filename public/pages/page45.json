@@ -4,6 +4,96 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "40406",
+      "title": "【密码学百科】椭圆曲线代数：Weierstrass 方程、点群运算与曲线选择",
+      "link": "https://quant67.com/post/cryptography/35-elliptic-curve-algebra/elliptic-curve-algebra.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-06T00:00:00.000Z",
+      "crawledat": "2026-04-12T05:22:27.166Z"
+    },
+    {
+      "id": "40407",
+      "title": "【密码学百科】离散对数与配对密码学：从 DLP 到 BLS 签名",
+      "link": "https://quant67.com/post/cryptography/36-discrete-log-pairings/discrete-log-pairings.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-06T00:00:00.000Z",
+      "crawledat": "2026-04-12T05:22:27.166Z"
+    },
+    {
+      "id": "40408",
+      "title": "【密码学百科】格密码数学基础：SVP、LWE 与格基约化",
+      "link": "https://quant67.com/post/cryptography/37-lattice-math/lattice-math.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-06T00:00:00.000Z",
+      "crawledat": "2026-04-12T05:22:27.166Z"
+    },
+    {
+      "id": "38845",
+      "title": "Retro of Q1 2026",
+      "link": "https://iphyer.github.io/blog/2026/04/05/retroQ12026/",
+      "rsslink": "https://iphyer.github.io/feed.xml",
+      "blogname": "桑弧蓬矢射四方",
+      "createdat": "2026-04-05T22:54:00.000Z",
+      "crawledat": "2026-04-06T15:44:21.839Z"
+    },
+    {
+      "id": "41667",
+      "title": "力扣笔记",
+      "link": "http://www.z16388.top/2026/04/05/leetcode/",
+      "rsslink": "http://www.z16388.top/atom.xml",
+      "blogname": "崎径 其镜赵安琪的博客",
+      "createdat": "2026-04-05T21:14:58.000Z",
+      "crawledat": "2026-04-18T12:59:43.887Z"
+    },
+    {
+      "id": "39727",
+      "title": "2026年，大概将会是最后一个人口保持在14亿以上的年份",
+      "link": "https://www.wsh233.cn/post/2026年大概将会是最后一个人口保持在14亿以上的年份",
+      "rsslink": "https://www.wsh233.cn/feed.xml",
+      "blogname": "WSH",
+      "createdat": "2026-04-05T18:33:35.000Z",
+      "crawledat": "2026-04-06T18:57:27.745Z"
+    },
+    {
+      "id": "38861",
+      "title": "26y：健康、AI行业变化与自我反思",
+      "link": "https://innei.in/notes/211",
+      "rsslink": "https://innei.ren/feed",
+      "blogname": "静かな森",
+      "createdat": "2026-04-05T17:29:22.000Z",
+      "crawledat": "2026-04-06T15:44:21.839Z"
+    },
+    {
+      "id": "39000",
+      "title": "How OpenClaw Hit 350K Stars in 4 Months",
+      "link": "https://finisky.github.io/en/openclaw-why-viral/",
+      "rsslink": "https://finisky.github.io/atom.xml",
+      "blogname": "Finisky Garden",
+      "createdat": "2026-04-05T16:16:37.000Z",
+      "crawledat": "2026-04-06T18:57:27.745Z"
+    },
+    {
+      "id": "39001",
+      "title": "OpenClaw 为什么能 4 个月拿下 35 万 Star",
+      "link": "https://finisky.github.io/openclaw-why-viral/",
+      "rsslink": "https://finisky.github.io/atom.xml",
+      "blogname": "Finisky Garden",
+      "createdat": "2026-04-05T16:12:37.000Z",
+      "crawledat": "2026-04-06T18:57:27.745Z"
+    },
+    {
+      "id": "38894",
+      "title": "AC录像转行车线与轨迹分析",
+      "link": "https://elmagnifico.tech/2026/04/06/AC-Replay2AILine/",
+      "rsslink": "http://elmagnifico.tech/feed.xml",
+      "blogname": "elmagnifico",
+      "createdat": "2026-04-05T16:00:00.000Z",
+      "crawledat": "2026-04-06T18:57:27.745Z"
+    },
+    {
       "id": "38907",
       "title": "两年三站：腾讯云、百度，以及我的 PostgreSQL 之路",
       "link": "https://www.timochan.cn/notes/46",
@@ -91,96 +181,6 @@
       "rsslink": "https://finisky.github.io/atom.xml",
       "blogname": "Finisky Garden",
       "createdat": "2026-04-05T12:46:42.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "39010",
-      "title": "Context Compaction in Claude Code: A Five-Layer Cascade and the Art of Free Summaries",
-      "link": "https://finisky.github.io/en/claude-code-context-compaction/",
-      "rsslink": "https://finisky.github.io/atom.xml",
-      "blogname": "Finisky Garden",
-      "createdat": "2026-04-05T12:35:17.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "39011",
-      "title": "Claude Code 的上下文压缩:五层级联与免费摘要的艺术",
-      "link": "https://finisky.github.io/claude-code-context-compaction/",
-      "rsslink": "https://finisky.github.io/atom.xml",
-      "blogname": "Finisky Garden",
-      "createdat": "2026-04-05T12:31:17.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "39012",
-      "title": "How Claude Code Defends Against Bash Injection",
-      "link": "https://finisky.github.io/en/claude-code-bash-security/",
-      "rsslink": "https://finisky.github.io/atom.xml",
-      "blogname": "Finisky Garden",
-      "createdat": "2026-04-05T12:19:33.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "39623",
-      "title": "llama.cpp LLM时代核心引擎指南",
-      "link": "https://localfreedom.pages.dev/p/llama.cpp-llm%E6%97%B6%E4%BB%A3%E6%A0%B8%E5%BF%83%E5%BC%95%E6%93%8E%E6%8C%87%E5%8D%97/",
-      "rsslink": "https://localfreedom.pages.dev/index.xml",
-      "blogname": "局域自由",
-      "createdat": "2026-04-05T12:17:21.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "39013",
-      "title": "Claude Code 怎么防住 Bash 注入",
-      "link": "https://finisky.github.io/claude-code-bash-security/",
-      "rsslink": "https://finisky.github.io/atom.xml",
-      "blogname": "Finisky Garden",
-      "createdat": "2026-04-05T12:15:33.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "39014",
-      "title": "Inside Claude Code's YOLO Classifier",
-      "link": "https://finisky.github.io/en/claude-code-auto-mode-security/",
-      "rsslink": "https://finisky.github.io/atom.xml",
-      "blogname": "Finisky Garden",
-      "createdat": "2026-04-05T12:02:56.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "39015",
-      "title": "深入 Claude Code 的 YOLO Classifier",
-      "link": "https://finisky.github.io/claude-code-auto-mode-security/",
-      "rsslink": "https://finisky.github.io/atom.xml",
-      "blogname": "Finisky Garden",
-      "createdat": "2026-04-05T11:58:56.000Z",
-      "crawledat": "2026-04-06T18:57:27.745Z"
-    },
-    {
-      "id": "40192",
-      "title": "#177 – 砍掉重來的教學影片 / AI 分身上班記錄 / Vibe Coding 設計銷售網頁 ®️雷蒙週報",
-      "link": "https://raymondhouch.com/newsletter/177/",
-      "rsslink": "https://raymondhouch.com/feed",
-      "blogname": "雷蒙三十",
-      "createdat": "2026-04-05T11:34:30.000Z",
-      "crawledat": "2026-04-08T02:22:20.506Z"
-    },
-    {
-      "id": "39805",
-      "title": "你就是不敢",
-      "link": "https://surmon.me/article/315",
-      "rsslink": "https://surmon.me/rss.xml",
-      "blogname": "Surmon.me",
-      "createdat": "2026-04-05T10:41:48.000Z",
-      "crawledat": "2026-04-08T02:22:20.506Z"
-    },
-    {
-      "id": "39605",
-      "title": "Vol.97 AI领域前沿动态：从智能体工程化到开源模型演进",
-      "link": "https://liduos.com/weekly/the-weekly-gradient-97",
-      "rsslink": "https://liduos.com/atom.xml",
-      "blogname": "莫尔索",
-      "createdat": "2026-04-05T08:00:00.000Z",
       "crawledat": "2026-04-06T18:57:27.745Z"
     }
   ]
