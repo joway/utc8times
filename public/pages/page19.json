@@ -4,6 +4,78 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "41956",
+      "title": "未来6-12月AI发展的几个确定性趋势",
+      "link": "https://jaketao.com/2026-ai-trends",
+      "rsslink": "https://jingine.com/feed/",
+      "blogname": "Jing Blog",
+      "createdat": "2026-04-22T20:08:22.000Z",
+      "crawledat": "2026-04-25T09:51:20.489Z"
+    },
+    {
+      "id": "41891",
+      "title": "工程师如何把多个 Coding Agent 真正带起来：一套比“开更多聊天窗口”更像工程流程的方法",
+      "link": "https://www.ixiqin.com/2026/04/23/how-engineers-can-truly-bring-together-multiple-coding/",
+      "rsslink": "https://www.ixiqin.com/feed/",
+      "blogname": "西秦公子",
+      "createdat": "2026-04-22T16:56:52.000Z",
+      "crawledat": "2026-04-22T19:11:09.312Z"
+    },
+    {
+      "id": "41917",
+      "title": "日常之转变",
+      "link": "https://xiaochopin.github.io/2026/04/23/newlifestyle",
+      "rsslink": "https://xiaochopin.github.io/feed.xml",
+      "blogname": "重生云",
+      "createdat": "2026-04-22T16:00:00.000Z",
+      "crawledat": "2026-04-23T07:50:03.995Z"
+    },
+    {
+      "id": "41885",
+      "title": "Polkadot 的 Existential Deposit 机制错在哪里",
+      "link": "https://smallyu.net/2026/04/22/Polkdot%E7%9A%84Existential-Deposit%E6%9C%BA%E5%88%B6%E9%94%99%E5%9C%A8%E5%93%AA%E9%87%8C/",
+      "rsslink": "https://smallyu.net/atom.xml",
+      "blogname": "smallyu的博客",
+      "createdat": "2026-04-22T09:50:48.000Z",
+      "crawledat": "2026-04-22T16:08:03.604Z"
+    },
+    {
+      "id": "41903",
+      "title": "3 天, 61 个版本｜非程序员的我用 Claude Code 接棒维护了自己的博客主题",
+      "link": "https://blog.laoda.de/archives/claude-code-halo-theme",
+      "rsslink": "https://blog.laoda.de/rss.xml",
+      "blogname": "我不是咕咕鸽",
+      "createdat": "2026-04-22T09:14:04.000Z",
+      "crawledat": "2026-04-23T05:28:41.081Z"
+    },
+    {
+      "id": "42003",
+      "title": "用 OpenClaw 打造自己的新闻聚合看天下，接收新闻信息完全指南",
+      "link": "https://www.luckydesigner.space/openclaw-create-your-news-workflow/",
+      "rsslink": "https://www.luckydesigner.space/feed",
+      "blogname": "行运设计师",
+      "createdat": "2026-04-22T09:00:22.000Z",
+      "crawledat": "2026-04-26T18:52:48.243Z"
+    },
+    {
+      "id": "41901",
+      "title": "Kachilu Browser：让 AI Agent 隐身，验证码随便过，反爬虫怀疑人生",
+      "link": "https://www.luckydesigner.space/kachilu-browser-ai-agent-hide-itself-to-crawl/",
+      "rsslink": "https://www.luckydesigner.space/feed",
+      "blogname": "行运设计师",
+      "createdat": "2026-04-22T08:01:54.000Z",
+      "crawledat": "2026-04-23T05:28:41.081Z"
+    },
+    {
+      "id": "41884",
+      "title": "任务自适应 Harness：从 Trace 到多 Coding Agent 的协作记忆",
+      "link": "http://www.phodal.com/blog/task-adaptive-harness/",
+      "rsslink": "https://www.phodal.com/blog/feeds/rss/",
+      "blogname": "全栈应用开发:精益实践",
+      "createdat": "2026-04-22T07:54:00.000Z",
+      "crawledat": "2026-04-22T10:18:10.089Z"
+    },
+    {
       "id": "41887",
       "title": "Vibe Coding 实现本地模型 Token 自由 IntelliJ IDEA + LM Studio + LM Link + Continue",
       "link": "https://blog.renfei.net/posts/1626402130325676139",
@@ -110,78 +182,6 @@
       "blogname": "土法炼钢兴趣小组的博客",
       "createdat": "2026-04-22T00:00:00.000Z",
       "crawledat": "2026-04-20T19:03:15.391Z"
-    },
-    {
-      "id": "41882",
-      "title": "fcitx 启动后键盘输入卡顿的排查",
-      "link": "https://lujun9972.github.io/blog/2026/04/22/fcitx-启动后键盘输入卡顿的排查/index.html",
-      "rsslink": "https://www.lujun9972.win/rss.xml",
-      "blogname": "暗无天日",
-      "createdat": "2026-04-22T00:00:00.000Z",
-      "crawledat": "2026-04-22T07:44:47.892Z"
-    },
-    {
-      "id": "41883",
-      "title": "TIL: 早期网页的图片热区导航",
-      "link": "https://lujun9972.github.io/blog/2026/04/22/til-早期网页的图片热区导航/index.html",
-      "rsslink": "https://www.lujun9972.win/rss.xml",
-      "blogname": "暗无天日",
-      "createdat": "2026-04-22T00:00:00.000Z",
-      "crawledat": "2026-04-22T07:44:47.892Z"
-    },
-    {
-      "id": "41947",
-      "title": "如何使用 Vercel Seat Saver skill 帮你将 Vercel 组织订单账单降低至 20 美元？",
-      "link": "https://www.ixiqin.com/2026/04/21/how-to-use-vercel-seat-saver-kill-to-help-you-reduce/",
-      "rsslink": "https://www.ixiqin.com/feed/",
-      "blogname": "西秦公子",
-      "createdat": "2026-04-21T13:47:00.000Z",
-      "crawledat": "2026-04-25T09:51:20.489Z"
-    },
-    {
-      "id": "41888",
-      "title": "SSH 配置安全加固",
-      "link": "https://blog.baicai.me/article/2026/linux_sshd_config/",
-      "rsslink": "https://blog.baicai.me/index.xml",
-      "blogname": "白菜",
-      "createdat": "2026-04-21T11:43:57.000Z",
-      "crawledat": "2026-04-22T16:08:03.604Z"
-    },
-    {
-      "id": "41839",
-      "title": "習慣幸福",
-      "link": "http://mercurychong.blogspot.com/2026/04/blog-post_21.html",
-      "rsslink": "http://mercurychong.blogspot.com/feeds/posts/default",
-      "blogname": "水星投资理财",
-      "createdat": "2026-04-21T11:29:00.000Z",
-      "crawledat": "2026-04-21T13:23:56.863Z"
-    },
-    {
-      "id": "41850",
-      "title": "OpenClaw 创建投资技能工作流，8个投资顾问带你在股票基金投资飞飞飞",
-      "link": "https://www.luckydesigner.space/openclaw-help-you-invest-earn-money/",
-      "rsslink": "https://www.luckydesigner.space/feed",
-      "blogname": "行运设计师",
-      "createdat": "2026-04-21T10:45:51.000Z",
-      "crawledat": "2026-04-22T02:28:27.142Z"
-    },
-    {
-      "id": "41889",
-      "title": "使用 Foxy Proxy 插件实现优雅的浏览器网页流量代理",
-      "link": "https://lihan3238.github.io/p/point_22/",
-      "rsslink": "https://lihan3238.github.io/index.xml",
-      "blogname": "李寒的小窝",
-      "createdat": "2026-04-21T09:40:00.000Z",
-      "crawledat": "2026-04-22T16:08:03.604Z"
-    },
-    {
-      "id": "41845",
-      "title": "ChatGPT Image-2 上手：杀死比赛！设计师这下子真的可以解放双手了",
-      "link": "https://blog.zhheo.com/p/qysi5xhu.html",
-      "rsslink": "https://blog.zhheo.com/rss.xml",
-      "blogname": "张洪Heo",
-      "createdat": "2026-04-21T08:18:59.000Z",
-      "crawledat": "2026-04-21T13:23:56.863Z"
     }
   ]
 }
