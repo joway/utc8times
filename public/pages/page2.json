@@ -4,6 +4,15 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "42452",
+      "title": "记一次循环依赖导致的运维小事故",
+      "link": "https://jia.je/devops/2026/05/07/ring-dependency/",
+      "rsslink": "https://jia.je/feed.xml",
+      "blogname": "杰哥的小笔记",
+      "createdat": "2026-05-07T00:00:00.000Z",
+      "crawledat": "2026-05-07T16:48:15.036Z"
+    },
+    {
       "id": "42460",
       "title": "从「影响圈」和「关注圈」的视角看待 AI 时代的软件工程师岗位",
       "link": "https://niracler.com/circle-of-influence-ai-engineer",
@@ -173,15 +182,6 @@
       "blogname": "土法炼钢兴趣小组的博客",
       "createdat": "2026-05-06T00:00:00.000Z",
       "crawledat": "2026-04-08T02:22:20.506Z"
-    },
-    {
-      "id": "42369",
-      "title": "在手机上安装 Termux + chat.nvim + Nova：打造移动端 AI 编程助手",
-      "link": "https://wsdjeg.net/termux-chat-nvim-nova/",
-      "rsslink": "https://wsdjeg.net/feed.xml",
-      "blogname": "Eric's Blog",
-      "createdat": "2026-05-06T00:00:00.000Z",
-      "crawledat": "2026-05-06T05:56:26.429Z"
     }
   ]
 }
