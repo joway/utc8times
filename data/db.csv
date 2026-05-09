@@ -42590,3 +42590,46 @@ id,title,link,rsslink,blogname,createdat,crawledat
 42589,夏天到来,https://yipai.me/post/2513.html,https://yipai.me/feed,一派胡言,2026-04-19T01:33:00.000Z,2026-05-09T02:43:10.477Z
 42590,碳基生物的意义,https://yipai.me/post/2515.html,https://yipai.me/feed,一派胡言,2026-02-27T01:35:00.000Z,2026-05-09T02:43:10.477Z
 42591,GitHub 热门项目周刊 · 第 9 期 · 2026 年第 19 周,https://www.dqzboy.com/19454.html,https://www.dqzboy.com/feed,浅时光博客,2026-05-07T10:01:02.000Z,2026-05-09T02:43:10.477Z
+42592,博客升级了~,https://cyhone.com/articles/blog-upgrade/,https://www.cyhone.com/atom.xml,编程沉思录,2026-05-09T13:30:19.000Z,2026-05-09T07:54:21.582Z
+42593,C++如何计算普通类型的 Hash 值：基于 gcc/clang 源码分析,https://cyhone.com/articles/hash-key/,https://www.cyhone.com/atom.xml,编程沉思录,2025-09-06T21:08:06.000Z,2026-05-09T07:54:21.582Z
+42594,【月刊】2025-08-20 期: “人要大量地表达自己”,https://cyhone.com/articles/share-2025-08-20/,https://www.cyhone.com/atom.xml,编程沉思录,2025-08-20T21:00:54.000Z,2026-05-09T07:54:21.582Z
+42595,为什么准备写月刊？,https://cyhone.com/articles/monthly-intro/,https://www.cyhone.com/atom.xml,编程沉思录,2025-08-20T20:21:54.000Z,2026-05-09T07:54:21.582Z
+42596,std::any 的性能开销：基于 libstd++ 源码分析,https://cyhone.com/articles/std-any/,https://www.cyhone.com/atom.xml,编程沉思录,2025-03-04T09:41:54.000Z,2026-05-09T07:54:21.582Z
+42597,从源码角度解读 enable_shared_from_this,https://cyhone.com/articles/enable_shared_from_this/,https://www.cyhone.com/atom.xml,编程沉思录,2025-01-03T22:41:54.000Z,2026-05-09T07:54:21.582Z
+42598,Context的错误使用引发Panic的问题复盘,https://cyhone.com/articles/context-to-panic/,https://www.cyhone.com/atom.xml,编程沉思录,2024-05-06T17:25:54.000Z,2026-05-09T07:54:21.582Z
+42599,Go 1.22 可能将改变 for 循环变量的语义,https://cyhone.com/articles/go-for-loop-var/,https://www.cyhone.com/atom.xml,编程沉思录,2023-11-29T13:05:01.000Z,2026-05-09T07:54:21.582Z
+42600,剖析Golang Bigcache的极致性能优化,https://cyhone.com/articles/bigcache/,https://www.cyhone.com/atom.xml,编程沉思录,2023-11-25T19:25:54.000Z,2026-05-09T07:54:21.582Z
+42601,解读 Golang 标准库里的 varint 实现,https://cyhone.com/articles/golang-varint/,https://www.cyhone.com/atom.xml,编程沉思录,2023-11-23T12:10:19.000Z,2026-05-09T07:54:21.582Z
+42602,深度分析 Golang sync.Pool 底层原理,https://cyhone.com/articles/think-in-sync-pool/,https://www.cyhone.com/atom.xml,编程沉思录,2021-07-18T11:30:19.000Z,2026-05-09T07:54:21.582Z
+42603,os.Chmod 时到底用 777 还是 0777？,https://cyhone.com/articles/0777-or-777/,https://www.cyhone.com/atom.xml,编程沉思录,2021-06-20T13:30:19.000Z,2026-05-09T07:54:21.582Z
+42604,一个 Gin 缓存中间件的设计与实现,https://cyhone.com/articles/gin-cache/,https://www.cyhone.com/atom.xml,编程沉思录,2021-06-14T21:40:06.000Z,2026-05-09T07:54:21.582Z
+42605,高性能服务之优雅终止,https://cyhone.com/articles/service-graceful-shutdown/,https://www.cyhone.com/atom.xml,编程沉思录,2021-03-18T20:55:19.000Z,2026-05-09T07:54:21.582Z
+42606,一致性 Hash 原理及 GroupCache 源码分析,https://cyhone.com/articles/consistent-hash-of-groupcache/,https://www.cyhone.com/atom.xml,编程沉思录,2021-02-21T11:55:19.000Z,2026-05-09T07:54:21.582Z
+42607,Golang sync.Cond 条件变量源码分析,https://cyhone.com/articles/golang-sync-cond/,https://www.cyhone.com/atom.xml,编程沉思录,2021-02-04T22:55:19.000Z,2026-05-09T07:54:21.582Z
+42608,Golang WaitGroup 原理深度剖析,https://cyhone.com/articles/golang-waitgroup/,https://www.cyhone.com/atom.xml,编程沉思录,2021-01-17T16:35:19.000Z,2026-05-09T07:54:21.582Z
+42609,Facebook 在 Golang 依赖注入的实现,https://cyhone.com/articles/facebookgo-inject/,https://www.cyhone.com/atom.xml,编程沉思录,2020-08-15T16:00:06.000Z,2026-05-09T07:54:21.582Z
+42610,Golang 定时器底层实现深度剖析,https://cyhone.com/articles/analysis-of-golang-timer/,https://www.cyhone.com/atom.xml,编程沉思录,2020-06-19T10:00:00.000Z,2026-05-09T07:54:21.582Z
+42611,Elasticsearch 学习：入门篇,https://cyhone.com/articles/introduction-of-elasticsearch/,https://www.cyhone.com/atom.xml,编程沉思录,2020-03-11T13:00:54.000Z,2026-05-09T07:54:21.582Z
+42612,个人博客及公众号常用工具,https://cyhone.com/articles/blog-tools/,https://www.cyhone.com/atom.xml,编程沉思录,2020-03-08T16:58:54.000Z,2026-05-09T07:54:21.582Z
+42613,Golang channel 源码深度剖析,https://cyhone.com/articles/analysis-of-golang-channel/,https://www.cyhone.com/atom.xml,编程沉思录,2020-02-11T04:45:00.000Z,2026-05-09T07:54:21.582Z
+42614,libco 的定时器实现：时间轮,https://cyhone.com/articles/time-wheel-in-libco/,https://www.cyhone.com/atom.xml,编程沉思录,2019-12-15T13:17:26.000Z,2026-05-09T07:54:21.582Z
+42615,FileBeat-Log 相关配置指南,https://cyhone.com/articles/usage-of-filebeat-log-config/,https://www.cyhone.com/atom.xml,编程沉思录,2019-11-26T20:36:54.000Z,2026-05-09T07:54:21.582Z
+42616,Redis 事件循环器 (AE) 实现剖析,https://cyhone.com/articles/analysis-of-redis-ae/,https://www.cyhone.com/atom.xml,编程沉思录,2019-11-20T11:16:54.000Z,2026-05-09T07:54:21.582Z
+42617,Elastic-Filebeat 实现原理剖析,https://cyhone.com/articles/analysis-of-filebeat/,https://www.cyhone.com/atom.xml,编程沉思录,2019-11-15T02:55:00.000Z,2026-05-09T07:54:21.582Z
+42618,uber-go 漏桶限流器使用与原理分析,https://cyhone.com/articles/analysis-of-uber-go-ratelimit/,https://www.cyhone.com/atom.xml,编程沉思录,2019-11-10T15:40:19.000Z,2026-05-09T07:54:21.582Z
+42619,Golang 标准库限流器 time/rate 实现剖析,https://cyhone.com/articles/analisys-of-golang-rate/,https://www.cyhone.com/atom.xml,编程沉思录,2019-11-05T13:35:19.000Z,2026-05-09T07:54:21.582Z
+42620,Golang 标准库限流器 time/rate 使用介绍,https://cyhone.com/articles/usage-of-golang-rate/,https://www.cyhone.com/atom.xml,编程沉思录,2019-11-02T20:21:54.000Z,2026-05-09T07:54:21.582Z
+42621,微信 libco 协程库源码分析,https://cyhone.com/articles/analysis-of-libco/,https://www.cyhone.com/atom.xml,编程沉思录,2019-10-08T17:58:26.000Z,2026-05-09T07:54:21.582Z
+42622,C++ 智能指针的正确使用方式,https://cyhone.com/articles/right-way-to-use-cpp-smart-pointer/,https://www.cyhone.com/atom.xml,编程沉思录,2019-10-05T11:00:54.000Z,2026-05-09T07:54:21.582Z
+42623,C++ lambda 内 std::move 失效问题的思考,https://cyhone.com/articles/why-move-no-work-in-lambda/,https://www.cyhone.com/atom.xml,编程沉思录,2019-09-29T18:07:00.000Z,2026-05-09T07:54:21.582Z
+42624,云风 coroutine 协程库源码分析,https://cyhone.com/articles/analysis-of-cloudwu-coroutine/,https://www.cyhone.com/atom.xml,编程沉思录,2019-09-19T14:26:19.000Z,2026-05-09T07:54:21.582Z
+42625,WebSocket 订单推送稳定性优化方案,https://cyhone.com/articles/optimization-of-websocket-push-system/,https://www.cyhone.com/atom.xml,编程沉思录,2019-08-17T14:36:12.000Z,2026-05-09T07:54:21.582Z
+42626,深入理解网络 IO 模型,https://cyhone.com/articles/reunderstanding-of-non-blocking-io/,https://www.cyhone.com/atom.xml,编程沉思录,2018-11-04T02:50:00.000Z,2026-05-09T07:54:21.582Z
+42627,客户端秒级时间同步方案,https://cyhone.com/articles/client-time-calibration/,https://www.cyhone.com/atom.xml,编程沉思录,2018-10-25T20:08:06.000Z,2026-05-09T07:54:21.582Z
+42628,muduo 源码剖析,https://cyhone.com/articles/analysis-of-muduo/,https://www.cyhone.com/atom.xml,编程沉思录,2018-06-12T23:51:37.000Z,2026-05-09T07:54:21.582Z
+42629,自动生成数据库文档小工具的诞生,https://cyhone.com/articles/db-doc-generator/,https://www.cyhone.com/atom.xml,编程沉思录,2018-01-30T19:00:54.000Z,2026-05-09T07:54:21.582Z
+42630,ClassViewer 的介绍及实现,https://cyhone.com/articles/classviewer/,https://www.cyhone.com/atom.xml,编程沉思录,2018-01-01T11:45:00.000Z,2026-05-09T07:54:21.582Z
+42631,首次半马记,https://cyhone.com/articles/my-first-half-marathon/,https://www.cyhone.com/atom.xml,编程沉思录,2017-04-17T22:20:47.000Z,2026-05-09T07:54:21.582Z
+42632,结合 Guava 源码解读布隆过滤器,https://cyhone.com/articles/introduction-of-bloomfilter/,https://www.cyhone.com/atom.xml,编程沉思录,2017-02-07T16:51:51.000Z,2026-05-09T07:54:21.582Z
+42633,服务器校园网登录验证解决方案,https://cyhone.com/articles/whu-cs-network-auth/,https://www.cyhone.com/atom.xml,编程沉思录,2016-09-25T22:28:54.000Z,2026-05-09T07:54:21.582Z
+42634,第一篇博客,https://cyhone.com/articles/hello-world/,https://www.cyhone.com/atom.xml,编程沉思录,2015-09-16T16:08:06.000Z,2026-05-09T07:54:21.582Z
