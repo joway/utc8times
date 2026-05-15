@@ -4,6 +4,78 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "40490",
+      "title": "Harness Monitor：当多个 Agent 同时写代码时，如何看住质量",
+      "link": "http://www.phodal.com/blog/harness-engineering-monitor/",
+      "rsslink": "https://www.phodal.com/blog/feeds/rss/",
+      "blogname": "全栈应用开发:精益实践",
+      "createdat": "2026-04-13T03:24:00.000Z",
+      "crawledat": "2026-04-13T05:40:30.991Z"
+    },
+    {
+      "id": "41970",
+      "title": "第1篇：为什么2026年是一个人拍短剧的最佳时机？- 怎么用AI从0做出短剧/漫剧？",
+      "link": "https://wangxin.io/makeshortdrama/01_why_2026_is_the_best_timing/",
+      "rsslink": "https://wangxin.io/atom.xml",
+      "blogname": "王欣的博客",
+      "createdat": "2026-04-13T02:00:00.000Z",
+      "crawledat": "2026-04-26T15:40:10.883Z"
+    },
+    {
+      "id": "40520",
+      "title": "GitHub 热门项目周刊 · 第 6 期 · 2026 年第 16 周",
+      "link": "https://www.dqzboy.com/19337.html",
+      "rsslink": "https://www.dqzboy.com/feed",
+      "blogname": "浅时光博客",
+      "createdat": "2026-04-13T01:03:54.000Z",
+      "crawledat": "2026-04-13T19:12:38.444Z"
+    },
+    {
+      "id": "40170",
+      "title": "无锁队列：Michael-Scott 算法与 ABA 问题",
+      "link": "https://quant67.com/post/algorithms/72-lockfree-queue/lockfree-queue.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-08T02:22:20.506Z"
+    },
+    {
+      "id": "40558",
+      "title": "读 Claude Code 源码 - memory 机制续篇",
+      "link": "https://shiina18.github.io/llm/2026/04/13/cc-memory-2/",
+      "rsslink": "https://shiina18.github.io/atom.xml",
+      "blogname": "Measure Zero",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-14T19:13:23.640Z"
+    },
+    {
+      "id": "41545",
+      "title": "【系统架构设计百科】架构质量属性：不只是\"高可用高性能\"",
+      "link": "https://quant67.com/post/architecture/02-quality-attributes/quality-attributes.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-15T21:51:13.037Z"
+    },
+    {
+      "id": "41546",
+      "title": "【系统架构设计百科】告警策略：如何避免\"狼来了\"",
+      "link": "https://quant67.com/post/architecture/68-alerting-strategy/alerting-strategy.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-15T21:51:13.037Z"
+    },
+    {
+      "id": "41547",
+      "title": "【系统架构设计百科】复杂性管理：架构的核心战场",
+      "link": "https://quant67.com/post/architecture/05-complexity-management/complexity-management.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-15T21:51:13.037Z"
+    },
+    {
       "id": "41548",
       "title": "【系统架构设计百科】微服务架构深度审视：优势、代价与适用边界",
       "link": "https://quant67.com/post/architecture/09-microservices/microservices.html",
@@ -106,78 +178,6 @@
       "id": "41559",
       "title": "【系统架构设计百科】高可用设计模式：冗余、故障转移与仲裁",
       "link": "https://quant67.com/post/architecture/23-ha-patterns/ha-patterns.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-13T00:00:00.000Z",
-      "crawledat": "2026-04-15T21:51:13.037Z"
-    },
-    {
-      "id": "41560",
-      "title": "【系统架构设计百科】弹性设计模式：熔断器、舱壁与超时",
-      "link": "https://quant67.com/post/architecture/24-resilience-patterns/resilience-patterns.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-13T00:00:00.000Z",
-      "crawledat": "2026-04-15T21:51:13.037Z"
-    },
-    {
-      "id": "41561",
-      "title": "【系统架构设计百科】容灾架构：多活与灾备设计",
-      "link": "https://quant67.com/post/architecture/27-disaster-recovery/disaster-recovery.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-13T00:00:00.000Z",
-      "crawledat": "2026-04-15T21:51:13.037Z"
-    },
-    {
-      "id": "41562",
-      "title": "【系统架构设计百科】SLO 工程：可靠性的量化管理",
-      "link": "https://quant67.com/post/architecture/28-slo-engineering/slo-engineering.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-13T00:00:00.000Z",
-      "crawledat": "2026-04-15T21:51:13.037Z"
-    },
-    {
-      "id": "41563",
-      "title": "【系统架构设计百科】容量规划：从拍脑袋到数据驱动",
-      "link": "https://quant67.com/post/architecture/29-capacity-planning/capacity-planning.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-13T00:00:00.000Z",
-      "crawledat": "2026-04-15T21:51:13.037Z"
-    },
-    {
-      "id": "41564",
-      "title": "【系统架构设计百科】混沌工程：主动验证系统的韧性",
-      "link": "https://quant67.com/post/architecture/30-chaos-engineering/chaos-engineering.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-13T00:00:00.000Z",
-      "crawledat": "2026-04-15T21:51:13.037Z"
-    },
-    {
-      "id": "41565",
-      "title": "【系统架构设计百科】性能建模：用数学思维分析系统瓶颈",
-      "link": "https://quant67.com/post/architecture/31-performance-modeling/performance-modeling.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-13T00:00:00.000Z",
-      "crawledat": "2026-04-15T21:51:13.037Z"
-    },
-    {
-      "id": "41566",
-      "title": "【系统架构设计百科】延迟分析：从 P50 到 P999 的全链路追踪",
-      "link": "https://quant67.com/post/architecture/32-latency-analysis/latency-analysis.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-13T00:00:00.000Z",
-      "crawledat": "2026-04-15T21:51:13.037Z"
-    },
-    {
-      "id": "41567",
-      "title": "【系统架构设计百科】吞吐量优化：批处理、流水线与并发模型",
-      "link": "https://quant67.com/post/architecture/33-throughput-optimization/throughput-optimization.html",
       "rsslink": "https://quant67.com/rss.xml",
       "blogname": "土法炼钢兴趣小组的博客",
       "createdat": "2026-04-13T00:00:00.000Z",
