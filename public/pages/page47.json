@@ -4,180 +4,180 @@
   "totalPages": 50,
   "items": [
     {
-      "id": "41555",
-      "title": "【系统架构设计百科】数据库扩展：分库分表的工程实践与替代方案",
-      "link": "https://quant67.com/post/architecture/18-database-scaling/database-scaling.html",
+      "id": "40511",
+      "title": "How Claude Dreams: Background Memory Defragmentation",
+      "link": "https://finisky.github.io/en/claude-code-auto-dream/",
+      "rsslink": "https://finisky.github.io/atom.xml",
+      "blogname": "Finisky Garden",
+      "createdat": "2026-04-13T11:40:00.000Z",
+      "crawledat": "2026-04-13T19:12:38.444Z"
+    },
+    {
+      "id": "40512",
+      "title": "Claude做梦机制：后台记忆碎片整理",
+      "link": "https://finisky.github.io/claude-code-auto-dream/",
+      "rsslink": "https://finisky.github.io/atom.xml",
+      "blogname": "Finisky Garden",
+      "createdat": "2026-04-13T11:35:00.000Z",
+      "crawledat": "2026-04-13T19:12:38.444Z"
+    },
+    {
+      "id": "40589",
+      "title": "openFuyao NPU-Operator故障排查",
+      "link": "https://frytea.com/archives/1655/",
+      "rsslink": "https://www.frytea.com/index.xml",
+      "blogname": "Frytea's Blog",
+      "createdat": "2026-04-13T09:01:49.000Z",
+      "crawledat": "2026-04-15T19:16:16.797Z"
+    },
+    {
+      "id": "40590",
+      "title": "openFuyao 2603 共测测试报告",
+      "link": "https://frytea.com/archives/1654/",
+      "rsslink": "https://www.frytea.com/index.xml",
+      "blogname": "Frytea's Blog",
+      "createdat": "2026-04-13T09:01:27.000Z",
+      "crawledat": "2026-04-15T19:16:16.797Z"
+    },
+    {
+      "id": "40591",
+      "title": "openFuyao InferNex AI推理集成部署 310P(300I Pro) 环境问题记录及解决",
+      "link": "https://frytea.com/archives/1653/",
+      "rsslink": "https://www.frytea.com/index.xml",
+      "blogname": "Frytea's Blog",
+      "createdat": "2026-04-13T08:53:36.000Z",
+      "crawledat": "2026-04-15T19:16:16.797Z"
+    },
+    {
+      "id": "42741",
+      "title": "Owen - Featured posts",
+      "link": "https://www.owenyoung.com/about-writing",
+      "rsslink": "https://www.owenyoung.com/atom.xml",
+      "blogname": "Owen的博客",
+      "createdat": "2026-04-13T08:17:49.000Z",
+      "crawledat": "2026-05-13T11:29:23.067Z"
+    },
+    {
+      "id": "40504",
+      "title": "务必谨慎使用JS WeakRef弱引用",
+      "link": "https://www.zhangxinxu.com/wordpress/2026/04/js-weakref/",
+      "rsslink": "http://www.zhangxinxu.com/wordpress/?feed=rss2",
+      "blogname": "张鑫旭-鑫空间-鑫生活",
+      "createdat": "2026-04-13T08:01:51.000Z",
+      "crawledat": "2026-04-13T19:12:38.444Z"
+    },
+    {
+      "id": "40514",
+      "title": "聊聊目前手头的服务器近况 + VMRACK 三网优化线路 VPS 测试",
+      "link": "https://blog.laoda.de/archives/vmrack-test",
+      "rsslink": "https://blog.laoda.de/rss.xml",
+      "blogname": "我不是咕咕鸽",
+      "createdat": "2026-04-13T05:40:00.000Z",
+      "crawledat": "2026-04-13T19:12:38.444Z"
+    },
+    {
+      "id": "40518",
+      "title": "虚惊一场",
+      "link": "https://zhongxiaojie.cn/2026/04/915/",
+      "rsslink": "https://h4ck.org.cn/feed/",
+      "blogname": "obaby@mars",
+      "createdat": "2026-04-13T05:26:35.000Z",
+      "crawledat": "2026-04-13T19:12:38.444Z"
+    },
+    {
+      "id": "40528",
+      "title": "#178 – 我是新來的教學助理 / Claude Code 70 分鐘教學影片上線 / YT 10 萬訂閱啦 ®️雷蒙週報",
+      "link": "https://raymondhouch.com/newsletter/178/",
+      "rsslink": "https://raymondhouch.com/feed",
+      "blogname": "雷蒙三十",
+      "createdat": "2026-04-13T05:19:14.000Z",
+      "crawledat": "2026-04-13T19:12:38.444Z"
+    },
+    {
+      "id": "40532",
+      "title": "Memos: MacOS 下编译安装 Aseprite 脚本",
+      "link": "https://blog.yasking.org/a/1776044367.html",
+      "rsslink": "https://blog.yasking.org/atom.xml",
+      "blogname": "东东's Blog",
+      "createdat": "2026-04-13T05:00:00.000Z",
+      "crawledat": "2026-04-13T19:12:38.444Z"
+    },
+    {
+      "id": "40562",
+      "title": "Scaleway VPS 安装 Alpine Linux",
+      "link": "https://blog.dejavu.moe/posts/scaleway-ipv6-only-vps-install-alpine/",
+      "rsslink": "https://blog.dejavu.moe/index.xml",
+      "blogname": "Dejavu's Blog",
+      "createdat": "2026-04-13T03:56:09.000Z",
+      "crawledat": "2026-04-14T19:13:23.640Z"
+    },
+    {
+      "id": "41616",
+      "title": "读《玉米》",
+      "link": "https://www.feidaoboke.com/post/read-yu-mi.html",
+      "rsslink": "https://www.feidaoboke.com/feed.php",
+      "blogname": "飞刀博客",
+      "createdat": "2026-04-13T03:27:18.000Z",
+      "crawledat": "2026-04-16T21:41:22.014Z"
+    },
+    {
+      "id": "40490",
+      "title": "Harness Monitor：当多个 Agent 同时写代码时，如何看住质量",
+      "link": "http://www.phodal.com/blog/harness-engineering-monitor/",
+      "rsslink": "https://www.phodal.com/blog/feeds/rss/",
+      "blogname": "全栈应用开发:精益实践",
+      "createdat": "2026-04-13T03:24:00.000Z",
+      "crawledat": "2026-04-13T05:40:30.991Z"
+    },
+    {
+      "id": "41970",
+      "title": "第1篇：为什么2026年是一个人拍短剧的最佳时机？- 怎么用AI从0做出短剧/漫剧？",
+      "link": "https://wangxin.io/makeshortdrama/01_why_2026_is_the_best_timing/",
+      "rsslink": "https://wangxin.io/atom.xml",
+      "blogname": "王欣的博客",
+      "createdat": "2026-04-13T02:00:00.000Z",
+      "crawledat": "2026-04-26T15:40:10.883Z"
+    },
+    {
+      "id": "40520",
+      "title": "GitHub 热门项目周刊 · 第 6 期 · 2026 年第 16 周",
+      "link": "https://www.dqzboy.com/19337.html",
+      "rsslink": "https://www.dqzboy.com/feed",
+      "blogname": "浅时光博客",
+      "createdat": "2026-04-13T01:03:54.000Z",
+      "crawledat": "2026-04-13T19:12:38.444Z"
+    },
+    {
+      "id": "40170",
+      "title": "无锁队列：Michael-Scott 算法与 ABA 问题",
+      "link": "https://quant67.com/post/algorithms/72-lockfree-queue/lockfree-queue.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-08T02:22:20.506Z"
+    },
+    {
+      "id": "40558",
+      "title": "读 Claude Code 源码 - memory 机制续篇",
+      "link": "https://shiina18.github.io/llm/2026/04/13/cc-memory-2/",
+      "rsslink": "https://shiina18.github.io/atom.xml",
+      "blogname": "Measure Zero",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-14T19:13:23.640Z"
+    },
+    {
+      "id": "41545",
+      "title": "【系统架构设计百科】架构质量属性：不只是\"高可用高性能\"",
+      "link": "https://quant67.com/post/architecture/02-quality-attributes/quality-attributes.html",
       "rsslink": "https://quant67.com/rss.xml",
       "blogname": "土法炼钢兴趣小组的博客",
       "createdat": "2026-04-13T00:00:00.000Z",
       "crawledat": "2026-04-15T21:51:13.037Z"
     },
     {
-      "id": "41556",
-      "title": "【系统架构设计百科】消息队列架构：异步解耦的设计与陷阱",
-      "link": "https://quant67.com/post/architecture/19-message-queue/message-queue.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-13T00:00:00.000Z",
-      "crawledat": "2026-04-15T21:51:13.037Z"
-    },
-    {
-      "id": "41557",
-      "title": "【系统架构设计百科】CDN 架构：全球加速的设计原理",
-      "link": "https://quant67.com/post/architecture/20-cdn-architecture/cdn-architecture.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-13T00:00:00.000Z",
-      "crawledat": "2026-04-15T21:51:13.037Z"
-    },
-    {
-      "id": "41558",
-      "title": "【系统架构设计百科】连接池设计：被忽视的性能杀手",
-      "link": "https://quant67.com/post/architecture/21-connection-pool/connection-pool.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-13T00:00:00.000Z",
-      "crawledat": "2026-04-15T21:51:13.037Z"
-    },
-    {
-      "id": "41559",
-      "title": "【系统架构设计百科】高可用设计模式：冗余、故障转移与仲裁",
-      "link": "https://quant67.com/post/architecture/23-ha-patterns/ha-patterns.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-13T00:00:00.000Z",
-      "crawledat": "2026-04-15T21:51:13.037Z"
-    },
-    {
-      "id": "41560",
-      "title": "【系统架构设计百科】弹性设计模式：熔断器、舱壁与超时",
-      "link": "https://quant67.com/post/architecture/24-resilience-patterns/resilience-patterns.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-13T00:00:00.000Z",
-      "crawledat": "2026-04-15T21:51:13.037Z"
-    },
-    {
-      "id": "41561",
-      "title": "【系统架构设计百科】容灾架构：多活与灾备设计",
-      "link": "https://quant67.com/post/architecture/27-disaster-recovery/disaster-recovery.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-13T00:00:00.000Z",
-      "crawledat": "2026-04-15T21:51:13.037Z"
-    },
-    {
-      "id": "41562",
-      "title": "【系统架构设计百科】SLO 工程：可靠性的量化管理",
-      "link": "https://quant67.com/post/architecture/28-slo-engineering/slo-engineering.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-13T00:00:00.000Z",
-      "crawledat": "2026-04-15T21:51:13.037Z"
-    },
-    {
-      "id": "41563",
-      "title": "【系统架构设计百科】容量规划：从拍脑袋到数据驱动",
-      "link": "https://quant67.com/post/architecture/29-capacity-planning/capacity-planning.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-13T00:00:00.000Z",
-      "crawledat": "2026-04-15T21:51:13.037Z"
-    },
-    {
-      "id": "41564",
-      "title": "【系统架构设计百科】混沌工程：主动验证系统的韧性",
-      "link": "https://quant67.com/post/architecture/30-chaos-engineering/chaos-engineering.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-13T00:00:00.000Z",
-      "crawledat": "2026-04-15T21:51:13.037Z"
-    },
-    {
-      "id": "41565",
-      "title": "【系统架构设计百科】性能建模：用数学思维分析系统瓶颈",
-      "link": "https://quant67.com/post/architecture/31-performance-modeling/performance-modeling.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-13T00:00:00.000Z",
-      "crawledat": "2026-04-15T21:51:13.037Z"
-    },
-    {
-      "id": "41566",
-      "title": "【系统架构设计百科】延迟分析：从 P50 到 P999 的全链路追踪",
-      "link": "https://quant67.com/post/architecture/32-latency-analysis/latency-analysis.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-13T00:00:00.000Z",
-      "crawledat": "2026-04-15T21:51:13.037Z"
-    },
-    {
-      "id": "41567",
-      "title": "【系统架构设计百科】吞吐量优化：批处理、流水线与并发模型",
-      "link": "https://quant67.com/post/architecture/33-throughput-optimization/throughput-optimization.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-13T00:00:00.000Z",
-      "crawledat": "2026-04-15T21:51:13.037Z"
-    },
-    {
-      "id": "41568",
-      "title": "【系统架构设计百科】线程模型：从 thread-per-request 到协程",
-      "link": "https://quant67.com/post/architecture/34-threading-models/threading-models.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-13T00:00:00.000Z",
-      "crawledat": "2026-04-15T21:51:13.037Z"
-    },
-    {
-      "id": "41569",
-      "title": "【系统架构设计百科】零拷贝与内存映射：数据搬运的极致优化",
-      "link": "https://quant67.com/post/architecture/35-zero-copy/zero-copy.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-13T00:00:00.000Z",
-      "crawledat": "2026-04-15T21:51:13.037Z"
-    },
-    {
-      "id": "41570",
-      "title": "【系统架构设计百科】数据库性能模式：索引、查询与连接管理",
-      "link": "https://quant67.com/post/architecture/36-database-performance/database-performance.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-13T00:00:00.000Z",
-      "crawledat": "2026-04-15T21:51:13.037Z"
-    },
-    {
-      "id": "41571",
-      "title": "【系统架构设计百科】全链路压测：大规模系统的性能验证",
-      "link": "https://quant67.com/post/architecture/37-load-testing/load-testing.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-13T00:00:00.000Z",
-      "crawledat": "2026-04-15T21:51:13.037Z"
-    },
-    {
-      "id": "41572",
-      "title": "【系统架构设计百科】数据建模：从关系范式到文档模型的真实权衡",
-      "link": "https://quant67.com/post/architecture/38-data-modeling/data-modeling.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-13T00:00:00.000Z",
-      "crawledat": "2026-04-15T21:51:13.037Z"
-    },
-    {
-      "id": "41573",
-      "title": "【系统架构设计百科】多模数据库选型：Polyglot Persistence 的工程实践",
-      "link": "https://quant67.com/post/architecture/39-polyglot-persistence/polyglot-persistence.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-13T00:00:00.000Z",
-      "crawledat": "2026-04-15T21:51:13.037Z"
-    },
-    {
-      "id": "41574",
-      "title": "【系统架构设计百科】数据湖与数据仓库：分析架构的演进路线",
-      "link": "https://quant67.com/post/architecture/40-data-pipeline/data-pipeline.html",
+      "id": "41546",
+      "title": "【系统架构设计百科】告警策略：如何避免\"狼来了\"",
+      "link": "https://quant67.com/post/architecture/68-alerting-strategy/alerting-strategy.html",
       "rsslink": "https://quant67.com/rss.xml",
       "blogname": "土法炼钢兴趣小组的博客",
       "createdat": "2026-04-13T00:00:00.000Z",
