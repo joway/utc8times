@@ -4,6 +4,33 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "41564",
+      "title": "【系统架构设计百科】混沌工程：主动验证系统的韧性",
+      "link": "https://quant67.com/post/architecture/30-chaos-engineering/chaos-engineering.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-15T21:51:13.037Z"
+    },
+    {
+      "id": "41565",
+      "title": "【系统架构设计百科】性能建模：用数学思维分析系统瓶颈",
+      "link": "https://quant67.com/post/architecture/31-performance-modeling/performance-modeling.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-15T21:51:13.037Z"
+    },
+    {
+      "id": "41566",
+      "title": "【系统架构设计百科】延迟分析：从 P50 到 P999 的全链路追踪",
+      "link": "https://quant67.com/post/architecture/32-latency-analysis/latency-analysis.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-13T00:00:00.000Z",
+      "crawledat": "2026-04-15T21:51:13.037Z"
+    },
+    {
       "id": "41567",
       "title": "【系统架构设计百科】吞吐量优化：批处理、流水线与并发模型",
       "link": "https://quant67.com/post/architecture/33-throughput-optimization/throughput-optimization.html",
@@ -151,33 +178,6 @@
       "id": "41583",
       "title": "【系统架构设计百科】配置管理架构：从配置文件到配置中心",
       "link": "https://quant67.com/post/architecture/49-config-management/config-management.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-13T00:00:00.000Z",
-      "crawledat": "2026-04-15T21:51:13.037Z"
-    },
-    {
-      "id": "41584",
-      "title": "【系统架构设计百科】幂等性设计：分布式环境下的安全重试",
-      "link": "https://quant67.com/post/architecture/50-idempotency/idempotency.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-13T00:00:00.000Z",
-      "crawledat": "2026-04-15T21:51:13.037Z"
-    },
-    {
-      "id": "41585",
-      "title": "【系统架构设计百科】契约测试与 Schema 演进：服务间的信任协议",
-      "link": "https://quant67.com/post/architecture/51-contract-testing/contract-testing.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-13T00:00:00.000Z",
-      "crawledat": "2026-04-15T21:51:13.037Z"
-    },
-    {
-      "id": "41586",
-      "title": "【系统架构设计百科】长连接与推送架构：WebSocket、SSE 与 MQTT",
-      "link": "https://quant67.com/post/architecture/52-push-architecture/push-architecture.html",
       "rsslink": "https://quant67.com/rss.xml",
       "blogname": "土法炼钢兴趣小组的博客",
       "createdat": "2026-04-13T00:00:00.000Z",
