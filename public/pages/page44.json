@@ -4,6 +4,69 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "41668",
+      "title": "Problems with Vibe Coding pt.2",
+      "link": "https://jw1.ai/problems-with-vibe-coding-pt-2",
+      "rsslink": "https://jw1.dev/atom.xml",
+      "blogname": "Jacky's Blog",
+      "createdat": "2026-04-18T00:00:00.000Z",
+      "crawledat": "2026-04-18T12:59:43.887Z"
+    },
+    {
+      "id": "41672",
+      "title": "TIL: repeat-mode 省去重复按键前缀",
+      "link": "https://lujun9972.github.io/blog/2026/04/18/til-repeat-mode-省去重复按键前缀/index.html",
+      "rsslink": "https://www.lujun9972.win/rss.xml",
+      "blogname": "暗无天日",
+      "createdat": "2026-04-18T00:00:00.000Z",
+      "crawledat": "2026-04-18T15:36:18.748Z"
+    },
+    {
+      "id": "41673",
+      "title": "TIL: 用 read-extended-command-predicate 精简 M-x 候选列表",
+      "link": "https://lujun9972.github.io/blog/2026/04/18/til-用-read-extended-command-predicate-精简-m-x-候选列表/index.html",
+      "rsslink": "https://www.lujun9972.win/rss.xml",
+      "blogname": "暗无天日",
+      "createdat": "2026-04-18T00:00:00.000Z",
+      "crawledat": "2026-04-18T15:36:18.748Z"
+    },
+    {
+      "id": "41674",
+      "title": "为什么 Lisp 统治元编程",
+      "link": "https://lujun9972.github.io/blog/2026/04/18/为什么-lisp-统治元编程/index.html",
+      "rsslink": "https://www.lujun9972.win/rss.xml",
+      "blogname": "暗无天日",
+      "createdat": "2026-04-18T00:00:00.000Z",
+      "crawledat": "2026-04-18T15:36:18.748Z"
+    },
+    {
+      "id": "41675",
+      "title": "降低程序内存的五个原则",
+      "link": "https://lujun9972.github.io/blog/2026/04/18/降低程序内存的五个原则/index.html",
+      "rsslink": "https://www.lujun9972.win/rss.xml",
+      "blogname": "暗无天日",
+      "createdat": "2026-04-18T00:00:00.000Z",
+      "crawledat": "2026-04-18T15:36:18.748Z"
+    },
+    {
+      "id": "41676",
+      "title": "本地部署 OpenClaw，QwenPaw 和 Hermes Agent",
+      "link": "https://leovan.me/cn/2026/04/local-deployment-of-openclaw-qwenpaw-and-hermes-agent/",
+      "rsslink": "https://leovan.me/cn/index.xml",
+      "blogname": "范叶亮的博客",
+      "createdat": "2026-04-18T00:00:00.000Z",
+      "crawledat": "2026-04-18T18:49:48.436Z"
+    },
+    {
+      "id": "41682",
+      "title": "Hermes Agent(爱马仕)：如何记得更牢,能越用越聪明的方式",
+      "link": "https://heyuanfei.com/post/2026-04-18-hermes-agent-memory/",
+      "rsslink": "https://leonhe.cn/index.xml",
+      "blogname": "远飞闲记",
+      "createdat": "2026-04-18T00:00:00.000Z",
+      "crawledat": "2026-04-18T18:49:48.436Z"
+    },
+    {
       "id": "41687",
       "title": "Python 潮流周刊#147：Python 和 Ruby 的 JIT 故事",
       "link": "https://pythoncat.top/posts/2026-04-18-weekly/",
@@ -118,69 +181,6 @@
       "rsslink": "https://blog.yasking.org/atom.xml",
       "blogname": "东东's Blog",
       "createdat": "2026-04-17T12:58:44.000Z",
-      "crawledat": "2026-04-18T07:05:45.300Z"
-    },
-    {
-      "id": "41660",
-      "title": "使用机场客户端的正确姿势：避免那些“灵异”现象的小经验",
-      "link": "https://kerrynotes.com/how-to-use-jichang-client/",
-      "rsslink": "https://kerrynotes.com/feed/",
-      "blogname": "Kerry的学习笔记",
-      "createdat": "2026-04-17T12:19:27.000Z",
-      "crawledat": "2026-04-18T07:05:45.300Z"
-    },
-    {
-      "id": "41637",
-      "title": "Parallels Desktop 实时回收 Linux 虚拟机磁盘不生效问题",
-      "link": "https://i.lckiss.com/?p=9752",
-      "rsslink": "http://i.lckiss.com/?feed=rss2",
-      "blogname": "伪斜杠青年",
-      "createdat": "2026-04-17T12:16:05.000Z",
-      "crawledat": "2026-04-17T18:58:27.291Z"
-    },
-    {
-      "id": "41641",
-      "title": "Ripgrep Config to Search Hidden Files",
-      "link": "https://jdhao.github.io/2026/04/17/ripgrep_search_hidden_files/",
-      "rsslink": "https://jdhao.github.io/index.xml",
-      "blogname": "jdhao's blog",
-      "createdat": "2026-04-17T09:45:00.000Z",
-      "crawledat": "2026-04-17T18:58:27.291Z"
-    },
-    {
-      "id": "41630",
-      "title": "借助mediabunny纯JS实现视频水印、剪裁、合成等功能",
-      "link": "https://www.zhangxinxu.com/wordpress/2026/04/mediabunny-video-water-clip-merge/",
-      "rsslink": "http://www.zhangxinxu.com/wordpress/?feed=rss2",
-      "blogname": "张鑫旭-鑫空间-鑫生活",
-      "createdat": "2026-04-17T07:22:57.000Z",
-      "crawledat": "2026-04-17T10:13:05.855Z"
-    },
-    {
-      "id": "41688",
-      "title": "DIY 维修数控电子防潮柜 更换制冷片记录",
-      "link": "https://wuminboke.site/uncategorized/diy-fix-a-malfunctioned-electronic-dry-cabinet/",
-      "rsslink": "https://wuminboke.site/feed/",
-      "blogname": "无名博客",
-      "createdat": "2026-04-17T06:47:20.000Z",
-      "crawledat": "2026-04-18T18:49:48.436Z"
-    },
-    {
-      "id": "41651",
-      "title": "Ollama 本地部署模型，让 OpenClaw 实现 Token 自由",
-      "link": "https://www.luckydesigner.space/ollama-local-model-openclaw-free-token/",
-      "rsslink": "https://www.luckydesigner.space/feed",
-      "blogname": "行运设计师",
-      "createdat": "2026-04-17T06:00:26.000Z",
-      "crawledat": "2026-04-18T07:05:45.300Z"
-    },
-    {
-      "id": "41664",
-      "title": "Album#35 - The Gift",
-      "link": "https://taxodium.ink/album-35.html",
-      "rsslink": "https://taxodium.ink/rss.xml",
-      "blogname": "Taxodium",
-      "createdat": "2026-04-17T04:30:00.000Z",
       "crawledat": "2026-04-18T07:05:45.300Z"
     }
   ]
