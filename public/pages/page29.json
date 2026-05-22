@@ -4,6 +4,123 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "42100",
+      "title": "Lesson 17 光子气体",
+      "link": "https://physnya.top/statistical-mechanics/lesson-17/",
+      "rsslink": "https://physnya.top/atom.xml",
+      "blogname": "菲兹克斯喵",
+      "createdat": "2026-04-29T03:28:15.000Z",
+      "crawledat": "2026-04-29T19:23:01.508Z"
+    },
+    {
+      "id": "42108",
+      "title": "GPT-5.5 发布：OpenAI 这次真的在”干活”了",
+      "link": "http://wjd.name/gpt-5-5-release-analysis/",
+      "rsslink": "http://wjd.name/feed/",
+      "blogname": "王佳冬中文博客",
+      "createdat": "2026-04-29T03:04:55.000Z",
+      "crawledat": "2026-04-30T08:28:41.153Z"
+    },
+    {
+      "id": "42075",
+      "title": "二宫保育园入园式",
+      "link": "https://shuiba.co/ninomiya-entrance-ceremony",
+      "rsslink": "https://shuiba.co/feed",
+      "blogname": "Shuibaco • 水八口",
+      "createdat": "2026-04-29T02:26:00.000Z",
+      "crawledat": "2026-04-29T08:14:44.742Z"
+    },
+    {
+      "id": "42085",
+      "title": "如何将小米CodingPlan的Mimo模型接入到OpenClaw",
+      "link": "https://blog.zhheo.com/p/920gpt1r.html",
+      "rsslink": "https://blog.zhheo.com/rss.xml",
+      "blogname": "张洪Heo",
+      "createdat": "2026-04-29T02:10:08.000Z",
+      "crawledat": "2026-04-29T19:23:01.508Z"
+    },
+    {
+      "id": "42160",
+      "title": "别再给Suno交钱了！开源AI音乐神器ACE-Step UI来了",
+      "link": "https://www.luckydesigner.space/suno-alternative-ai-ace-step-ui/",
+      "rsslink": "https://www.luckydesigner.space/feed",
+      "blogname": "行运设计师",
+      "createdat": "2026-04-29T01:13:01.000Z",
+      "crawledat": "2026-05-02T02:36:00.903Z"
+    },
+    {
+      "id": "42298",
+      "title": "Go 1.27 将默认开启 SIMD for amd64，可移植 SIMD 包提案出炉",
+      "link": "https://tonybai.com/2026/04/29/go-1-27-default-simd-for-amd64-portable-simd-proposal/",
+      "rsslink": "http://feed.tonybai.com/",
+      "blogname": "Tony Bai",
+      "createdat": "2026-04-29T00:16:43.000Z",
+      "crawledat": "2026-05-03T18:57:42.674Z"
+    },
+    {
+      "id": "42077",
+      "title": "TIL: 数字小键盘的小数点陷阱与行内算术求值",
+      "link": "https://lujun9972.github.io/blog/2026/04/27/til-数字小键盘的小数点陷阱与行内算术求值/index.html",
+      "rsslink": "https://www.lujun9972.win/rss.xml",
+      "blogname": "暗无天日",
+      "createdat": "2026-04-29T00:00:00.000Z",
+      "crawledat": "2026-04-29T10:54:49.913Z"
+    },
+    {
+      "id": "42078",
+      "title": "读：Immutability 不是万能药，它是一种权衡",
+      "link": "https://lujun9972.github.io/blog/2026/04/29/读：immutability-不是万能药，它是一种权衡/index.html",
+      "rsslink": "https://www.lujun9972.win/rss.xml",
+      "blogname": "暗无天日",
+      "createdat": "2026-04-29T00:00:00.000Z",
+      "crawledat": "2026-04-29T10:54:49.913Z"
+    },
+    {
+      "id": "42079",
+      "title": "读：Karpathy 的 LLM Wiki——让 AI 帮你维护知识库",
+      "link": "https://lujun9972.github.io/blog/2026/04/28/读：karpathy-的-llm-wiki——让-ai-帮你维护知识库/index.html",
+      "rsslink": "https://www.lujun9972.win/rss.xml",
+      "blogname": "暗无天日",
+      "createdat": "2026-04-29T00:00:00.000Z",
+      "crawledat": "2026-04-29T13:52:51.765Z"
+    },
+    {
+      "id": "42081",
+      "title": "Conducty：给 Claude Code 加上项目记忆和并行执行能力",
+      "link": "https://lujun9972.github.io/blog/2026/04/29/conducty：给-claude-code-加上项目记忆和并行执行能力/index.html",
+      "rsslink": "https://www.lujun9972.win/rss.xml",
+      "blogname": "暗无天日",
+      "createdat": "2026-04-29T00:00:00.000Z",
+      "crawledat": "2026-04-29T16:26:16.743Z"
+    },
+    {
+      "id": "42082",
+      "title": "读 — GitHub Trending 里的 Claude Code 技能包",
+      "link": "https://lujun9972.github.io/blog/2026/04/29/读-—-github-trending-里的-claude-code-技能包/index.html",
+      "rsslink": "https://www.lujun9972.win/rss.xml",
+      "blogname": "暗无天日",
+      "createdat": "2026-04-29T00:00:00.000Z",
+      "crawledat": "2026-04-29T16:26:16.743Z"
+    },
+    {
+      "id": "42083",
+      "title": "读 — Prompt Caching 省钱指南",
+      "link": "https://lujun9972.github.io/blog/2026/04/29/读-—-prompt-caching-省钱指南/index.html",
+      "rsslink": "https://www.lujun9972.win/rss.xml",
+      "blogname": "暗无天日",
+      "createdat": "2026-04-29T00:00:00.000Z",
+      "crawledat": "2026-04-29T16:26:16.743Z"
+    },
+    {
+      "id": "42074",
+      "title": "AI 正在吞噬我们的耐心",
+      "link": "https://innei.in/posts/experience/ai-is-eating-our-patience",
+      "rsslink": "https://innei.ren/feed",
+      "blogname": "静かな森",
+      "createdat": "2026-04-28T17:35:46.000Z",
+      "crawledat": "2026-04-29T08:14:44.742Z"
+    },
+    {
       "id": "42148",
       "title": "失去的20年",
       "link": "https://blog.thetbw.xyz/archives/the-lost-20-years",
@@ -65,123 +182,6 @@
       "blogname": "菲兹克斯喵",
       "createdat": "2026-04-28T11:21:15.000Z",
       "crawledat": "2026-04-29T19:23:01.508Z"
-    },
-    {
-      "id": "42107",
-      "title": "高中生如何从「认知觉醒」走向「认知驱动」",
-      "link": "https://mecll.com/1069.html",
-      "rsslink": "https://maie.name/feed",
-      "blogname": "流浪天下",
-      "createdat": "2026-04-28T10:00:54.000Z",
-      "crawledat": "2026-04-30T08:28:41.153Z"
-    },
-    {
-      "id": "42090",
-      "title": "SEO是什么？2026年完整入门指南",
-      "link": "https://www.guangweiblog.com/archives/2417",
-      "rsslink": "https://www.guangweiblog.com/feed/",
-      "blogname": "王光卫博客",
-      "createdat": "2026-04-28T09:08:24.000Z",
-      "crawledat": "2026-04-29T19:23:01.508Z"
-    },
-    {
-      "id": "42280",
-      "title": "说说：#2026-04-28 16:23",
-      "link": "https://www.mmbkz.cn/69f06e72615ce.html",
-      "rsslink": "https://www.mmbkz.cn/feed",
-      "blogname": "火喵日记本",
-      "createdat": "2026-04-28T08:23:14.000Z",
-      "crawledat": "2026-05-03T18:57:42.674Z"
-    },
-    {
-      "id": "42257",
-      "title": "万字长文推演：手机不再从 App 开始，Agent OS 如何接管任务入口",
-      "link": "https://androidperformance.com/2026/04/28/Agent-OS-Task-Entry/",
-      "rsslink": "https://www.androidperformance.com/atom.xml",
-      "blogname": "Android Performance",
-      "createdat": "2026-04-28T06:57:22.000Z",
-      "crawledat": "2026-05-03T18:57:42.674Z"
-    },
-    {
-      "id": "42076",
-      "title": "新的开始 (6P)",
-      "link": "https://shuiba.co/new-start",
-      "rsslink": "https://shuiba.co/feed",
-      "blogname": "Shuibaco • 水八口",
-      "createdat": "2026-04-28T04:32:00.000Z",
-      "crawledat": "2026-04-29T08:14:44.742Z"
-    },
-    {
-      "id": "42069",
-      "title": "最近惦念 20260418",
-      "link": "https://z.arlmy.me/posts/TILs/thoughts/20260418_Recently/",
-      "rsslink": "http://z.arlmy.me/atom.xml",
-      "blogname": "素生",
-      "createdat": "2026-04-28T04:17:27.000Z",
-      "crawledat": "2026-04-28T21:56:30.665Z"
-    },
-    {
-      "id": "42070",
-      "title": "Toots 416 2026 Apr.19 - Apr.25",
-      "link": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260425/",
-      "rsslink": "http://z.arlmy.me/atom.xml",
-      "blogname": "素生",
-      "createdat": "2026-04-28T04:14:27.000Z",
-      "crawledat": "2026-04-28T21:56:30.665Z"
-    },
-    {
-      "id": "42161",
-      "title": "不用摄像机也能拍大片？VideoAI.Me 让伯衡君惊呆了",
-      "link": "https://www.luckydesigner.space/video-ai-create-short-videos-amazing-me/",
-      "rsslink": "https://www.luckydesigner.space/feed",
-      "blogname": "行运设计师",
-      "createdat": "2026-04-28T02:14:20.000Z",
-      "crawledat": "2026-05-02T02:36:00.903Z"
-    },
-    {
-      "id": "42153",
-      "title": "半学期记：春日校园",
-      "link": "https://www.xiaozonglin.cn/photos-of-campus-2026-spring/",
-      "rsslink": "https://www.xiaozonglin.cn/feed/",
-      "blogname": "林林杂语",
-      "createdat": "2026-04-28T01:40:46.000Z",
-      "crawledat": "2026-05-02T02:36:00.903Z"
-    },
-    {
-      "id": "41810",
-      "title": "【操作系统百科】交换",
-      "link": "https://quant67.com/post/os/37-swap/swap.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-04-28T00:00:00.000Z",
-      "crawledat": "2026-04-20T19:03:15.391Z"
-    },
-    {
-      "id": "42197",
-      "title": "技术的青春期：直面并克服强大 AI 的风险（Dario Amodei，Anthropic 的 CEO，2026）",
-      "link": "https://blog.sunmkt.uk/post/the-adolescence-of-technology-chs/",
-      "rsslink": "https://blog.sunmkt.uk/feed.xml",
-      "blogname": "Sunset 的重构博客",
-      "createdat": "2026-04-28T00:00:00.000Z",
-      "crawledat": "2026-05-02T02:36:00.903Z"
-    },
-    {
-      "id": "43008",
-      "title": "Langchain 团队如何评估与优化 agent harness",
-      "link": "https://shiina18.github.io/llm/2026/04/28/deepagent-eval/",
-      "rsslink": "https://shiina18.github.io/atom.xml",
-      "blogname": "Measure Zero",
-      "createdat": "2026-04-28T00:00:00.000Z",
-      "crawledat": "2026-05-16T19:02:00.334Z"
-    },
-    {
-      "id": "42299",
-      "title": "Go 语言“内战”迎来终局？Go 圣经作者亲自下场，为“三元运算符”发起折中提案！",
-      "link": "https://tonybai.com/2026/04/28/go-conditional-expressions-propsal/",
-      "rsslink": "http://feed.tonybai.com/",
-      "blogname": "Tony Bai",
-      "createdat": "2026-04-27T22:41:42.000Z",
-      "crawledat": "2026-05-03T18:57:42.674Z"
     }
   ]
 }
