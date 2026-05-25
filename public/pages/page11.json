@@ -4,6 +4,60 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "42983",
+      "title": "从 Sublime Text 到 Zed",
+      "link": "https://blog.devtang.com/2026/05/16/open-in-zed-from-finder/",
+      "rsslink": "https://blog.devtang.com/atom.xml",
+      "blogname": "唐巧的博客",
+      "createdat": "2026-05-16T07:00:00.000Z",
+      "crawledat": "2026-05-16T19:02:00.334Z"
+    },
+    {
+      "id": "43046",
+      "title": "2026 BRAIN Foundation 10K 竞赛",
+      "link": "https://leimao.github.io/life/2026-BRAIN-Foundation-10K/",
+      "rsslink": "https://leimao.github.io/atom.xml",
+      "blogname": "Lei Mao's Log Book",
+      "createdat": "2026-05-16T07:00:00.000Z",
+      "crawledat": "2026-05-18T22:00:56.927Z"
+    },
+    {
+      "id": "43047",
+      "title": "2026 Wild and Scenic Film Festival 参观",
+      "link": "https://leimao.github.io/life/2026-Wild-and-Scenic-Film-Festival/",
+      "rsslink": "https://leimao.github.io/atom.xml",
+      "blogname": "Lei Mao's Log Book",
+      "createdat": "2026-05-16T07:00:00.000Z",
+      "crawledat": "2026-05-18T22:00:56.927Z"
+    },
+    {
+      "id": "43048",
+      "title": "2026 Wild and Scenic Film Festival",
+      "link": "https://leimao.github.io/photography/2026-Wild-and-Scenic-Film-Festival/",
+      "rsslink": "https://leimao.github.io/atom.xml",
+      "blogname": "Lei Mao's Log Book",
+      "createdat": "2026-05-16T07:00:00.000Z",
+      "crawledat": "2026-05-18T22:00:56.927Z"
+    },
+    {
+      "id": "42985",
+      "title": "Dokploy 双前端灰度切流：一个 AI agent 的踩坑与复盘",
+      "link": "https://innei.in/posts/experience/dokploy-dual-frontend-grayscale-traffic-splitting-ai-agent-troubleshooting",
+      "rsslink": "https://innei.ren/feed",
+      "blogname": "静かな森",
+      "createdat": "2026-05-16T05:53:18.000Z",
+      "crawledat": "2026-05-16T19:02:00.334Z"
+    },
+    {
+      "id": "43006",
+      "title": "AI 时代 ShiroAttack2 5.x：修改了什么",
+      "link": "https://sumsec.me/2026/AI%20%E6%97%B6%E4%BB%A3%20ShiroAttack2%205.x%EF%BC%9A%E4%BF%AE%E6%94%B9%E4%BA%86%E4%BB%80%E4%B9%88.html",
+      "rsslink": "https://sumsec.me/resources/atom.xml",
+      "blogname": "像清水一般清澈透明",
+      "createdat": "2026-05-16T04:26:06.000Z",
+      "crawledat": "2026-05-16T19:02:00.334Z"
+    },
+    {
       "id": "43190",
       "title": "大模型缓存技术工程指南（下）：面向缓存命中的 Prompt 与 Agent 工程实践",
       "link": "http://blog.michealwayne.cn/2026/05/16/ai/llm_cache_prompt_engineering_practices_part2_optimized_v3/",
@@ -124,60 +178,6 @@
       "id": "42995",
       "title": "第15章 随身工具包：即查即用的约束指令库",
       "link": "https://zhurongshuo.com/practices/season-5/effective-constraints/part-06/chapter-15/",
-      "rsslink": "https://zhurongshuo.com/index.xml",
-      "blogname": "祝融说",
-      "createdat": "2026-05-15T16:00:00.000Z",
-      "crawledat": "2026-05-16T19:02:00.334Z"
-    },
-    {
-      "id": "42996",
-      "title": "第1章 这不是结对编程，这是“人机共生”",
-      "link": "https://zhurongshuo.com/practices/season-5/effective-constraints/part-01/chapter-01/",
-      "rsslink": "https://zhurongshuo.com/index.xml",
-      "blogname": "祝融说",
-      "createdat": "2026-05-15T16:00:00.000Z",
-      "crawledat": "2026-05-16T19:02:00.334Z"
-    },
-    {
-      "id": "42997",
-      "title": "第2章 你必须警惕的三个陷阱",
-      "link": "https://zhurongshuo.com/practices/season-5/effective-constraints/part-01/chapter-02/",
-      "rsslink": "https://zhurongshuo.com/index.xml",
-      "blogname": "祝融说",
-      "createdat": "2026-05-15T16:00:00.000Z",
-      "crawledat": "2026-05-16T19:02:00.334Z"
-    },
-    {
-      "id": "42998",
-      "title": "第3章 把话说死：用 Markdown 建立 AI 的“单源真相”",
-      "link": "https://zhurongshuo.com/practices/season-5/effective-constraints/part-02/chapter-03/",
-      "rsslink": "https://zhurongshuo.com/index.xml",
-      "blogname": "祝融说",
-      "createdat": "2026-05-15T16:00:00.000Z",
-      "crawledat": "2026-05-16T19:02:00.334Z"
-    },
-    {
-      "id": "42999",
-      "title": "第4章 负空间设计：先规定“不准做什么”，再让它写代码",
-      "link": "https://zhurongshuo.com/practices/season-5/effective-constraints/part-02/chapter-04/",
-      "rsslink": "https://zhurongshuo.com/index.xml",
-      "blogname": "祝融说",
-      "createdat": "2026-05-15T16:00:00.000Z",
-      "crawledat": "2026-05-16T19:02:00.334Z"
-    },
-    {
-      "id": "43000",
-      "title": "第5章 模块化解耦：让AI每次只面对一个小问题",
-      "link": "https://zhurongshuo.com/practices/season-5/effective-constraints/part-02/chapter-05/",
-      "rsslink": "https://zhurongshuo.com/index.xml",
-      "blogname": "祝融说",
-      "createdat": "2026-05-15T16:00:00.000Z",
-      "crawledat": "2026-05-16T19:02:00.334Z"
-    },
-    {
-      "id": "43001",
-      "title": "第6章 上下文断头台：善用 `/clear` 斩断错误蔓延",
-      "link": "https://zhurongshuo.com/practices/season-5/effective-constraints/part-03/chapter-06/",
       "rsslink": "https://zhurongshuo.com/index.xml",
       "blogname": "祝融说",
       "createdat": "2026-05-15T16:00:00.000Z",

@@ -4,6 +4,60 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "40165",
+      "title": "Van Emde Boas 树：当 O(log log n) 不只是理论",
+      "link": "https://quant67.com/post/algorithms/21-veb-tree/veb-tree.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-23T00:00:00.000Z",
+      "crawledat": "2026-04-08T02:22:20.506Z"
+    },
+    {
+      "id": "41794",
+      "title": "【Linux 网络子系统深度拆解】Traffic Control 深度拆解：qdisc、class 与 filter",
+      "link": "https://quant67.com/post/linux-net/14-tc-qdisc/tc-qdisc.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-04-23T00:00:00.000Z",
+      "crawledat": "2026-04-20T19:03:15.391Z"
+    },
+    {
+      "id": "41892",
+      "title": "Elisp 性能优化的六个实战教训",
+      "link": "https://lujun9972.github.io/blog/2026/04/22/elisp-性能优化的六个实战教训/index.html",
+      "rsslink": "https://www.lujun9972.win/rss.xml",
+      "blogname": "暗无天日",
+      "createdat": "2026-04-23T00:00:00.000Z",
+      "crawledat": "2026-04-22T19:11:09.312Z"
+    },
+    {
+      "id": "41893",
+      "title": "fcitx5 下 Emacs 无法切换输入法的排查",
+      "link": "https://lujun9972.github.io/blog/2026/04/22/fcitx5-下-emacs-无法切换输入法的排查/index.html",
+      "rsslink": "https://www.lujun9972.win/rss.xml",
+      "blogname": "暗无天日",
+      "createdat": "2026-04-23T00:00:00.000Z",
+      "crawledat": "2026-04-22T19:11:09.312Z"
+    },
+    {
+      "id": "41895",
+      "title": "ERT 测试交互命令的三种方式",
+      "link": "https://lujun9972.github.io/blog/2026/04/23/ert-测试交互命令的三种方式/index.html",
+      "rsslink": "https://www.lujun9972.win/rss.xml",
+      "blogname": "暗无天日",
+      "createdat": "2026-04-23T00:00:00.000Z",
+      "crawledat": "2026-04-23T02:31:56.698Z"
+    },
+    {
+      "id": "41905",
+      "title": "SEM Assistant: 当 Elisp 守护进程遇上 LLM",
+      "link": "https://lujun9972.github.io/blog/2026/04/23/sem-assistant-当-elisp-守护进程遇上-llm/index.html",
+      "rsslink": "https://www.lujun9972.win/rss.xml",
+      "blogname": "暗无天日",
+      "createdat": "2026-04-23T00:00:00.000Z",
+      "crawledat": "2026-04-23T07:50:03.995Z"
+    },
+    {
       "id": "41906",
       "title": "用 dmsg 给 Elisp 加上结构化调试日志",
       "link": "https://lujun9972.github.io/blog/2026/04/23/用-dmsg-给-elisp-加上结构化调试日志/index.html",
@@ -128,60 +182,6 @@
       "blogname": "行运设计师",
       "createdat": "2026-04-22T09:00:22.000Z",
       "crawledat": "2026-04-26T18:52:48.243Z"
-    },
-    {
-      "id": "41901",
-      "title": "Kachilu Browser：让 AI Agent 隐身，验证码随便过，反爬虫怀疑人生",
-      "link": "https://www.luckydesigner.space/kachilu-browser-ai-agent-hide-itself-to-crawl/",
-      "rsslink": "https://www.luckydesigner.space/feed",
-      "blogname": "行运设计师",
-      "createdat": "2026-04-22T08:01:54.000Z",
-      "crawledat": "2026-04-23T05:28:41.081Z"
-    },
-    {
-      "id": "41884",
-      "title": "任务自适应 Harness：从 Trace 到多 Coding Agent 的协作记忆",
-      "link": "http://www.phodal.com/blog/task-adaptive-harness/",
-      "rsslink": "https://www.phodal.com/blog/feeds/rss/",
-      "blogname": "全栈应用开发:精益实践",
-      "createdat": "2026-04-22T07:54:00.000Z",
-      "crawledat": "2026-04-22T10:18:10.089Z"
-    },
-    {
-      "id": "41887",
-      "title": "Vibe Coding 实现本地模型 Token 自由 IntelliJ IDEA + LM Studio + LM Link + Continue",
-      "link": "https://blog.renfei.net/posts/1626402130325676139",
-      "rsslink": "https://blog.renfei.net/rss.xml",
-      "blogname": "任霏博客",
-      "createdat": "2026-04-22T07:41:39.000Z",
-      "crawledat": "2026-04-22T16:08:03.604Z"
-    },
-    {
-      "id": "41899",
-      "title": "How Is FARS, The Fully Automated Research System?",
-      "link": "https://leimao.github.io/blog/How-Is-FARS/",
-      "rsslink": "https://leimao.github.io/atom.xml",
-      "blogname": "Lei Mao's Log Book",
-      "createdat": "2026-04-22T07:00:00.000Z",
-      "crawledat": "2026-04-23T05:28:41.081Z"
-    },
-    {
-      "id": "41900",
-      "title": "算计: 七天的死亡游戏",
-      "link": "https://leimao.github.io/essay/%E7%AE%97%E8%AE%A1-%E4%B8%83%E5%A4%A9%E7%9A%84%E6%AD%BB%E4%BA%A1%E6%B8%B8%E6%88%8F-The-Incite-Mill-2010/",
-      "rsslink": "https://leimao.github.io/atom.xml",
-      "blogname": "Lei Mao's Log Book",
-      "createdat": "2026-04-22T07:00:00.000Z",
-      "crawledat": "2026-04-23T05:28:41.081Z"
-    },
-    {
-      "id": "42052",
-      "title": "#179 – AI Agent 迷你課 2000 人 / 社群共學盛況 / 公司營運成長管理看板 ®️雷蒙週報",
-      "link": "https://raymondhouch.com/newsletter/179/",
-      "rsslink": "https://raymondhouch.com/feed",
-      "blogname": "雷蒙三十",
-      "createdat": "2026-04-22T06:03:59.000Z",
-      "crawledat": "2026-04-27T05:52:31.825Z"
     }
   ]
 }
