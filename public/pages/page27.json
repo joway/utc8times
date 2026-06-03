@@ -4,6 +4,51 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "44230",
+      "title": "卡巴斯基可能会阻止特定环境下的 BSOD 时自动重启",
+      "link": "https://blog.sunmkt.uk/post/kaspersky-may-block-bsod-auto-reboot/",
+      "rsslink": "https://blog.sunmkt.uk/feed.xml",
+      "blogname": "Sunset 的重构博客",
+      "createdat": "2026-05-14T00:00:00.000Z",
+      "crawledat": "2026-06-01T03:55:31.267Z"
+    },
+    {
+      "id": "42916",
+      "title": "Manage uv.lock file with Renovate",
+      "link": "https://jdhao.github.io/2026/05/13/uv_lock_file_management_with_renovate/",
+      "rsslink": "https://jdhao.github.io/index.xml",
+      "blogname": "jdhao's blog",
+      "createdat": "2026-05-13T18:14:50.000Z",
+      "crawledat": "2026-05-14T14:13:00.056Z"
+    },
+    {
+      "id": "42954",
+      "title": "用 Happy 在手机上控制 Claude Code：从安装到自建服务器",
+      "link": "https://blog.diqigan.cn/posts/coding/happy-cli-guide.html",
+      "rsslink": "https://blog.diqigan.cn/atom.xml",
+      "blogname": "Seven's blog",
+      "createdat": "2026-05-13T16:00:00.000Z",
+      "crawledat": "2026-05-15T06:36:32.542Z"
+    },
+    {
+      "id": "42915",
+      "title": "通过 Ansible 给各个 Server 做自动化升级",
+      "link": "https://blog.251.sh/use-ansible-to-auto-update-my-server",
+      "rsslink": "https://blog.251.sh/feed/",
+      "blogname": "251",
+      "createdat": "2026-05-13T13:43:50.000Z",
+      "crawledat": "2026-05-14T14:13:00.056Z"
+    },
+    {
+      "id": "42946",
+      "title": "AI 时代人机协作工作流博客 V4 说明",
+      "link": "https://lihan3238.github.io/p/blog_v4_ai_collaboration/",
+      "rsslink": "https://lihan3238.github.io/index.xml",
+      "blogname": "李寒的小窝",
+      "createdat": "2026-05-13T12:50:00.000Z",
+      "crawledat": "2026-05-14T19:43:39.972Z"
+    },
+    {
       "id": "43212",
       "title": "AI 时代人机协作工作流博客 V4 说明",
       "link": "http://lihan3238.github.io/p/blog_v4_ai_collaboration/",
@@ -137,51 +182,6 @@
       "blogname": "笨方法学写作",
       "createdat": "2026-05-13T00:00:00.000Z",
       "crawledat": "2026-05-13T17:15:11.708Z"
-    },
-    {
-      "id": "42975",
-      "title": "暗淡蓝点",
-      "link": "https://dreams.plus/blog/2026/2026-05-13-the-pale-blue-dot",
-      "rsslink": "https://dreams.plus/rss.xml",
-      "blogname": "但为君故",
-      "createdat": "2026-05-13T00:00:00.000Z",
-      "crawledat": "2026-05-15T14:03:49.361Z"
-    },
-    {
-      "id": "44231",
-      "title": "Microsoft Error Lookup Tool",
-      "link": "https://blog.sunmkt.uk/post/Microsoft-Error-Lookup-Tool/",
-      "rsslink": "https://blog.sunmkt.uk/feed.xml",
-      "blogname": "Sunset 的重构博客",
-      "createdat": "2026-05-13T00:00:00.000Z",
-      "crawledat": "2026-06-01T03:55:31.267Z"
-    },
-    {
-      "id": "44232",
-      "title": "汪洋：破除人民幸福是党和政府恩赐的错误认识",
-      "link": "https://blog.sunmkt.uk/post/%E7%A0%B4%E9%99%A4%E4%BA%BA%E6%B0%91%E5%B9%B8%E7%A6%8F%E6%98%AF%E5%85%9A%E5%92%8C%E6%94%BF%E5%BA%9C%E6%81%A9%E8%B5%90%E7%9A%84%E9%94%99%E8%AF%AF%E8%AE%A4%E8%AF%86/",
-      "rsslink": "https://blog.sunmkt.uk/feed.xml",
-      "blogname": "Sunset 的重构博客",
-      "createdat": "2026-05-13T00:00:00.000Z",
-      "crawledat": "2026-06-01T03:55:31.267Z"
-    },
-    {
-      "id": "42802",
-      "title": "试驳友谊之传递链",
-      "link": "https://www.xiaozonglin.cn/challenge-the-chain-of-friendship-transmission/",
-      "rsslink": "https://www.xiaozonglin.cn/feed/",
-      "blogname": "林林杂语",
-      "createdat": "2026-05-12T23:24:19.000Z",
-      "crawledat": "2026-05-13T17:15:11.708Z"
-    },
-    {
-      "id": "42736",
-      "title": "多么痛的领悟：何必要逞强好胜，何必要证明自己",
-      "link": "https://tumutanzi.com/archives/17601",
-      "rsslink": "https://tumutanzi.com/feed",
-      "blogname": "土木坛子",
-      "createdat": "2026-05-12T16:00:32.000Z",
-      "crawledat": "2026-05-13T11:29:23.067Z"
     }
   ]
 }
