@@ -4,6 +4,15 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "40172",
+      "title": "zstd 深度解剖：FSE 与字典训练",
+      "link": "https://quant67.com/post/algorithms/82-zstd-internals/zstd-internals.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-05-10T00:00:00.000Z",
+      "crawledat": "2026-04-08T02:22:20.506Z"
+    },
+    {
       "id": "42647",
       "title": "读：Linux 创建指定大小文件的三种方式——dd、fallocate 与 truncate",
       "link": "https://lujun9972.github.io/blog/2026/05/09/读：linux-创建指定大小文件的三种方式——dd、fallocate-与-truncate/index.html",
@@ -172,15 +181,6 @@
       "rsslink": "https://hehysh.github.io/atom.xml",
       "blogname": "十贰的小窝",
       "createdat": "2026-05-09T10:21:21.000Z",
-      "crawledat": "2026-05-09T21:41:21.175Z"
-    },
-    {
-      "id": "42642",
-      "title": "Amazon S3 Files 是什么？",
-      "link": "https://mafeifan.com/AWS/AWS-S3-filesystem.html",
-      "rsslink": "https://mafeifan.com/feed.rss",
-      "blogname": "mafeifan的技术博客",
-      "createdat": "2026-05-09T08:15:13.000Z",
       "crawledat": "2026-05-09T21:41:21.175Z"
     }
   ]
