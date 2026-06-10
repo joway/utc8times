@@ -4,6 +4,87 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "42332",
+      "title": "飞湾计划：把一趟大湾区之行，顺手变成港澳开户探索路线",
+      "link": "https://blog.debuginn.com/p/fly-bay/",
+      "rsslink": "https://blog.debuginn.com/index.xml",
+      "blogname": "Debug客栈",
+      "createdat": "2026-05-05T01:19:00.000Z",
+      "crawledat": "2026-05-05T02:37:29.753Z"
+    },
+    {
+      "id": "42365",
+      "title": "细嗦下MLIR的环境搭建",
+      "link": "https://mocusez.site/zh-CN/posts/4faf",
+      "rsslink": "https://mocusez.site/zh-CN/atom.xml",
+      "blogname": "Mox的笔记库",
+      "createdat": "2026-05-05T01:14:22.000Z",
+      "crawledat": "2026-05-05T21:59:47.103Z"
+    },
+    {
+      "id": "42361",
+      "title": "五一假期：南京之行",
+      "link": "https://www.xiaozonglin.cn/labor-day-nanjing-tour/",
+      "rsslink": "https://www.xiaozonglin.cn/feed/",
+      "blogname": "林林杂语",
+      "createdat": "2026-05-05T00:28:13.000Z",
+      "crawledat": "2026-05-05T21:59:47.103Z"
+    },
+    {
+      "id": "42362",
+      "title": "告别单打独斗！用 Ruflo 组建 Claude 多智能体军团，效率直接提升 10 倍",
+      "link": "https://www.luckydesigner.space/ruflo-claude-smart-increase-10-x/",
+      "rsslink": "https://www.luckydesigner.space/feed",
+      "blogname": "行运设计师",
+      "createdat": "2026-05-05T00:25:09.000Z",
+      "crawledat": "2026-05-05T21:59:47.103Z"
+    },
+    {
+      "id": "42336",
+      "title": "读：理论靠谱，生产翻车的六个集成模式",
+      "link": "https://lujun9972.github.io/blog/2026/05/05/读：理论靠谱，生产翻车的六个集成模式/index.html",
+      "rsslink": "https://www.lujun9972.win/rss.xml",
+      "blogname": "暗无天日",
+      "createdat": "2026-05-05T00:00:00.000Z",
+      "crawledat": "2026-05-05T10:44:56.810Z"
+    },
+    {
+      "id": "42337",
+      "title": "读：双写问题——@Transactional 给不了的跨系统一致性",
+      "link": "https://lujun9972.github.io/blog/2026/05/05/读：双写问题——@transactional-给不了的跨系统一致性/index.html",
+      "rsslink": "https://www.lujun9972.win/rss.xml",
+      "blogname": "暗无天日",
+      "createdat": "2026-05-05T00:00:00.000Z",
+      "crawledat": "2026-05-05T10:44:56.810Z"
+    },
+    {
+      "id": "42341",
+      "title": "读：PostgreSQL 随机测试数据生成——从快速造数到自动化填充",
+      "link": "https://lujun9972.github.io/blog/2026/05/05/读：postgresql-随机测试数据生成——从快速造数到自动化填充/index.html",
+      "rsslink": "https://www.lujun9972.win/rss.xml",
+      "blogname": "暗无天日",
+      "createdat": "2026-05-05T00:00:00.000Z",
+      "crawledat": "2026-05-05T19:17:01.307Z"
+    },
+    {
+      "id": "42342",
+      "title": "读：逆萨丕尔-沃夫假说与编程语言",
+      "link": "https://lujun9972.github.io/blog/2026/05/05/读：逆萨丕尔-沃夫假说与编程语言/index.html",
+      "rsslink": "https://www.lujun9972.win/rss.xml",
+      "blogname": "暗无天日",
+      "createdat": "2026-05-05T00:00:00.000Z",
+      "crawledat": "2026-05-05T19:17:01.307Z"
+    },
+    {
+      "id": "42423",
+      "title": "读：理解 MCP 架构——LLM 直接调 API 与 MCP 协议的对比",
+      "link": "https://lujun9972.github.io/blog/2026/05/05/读：理解-mcp-架构——llm-直接调-api-与-mcp-协议的对比/index.html",
+      "rsslink": "https://www.lujun9972.win/rss.xml",
+      "blogname": "暗无天日",
+      "createdat": "2026-05-05T00:00:00.000Z",
+      "crawledat": "2026-05-07T06:08:57.551Z"
+    },
+    {
       "id": "42424",
       "title": "读：Emacs 连接数据库时密码放哪里",
       "link": "https://lujun9972.github.io/blog/2026/05/05/读：emacs-连接数据库时密码放哪里/index.html",
@@ -101,87 +182,6 @@
       "blogname": "渚碧",
       "createdat": "2026-05-04T13:03:47.000Z",
       "crawledat": "2026-05-06T05:56:26.429Z"
-    },
-    {
-      "id": "42464",
-      "title": "黔山赴夏，清风入怀",
-      "link": "https://blog.liushen.fun/posts/1968ba6c/",
-      "rsslink": "https://blog.liushen.fun/atom.xml",
-      "blogname": "清羽飞扬",
-      "createdat": "2026-05-04T12:50:21.000Z",
-      "crawledat": "2026-05-07T16:48:15.036Z"
-    },
-    {
-      "id": "42324",
-      "title": "如何稳定使用 Claude, ChatGPT, Gemini（静态IP + Clash）",
-      "link": "https://kerrynotes.com/ai-traffic-routing/",
-      "rsslink": "https://kerrynotes.com/feed/",
-      "blogname": "Kerry的学习笔记",
-      "createdat": "2026-05-04T12:28:06.000Z",
-      "crawledat": "2026-05-04T19:26:46.866Z"
-    },
-    {
-      "id": "42316",
-      "title": "桌面宠物",
-      "link": "https://kaix.in/2026/0504/",
-      "rsslink": "https://kaix.in/feed/",
-      "blogname": "KAIX.IN",
-      "createdat": "2026-05-04T10:25:15.000Z",
-      "crawledat": "2026-05-04T11:04:05.530Z"
-    },
-    {
-      "id": "42463",
-      "title": "【LLM推理加速】FlashAttention",
-      "link": "https://forcheetah.github.io/2026/05/04/llm05/",
-      "rsslink": "https://forcheetah.github.io/atom.xml",
-      "blogname": "暮冬Z羡慕的博客",
-      "createdat": "2026-05-04T09:39:00.755Z",
-      "crawledat": "2026-05-07T16:48:15.036Z"
-    },
-    {
-      "id": "42320",
-      "title": "《南蛮子·炉鼎赋》懋和道人",
-      "link": "https://www.dao.js.cn/new/2026050412178.html",
-      "rsslink": "https://www.dao.js.cn/feed.php",
-      "blogname": "南蛮子懋和",
-      "createdat": "2026-05-04T07:09:05.000Z",
-      "crawledat": "2026-05-04T19:26:46.866Z"
-    },
-    {
-      "id": "42292",
-      "title": "《寻秦记》电影版",
-      "link": "https://leimao.github.io/essay/%E5%AF%BB%E7%A7%A6%E8%AE%B0-2025/",
-      "rsslink": "https://leimao.github.io/atom.xml",
-      "blogname": "Lei Mao's Log Book",
-      "createdat": "2026-05-04T07:00:00.000Z",
-      "crawledat": "2026-05-03T18:57:42.674Z"
-    },
-    {
-      "id": "42322",
-      "title": "[时空] 晚春的温哥华",
-      "link": "https://blog.douchi.space/time-capsule/20260503-vancouver/?utm_source=rss",
-      "rsslink": "https://blog.douchi.space/index.xml",
-      "blogname": "椒盐豆豉",
-      "createdat": "2026-05-04T06:55:00.000Z",
-      "crawledat": "2026-05-04T19:26:46.866Z"
-    },
-    {
-      "id": "42317",
-      "title": "周报 #108 - AI 与创作的困境",
-      "link": "https://www.pseudoyu.com/posts/weekly_review_108",
-      "rsslink": "https://www.pseudoyu.com/zh/index.xml",
-      "blogname": "Pseudoyu",
-      "createdat": "2026-05-04T06:17:00.000Z",
-      "crawledat": "2026-05-04T19:26:46.866Z"
-    },
-    {
-      "id": "42306",
-      "title": "我的 RSS 与独立博客阅读史",
-      "link": "https://scottyeung.top/2026/rss-evolution/",
-      "rsslink": "http://scottyeung.top/atom.xml",
-      "blogname": "YeungYeah 的乱写地",
-      "createdat": "2026-05-04T03:00:21.000Z",
-      "crawledat": "2026-05-04T06:11:52.195Z"
     }
   ]
 }
