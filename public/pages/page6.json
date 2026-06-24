@@ -4,6 +4,60 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "44780",
+      "title": "職場的那些事",
+      "link": "http://mercurychong.blogspot.com/2026/06/blog-post_18.html",
+      "rsslink": "http://mercurychong.blogspot.com/feeds/posts/default",
+      "blogname": "水星投资理财",
+      "createdat": "2026-06-18T10:16:26.224Z",
+      "crawledat": "2026-06-18T10:18:07.951Z"
+    },
+    {
+      "id": "44783",
+      "title": "奇趣影棚项目 Vibe Coding 第一天问题记录",
+      "link": "https://paugram.com/coding/vibe-coding-day-1.html",
+      "rsslink": "https://paugram.com/feed",
+      "blogname": "保罗的小宇宙",
+      "createdat": "2026-06-18T08:46:00.000Z",
+      "crawledat": "2026-06-18T10:18:07.951Z"
+    },
+    {
+      "id": "44844",
+      "title": "MECHREVO WUJIE14 PRO on Linux 声卡完整修复历程",
+      "link": "https://hellodk.cn/post/1226",
+      "rsslink": "https://hellodk.cn/feed/",
+      "blogname": "Allen Hua 的网络博客",
+      "createdat": "2026-06-18T08:46:00.000Z",
+      "crawledat": "2026-06-19T10:23:24.404Z"
+    },
+    {
+      "id": "44785",
+      "title": "Artitalk V4: 从Leancloud迁移至Vercel",
+      "link": "https://blog.hclonely.com/posts/7fa46a11/",
+      "rsslink": "https://blog.hclonely.com/atom.xml",
+      "blogname": "HCLonely",
+      "createdat": "2026-06-18T07:46:47.000Z",
+      "crawledat": "2026-06-18T10:18:07.951Z"
+    },
+    {
+      "id": "44781",
+      "title": "什么是Skill，它能迸发出什么能力",
+      "link": "https://deepzz.com/post/what-is-ai-skil.html",
+      "rsslink": "https://deepzz.com/feed",
+      "blogname": "Deepzz's Blog",
+      "createdat": "2026-06-18T06:46:00.000Z",
+      "crawledat": "2026-06-18T10:18:07.951Z"
+    },
+    {
+      "id": "44848",
+      "title": "AI支付宝上手：内容全靠编，出问题甩锅给商家，付款快退款难",
+      "link": "https://blog.zhheo.com/p/sir4kfs9.html",
+      "rsslink": "https://blog.zhheo.com/rss.xml",
+      "blogname": "张洪Heo",
+      "createdat": "2026-06-18T02:27:38.000Z",
+      "crawledat": "2026-06-19T10:23:24.404Z"
+    },
+    {
       "id": "44831",
       "title": "CodeGraph 使用指南：让 AI 编程助手看懂代码库",
       "link": "https://www.chenshaowen.com/blog/codegraph-usage-guide.html",
@@ -128,60 +182,6 @@
       "blogname": "鸟窝",
       "createdat": "2026-06-16T20:00:24.000Z",
       "crawledat": "2026-06-21T14:07:10.455Z"
-    },
-    {
-      "id": "44885",
-      "title": "Loop Engineering 实践：一次批量实现 8 个 issue，完成夔牛工具的开发",
-      "link": "https://colobu.com/2026/06/17/loop-engineering-batch-8-issues-kuiniu-tool/",
-      "rsslink": "https://colobu.com/atom.xml",
-      "blogname": "鸟窝",
-      "createdat": "2026-06-16T20:00:24.000Z",
-      "crawledat": "2026-06-21T14:07:10.455Z"
-    },
-    {
-      "id": "44886",
-      "title": "傻瓜式RDMA高性能网络开发：从零跑到 400 Gb每秒",
-      "link": "https://colobu.com/2026/06/17/rdma-high-performance-networking-400gbps/",
-      "rsslink": "https://colobu.com/atom.xml",
-      "blogname": "鸟窝",
-      "createdat": "2026-06-16T20:00:24.000Z",
-      "crawledat": "2026-06-21T14:07:10.455Z"
-    },
-    {
-      "id": "44740",
-      "title": "把 hydration 从 React UI 里解耦：一次 SPA 启动期边界纠正",
-      "link": "https://innei.in/posts/tech/decouple-hydration-from-react-ui",
-      "rsslink": "https://innei.ren/feed",
-      "blogname": "静かな森",
-      "createdat": "2026-06-16T19:16:41.000Z",
-      "crawledat": "2026-06-16T20:48:42.028Z"
-    },
-    {
-      "id": "44773",
-      "title": "Paper Reading (58)",
-      "link": "https://www.seis-jun.xyz/blog/2026-06-17-paper-reading-58.html",
-      "rsslink": "https://www.seis-jun.xyz/atom.xml",
-      "blogname": "seisamuse",
-      "createdat": "2026-06-16T16:00:00.000Z",
-      "crawledat": "2026-06-17T20:09:56.019Z"
-    },
-    {
-      "id": "44737",
-      "title": "半年过去了，我和 AI Coding 的关系有什么变化？",
-      "link": "https://www.ixiqin.com/2026/06/16/half-a-year-has-passed-what-changes-have-occurred-in-my/",
-      "rsslink": "https://www.ixiqin.com/feed/",
-      "blogname": "西秦公子",
-      "createdat": "2026-06-16T15:30:22.000Z",
-      "crawledat": "2026-06-16T20:48:42.028Z"
-    },
-    {
-      "id": "44741",
-      "title": "【译文】请不要搞个\"企业大脑\"就指望自动形成学习循环",
-      "link": "https://sund.site/posts/2026/dont-implement-company-brain-expect-learning-loop/",
-      "rsslink": "https://www.sund.site/index.xml",
-      "blogname": "电波障害",
-      "createdat": "2026-06-16T15:00:00.000Z",
-      "crawledat": "2026-06-16T20:48:42.028Z"
     }
   ]
 }

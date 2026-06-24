@@ -4,6 +4,60 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "44885",
+      "title": "Loop Engineering 实践：一次批量实现 8 个 issue，完成夔牛工具的开发",
+      "link": "https://colobu.com/2026/06/17/loop-engineering-batch-8-issues-kuiniu-tool/",
+      "rsslink": "https://colobu.com/atom.xml",
+      "blogname": "鸟窝",
+      "createdat": "2026-06-16T20:00:24.000Z",
+      "crawledat": "2026-06-21T14:07:10.455Z"
+    },
+    {
+      "id": "44886",
+      "title": "傻瓜式RDMA高性能网络开发：从零跑到 400 Gb每秒",
+      "link": "https://colobu.com/2026/06/17/rdma-high-performance-networking-400gbps/",
+      "rsslink": "https://colobu.com/atom.xml",
+      "blogname": "鸟窝",
+      "createdat": "2026-06-16T20:00:24.000Z",
+      "crawledat": "2026-06-21T14:07:10.455Z"
+    },
+    {
+      "id": "44740",
+      "title": "把 hydration 从 React UI 里解耦：一次 SPA 启动期边界纠正",
+      "link": "https://innei.in/posts/tech/decouple-hydration-from-react-ui",
+      "rsslink": "https://innei.ren/feed",
+      "blogname": "静かな森",
+      "createdat": "2026-06-16T19:16:41.000Z",
+      "crawledat": "2026-06-16T20:48:42.028Z"
+    },
+    {
+      "id": "44773",
+      "title": "Paper Reading (58)",
+      "link": "https://www.seis-jun.xyz/blog/2026-06-17-paper-reading-58.html",
+      "rsslink": "https://www.seis-jun.xyz/atom.xml",
+      "blogname": "seisamuse",
+      "createdat": "2026-06-16T16:00:00.000Z",
+      "crawledat": "2026-06-17T20:09:56.019Z"
+    },
+    {
+      "id": "44737",
+      "title": "半年过去了，我和 AI Coding 的关系有什么变化？",
+      "link": "https://www.ixiqin.com/2026/06/16/half-a-year-has-passed-what-changes-have-occurred-in-my/",
+      "rsslink": "https://www.ixiqin.com/feed/",
+      "blogname": "西秦公子",
+      "createdat": "2026-06-16T15:30:22.000Z",
+      "crawledat": "2026-06-16T20:48:42.028Z"
+    },
+    {
+      "id": "44741",
+      "title": "【译文】请不要搞个\"企业大脑\"就指望自动形成学习循环",
+      "link": "https://sund.site/posts/2026/dont-implement-company-brain-expect-learning-loop/",
+      "rsslink": "https://www.sund.site/index.xml",
+      "blogname": "电波障害",
+      "createdat": "2026-06-16T15:00:00.000Z",
+      "crawledat": "2026-06-16T20:48:42.028Z"
+    },
+    {
       "id": "44746",
       "title": "装完Hermes之后，我被这5个东西救了",
       "link": "https://xugaoxiang.com/2026/06/16/hermes-agent/",
@@ -128,60 +182,6 @@
       "blogname": "Another Dayu",
       "createdat": "2026-06-15T18:59:00.000Z",
       "crawledat": "2026-06-22T16:55:42.767Z"
-    },
-    {
-      "id": "44735",
-      "title": "世界加钱可及？若干 AWS / GreenCloud / Lightlayer / RFCHOST / SiliCloud / Vultr 的日本/新加坡/香港/美国VPS全天ping测试",
-      "link": "https://wusiyu.me/aws-greencloud-lightlayer-rfchost-silicloud-vultr-vps-compare/",
-      "rsslink": "https://wusiyu.me/feed/",
-      "blogname": "WuSiYu Blog",
-      "createdat": "2026-06-15T18:50:11.000Z",
-      "crawledat": "2026-06-16T11:07:48.237Z"
-    },
-    {
-      "id": "44855",
-      "title": "SynoSync(时刻同步) 1.2.1：支持 MacOS (完全免费) + iOS 版本内购四折优惠！",
-      "link": "https://blog.gadore.top/archives/synosync-mac-support/",
-      "rsslink": "https://blog.gadore.top/feed.xml",
-      "blogname": "千里之豪",
-      "createdat": "2026-06-15T17:50:00.000Z",
-      "crawledat": "2026-06-19T22:02:12.043Z"
-    },
-    {
-      "id": "44757",
-      "title": "wolai MCP",
-      "link": "https://elmagnifico.tech/2026/06/16/Wolai-MCP/",
-      "rsslink": "http://elmagnifico.tech/feed.xml",
-      "blogname": "elmagnifico",
-      "createdat": "2026-06-15T16:00:00.000Z",
-      "crawledat": "2026-06-16T20:48:42.028Z"
-    },
-    {
-      "id": "44971",
-      "title": "Zine#52 - 我们都无法成为大人",
-      "link": "https://taxodium.ink/52.html",
-      "rsslink": "https://taxodium.ink/rss.xml",
-      "blogname": "Taxodium",
-      "createdat": "2026-06-15T15:50:00.000Z",
-      "crawledat": "2026-06-22T16:55:42.767Z"
-    },
-    {
-      "id": "44861",
-      "title": "WWDC 26：AI 帮你看完了，然后呢？ - 肘子的 Swift 周报 #140",
-      "link": "https://fatbobman.com/zh/weekly/issue-140/",
-      "rsslink": "https://fatbobman.com/zh/rss.xml",
-      "blogname": "肘子的 Swift 记事本",
-      "createdat": "2026-06-15T14:00:00.000Z",
-      "crawledat": "2026-06-19T22:02:12.043Z"
-    },
-    {
-      "id": "44743",
-      "title": "今年的世界杯在哪下注?",
-      "link": "https://mianao.info/where-to-bet-on-the-world-cup-2026/",
-      "rsslink": "https://mianao.info/atom.xml",
-      "blogname": "不吐不快",
-      "createdat": "2026-06-15T13:30:00.000Z",
-      "crawledat": "2026-06-16T20:48:42.028Z"
     }
   ]
 }
