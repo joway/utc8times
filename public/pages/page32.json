@@ -4,6 +4,24 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "43552",
+      "title": "静态博客三周年回顾 & Hugo 装修小记之五",
+      "link": "https://blog.douchi.space/static-blog-3-year-in-hugo-decoration-5/?utm_source=rss",
+      "rsslink": "https://blog.douchi.space/index.xml",
+      "blogname": "椒盐豆豉",
+      "createdat": "2026-05-28T07:31:00.000Z",
+      "crawledat": "2026-05-28T18:10:34.763Z"
+    },
+    {
+      "id": "43547",
+      "title": "PyTorch AOTInductor Hybrid Lowering",
+      "link": "https://leimao.github.io/blog/PyTorch-AOTInductor-Hybrid-Lowering/",
+      "rsslink": "https://leimao.github.io/atom.xml",
+      "blogname": "Lei Mao's Log Book",
+      "createdat": "2026-05-28T07:00:00.000Z",
+      "crawledat": "2026-05-28T18:10:34.763Z"
+    },
+    {
       "id": "43604",
       "title": "curl自编译",
       "link": "https://lxnchan.cn/curl-selfcompile.html",
@@ -164,24 +182,6 @@
       "blogname": "Sekyoro的博客小屋",
       "createdat": "2026-05-27T15:33:19.000Z",
       "crawledat": "2026-05-31T10:55:54.880Z"
-    },
-    {
-      "id": "43556",
-      "title": "用自定义 Layout 化解 SwiftUI List 的行高与间距跳变",
-      "link": "https://fatbobman.com/zh/posts/taming-row-height-and-spacing-jumps/",
-      "rsslink": "https://fatbobman.com/zh/rss.xml",
-      "blogname": "肘子的 Swift 记事本",
-      "createdat": "2026-05-27T14:00:00.000Z",
-      "crawledat": "2026-05-28T18:10:34.763Z"
-    },
-    {
-      "id": "43528",
-      "title": "Linux 平台 intel UHD 6xx 核显 openvino 探索",
-      "link": "https://blog.ponder.work/2026/05/27/intel-igpu-uhd6xx-openvino-on-linux/",
-      "rsslink": "https://blog.ponder.work/atom.xml",
-      "blogname": "逸思杂陈",
-      "createdat": "2026-05-27T13:20:31.000Z",
-      "crawledat": "2026-05-27T20:13:02.669Z"
     }
   ]
 }
