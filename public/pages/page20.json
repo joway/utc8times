@@ -4,6 +4,78 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "44892",
+      "title": "寻找你代码中的臭味：一个让 AI 帮你嗅出架构腐化的开源 Skill",
+      "link": "https://colobu.com/2026/06/11/code-smell-detector-ai-skill/",
+      "rsslink": "https://colobu.com/atom.xml",
+      "blogname": "鸟窝",
+      "createdat": "2026-06-11T00:10:28.000Z",
+      "crawledat": "2026-06-21T14:07:10.455Z"
+    },
+    {
+      "id": "44893",
+      "title": "套壳不丢人！我用Go+AI搓了一个Agent统一编排框架，ClaudeCode-Codex-Pi全被我包了",
+      "link": "https://colobu.com/2026/06/11/go-ai-agent-orchestration-framework/",
+      "rsslink": "https://colobu.com/atom.xml",
+      "blogname": "鸟窝",
+      "createdat": "2026-06-11T00:10:28.000Z",
+      "crawledat": "2026-06-21T14:07:10.455Z"
+    },
+    {
+      "id": "44894",
+      "title": "告别死锁和陈旧语法、告别性能瓶颈：三个开源 Skill，新手Gopher 秒变 Go 语言大神",
+      "link": "https://colobu.com/2026/06/11/three-open-source-skills-gopher-master/",
+      "rsslink": "https://colobu.com/atom.xml",
+      "blogname": "鸟窝",
+      "createdat": "2026-06-11T00:10:28.000Z",
+      "crawledat": "2026-06-21T14:07:10.455Z"
+    },
+    {
+      "id": "39542",
+      "title": "DFA 最小化：词法分析器生成的核心",
+      "link": "https://quant67.com/post/algorithms/105-dfa-minimization/dfa-minimization.html",
+      "rsslink": "https://quant67.com/rss.xml",
+      "blogname": "土法炼钢兴趣小组的博客",
+      "createdat": "2026-06-11T00:00:00.000Z",
+      "crawledat": "2026-04-06T18:57:27.745Z"
+    },
+    {
+      "id": "44649",
+      "title": "AI技能(Skill)和知识库瘦身：你喂给模型的每行废话，都在烧钱",
+      "link": "https://heyuanfei.com/post/2026-06-11-ai-knowledge-slim/",
+      "rsslink": "https://leonhe.cn/index.xml",
+      "blogname": "远飞闲记",
+      "createdat": "2026-06-11T00:00:00.000Z",
+      "crawledat": "2026-06-11T22:49:00.835Z"
+    },
+    {
+      "id": "44654",
+      "title": "Claude Code 带给我的改变",
+      "link": "https://limboy.me/posts/the-changes-claude-code-brought-me",
+      "rsslink": "http://feeds.feedburner.com/lzyy",
+      "blogname": "limboy's HQ",
+      "createdat": "2026-06-11T00:00:00.000Z",
+      "crawledat": "2026-06-12T10:09:32.137Z"
+    },
+    {
+      "id": "44655",
+      "title": "微信是一个奇葩",
+      "link": "https://limboy.me/posts/wechat-is-abnormal",
+      "rsslink": "http://feeds.feedburner.com/lzyy",
+      "blogname": "limboy's HQ",
+      "createdat": "2026-06-11T00:00:00.000Z",
+      "crawledat": "2026-06-12T10:09:32.137Z"
+    },
+    {
+      "id": "44865",
+      "title": "Lesson 29 量子场论 & 广义相对论",
+      "link": "https://physnya.top/GR/lesson-29/",
+      "rsslink": "https://physnya.top/atom.xml",
+      "blogname": "菲兹克斯喵",
+      "createdat": "2026-06-10T18:19:05.000Z",
+      "crawledat": "2026-06-19T22:02:12.043Z"
+    },
+    {
       "id": "44779",
       "title": "我做个了免费Skill，整合42个顶级产品经理来辅助思考",
       "link": "https://cnfeat.com/posts/2026/06/11/%E6%88%91%E5%81%9A%E4%B8%AA%E4%BA%86%E5%85%8D%E8%B4%B9Skill%E6%95%B4%E5%90%8842%E4%B8%AA%E9%A1%B6%E7%BA%A7%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E6%9D%A5%E8%BE%85%E5%8A%A9%E6%80%9D%E8%80%83/",
@@ -110,78 +182,6 @@
       "blogname": "同和故事匯",
       "createdat": "2026-06-10T05:21:30.000Z",
       "crawledat": "2026-06-10T09:56:44.163Z"
-    },
-    {
-      "id": "44638",
-      "title": "一部作品的”魂”到底从哪来",
-      "link": "https://hocassian.cn/archives/article/14340/",
-      "rsslink": "https://hocassian.cn/feed/",
-      "blogname": "同和故事匯",
-      "createdat": "2026-06-10T04:51:52.000Z",
-      "crawledat": "2026-06-10T09:56:44.163Z"
-    },
-    {
-      "id": "44640",
-      "title": "全新的CSS border-shape属性简介",
-      "link": "https://www.zhangxinxu.com/wordpress/2026/06/css-border-shape/",
-      "rsslink": "http://www.zhangxinxu.com/wordpress/?feed=rss2",
-      "blogname": "张鑫旭-鑫空间-鑫生活",
-      "createdat": "2026-06-10T03:00:06.000Z",
-      "crawledat": "2026-06-10T15:30:58.950Z"
-    },
-    {
-      "id": "44629",
-      "title": "002新西兰留学避坑指南(100%避坑攻略)[短视频]",
-      "link": "https://www.jack-liu.com/post-659.html",
-      "rsslink": "https://www.jack-liu.com/rss.php",
-      "blogname": "Jack Liu博客",
-      "createdat": "2026-06-10T00:28:06.000Z",
-      "crawledat": "2026-06-10T03:35:12.440Z"
-    },
-    {
-      "id": "44630",
-      "title": "001留学生毕业后找不到工作怎么办？[直播短视频]",
-      "link": "https://www.jack-liu.com/post-658.html",
-      "rsslink": "https://www.jack-liu.com/rss.php",
-      "blogname": "Jack Liu博客",
-      "createdat": "2026-06-10T00:13:22.000Z",
-      "crawledat": "2026-06-10T03:35:12.440Z"
-    },
-    {
-      "id": "44633",
-      "title": "中心极限定理：为什么随机世界总会产生钟形曲线",
-      "link": "https://lujun9972.github.io/blog/2026/06/10/中心极限定理：为什么随机世界总会产生钟形曲线/index.html",
-      "rsslink": "https://www.lujun9972.win/rss.xml",
-      "blogname": "暗无天日",
-      "createdat": "2026-06-10T00:00:00.000Z",
-      "crawledat": "2026-06-10T09:56:44.163Z"
-    },
-    {
-      "id": "44641",
-      "title": "高考随想",
-      "link": "https://lutaonan.com/blog/undefined",
-      "rsslink": "https://lutaonan.com/rss.xml",
-      "blogname": "Randy's Blog",
-      "createdat": "2026-06-10T00:00:00.000Z",
-      "crawledat": "2026-06-10T15:30:58.950Z"
-    },
-    {
-      "id": "44623",
-      "title": "让UniFi中的拓扑图正确显示第三方交换机和虚拟机",
-      "link": "https://wusiyu.me/unifi-topology-thirdparty-switch/",
-      "rsslink": "https://wusiyu.me/feed/",
-      "blogname": "WuSiYu Blog",
-      "createdat": "2026-06-09T19:21:32.000Z",
-      "crawledat": "2026-06-09T20:04:53.344Z"
-    },
-    {
-      "id": "44959",
-      "title": "2026年 激战2 常用网站和工具 #Guild wars 2",
-      "link": "https://anotherdayu.com/guild-wars-2/",
-      "rsslink": "https://anotherdayu.com/feed/",
-      "blogname": "Another Dayu",
-      "createdat": "2026-06-09T18:44:00.000Z",
-      "crawledat": "2026-06-22T16:55:42.767Z"
     }
   ]
 }

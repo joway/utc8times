@@ -4,6 +4,78 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "45113",
+      "title": "我把775篇收藏塞进4MB向量库：一个比Karpathy Wiki更能\"翻箱底\"的RAG skill",
+      "link": "https://colobu.com/2026/06/29/chao-rag-wiki-personal-knowledge-base/",
+      "rsslink": "https://colobu.com/atom.xml",
+      "blogname": "鸟窝",
+      "createdat": "2026-06-29T14:25:37.000Z",
+      "crawledat": "2026-06-29T19:54:57.860Z"
+    },
+    {
+      "id": "45129",
+      "title": "SPI 加入 Apple，Swift 迈向自举 - 肘子的 Swift 周报 #142",
+      "link": "https://fatbobman.com/zh/weekly/issue-142/",
+      "rsslink": "https://fatbobman.com/zh/rss.xml",
+      "blogname": "肘子的 Swift 记事本",
+      "createdat": "2026-06-29T14:00:00.000Z",
+      "crawledat": "2026-06-29T22:07:09.026Z"
+    },
+    {
+      "id": "45121",
+      "title": "遭遇新型钓鱼卖货法",
+      "link": "https://fxpai.com/article/zaoyuxinxingdiaoyumaihuofa",
+      "rsslink": "https://fxpai.com/feed",
+      "blogname": "非学·派",
+      "createdat": "2026-06-29T13:41:55.000Z",
+      "crawledat": "2026-06-29T22:07:09.026Z"
+    },
+    {
+      "id": "45112",
+      "title": "浏览器原生支持JSON模块导入与开发啦！",
+      "link": "https://www.zhangxinxu.com/wordpress/2026/06/native-json-module-import/",
+      "rsslink": "http://www.zhangxinxu.com/wordpress/?feed=rss2",
+      "blogname": "张鑫旭-鑫空间-鑫生活",
+      "createdat": "2026-06-29T11:49:17.000Z",
+      "crawledat": "2026-06-29T19:54:57.860Z"
+    },
+    {
+      "id": "45128",
+      "title": "从2022年建站至今，一次莫名其妙的CC攻击",
+      "link": "https://bluehe.cn/archives/2026-CC",
+      "rsslink": "https://bluehe.cn/feed/",
+      "blogname": "云心怀鹤",
+      "createdat": "2026-06-29T10:28:00.000Z",
+      "crawledat": "2026-06-29T22:07:09.026Z"
+    },
+    {
+      "id": "45120",
+      "title": "小米平板8Pro上手：便宜且流畅的好平板，安卓平板的高效令人印象深刻",
+      "link": "https://blog.zhheo.com/p/fadgmjtw.html",
+      "rsslink": "https://blog.zhheo.com/rss.xml",
+      "blogname": "张洪Heo",
+      "createdat": "2026-06-29T02:45:48.000Z",
+      "crawledat": "2026-06-29T19:54:57.860Z"
+    },
+    {
+      "id": "45110",
+      "title": "TIL：AI Agent 的四个控制层模式",
+      "link": "https://lujun9972.github.io/blog/2026/06/24/til：ai-agent-的四个控制层模式/index.html",
+      "rsslink": "https://www.lujun9972.win/rss.xml",
+      "blogname": "暗无天日",
+      "createdat": "2026-06-29T00:00:00.000Z",
+      "crawledat": "2026-06-29T15:42:49.469Z"
+    },
+    {
+      "id": "45144",
+      "title": "如何将 Kubernetes 中的 Events 分离到独立的 Etcd",
+      "link": "https://www.chenshaowen.com/blog/separate-kubernetes-events-to-dedicated-etcd.html",
+      "rsslink": "https://www.chenshaowen.com/atom.xml",
+      "blogname": "陈少文的博客",
+      "createdat": "2026-06-29T00:00:00.000Z",
+      "crawledat": "2026-06-30T19:53:49.273Z"
+    },
+    {
       "id": "45094",
       "title": "在 AI 浪潮下，如何留在牌桌上",
       "link": "https://innei.in/notes/216",
@@ -110,78 +182,6 @@
       "blogname": "鸟窝",
       "createdat": "2026-06-28T09:30:00.000Z",
       "crawledat": "2026-06-28T13:43:08.346Z"
-    },
-    {
-      "id": "45072",
-      "title": "UML 新用途：让 AI 理解你生成的代码",
-      "link": "https://colobu.com/2026/06/28/uml-new-use-ai-understands-generated-code/",
-      "rsslink": "https://colobu.com/atom.xml",
-      "blogname": "鸟窝",
-      "createdat": "2026-06-28T09:00:00.000Z",
-      "crawledat": "2026-06-28T13:43:08.346Z"
-    },
-    {
-      "id": "45073",
-      "title": "Understand-Anything：代码知识图谱",
-      "link": "https://colobu.com/2026/06/28/understand-anything-code-knowledge-graph/",
-      "rsslink": "https://colobu.com/atom.xml",
-      "blogname": "鸟窝",
-      "createdat": "2026-06-28T08:30:00.000Z",
-      "crawledat": "2026-06-28T13:43:08.346Z"
-    },
-    {
-      "id": "45096",
-      "title": "静待植物生长",
-      "link": "https://jubeny.com/2026/06/watch-the-plants-grow/",
-      "rsslink": "https://jubeny.com/feed.xml",
-      "blogname": "渚碧",
-      "createdat": "2026-06-28T08:26:11.000Z",
-      "crawledat": "2026-06-28T19:17:10.446Z"
-    },
-    {
-      "id": "45074",
-      "title": "Anthropic 官方插件：AI Agent 的领域知识插件",
-      "link": "https://colobu.com/2026/06/28/anthropic-official-plugins-domain-knowledge-ai-agent/",
-      "rsslink": "https://colobu.com/atom.xml",
-      "blogname": "鸟窝",
-      "createdat": "2026-06-28T08:00:00.000Z",
-      "crawledat": "2026-06-28T13:43:08.346Z"
-    },
-    {
-      "id": "45075",
-      "title": "agent-skills：用生产级工程纪律武装 AI Agent",
-      "link": "https://colobu.com/2026/06/28/agent-skills-production-grade-discipline-for-ai-agent/",
-      "rsslink": "https://colobu.com/atom.xml",
-      "blogname": "鸟窝",
-      "createdat": "2026-06-28T07:30:00.000Z",
-      "crawledat": "2026-06-28T13:43:08.346Z"
-    },
-    {
-      "id": "45076",
-      "title": "Compound Engineering：让每一份工作都让下一份更容易",
-      "link": "https://colobu.com/2026/06/28/compound-engineering-each-job-eases-the-next/",
-      "rsslink": "https://colobu.com/atom.xml",
-      "blogname": "鸟窝",
-      "createdat": "2026-06-28T07:00:00.000Z",
-      "crawledat": "2026-06-28T13:43:08.346Z"
-    },
-    {
-      "id": "45066",
-      "title": "Pensieve: 2606",
-      "link": "https://xiaket.github.io/2026/pensieve-2606.html",
-      "rsslink": "https://blog.xiaket.org/feed.xml",
-      "blogname": "年华转瞬",
-      "createdat": "2026-06-28T06:38:00.000Z",
-      "crawledat": "2026-06-28T11:05:47.619Z"
-    },
-    {
-      "id": "45123",
-      "title": "京东云无线宝 AX6600 雅典娜刷 OpenWrt/LibWrt 记录",
-      "link": "http://lihan3238.github.io/p/jdcloud_ax6600_athena_openwrt/",
-      "rsslink": "https://lihan3238.github.io/index.xml",
-      "blogname": "李寒的小窝",
-      "createdat": "2026-06-28T06:32:55.000Z",
-      "crawledat": "2026-06-29T22:07:09.026Z"
     }
   ]
 }
