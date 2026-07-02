@@ -4,6 +4,87 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "45069",
+      "title": "2026-06-28-前端与AI技术周报",
+      "link": "https://icodex.me/fe-ai-tech-weekly-2026-06-28",
+      "rsslink": "https://icodex.me/atom.xml",
+      "blogname": "icodex - 个人网站",
+      "createdat": "2026-06-28T00:00:00.000Z",
+      "crawledat": "2026-06-28T11:05:47.619Z"
+    },
+    {
+      "id": "45109",
+      "title": "KixDNS：用Rust重塑旁路网关的DNS分流——从选型到踩坑的记录",
+      "link": "https://deeprouter.org/article/kixdns-bypass-gateway-dns-guide",
+      "rsslink": "https://deeprouter.org/rss/feed.xml",
+      "blogname": "Deeprouter",
+      "createdat": "2026-06-28T00:00:00.000Z",
+      "crawledat": "2026-06-28T19:17:10.446Z"
+    },
+    {
+      "id": "45114",
+      "title": "Weekly Issue-人分千里外，兴在一杯中",
+      "link": "https://zdyxry.github.io/2026/06/28/Weekly-Issue-renfenqianliwai/",
+      "rsslink": "https://zdyxry.github.io/atom.xml",
+      "blogname": "Yiran's Blog",
+      "createdat": "2026-06-28T00:00:00.000Z",
+      "crawledat": "2026-06-29T19:54:57.860Z"
+    },
+    {
+      "id": "45098",
+      "title": "给 Hexo 博客换上 Giscus 评论系统",
+      "link": "https://aemoncao.github.io/2026/06/27/%E7%BB%99-Hexo-%E5%8D%9A%E5%AE%A2%E6%8D%A2%E4%B8%8A-Giscus-%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F/",
+      "rsslink": "https://aemoncao.github.io/rss2.xml",
+      "blogname": "Aemon's Blog",
+      "createdat": "2026-06-27T18:30:00.000Z",
+      "crawledat": "2026-06-28T19:17:10.446Z"
+    },
+    {
+      "id": "45099",
+      "title": "用 Pandoc 把 Markdown 简历转成 HTML 和 PDF",
+      "link": "https://aemoncao.github.io/2026/06/27/%E7%94%A8-Pandoc-%E6%8A%8A-Markdown-%E7%AE%80%E5%8E%86%E8%BD%AC%E6%88%90-HTML-%E5%92%8C-PDF/",
+      "rsslink": "https://aemoncao.github.io/rss2.xml",
+      "blogname": "Aemon's Blog",
+      "createdat": "2026-06-27T17:30:00.000Z",
+      "crawledat": "2026-06-28T19:17:10.446Z"
+    },
+    {
+      "id": "45416",
+      "title": "记一次基于 Hermes Agent 的 AI 助手自动化深度使用体验",
+      "link": "https://blog.cmyr.ltd/archives/hermes-agent-docker-deployment-deepseek-v4-feishu.html",
+      "rsslink": "https://blog.cmyr.ltd/atom.xml",
+      "blogname": "草梅友仁的博客",
+      "createdat": "2026-06-27T15:32:22.000Z",
+      "crawledat": "2026-07-02T19:21:40.345Z"
+    },
+    {
+      "id": "45428",
+      "title": "我花 25 块钱，把 10 年前的矿机买回来了：重走 BTC 之路",
+      "link": "https://blog.renfei.net/posts/1626402130325676141",
+      "rsslink": "https://blog.renfei.net/rss.xml",
+      "blogname": "任霏博客",
+      "createdat": "2026-06-27T14:54:32.000Z",
+      "crawledat": "2026-07-02T19:21:40.345Z"
+    },
+    {
+      "id": "45058",
+      "title": "肩吾",
+      "link": "https://zhurongshuo.com/posts/2026/06/2701/",
+      "rsslink": "https://zhurongshuo.com/index.xml",
+      "blogname": "祝融说",
+      "createdat": "2026-06-27T12:50:34.000Z",
+      "crawledat": "2026-06-27T19:17:54.281Z"
+    },
+    {
+      "id": "45050",
+      "title": "AI写会议纪要的挑战",
+      "link": "https://fxpai.com/article/aixiehuiyijiyaodetiaozhan",
+      "rsslink": "https://fxpai.com/feed",
+      "blogname": "非学·派",
+      "createdat": "2026-06-27T08:15:10.000Z",
+      "crawledat": "2026-06-27T10:56:28.941Z"
+    },
+    {
       "id": "45067",
       "title": "美国加州令人困惑的交通信号和标识",
       "link": "https://leimao.github.io/essay/%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%B7%9E%E4%BB%A4%E4%BA%BA%E5%9B%B0%E6%83%91%E7%9A%84%E4%BA%A4%E9%80%9A%E4%BF%A1%E5%8F%B7%E5%92%8C%E6%A0%87%E8%AF%86/",
@@ -49,6 +130,15 @@
       "crawledat": "2026-06-27T10:56:28.941Z"
     },
     {
+      "id": "45429",
+      "title": "岐阜下吕温泉",
+      "link": "https://shuiba.co/gero-onsen",
+      "rsslink": "https://shuiba.co/feed",
+      "blogname": "Shuibaco • 水八口",
+      "createdat": "2026-06-27T02:00:00.000Z",
+      "crawledat": "2026-07-02T19:21:40.345Z"
+    },
+    {
       "id": "41831",
       "title": "【操作系统百科】SELinux 与 AppArmor",
       "link": "https://quant67.com/post/os/97-mac-selinux-apparmor/mac-selinux-apparmor.html",
@@ -92,96 +182,6 @@
       "blogname": "Halfrost's Field",
       "createdat": "2026-06-26T10:01:32.000Z",
       "crawledat": "2026-06-26T22:11:51.685Z"
-    },
-    {
-      "id": "45039",
-      "title": "经验是资本，但也可以是偏见",
-      "link": "https://hiwannz.com/archives/1277.html",
-      "rsslink": "https://hiwannz.com/feed",
-      "blogname": "见字如面",
-      "createdat": "2026-06-26T10:01:00.000Z",
-      "crawledat": "2026-06-26T14:21:32.437Z"
-    },
-    {
-      "id": "45046",
-      "title": "二周目了",
-      "link": "https://blog.verynb.net/posts/5172.html",
-      "rsslink": "https://hehysh.github.io/atom.xml",
-      "blogname": "十贰的小窝",
-      "createdat": "2026-06-26T09:46:40.000Z",
-      "crawledat": "2026-06-27T02:56:08.927Z"
-    },
-    {
-      "id": "45042",
-      "title": "把笔记、微信读书、知乎装进 Obsidian：我基于llm-wiki知识中枢搭建实录",
-      "link": "https://lichuanyang.top/posts/18804/",
-      "rsslink": "http://lichuanyang.top/atom.xml",
-      "blogname": "Mobility",
-      "createdat": "2026-06-26T08:18:13.000Z",
-      "crawledat": "2026-06-26T22:11:51.685Z"
-    },
-    {
-      "id": "45037",
-      "title": "我的 Vibe Coding 最佳实践——ADR文档",
-      "link": "https://blog.est.im/2026/stdout-24",
-      "rsslink": "http://feeds.feedburner.com/initiative",
-      "blogname": "Est's Blog",
-      "createdat": "2026-06-26T01:40:00.000Z",
-      "crawledat": "2026-06-26T14:21:32.437Z"
-    },
-    {
-      "id": "45036",
-      "title": "科技爱好者周刊（第 401 期）：如何赚到10亿美元",
-      "link": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html",
-      "rsslink": "http://feeds.feedburner.com/ruanyifeng",
-      "blogname": "阮一峰的网络日志",
-      "createdat": "2026-06-26T00:05:38.000Z",
-      "crawledat": "2026-06-26T03:33:38.942Z"
-    },
-    {
-      "id": "41830",
-      "title": "【操作系统百科】seccomp-bpf 与 Landlock",
-      "link": "https://quant67.com/post/os/96-seccomp/seccomp.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-06-26T00:00:00.000Z",
-      "crawledat": "2026-04-20T19:03:15.391Z"
-    },
-    {
-      "id": "45017",
-      "title": "如何做决策 - 从 Go 的一个 issue 说起",
-      "link": "https://colobu.com/2026/06/26/open-decision-making-from-go-issue/",
-      "rsslink": "https://colobu.com/atom.xml",
-      "blogname": "鸟窝",
-      "createdat": "2026-06-26T00:00:00.000Z",
-      "crawledat": "2026-06-25T14:29:29.852Z"
-    },
-    {
-      "id": "45043",
-      "title": "读：读代码前先跑的五个 git 命令",
-      "link": "https://lujun9972.github.io/blog/2026/06/26/读：读代码前先跑的五个-git-命令/index.html",
-      "rsslink": "https://www.lujun9972.win/rss.xml",
-      "blogname": "暗无天日",
-      "createdat": "2026-06-26T00:00:00.000Z",
-      "crawledat": "2026-06-26T22:11:51.685Z"
-    },
-    {
-      "id": "45044",
-      "title": "读：File System Access API，浏览器原生读写本地文件",
-      "link": "https://lujun9972.github.io/blog/2026/06/25/读：file-system-access-api，浏览器原生读写本地文件/index.html",
-      "rsslink": "https://www.lujun9972.win/rss.xml",
-      "blogname": "暗无天日",
-      "createdat": "2026-06-26T00:00:00.000Z",
-      "crawledat": "2026-06-26T22:11:51.685Z"
-    },
-    {
-      "id": "45023",
-      "title": "学习周刊-总第269期-2026年第26周",
-      "link": "https://wiki.eryajf.net/pages/0e5d11/",
-      "rsslink": "https://wiki.eryajf.net/rss.xml",
-      "blogname": "二丫讲梵",
-      "createdat": "2026-06-25T21:55:37.000Z",
-      "crawledat": "2026-06-25T17:11:10.673Z"
     }
   ]
 }
