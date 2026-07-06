@@ -4,6 +4,33 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "45098",
+      "title": "给 Hexo 博客换上 Giscus 评论系统",
+      "link": "https://aemoncao.github.io/2026/06/27/%E7%BB%99-Hexo-%E5%8D%9A%E5%AE%A2%E6%8D%A2%E4%B8%8A-Giscus-%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F/",
+      "rsslink": "https://aemoncao.github.io/rss2.xml",
+      "blogname": "Aemon's Blog",
+      "createdat": "2026-06-27T18:30:00.000Z",
+      "crawledat": "2026-06-28T19:17:10.446Z"
+    },
+    {
+      "id": "45099",
+      "title": "用 Pandoc 把 Markdown 简历转成 HTML 和 PDF",
+      "link": "https://aemoncao.github.io/2026/06/27/%E7%94%A8-Pandoc-%E6%8A%8A-Markdown-%E7%AE%80%E5%8E%86%E8%BD%AC%E6%88%90-HTML-%E5%92%8C-PDF/",
+      "rsslink": "https://aemoncao.github.io/rss2.xml",
+      "blogname": "Aemon's Blog",
+      "createdat": "2026-06-27T17:30:00.000Z",
+      "crawledat": "2026-06-28T19:17:10.446Z"
+    },
+    {
+      "id": "45416",
+      "title": "记一次基于 Hermes Agent 的 AI 助手自动化深度使用体验",
+      "link": "https://blog.cmyr.ltd/archives/hermes-agent-docker-deployment-deepseek-v4-feishu.html",
+      "rsslink": "https://blog.cmyr.ltd/atom.xml",
+      "blogname": "草梅友仁的博客",
+      "createdat": "2026-06-27T15:32:22.000Z",
+      "crawledat": "2026-07-02T19:21:40.345Z"
+    },
+    {
       "id": "45428",
       "title": "我花 25 块钱，把 10 年前的矿机买回来了：重走 BTC 之路",
       "link": "https://blog.renfei.net/posts/1626402130325676141",
@@ -155,33 +182,6 @@
       "blogname": "Mobility",
       "createdat": "2026-06-26T08:18:13.000Z",
       "crawledat": "2026-06-26T22:11:51.685Z"
-    },
-    {
-      "id": "45037",
-      "title": "我的 Vibe Coding 最佳实践——ADR文档",
-      "link": "https://blog.est.im/2026/stdout-24",
-      "rsslink": "http://feeds.feedburner.com/initiative",
-      "blogname": "Est's Blog",
-      "createdat": "2026-06-26T01:40:00.000Z",
-      "crawledat": "2026-06-26T14:21:32.437Z"
-    },
-    {
-      "id": "45036",
-      "title": "科技爱好者周刊（第 401 期）：如何赚到10亿美元",
-      "link": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html",
-      "rsslink": "http://feeds.feedburner.com/ruanyifeng",
-      "blogname": "阮一峰的网络日志",
-      "createdat": "2026-06-26T00:05:38.000Z",
-      "crawledat": "2026-06-26T03:33:38.942Z"
-    },
-    {
-      "id": "41830",
-      "title": "【操作系统百科】seccomp-bpf 与 Landlock",
-      "link": "https://quant67.com/post/os/96-seccomp/seccomp.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-06-26T00:00:00.000Z",
-      "crawledat": "2026-04-20T19:03:15.391Z"
     }
   ]
 }
