@@ -4,6 +4,33 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "45144",
+      "title": "如何将 Kubernetes 中的 Events 分离到独立的 Etcd",
+      "link": "https://www.chenshaowen.com/blog/separate-kubernetes-events-to-dedicated-etcd.html",
+      "rsslink": "https://www.chenshaowen.com/atom.xml",
+      "blogname": "陈少文的博客",
+      "createdat": "2026-06-29T00:00:00.000Z",
+      "crawledat": "2026-06-30T19:53:49.273Z"
+    },
+    {
+      "id": "45818",
+      "title": "OpenSpec 技术分享：用规格驱动 AI 编程",
+      "link": "https://oragekk.me/tutorial/openspec.html",
+      "rsslink": "https://oragekk.me/rss.xml",
+      "blogname": "Oragekk's Blog",
+      "createdat": "2026-06-29T00:00:00.000Z",
+      "crawledat": "2026-07-07T02:55:56.329Z"
+    },
+    {
+      "id": "45094",
+      "title": "在 AI 浪潮下，如何留在牌桌上",
+      "link": "https://innei.in/notes/216",
+      "rsslink": "https://innei.ren/feed",
+      "blogname": "静かな森",
+      "createdat": "2026-06-28T15:51:02.000Z",
+      "crawledat": "2026-06-28T19:17:10.446Z"
+    },
+    {
       "id": "45095",
       "title": "Thinking in Bets",
       "link": "https://maxoxo.me/thinking-in-bets/",
@@ -155,33 +182,6 @@
       "blogname": "莫尔索",
       "createdat": "2026-06-28T08:00:00.000Z",
       "crawledat": "2026-07-07T02:55:56.329Z"
-    },
-    {
-      "id": "45075",
-      "title": "agent-skills：用生产级工程纪律武装 AI Agent",
-      "link": "https://colobu.com/2026/06/28/agent-skills-production-grade-discipline-for-ai-agent/",
-      "rsslink": "https://colobu.com/atom.xml",
-      "blogname": "鸟窝",
-      "createdat": "2026-06-28T07:30:00.000Z",
-      "crawledat": "2026-06-28T13:43:08.346Z"
-    },
-    {
-      "id": "45076",
-      "title": "Compound Engineering：让每一份工作都让下一份更容易",
-      "link": "https://colobu.com/2026/06/28/compound-engineering-each-job-eases-the-next/",
-      "rsslink": "https://colobu.com/atom.xml",
-      "blogname": "鸟窝",
-      "createdat": "2026-06-28T07:00:00.000Z",
-      "crawledat": "2026-06-28T13:43:08.346Z"
-    },
-    {
-      "id": "45066",
-      "title": "Pensieve: 2606",
-      "link": "https://xiaket.github.io/2026/pensieve-2606.html",
-      "rsslink": "https://blog.xiaket.org/feed.xml",
-      "blogname": "年华转瞬",
-      "createdat": "2026-06-28T06:38:00.000Z",
-      "crawledat": "2026-06-28T11:05:47.619Z"
     }
   ]
 }
