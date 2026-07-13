@@ -4,6 +4,78 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "45842",
+      "title": "Vol.109 慢下来才能更快：AI编程的下一个瓶颈是验证与审查",
+      "link": "https://liduos.com/weekly/the-weekly-gradient-109",
+      "rsslink": "https://liduos.com/atom.xml",
+      "blogname": "莫尔索",
+      "createdat": "2026-06-28T08:00:00.000Z",
+      "crawledat": "2026-07-07T02:55:56.329Z"
+    },
+    {
+      "id": "45075",
+      "title": "agent-skills：用生产级工程纪律武装 AI Agent",
+      "link": "https://colobu.com/2026/06/28/agent-skills-production-grade-discipline-for-ai-agent/",
+      "rsslink": "https://colobu.com/atom.xml",
+      "blogname": "鸟窝",
+      "createdat": "2026-06-28T07:30:00.000Z",
+      "crawledat": "2026-06-28T13:43:08.346Z"
+    },
+    {
+      "id": "45076",
+      "title": "Compound Engineering：让每一份工作都让下一份更容易",
+      "link": "https://colobu.com/2026/06/28/compound-engineering-each-job-eases-the-next/",
+      "rsslink": "https://colobu.com/atom.xml",
+      "blogname": "鸟窝",
+      "createdat": "2026-06-28T07:00:00.000Z",
+      "crawledat": "2026-06-28T13:43:08.346Z"
+    },
+    {
+      "id": "45066",
+      "title": "Pensieve: 2606",
+      "link": "https://xiaket.github.io/2026/pensieve-2606.html",
+      "rsslink": "https://blog.xiaket.org/feed.xml",
+      "blogname": "年华转瞬",
+      "createdat": "2026-06-28T06:38:00.000Z",
+      "crawledat": "2026-06-28T11:05:47.619Z"
+    },
+    {
+      "id": "45123",
+      "title": "京东云无线宝 AX6600 雅典娜刷 OpenWrt/LibWrt 记录",
+      "link": "http://lihan3238.github.io/p/jdcloud_ax6600_athena_openwrt/",
+      "rsslink": "https://lihan3238.github.io/index.xml",
+      "blogname": "李寒的小窝",
+      "createdat": "2026-06-28T06:32:55.000Z",
+      "crawledat": "2026-06-29T22:07:09.026Z"
+    },
+    {
+      "id": "45077",
+      "title": "improve：用强模型审计、让弱模型执行的\"计划即产品\"工作流",
+      "link": "https://colobu.com/2026/06/28/improve-strong-audit-weak-execute-plan-as-product/",
+      "rsslink": "https://colobu.com/atom.xml",
+      "blogname": "鸟窝",
+      "createdat": "2026-06-28T06:30:00.000Z",
+      "crawledat": "2026-06-28T13:43:08.346Z"
+    },
+    {
+      "id": "45859",
+      "title": "#183 – 把課程萃取成 AI 助教 / Notion 台灣區負責人職缺分析 / Agent 怎麼選 ®️雷蒙週報",
+      "link": "https://raymondhouch.com/newsletter/183/",
+      "rsslink": "https://raymondhouch.com/feed",
+      "blogname": "雷蒙三十",
+      "createdat": "2026-06-28T06:03:46.000Z",
+      "crawledat": "2026-07-07T02:55:56.329Z"
+    },
+    {
+      "id": "45078",
+      "title": "GSD Core：对抗上下文腐化的阶段循环引擎",
+      "link": "https://colobu.com/2026/06/28/gsd-core-against-context-rot-stage-loop-engine/",
+      "rsslink": "https://colobu.com/atom.xml",
+      "blogname": "鸟窝",
+      "createdat": "2026-06-28T06:00:00.000Z",
+      "crawledat": "2026-06-28T13:43:08.346Z"
+    },
+    {
       "id": "45079",
       "title": "Loop Engineering：从提示 Agent 到设计循环",
       "link": "https://colobu.com/2026/06/28/loop-engineering-from-prompting-to-designing-loops/",
@@ -110,78 +182,6 @@
       "blogname": "东评西就",
       "createdat": "2026-06-28T02:17:03.000Z",
       "crawledat": "2026-07-07T02:55:56.329Z"
-    },
-    {
-      "id": "45086",
-      "title": "gstack 方法论：虚拟工程团队",
-      "link": "https://colobu.com/2026/06/28/gstack-methodology-virtual-engineering-team/",
-      "rsslink": "https://colobu.com/atom.xml",
-      "blogname": "鸟窝",
-      "createdat": "2026-06-28T02:00:00.000Z",
-      "crawledat": "2026-06-28T13:43:08.346Z"
-    },
-    {
-      "id": "45087",
-      "title": "Ralph Loop：自主循环开发",
-      "link": "https://colobu.com/2026/06/28/ralph-loop-autonomous-loop-development/",
-      "rsslink": "https://colobu.com/atom.xml",
-      "blogname": "鸟窝",
-      "createdat": "2026-06-28T01:30:00.000Z",
-      "crawledat": "2026-06-28T13:43:08.346Z"
-    },
-    {
-      "id": "45888",
-      "title": "最终选择去天津大学了",
-      "link": "https://blog.distjr.top/2026/06/28/2260628/",
-      "rsslink": "https://blog.distjr.top/atom.xml",
-      "blogname": "distjr_'s blog",
-      "createdat": "2026-06-28T01:30:00.000Z",
-      "crawledat": "2026-07-07T02:55:56.329Z"
-    },
-    {
-      "id": "45055",
-      "title": "大语言模型的基石：Transformer 入坑笔记（三） - 注意力机制和 Transformer",
-      "link": "//owent.net/2026/2610.html",
-      "rsslink": "https://owent.net/index.xml",
-      "blogname": "I'm OWenT",
-      "createdat": "2026-06-28T01:25:45.000Z",
-      "crawledat": "2026-06-27T19:17:54.281Z"
-    },
-    {
-      "id": "45088",
-      "title": "规格驱动开发：人类与AI的合约",
-      "link": "https://colobu.com/2026/06/28/spec-driven-development-human-ai-contract/",
-      "rsslink": "https://colobu.com/atom.xml",
-      "blogname": "鸟窝",
-      "createdat": "2026-06-28T01:00:00.000Z",
-      "crawledat": "2026-06-28T13:43:08.346Z"
-    },
-    {
-      "id": "45089",
-      "title": "Matt Pocock 的 Skills 系统：真正的工程，不是氛围编程",
-      "link": "https://colobu.com/2026/06/28/mattpocock-skills-real-engineering-not-vibe-coding/",
-      "rsslink": "https://colobu.com/atom.xml",
-      "blogname": "鸟窝",
-      "createdat": "2026-06-28T00:30:00.000Z",
-      "crawledat": "2026-06-28T13:43:08.346Z"
-    },
-    {
-      "id": "41832",
-      "title": "【操作系统百科】IMA、EVM 与 dm-verity",
-      "link": "https://quant67.com/post/os/98-integrity/integrity.html",
-      "rsslink": "https://quant67.com/rss.xml",
-      "blogname": "土法炼钢兴趣小组的博客",
-      "createdat": "2026-06-28T00:00:00.000Z",
-      "crawledat": "2026-04-20T19:03:15.391Z"
-    },
-    {
-      "id": "45069",
-      "title": "2026-06-28-前端与AI技术周报",
-      "link": "https://icodex.me/fe-ai-tech-weekly-2026-06-28",
-      "rsslink": "https://icodex.me/atom.xml",
-      "blogname": "icodex - 个人网站",
-      "createdat": "2026-06-28T00:00:00.000Z",
-      "crawledat": "2026-06-28T11:05:47.619Z"
     }
   ]
 }
