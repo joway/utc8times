@@ -4,6 +4,51 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "46205",
+      "title": "大数据技术的演进：从 Hive、GFS 到 Raft",
+      "link": "https://www.nosuchfield.com/2026/07/15/The-Evolution-of-Big-Data-From-Hive-GFS-to-Raft/",
+      "rsslink": "https://www.nosuchfield.com/atom.xml",
+      "blogname": "御坂研究所",
+      "createdat": "2026-07-15T21:30:00.000Z",
+      "crawledat": "2026-07-15T10:47:38.182Z"
+    },
+    {
+      "id": "46203",
+      "title": "聊聊 -XX:MaxRAMPercentage=75%",
+      "link": "https://www.bboy.app/2026/07/15/%E8%81%8A%E8%81%8A-xxmaxrampercentage75/",
+      "rsslink": "https://www.bboy.app/atom.xml",
+      "blogname": "bboysoul的博客",
+      "createdat": "2026-07-15T10:56:00.000Z",
+      "crawledat": "2026-07-15T10:47:38.182Z"
+    },
+    {
+      "id": "46201",
+      "title": "HAMi Community Evolution: When AI Writes Code, What Makes an Open Source Community Valuable?",
+      "link": "https://jimmysong.io/slide/hami-community-evolution-slide/",
+      "rsslink": "https://jimmysong.io/index.xml",
+      "blogname": "云原生",
+      "createdat": "2026-07-15T09:17:07.000Z",
+      "crawledat": "2026-07-15T10:47:38.182Z"
+    },
+    {
+      "id": "46202",
+      "title": "第一卷 03",
+      "link": "https://kaix.in/2026/0712/339a/",
+      "rsslink": "https://kaix.in/feed/",
+      "blogname": "KAIX.IN",
+      "createdat": "2026-07-15T09:15:04.000Z",
+      "crawledat": "2026-07-15T10:47:38.182Z"
+    },
+    {
+      "id": "46204",
+      "title": "说说：#2026-07-15 09:01",
+      "link": "https://www.mmbkz.cn/f576bfc1.html",
+      "rsslink": "https://www.mmbkz.cn/feed",
+      "blogname": "火喵日记本",
+      "createdat": "2026-07-15T09:01:51.000Z",
+      "crawledat": "2026-07-15T10:47:38.182Z"
+    },
+    {
       "id": "46198",
       "title": "20260715的胡言乱语",
       "link": "https://www.bboy.app/2026/07/15/20260715%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/",
@@ -22,6 +67,15 @@
       "crawledat": "2026-07-15T02:18:40.259Z"
     },
     {
+      "id": "46209",
+      "title": "macOS 使用 Crossover 游戏中文输入显示问号乱码问题",
+      "link": "https://anotherdayu.com/crossover-macos-chinese/",
+      "rsslink": "https://anotherdayu.com/feed/",
+      "blogname": "Another Dayu",
+      "createdat": "2026-07-15T08:48:00.000Z",
+      "crawledat": "2026-07-15T10:47:38.182Z"
+    },
+    {
       "id": "46200",
       "title": "从 400U 到 800U：小账户做短线时，我这周学到的几件事",
       "link": "https://blog.forecho.com/from-400u-to-800u-small-account-scalping-lessons.html",
@@ -29,6 +83,15 @@
       "blogname": "forecho 的独立博客",
       "createdat": "2026-07-15T03:00:00.000Z",
       "crawledat": "2026-07-15T05:28:59.042Z"
+    },
+    {
+      "id": "46208",
+      "title": "学习雷锋好榜样",
+      "link": "https://shuiba.co/call-me-leifeng",
+      "rsslink": "https://shuiba.co/feed",
+      "blogname": "Shuibaco • 水八口",
+      "createdat": "2026-07-14T23:48:00.000Z",
+      "crawledat": "2026-07-15T10:47:38.182Z"
     },
     {
       "id": "46180",
@@ -76,6 +139,15 @@
       "crawledat": "2026-07-14T21:55:21.273Z"
     },
     {
+      "id": "46207",
+      "title": "PowerBI笔记",
+      "link": "https://blog.si-on.top/2026/Note4PowerBI/",
+      "rsslink": "https://blog.si-on.top/atom.xml",
+      "blogname": "子虚栈",
+      "createdat": "2026-07-14T05:08:37.000Z",
+      "crawledat": "2026-07-15T10:47:38.182Z"
+    },
+    {
       "id": "46177",
       "title": "macOS 里 神秘的 kernel_task ，为什么一直在写入硬盘？",
       "link": "https://wocai.de/post/2026/07/macos-kernel-task-disk-write/",
@@ -110,78 +182,6 @@
       "blogname": "火喵日记本",
       "createdat": "2026-07-14T01:04:34.000Z",
       "crawledat": "2026-07-14T02:21:45.003Z"
-    },
-    {
-      "id": "46178",
-      "title": "TIL: minibuffer-replace-input——递归 minibuffer 中插入内容",
-      "link": "https://lujun9972.github.io/blog/2026/07/13/til-minibuffer-replace-input——递归-minibuffer-中插入内容/index.html",
-      "rsslink": "https://www.lujun9972.win/rss.xml",
-      "blogname": "暗无天日",
-      "createdat": "2026-07-14T00:00:00.000Z",
-      "crawledat": "2026-07-14T08:00:30.724Z"
-    },
-    {
-      "id": "46179",
-      "title": "决策卡住时，往上问一层「我到底要解决什么问题」",
-      "link": "https://lujun9972.github.io/blog/2026/07/10/决策卡住时，往上问一层「我到底要解决什么问题」/index.html",
-      "rsslink": "https://www.lujun9972.win/rss.xml",
-      "blogname": "暗无天日",
-      "createdat": "2026-07-14T00:00:00.000Z",
-      "crawledat": "2026-07-14T08:00:30.724Z"
-    },
-    {
-      "id": "46197",
-      "title": "别拿 X 当创作主阵地：被幽灵禁言后我才明白",
-      "link": "https://wsdjeg.net/dont-use-x-as-primary-platform/",
-      "rsslink": "https://wsdjeg.net/feed.xml",
-      "blogname": "Eric's Blog",
-      "createdat": "2026-07-14T00:00:00.000Z",
-      "crawledat": "2026-07-15T02:18:40.259Z"
-    },
-    {
-      "id": "46135",
-      "title": "那些让人笑出声的Meme排序算法",
-      "link": "https://xiaozhou.net/meme-sorting-algorithms-2026-07-13.html",
-      "rsslink": "https://xiaozhou.net/atom.xml",
-      "blogname": "iTimothy",
-      "createdat": "2026-07-13T22:19:17.000Z",
-      "crawledat": "2026-07-13T17:11:21.116Z"
-    },
-    {
-      "id": "46188",
-      "title": "I have no TEE, and I must attest",
-      "link": "https://shrik3.com/post/sys/tee/",
-      "rsslink": "https://shrik3.com/index.xml",
-      "blogname": "shrik3",
-      "createdat": "2026-07-13T18:55:39.000Z",
-      "crawledat": "2026-07-14T19:16:29.446Z"
-    },
-    {
-      "id": "46172",
-      "title": "Zine#54 - 世界杯、純文本、隨機頁面、巫師三",
-      "link": "https://taxodium.ink/54.html",
-      "rsslink": "https://taxodium.ink/rss.xml",
-      "blogname": "Taxodium",
-      "createdat": "2026-07-13T17:30:00.000Z",
-      "crawledat": "2026-07-13T21:54:35.611Z"
-    },
-    {
-      "id": "46183",
-      "title": "日本小学语文课文（二年级上）",
-      "link": "https://springwood.me/jp-elementary-school-language-2a/",
-      "rsslink": "https://springwood.me/feed/",
-      "blogname": "沉舟侧畔 Blog",
-      "createdat": "2026-07-13T15:00:00.000Z",
-      "crawledat": "2026-07-14T10:43:12.055Z"
-    },
-    {
-      "id": "46161",
-      "title": "当每一次写入都有了新价格 - 肘子的 Swift 周报 #144",
-      "link": "https://fatbobman.com/zh/weekly/issue-144/",
-      "rsslink": "https://fatbobman.com/zh/rss.xml",
-      "blogname": "肘子的 Swift 记事本",
-      "createdat": "2026-07-13T14:00:00.000Z",
-      "crawledat": "2026-07-13T21:54:35.611Z"
     }
   ]
 }
