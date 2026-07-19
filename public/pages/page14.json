@@ -4,6 +4,24 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "46241",
+      "title": "订阅语义与 Ack 边界：Pulsar 消息投递的设计逻辑",
+      "link": "https://lujun9972.github.io/blog/2026/06/25/订阅语义与-ack-边界：pulsar-消息投递的设计逻辑/index.html",
+      "rsslink": "https://www.lujun9972.win/rss.xml",
+      "blogname": "暗无天日",
+      "createdat": "2026-07-16T00:00:00.000Z",
+      "crawledat": "2026-07-16T10:57:47.170Z"
+    },
+    {
+      "id": "46205",
+      "title": "大数据技术的演进：从 Hive、GFS 到 Raft",
+      "link": "https://www.nosuchfield.com/2026/07/15/The-Evolution-of-Big-Data-From-Hive-GFS-to-Raft/",
+      "rsslink": "https://www.nosuchfield.com/atom.xml",
+      "blogname": "御坂研究所",
+      "createdat": "2026-07-15T21:30:00.000Z",
+      "crawledat": "2026-07-15T10:47:38.182Z"
+    },
+    {
       "id": "46211",
       "title": "使用 Obsidian 作为 AI 时代的 IDE：Karpathy「Wiki as Codebase」的落地实践——Claudian、CLAUDE.md 与 Vault Lint",
       "link": "https://xilidou.com/2026/07/15/obsidian-as-ide/",
@@ -164,24 +182,6 @@
       "blogname": "Mox的笔记库",
       "createdat": "2026-07-14T09:08:03.000Z",
       "crawledat": "2026-07-14T21:55:21.273Z"
-    },
-    {
-      "id": "46207",
-      "title": "PowerBI笔记",
-      "link": "https://blog.si-on.top/2026/Note4PowerBI/",
-      "rsslink": "https://blog.si-on.top/atom.xml",
-      "blogname": "子虚栈",
-      "createdat": "2026-07-14T05:08:37.000Z",
-      "crawledat": "2026-07-15T10:47:38.182Z"
-    },
-    {
-      "id": "46177",
-      "title": "macOS 里 神秘的 kernel_task ，为什么一直在写入硬盘？",
-      "link": "https://wocai.de/post/2026/07/macos-kernel-task-disk-write/",
-      "rsslink": "https://wocai.de/index.xml/",
-      "blogname": "kok的笔记本",
-      "createdat": "2026-07-14T04:00:00.000Z",
-      "crawledat": "2026-07-14T08:00:30.724Z"
     }
   ]
 }
