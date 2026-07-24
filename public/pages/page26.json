@@ -4,6 +4,15 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "45937",
+      "title": "AI in Harness（一）",
+      "link": "https://xilidou.com/2026/07/07/harness1/",
+      "rsslink": "https://xilidou.com/atom.xml",
+      "blogname": "犀利豆的博客",
+      "createdat": "2026-07-07T21:12:17.000Z",
+      "crawledat": "2026-07-07T11:48:34.679Z"
+    },
+    {
       "id": "45961",
       "title": "在 CDN 边缘做灰度：分流在缓存前，资产在灰度外",
       "link": "https://innei.in/posts/tech/canary-at-the-cdn-edge",
@@ -173,15 +182,6 @@
       "blogname": "静かな森",
       "createdat": "2026-07-06T18:30:19.000Z",
       "crawledat": "2026-07-07T02:55:56.329Z"
-    },
-    {
-      "id": "45534",
-      "title": "渲染进程和主进程之间如何通信",
-      "link": "https://www.xiabingbao.com/post/electron-ipcrenderer-ipcmain-thrhfd.html",
-      "rsslink": "https://www.xiabingbao.com/atom.xml",
-      "blogname": "蚊子前端博客",
-      "createdat": "2026-07-06T16:21:13.000Z",
-      "crawledat": "2026-07-06T19:53:11.679Z"
     }
   ]
 }
