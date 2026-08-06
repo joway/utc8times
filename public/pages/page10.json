@@ -4,6 +4,96 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "46960",
+      "title": "第14章 Daemon + Client 架构",
+      "link": "https://zhurongshuo.com/practices/season-5/exploring-autonomous-ai/part-05/chapter-14/",
+      "rsslink": "https://zhurongshuo.com/index.xml",
+      "blogname": "祝融说",
+      "createdat": "2026-07-28T16:00:00.000Z",
+      "crawledat": "2026-07-29T14:05:52.029Z"
+    },
+    {
+      "id": "46961",
+      "title": "第15章 可观测性与调试",
+      "link": "https://zhurongshuo.com/practices/season-5/exploring-autonomous-ai/part-05/chapter-15/",
+      "rsslink": "https://zhurongshuo.com/index.xml",
+      "blogname": "祝融说",
+      "createdat": "2026-07-28T16:00:00.000Z",
+      "crawledat": "2026-07-29T14:05:52.029Z"
+    },
+    {
+      "id": "46962",
+      "title": "第16章 测试策略与行为验证",
+      "link": "https://zhurongshuo.com/practices/season-5/exploring-autonomous-ai/part-05/chapter-16/",
+      "rsslink": "https://zhurongshuo.com/index.xml",
+      "blogname": "祝融说",
+      "createdat": "2026-07-28T16:00:00.000Z",
+      "crawledat": "2026-07-29T14:05:52.029Z"
+    },
+    {
+      "id": "46963",
+      "title": "第17章 文件系统即自我",
+      "link": "https://zhurongshuo.com/practices/season-5/exploring-autonomous-ai/part-06/chapter-01/",
+      "rsslink": "https://zhurongshuo.com/index.xml",
+      "blogname": "祝融说",
+      "createdat": "2026-07-28T16:00:00.000Z",
+      "crawledat": "2026-07-29T14:05:52.029Z"
+    },
+    {
+      "id": "46964",
+      "title": "第18章 三分架构——Tool、Skill、Capability",
+      "link": "https://zhurongshuo.com/practices/season-5/exploring-autonomous-ai/part-06/chapter-02/",
+      "rsslink": "https://zhurongshuo.com/index.xml",
+      "blogname": "祝融说",
+      "createdat": "2026-07-28T16:00:00.000Z",
+      "crawledat": "2026-07-29T14:05:52.029Z"
+    },
+    {
+      "id": "46965",
+      "title": "第19章 从 REPL 到操作系统",
+      "link": "https://zhurongshuo.com/practices/season-5/exploring-autonomous-ai/part-06/chapter-03/",
+      "rsslink": "https://zhurongshuo.com/index.xml",
+      "blogname": "祝融说",
+      "createdat": "2026-07-28T16:00:00.000Z",
+      "crawledat": "2026-07-29T14:05:52.029Z"
+    },
+    {
+      "id": "46966",
+      "title": "第1章 自主 AI agent 的困境",
+      "link": "https://zhurongshuo.com/practices/season-5/exploring-autonomous-ai/part-01/chapter-01/",
+      "rsslink": "https://zhurongshuo.com/index.xml",
+      "blogname": "祝融说",
+      "createdat": "2026-07-28T16:00:00.000Z",
+      "crawledat": "2026-07-29T14:05:52.029Z"
+    },
+    {
+      "id": "46967",
+      "title": "第20章 大门开在哪里——自修改系统的信任边界",
+      "link": "https://zhurongshuo.com/practices/season-5/exploring-autonomous-ai/part-06/chapter-04/",
+      "rsslink": "https://zhurongshuo.com/index.xml",
+      "blogname": "祝融说",
+      "createdat": "2026-07-28T16:00:00.000Z",
+      "crawledat": "2026-07-29T14:05:52.029Z"
+    },
+    {
+      "id": "46968",
+      "title": "第21章 事前之图，事后之树",
+      "link": "https://zhurongshuo.com/practices/season-5/exploring-autonomous-ai/part-06/chapter-05/",
+      "rsslink": "https://zhurongshuo.com/index.xml",
+      "blogname": "祝融说",
+      "createdat": "2026-07-28T16:00:00.000Z",
+      "crawledat": "2026-07-29T14:05:52.029Z"
+    },
+    {
+      "id": "46969",
+      "title": "第22章 有用户 vs. 无用户——两种 agent 模式",
+      "link": "https://zhurongshuo.com/practices/season-5/exploring-autonomous-ai/part-06/chapter-06/",
+      "rsslink": "https://zhurongshuo.com/index.xml",
+      "blogname": "祝融说",
+      "createdat": "2026-07-28T16:00:00.000Z",
+      "crawledat": "2026-07-29T14:05:52.029Z"
+    },
+    {
       "id": "46970",
       "title": "第23章 第三级验收门——什么时候信任你的 agent",
       "link": "https://zhurongshuo.com/practices/season-5/exploring-autonomous-ai/part-06/chapter-07/",
@@ -92,96 +182,6 @@
       "blogname": "Jack Liu博客",
       "createdat": "2026-07-28T15:02:58.000Z",
       "crawledat": "2026-08-03T02:37:53.878Z"
-    },
-    {
-      "id": "46949",
-      "title": "陪孩子九寨沟游学第三日",
-      "link": "https://fxpai.com/article/peihaizijiuzhaigouyouxuedisanri",
-      "rsslink": "https://fxpai.com/feed",
-      "blogname": "非学·派",
-      "createdat": "2026-07-28T14:07:43.000Z",
-      "crawledat": "2026-07-28T19:19:51.191Z"
-    },
-    {
-      "id": "46954",
-      "title": "YOLO图片监测怎么整",
-      "link": "https://www.seis-jun.xyz/blog/2026-07-28-yolo-training-on-gpu1.html",
-      "rsslink": "https://www.seis-jun.xyz/atom.xml",
-      "blogname": "seisamuse",
-      "createdat": "2026-07-28T14:02:24.000Z",
-      "crawledat": "2026-07-29T02:28:24.156Z"
-    },
-    {
-      "id": "46947",
-      "title": "处理生后事的一个月",
-      "link": "https://hin.cool/posts/byebyemyfather.html",
-      "rsslink": "https://hin.cool/atom.xml",
-      "blogname": "W4J1e's blog",
-      "createdat": "2026-07-28T14:00:00.000Z",
-      "crawledat": "2026-07-28T19:19:51.191Z"
-    },
-    {
-      "id": "46943",
-      "title": "20260728的胡言乱语",
-      "link": "https://www.bboy.app/2026/07/28/20260728%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/",
-      "rsslink": "https://www.bboy.app/atom.xml",
-      "blogname": "bboysoul的博客",
-      "createdat": "2026-07-28T09:36:00.000Z",
-      "crawledat": "2026-07-28T08:30:27.597Z"
-    },
-    {
-      "id": "46944",
-      "title": "Random Thoughts - 20260728",
-      "link": "https://www.bboy.app/2026/07/28/random-thoughts-20260728/",
-      "rsslink": "https://www.bboy.app/atom.xml",
-      "blogname": "bboysoul的博客",
-      "createdat": "2026-07-28T09:36:00.000Z",
-      "crawledat": "2026-07-28T08:30:27.597Z"
-    },
-    {
-      "id": "46946",
-      "title": "喷喷",
-      "link": "https://blog.fivest.one/archives/7149",
-      "rsslink": "http://blog.fivest.one/feed",
-      "blogname": "fivestone - 同一种调调",
-      "createdat": "2026-07-28T06:10:50.000Z",
-      "crawledat": "2026-07-28T19:19:51.191Z"
-    },
-    {
-      "id": "47275",
-      "title": "入蜀记 day430 奴隶与贱民",
-      "link": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_430/",
-      "rsslink": "http://z.arlmy.me/atom.xml",
-      "blogname": "素生",
-      "createdat": "2026-07-28T04:48:27.000Z",
-      "crawledat": "2026-08-01T21:53:16.550Z"
-    },
-    {
-      "id": "46940",
-      "title": "Terms of Service",
-      "link": "https://jimmysong.io/terms/",
-      "rsslink": "https://jimmysong.io/index.xml",
-      "blogname": "云原生",
-      "createdat": "2026-07-28T01:49:09.000Z",
-      "crawledat": "2026-07-28T02:24:20.132Z"
-    },
-    {
-      "id": "46941",
-      "title": "Privacy Policy",
-      "link": "https://jimmysong.io/privacy/",
-      "rsslink": "https://jimmysong.io/index.xml",
-      "blogname": "云原生",
-      "createdat": "2026-07-28T01:49:02.000Z",
-      "crawledat": "2026-07-28T02:24:20.132Z"
-    },
-    {
-      "id": "46942",
-      "title": "家电维修🔧",
-      "link": "https://102no.com/2026/07/28/jia-dian-wei-xiu/",
-      "rsslink": "https://102no.com/atom.xml",
-      "blogname": "把酒诗代码",
-      "createdat": "2026-07-28T00:00:00.000Z",
-      "crawledat": "2026-07-28T08:30:27.597Z"
     }
   ]
 }
