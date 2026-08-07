@@ -4,6 +4,69 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "47665",
+      "title": "Safari 云签名在 GitHub Actions 中的两个陷阱",
+      "link": "https://blog.rxliuli.com/p/dcf4d3d7168f4e31b7719030005bf10e/",
+      "rsslink": "https://blog.rxliuli.com/atom.xml",
+      "blogname": "rxliuli blog",
+      "createdat": "2026-08-05T13:14:30.269Z",
+      "crawledat": "2026-08-05T16:40:09.527Z"
+    },
+    {
+      "id": "47676",
+      "title": "华尔街开始查账 AI泡沫破灭了吗",
+      "link": "http://weiwuhui.com/11053.html",
+      "rsslink": "http://weiwuhui.com/feed",
+      "blogname": "扯氮集",
+      "createdat": "2026-08-05T11:10:00.000Z",
+      "crawledat": "2026-08-06T02:24:49.673Z"
+    },
+    {
+      "id": "47671",
+      "title": "K8s etcd 集群崩溃异常恢复",
+      "link": "https://chegva.com/6797.html",
+      "rsslink": "https://chegva.com/feed/",
+      "blogname": "安志合的学习博客",
+      "createdat": "2026-08-05T10:25:28.000Z",
+      "crawledat": "2026-08-05T19:26:22.940Z"
+    },
+    {
+      "id": "47678",
+      "title": "Claude Code Tools 研究系列（四）—— Grep + Glob：搜索双人组",
+      "link": "https://xilidou.com/2026/08/05/claude-code-tools-grep-glob/",
+      "rsslink": "https://xilidou.com/atom.xml",
+      "blogname": "犀利豆的博客",
+      "createdat": "2026-08-05T10:00:00.000Z",
+      "crawledat": "2026-08-06T02:24:49.673Z"
+    },
+    {
+      "id": "47650",
+      "title": "连下几天雨，大蜗牛满地跑，嗦粉看大蜗牛",
+      "link": "https://fxpai.com/article/lianxiajitianyudawoniumandepaosuofenkandawoniu",
+      "rsslink": "https://fxpai.com/feed",
+      "blogname": "非学·派",
+      "createdat": "2026-08-05T07:04:40.000Z",
+      "crawledat": "2026-08-05T08:32:19.826Z"
+    },
+    {
+      "id": "47672",
+      "title": "多地暴雨工人被困高空吊篮，美团试点“等灯停表”｜工劳小报 #89 新闻刊",
+      "link": "https://feed.laborinfocn7.com/issue89-news/",
+      "rsslink": "https://newsletter.laborinfocn.com/rss",
+      "blogname": "工劳小报",
+      "createdat": "2026-08-05T05:36:07.000Z",
+      "crawledat": "2026-08-05T19:26:22.940Z"
+    },
+    {
+      "id": "47680",
+      "title": "入蜀记 day437 靠山邸",
+      "link": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_437/",
+      "rsslink": "http://z.arlmy.me/atom.xml",
+      "blogname": "素生",
+      "createdat": "2026-08-05T04:48:27.000Z",
+      "crawledat": "2026-08-06T02:24:49.673Z"
+    },
+    {
       "id": "47669",
       "title": "把谷歌官方指南做成了AI技能，还顺手修了个bug",
       "link": "https://youerning.top/post/geo/ai-search-skill/",
@@ -118,69 +181,6 @@
       "rsslink": "https://blog.yasking.org/atom.xml",
       "blogname": "东东's Blog",
       "createdat": "2026-08-04T10:20:16.000Z",
-      "crawledat": "2026-08-04T19:29:06.328Z"
-    },
-    {
-      "id": "47603",
-      "title": "Claude Code Tools 研究系列（三）—— ExitPlanMode：把方案提交给用户批准",
-      "link": "https://xilidou.com/2026/08/04/claude-code-tools-exit-plan-mode/",
-      "rsslink": "https://xilidou.com/atom.xml",
-      "blogname": "犀利豆的博客",
-      "createdat": "2026-08-04T10:00:00.000Z",
-      "crawledat": "2026-08-04T08:33:01.685Z"
-    },
-    {
-      "id": "47643",
-      "title": "在「接缝」的彼岸：横滨观演与日本纪行",
-      "link": "https://blog.deepchirp.com/2026/08/04/Beyond-the-Connection-Point-Yokohama-Concert-and-Japan-Travels/",
-      "rsslink": "https://blog.deepchirp.com/atom.xml",
-      "blogname": "空鸣深语",
-      "createdat": "2026-08-04T08:41:08.000Z",
-      "crawledat": "2026-08-04T19:29:06.328Z"
-    },
-    {
-      "id": "47607",
-      "title": "20260726 新加坡",
-      "link": "https://61.life/2026/0726",
-      "rsslink": "https://61.life/feed.xml",
-      "blogname": "61's life",
-      "createdat": "2026-08-04T07:12:22.000Z",
-      "crawledat": "2026-08-04T14:06:08.420Z"
-    },
-    {
-      "id": "47681",
-      "title": "入蜀记 day436 钟美美",
-      "link": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_436/",
-      "rsslink": "http://z.arlmy.me/atom.xml",
-      "blogname": "素生",
-      "createdat": "2026-08-04T04:48:27.000Z",
-      "crawledat": "2026-08-06T02:24:49.673Z"
-    },
-    {
-      "id": "47606",
-      "title": "运维踩坑：nginx 缓存上游容器旧 IP，请求转发到了错误的服务",
-      "link": "https://blog.diqigan.cn/posts/coding/maintenance/nginx-cached-stale-upstream-ip-trap.html",
-      "rsslink": "https://blog.diqigan.cn/atom.xml",
-      "blogname": "Seven's blog",
-      "createdat": "2026-08-04T03:00:00.000Z",
-      "crawledat": "2026-08-04T14:06:08.420Z"
-    },
-    {
-      "id": "47632",
-      "title": "从 WordPress 到 Hugo",
-      "link": "https://yinji.org/from-wordpress-to-hugo.html/",
-      "rsslink": "https://yinji.org/feed",
-      "blogname": "印记",
-      "createdat": "2026-08-04T00:00:00.000Z",
-      "crawledat": "2026-08-04T19:29:06.328Z"
-    },
-    {
-      "id": "47641",
-      "title": "Representation Manifolds of LLM",
-      "link": "https://dreams.plus/blog/2026/2026-08-04-the-representations-in-llm",
-      "rsslink": "https://dreams.plus/rss.xml",
-      "blogname": "但为君故",
-      "createdat": "2026-08-04T00:00:00.000Z",
       "crawledat": "2026-08-04T19:29:06.328Z"
     }
   ]
