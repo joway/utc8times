@@ -4,6 +4,33 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "47719",
+      "title": "运维笔记：NetworkManager shared 模式给共享客户端固定 IP",
+      "link": "https://blog.diqigan.cn/posts/coding/linux/networkmanager-shared-dhcp-static-ip.html",
+      "rsslink": "https://blog.diqigan.cn/atom.xml",
+      "blogname": "Seven's blog",
+      "createdat": "2026-08-07T06:16:25.000Z",
+      "crawledat": "2026-08-07T09:59:07.564Z"
+    },
+    {
+      "id": "47784",
+      "title": "入蜀记 day440 以物易物，以心易心",
+      "link": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_440/",
+      "rsslink": "http://z.arlmy.me/atom.xml",
+      "blogname": "素生",
+      "createdat": "2026-08-07T04:48:27.000Z",
+      "crawledat": "2026-08-09T15:29:00.966Z"
+    },
+    {
+      "id": "47723",
+      "title": "Safari 扩展 Popup 中的滚动迟缓问题",
+      "link": "https://blog.rxliuli.com/p/10c1304fec1e44e9a0fda438b68f4f06/",
+      "rsslink": "https://blog.rxliuli.com/atom.xml",
+      "blogname": "rxliuli blog",
+      "createdat": "2026-08-07T03:43:37.559Z",
+      "crawledat": "2026-08-07T09:59:07.564Z"
+    },
+    {
       "id": "47718",
       "title": "邮箱生态调研2026",
       "link": "https://blog.est.im/2026/stdout-31",
@@ -155,33 +182,6 @@
       "blogname": "梅之夏",
       "createdat": "2026-08-06T14:27:43.000Z",
       "crawledat": "2026-08-10T01:39:15.897Z"
-    },
-    {
-      "id": "47914",
-      "title": "关于 Reasonix 桌面端的使用体验报告",
-      "link": "https://bddxg.top/Tips/ReasonixGuide.html",
-      "rsslink": "https://bddxg.top/feed.rss",
-      "blogname": "冰冻大西瓜的博客",
-      "createdat": "2026-08-06T14:25:03.000Z",
-      "crawledat": "2026-08-10T01:39:15.897Z"
-    },
-    {
-      "id": "47707",
-      "title": "在 SwiftUI Text 中控制孤行：挖掘未公开的 avoidsOrphans",
-      "link": "https://fatbobman.com/zh/posts/controlling-orphans-in-swiftui-text/",
-      "rsslink": "https://fatbobman.com/zh/rss.xml",
-      "blogname": "肘子的 Swift 记事本",
-      "createdat": "2026-08-06T14:00:00.000Z",
-      "crawledat": "2026-08-06T11:21:13.894Z"
-    },
-    {
-      "id": "47749",
-      "title": "Album#46 - High Violet",
-      "link": "https://taxodium.ink/album-46.html",
-      "rsslink": "https://taxodium.ink/rss.xml",
-      "blogname": "Taxodium",
-      "createdat": "2026-08-06T12:45:00.000Z",
-      "crawledat": "2026-08-07T18:53:05.902Z"
     }
   ]
 }
