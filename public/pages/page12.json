@@ -4,6 +4,33 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "47606",
+      "title": "运维踩坑：nginx 缓存上游容器旧 IP，请求转发到了错误的服务",
+      "link": "https://blog.diqigan.cn/posts/coding/maintenance/nginx-cached-stale-upstream-ip-trap.html",
+      "rsslink": "https://blog.diqigan.cn/atom.xml",
+      "blogname": "Seven's blog",
+      "createdat": "2026-08-04T03:00:00.000Z",
+      "crawledat": "2026-08-04T14:06:08.420Z"
+    },
+    {
+      "id": "47632",
+      "title": "从 WordPress 到 Hugo",
+      "link": "https://yinji.org/from-wordpress-to-hugo.html/",
+      "rsslink": "https://yinji.org/feed",
+      "blogname": "印记",
+      "createdat": "2026-08-04T00:00:00.000Z",
+      "crawledat": "2026-08-04T19:29:06.328Z"
+    },
+    {
+      "id": "47641",
+      "title": "Representation Manifolds of LLM",
+      "link": "https://dreams.plus/blog/2026/2026-08-04-the-representations-in-llm",
+      "rsslink": "https://dreams.plus/rss.xml",
+      "blogname": "但为君故",
+      "createdat": "2026-08-04T00:00:00.000Z",
+      "crawledat": "2026-08-04T19:29:06.328Z"
+    },
+    {
       "id": "48225",
       "title": "为 Astro 添加中英文混排插入空格和直角引号转换功能",
       "link": "https://blog.dort.me/posts/3043800322/",
@@ -155,33 +182,6 @@
       "blogname": "崎径 其镜赵安琪的博客",
       "createdat": "2026-08-03T10:40:36.000Z",
       "crawledat": "2026-08-06T11:21:13.894Z"
-    },
-    {
-      "id": "47564",
-      "title": "Claude Code Tools 研究系列（二）—— EnterPlanMode：为什么空 schema 也是一种设计",
-      "link": "https://xilidou.com/2026/08/03/claude-code-tools-enter-plan-mode/",
-      "rsslink": "https://xilidou.com/atom.xml",
-      "blogname": "犀利豆的博客",
-      "createdat": "2026-08-03T10:00:00.000Z",
-      "crawledat": "2026-08-03T06:20:57.930Z"
-    },
-    {
-      "id": "47567",
-      "title": "学习Power BI",
-      "link": "blog.xulihang.me/learn-about-power-bi",
-      "rsslink": "https://blog.xulihang.me/feed/",
-      "blogname": "xulihang's blog",
-      "createdat": "2026-08-03T07:39:50.000Z",
-      "crawledat": "2026-08-03T22:07:05.822Z"
-    },
-    {
-      "id": "47579",
-      "title": "2026.8.3",
-      "link": "https://www.justzht.com/2026-8-3/",
-      "rsslink": "https://www.justzht.com/rss/",
-      "blogname": "JustZht",
-      "createdat": "2026-08-03T07:35:49.000Z",
-      "crawledat": "2026-08-03T22:07:05.822Z"
     }
   ]
 }
