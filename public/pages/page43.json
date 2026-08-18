@@ -4,6 +4,24 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "46512",
+      "title": "把 Electron 的 Sparkle 更新器抽成库：bug 都住在边界上",
+      "link": "https://innei.in/posts/tinkering/electron-sparkle-updater-extraction",
+      "rsslink": "https://innei.ren/feed",
+      "blogname": "静かな森",
+      "createdat": "2026-07-18T13:59:08.000Z",
+      "crawledat": "2026-07-18T21:49:26.886Z"
+    },
+    {
+      "id": "48753",
+      "title": "Electron Sparkle 更新器抽库：119 个测试之外的发布边界",
+      "link": "https://innei.in/posts/tinkering/electron-sparkle-updater-extraction-release-boundaries",
+      "rsslink": "https://innei.ren/feed",
+      "blogname": "静かな森",
+      "createdat": "2026-07-18T13:59:08.000Z",
+      "crawledat": "2026-08-14T13:01:15.719Z"
+    },
+    {
       "id": "46511",
       "title": "为什么 Github OAuth 故意拦截 CORS",
       "link": "https://blog.est.im/2026/stdout-29",
@@ -160,24 +178,6 @@
       "id": "46420",
       "title": "Java加载动态链接库方式",
       "link": "https://sumsec.me/2022/java-native-library-loading.html",
-      "rsslink": "https://sumsec.me/resources/atom.xml",
-      "blogname": "像清水一般清澈透明",
-      "createdat": "2026-07-18T08:05:58.000Z",
-      "crawledat": "2026-07-18T10:16:51.584Z"
-    },
-    {
-      "id": "46421",
-      "title": "Java-Swing-To-RCE-漏洞分析",
-      "link": "https://sumsec.me/2022/java-swing-rce-analysis.html",
-      "rsslink": "https://sumsec.me/resources/atom.xml",
-      "blogname": "像清水一般清澈透明",
-      "createdat": "2026-07-18T08:05:58.000Z",
-      "crawledat": "2026-07-18T10:16:51.584Z"
-    },
-    {
-      "id": "46422",
-      "title": "kubernetes-goat学习笔记",
-      "link": "https://sumsec.me/2022/kubernetes-goat-notes.html",
       "rsslink": "https://sumsec.me/resources/atom.xml",
       "blogname": "像清水一般清澈透明",
       "createdat": "2026-07-18T08:05:58.000Z",
