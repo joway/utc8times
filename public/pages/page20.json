@@ -4,6 +4,114 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "47637",
+      "title": "热茶还是冰咖啡 - 肘子的 Swift 周报 #147",
+      "link": "https://fatbobman.com/zh/weekly/issue-147/",
+      "rsslink": "https://fatbobman.com/zh/rss.xml",
+      "blogname": "肘子的 Swift 记事本",
+      "createdat": "2026-08-03T14:00:00.000Z",
+      "crawledat": "2026-08-04T19:29:06.328Z"
+    },
+    {
+      "id": "47604",
+      "title": "来了来了，Flex/Grid布局的间隙装饰线它来了",
+      "link": "https://www.zhangxinxu.com/wordpress/2026/08/css-flex-grid-column-row-rule/",
+      "rsslink": "http://www.zhangxinxu.com/wordpress/?feed=rss2",
+      "blogname": "张鑫旭-鑫空间-鑫生活",
+      "createdat": "2026-08-03T13:20:14.000Z",
+      "crawledat": "2026-08-04T14:06:08.420Z"
+    },
+    {
+      "id": "47572",
+      "title": "并不抗拒表达",
+      "link": "https://z.arlmy.me/posts/ZArlmyMe/Acting_20260803/",
+      "rsslink": "http://z.arlmy.me/atom.xml",
+      "blogname": "素生",
+      "createdat": "2026-08-03T13:16:03.000Z",
+      "crawledat": "2026-08-03T22:07:05.822Z"
+    },
+    {
+      "id": "47630",
+      "title": "Coldcard 冷钱包漏洞：约 1367 枚 BTC 被盗",
+      "link": "https://blog.renfei.net/posts/1626402130325676142",
+      "rsslink": "https://blog.renfei.net/rss.xml",
+      "blogname": "任霏博客",
+      "createdat": "2026-08-03T11:54:32.000Z",
+      "crawledat": "2026-08-04T14:06:08.420Z"
+    },
+    {
+      "id": "47569",
+      "title": "DeepSeek V4 Flash 接入 Codex 教程",
+      "link": "http://www.z16388.top/2026/08/03/ai/ds-codex/",
+      "rsslink": "http://www.z16388.top/atom.xml",
+      "blogname": "崎径 其镜赵安琪的博客",
+      "createdat": "2026-08-03T10:40:36.000Z",
+      "crawledat": "2026-08-03T22:07:05.822Z"
+    },
+    {
+      "id": "47685",
+      "title": "DeepSeek V4 Flash 接入 Codex 教程",
+      "link": "http://www.z16388.top/ai/ds-codex/",
+      "rsslink": "http://www.z16388.top/atom.xml",
+      "blogname": "崎径 其镜赵安琪的博客",
+      "createdat": "2026-08-03T10:40:36.000Z",
+      "crawledat": "2026-08-06T11:21:13.894Z"
+    },
+    {
+      "id": "47564",
+      "title": "Claude Code Tools 研究系列（二）—— EnterPlanMode：为什么空 schema 也是一种设计",
+      "link": "https://xilidou.com/2026/08/03/claude-code-tools-enter-plan-mode/",
+      "rsslink": "https://xilidou.com/atom.xml",
+      "blogname": "犀利豆的博客",
+      "createdat": "2026-08-03T10:00:00.000Z",
+      "crawledat": "2026-08-03T06:20:57.930Z"
+    },
+    {
+      "id": "47567",
+      "title": "学习Power BI",
+      "link": "blog.xulihang.me/learn-about-power-bi",
+      "rsslink": "https://blog.xulihang.me/feed/",
+      "blogname": "xulihang's blog",
+      "createdat": "2026-08-03T07:39:50.000Z",
+      "crawledat": "2026-08-03T22:07:05.822Z"
+    },
+    {
+      "id": "47579",
+      "title": "2026.8.3",
+      "link": "https://www.justzht.com/2026-8-3/",
+      "rsslink": "https://www.justzht.com/rss/",
+      "blogname": "JustZht",
+      "createdat": "2026-08-03T07:35:49.000Z",
+      "crawledat": "2026-08-03T22:07:05.822Z"
+    },
+    {
+      "id": "48048",
+      "title": "组件库 | RYANUO",
+      "link": "https://ryanuo.cc/navs/libraries",
+      "rsslink": "https://ryanuo.cc/sitemap.xml",
+      "blogname": "RYANUO的博客",
+      "createdat": "2026-08-03T07:32:49.000Z",
+      "crawledat": "2026-08-10T01:39:15.897Z"
+    },
+    {
+      "id": "48049",
+      "title": "技术导航 | RYANUO",
+      "link": "https://ryanuo.cc/navs",
+      "rsslink": "https://ryanuo.cc/sitemap.xml",
+      "blogname": "RYANUO的博客",
+      "createdat": "2026-08-03T07:32:49.000Z",
+      "crawledat": "2026-08-10T01:39:15.897Z"
+    },
+    {
+      "id": "48050",
+      "title": "工具 | RYANUO",
+      "link": "https://ryanuo.cc/navs/tools",
+      "rsslink": "https://ryanuo.cc/sitemap.xml",
+      "blogname": "RYANUO的博客",
+      "createdat": "2026-08-03T07:32:49.000Z",
+      "crawledat": "2026-08-10T01:39:15.897Z"
+    },
+    {
       "id": "48051",
       "title": "Libraries | RYANUO",
       "link": "https://ryanuo.cc/en/navs/libraries",
@@ -74,114 +182,6 @@
       "blogname": "HikariLan's Blog",
       "createdat": "2026-08-03T02:41:52.000Z",
       "crawledat": "2026-08-04T19:29:06.328Z"
-    },
-    {
-      "id": "47635",
-      "title": "GitHub 热门项目周刊 · 第 22 期 · 2026 年第 32 周",
-      "link": "https://www.dqzboy.com/19638.html",
-      "rsslink": "https://www.dqzboy.com/feed",
-      "blogname": "浅时光博客",
-      "createdat": "2026-08-03T01:03:54.000Z",
-      "crawledat": "2026-08-04T19:29:06.328Z"
-    },
-    {
-      "id": "47602",
-      "title": "越禁越火：华为投诉竹知了，一场价值千万的免费广告",
-      "link": "https://heyuanfei.com/post/2026-08-03-%E5%8D%8E%E4%B8%BA%E6%8A%95%E8%AF%89%E7%AB%B9%E7%9F%A5%E4%BA%86%E8%B6%8A%E7%A6%81%E8%B6%8A%E7%81%AB/",
-      "rsslink": "https://leonhe.cn/index.xml",
-      "blogname": "远飞闲记",
-      "createdat": "2026-08-03T00:00:00.000Z",
-      "crawledat": "2026-08-03T22:07:05.822Z"
-    },
-    {
-      "id": "47640",
-      "title": "渣渣圈 X 专业 X 兴趣爱好",
-      "link": "https://niracler.com/amateur-circle-profession-hobbies",
-      "rsslink": "https://niracler.com/rss.xml",
-      "blogname": "Niracler's Blog",
-      "createdat": "2026-08-03T00:00:00.000Z",
-      "crawledat": "2026-08-04T19:29:06.328Z"
-    },
-    {
-      "id": "48226",
-      "title": "把博客从 Hexo 迁移至 Astro",
-      "link": "https://blog.dort.me/posts/2651219648/",
-      "rsslink": "https://blog.dort.me/rss.xml",
-      "blogname": "Dort 的博客",
-      "createdat": "2026-08-03T00:00:00.000Z",
-      "crawledat": "2026-08-10T01:39:15.897Z"
-    },
-    {
-      "id": "47562",
-      "title": "西溪湿地的荷花",
-      "link": "https://www.wsh233.cn/post/西溪湿地的荷花",
-      "rsslink": "https://www.wsh233.cn/feed.xml",
-      "blogname": "WSH",
-      "createdat": "2026-08-02T22:47:16.000Z",
-      "crawledat": "2026-08-03T02:37:53.878Z"
-    },
-    {
-      "id": "48155",
-      "title": "2026年8月2日",
-      "link": "https://blog.leesaitool.com/life/life-2026-08-02-8s20",
-      "rsslink": "https://blog.leesaitool.com/feed.xml",
-      "blogname": "Arthur's Review",
-      "createdat": "2026-08-02T20:45:46.000Z",
-      "crawledat": "2026-08-10T01:39:15.897Z"
-    },
-    {
-      "id": "47673",
-      "title": "PySonar2 如何帮助 AI 节省 Token",
-      "link": "https://smallyu.net/2026/08/03/PySonar2%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9AI%E8%8A%82%E7%9C%81Token/",
-      "rsslink": "https://smallyu.net/atom.xml",
-      "blogname": "smallyu的博客",
-      "createdat": "2026-08-02T16:32:47.000Z",
-      "crawledat": "2026-08-05T19:26:22.940Z"
-    },
-    {
-      "id": "47531",
-      "title": "Blaugust 2026 Feeds - 以及我是如何用 Elisp 製作的",
-      "link": "https://taxodium.ink/blaugust-2026-feeds.html",
-      "rsslink": "https://taxodium.ink/rss.xml",
-      "blogname": "Taxodium",
-      "createdat": "2026-08-02T15:40:00.000Z",
-      "crawledat": "2026-08-02T19:06:40.997Z"
-    },
-    {
-      "id": "47352",
-      "title": "刚喘口气，又闷头闷脑又飞海南来了",
-      "link": "https://fxpai.com/article/gangchuankouqiyoumentoumennaoyoufeihainanlaile",
-      "rsslink": "https://fxpai.com/feed",
-      "blogname": "非学·派",
-      "createdat": "2026-08-02T15:36:13.000Z",
-      "crawledat": "2026-08-02T19:06:40.997Z"
-    },
-    {
-      "id": "47354",
-      "title": "向云端｜西南自驾06 - 芷江",
-      "link": "https://blog.ops-coffee.com/r/2026-southwest-road-trip-06-zhijiang.html",
-      "rsslink": "https://blog.ops-coffee.cn/feed.xml",
-      "blogname": "运维咖啡吧",
-      "createdat": "2026-08-02T14:29:31.000Z",
-      "crawledat": "2026-08-02T19:06:40.997Z"
-    },
-    {
-      "id": "47345",
-      "title": "Paper Reading (64)",
-      "link": "https://www.seis-jun.xyz/blog/2026-08-02-paper-reading-64.html",
-      "rsslink": "https://www.seis-jun.xyz/atom.xml",
-      "blogname": "seisamuse",
-      "createdat": "2026-08-02T13:28:36.000Z",
-      "crawledat": "2026-08-02T15:58:36.095Z"
-    },
-    {
-      "id": "47343",
-      "title": "如何在命令行中输出进度条",
-      "link": "https://nicksxs.me/2026/08/02/%E5%A6%82%E4%BD%95%E5%9C%A8%E5%91%BD%E4%BB%A4%E8%A1%8C%E4%B8%AD%E8%BE%93%E5%87%BA%E8%BF%9B%E5%BA%A6%E6%9D%A1/",
-      "rsslink": "https://nicksxs.me/atom.xml",
-      "blogname": "Nicksxs's Blog",
-      "createdat": "2026-08-02T13:26:43.000Z",
-      "crawledat": "2026-08-02T15:58:36.095Z"
     }
   ]
 }
