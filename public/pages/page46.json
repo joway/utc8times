@@ -4,6 +4,60 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "46515",
+      "title": "智能体编排的图执行引擎：Onyx VM如何用计算图驯服非确定性",
+      "link": "https://www.jdon.com/93415-onyx-graph-engineering-agent-orchestration.html",
+      "rsslink": "https://www.jdon.com/jivejdon/rss",
+      "blogname": "解道jdon.com",
+      "createdat": "2026-07-19T01:04:00.000Z",
+      "crawledat": "2026-07-19T02:32:45.479Z"
+    },
+    {
+      "id": "46516",
+      "title": "梗图：我们还在讨论循环工程吗？还是已经开始讨论图工程了？",
+      "link": "https://www.jdon.com/93414-agent-harness-loops-graphs.html",
+      "rsslink": "https://www.jdon.com/jivejdon/rss",
+      "blogname": "解道jdon.com",
+      "createdat": "2026-07-19T00:54:00.000Z",
+      "crawledat": "2026-07-19T02:32:45.479Z"
+    },
+    {
+      "id": "46517",
+      "title": "Fable 5额度砍半还卖惨？50%限制逼用户倒戈Kimi和GPT-5.6",
+      "link": "https://www.jdon.com/93413-fable-5-subscription-plan-backlash.html",
+      "rsslink": "https://www.jdon.com/jivejdon/rss",
+      "blogname": "解道jdon.com",
+      "createdat": "2026-07-19T00:44:00.000Z",
+      "crawledat": "2026-07-19T02:32:45.479Z"
+    },
+    {
+      "id": "46518",
+      "title": "月之暗面四创始人卡住AI四个命门：NLP/CV/知识图谱/工程化",
+      "link": "https://www.jdon.com/93412-moonshot-ai-four-founders-tech-stack-trust-network.html",
+      "rsslink": "https://www.jdon.com/jivejdon/rss",
+      "blogname": "解道jdon.com",
+      "createdat": "2026-07-19T00:29:00.000Z",
+      "crawledat": "2026-07-19T02:32:45.479Z"
+    },
+    {
+      "id": "46607",
+      "title": "Weekly Issue-《良渚密码》",
+      "link": "https://zdyxry.github.io/2026/07/19/Weekly-Issue-liangzhu/",
+      "rsslink": "https://zdyxry.github.io/atom.xml",
+      "blogname": "Yiran's Blog",
+      "createdat": "2026-07-19T00:00:00.000Z",
+      "crawledat": "2026-07-20T06:16:22.020Z"
+    },
+    {
+      "id": "46992",
+      "title": "Hello World",
+      "link": "https://blog.redish101.top/articles/hello-world",
+      "rsslink": "https://blog.redish101.top/atom.xml",
+      "blogname": "Redish101博客",
+      "createdat": "2026-07-19T00:00:00.000Z",
+      "crawledat": "2026-07-30T19:22:30.022Z"
+    },
+    {
       "id": "47847",
       "title": "Riseup 的“激进服务器”列表：公益组织在提供什么，我能做什么",
       "link": "https://blog.sayori.org/posts/radical-servers-public-services/",
@@ -128,60 +182,6 @@
       "blogname": "Est's Blog",
       "createdat": "2026-07-18T11:32:00.000Z",
       "crawledat": "2026-07-18T13:10:07.254Z"
-    },
-    {
-      "id": "46601",
-      "title": "一招解決微軟Microsoft下載緩慢、提速1000倍（包括Windows Update、下載VSCode系列、Microsoft Store下載）",
-      "link": "https://upsangel.com/security/vpn/resolve-microsoftslow-download-windows-update-vscode-microsoft-store/",
-      "rsslink": "https://upsangel.com/feed/",
-      "blogname": "by Upsangel",
-      "createdat": "2026-07-18T09:04:14.000Z",
-      "crawledat": "2026-07-19T21:50:19.061Z"
-    },
-    {
-      "id": "46405",
-      "title": "在 AGI 降临前，先给 AI 开一条\"脑内弹幕\"通道",
-      "link": "https://sumsec.me/2026/agi-inner-commentary-channel.html",
-      "rsslink": "https://sumsec.me/resources/atom.xml",
-      "blogname": "像清水一般清澈透明",
-      "createdat": "2026-07-18T08:05:58.000Z",
-      "crawledat": "2026-07-18T10:16:51.584Z"
-    },
-    {
-      "id": "46406",
-      "title": "AI Agent 工程的必然演进：CLI、Skills、Harness 与 Loop",
-      "link": "https://sumsec.me/2026/ai-agent-engineering-evolution.html",
-      "rsslink": "https://sumsec.me/resources/atom.xml",
-      "blogname": "像清水一般清澈透明",
-      "createdat": "2026-07-18T08:05:58.000Z",
-      "crawledat": "2026-07-18T10:16:51.584Z"
-    },
-    {
-      "id": "46407",
-      "title": "一篇博文，三种时间：网页幻灯与 Remotion 动效的交付逻辑",
-      "link": "https://sumsec.me/2026/blog-slides-remotion-delivery-timeline.html",
-      "rsslink": "https://sumsec.me/resources/atom.xml",
-      "blogname": "像清水一般清澈透明",
-      "createdat": "2026-07-18T08:05:58.000Z",
-      "crawledat": "2026-07-18T10:16:51.584Z"
-    },
-    {
-      "id": "46408",
-      "title": "AI 时代 ShiroAttack2 5.x：修改了什么",
-      "link": "https://sumsec.me/2026/shiroattack2-5-ai-era-changes.html",
-      "rsslink": "https://sumsec.me/resources/atom.xml",
-      "blogname": "像清水一般清澈透明",
-      "createdat": "2026-07-18T08:05:58.000Z",
-      "crawledat": "2026-07-18T10:16:51.584Z"
-    },
-    {
-      "id": "46409",
-      "title": "🔍 别让大模型\"想太多\"：SKILL开发中的语义陷阱与抗幻觉设计",
-      "link": "https://sumsec.me/2026/skill-semantic-traps-anti-hallucination.html",
-      "rsslink": "https://sumsec.me/resources/atom.xml",
-      "blogname": "像清水一般清澈透明",
-      "createdat": "2026-07-18T08:05:58.000Z",
-      "crawledat": "2026-07-18T10:16:51.584Z"
     }
   ]
 }

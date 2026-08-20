@@ -4,6 +4,24 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "49061",
+      "title": "Introduction Finger",
+      "link": "https://www.bboy.app/2026/08/20/introduction-finger/",
+      "rsslink": "https://www.bboy.app/atom.xml",
+      "blogname": "bboysoul的博客",
+      "createdat": "2026-08-20T10:47:00.000Z",
+      "crawledat": "2026-08-20T03:43:45.192Z"
+    },
+    {
+      "id": "49062",
+      "title": "介绍下Finger",
+      "link": "https://www.bboy.app/2026/08/20/%E4%BB%8B%E7%BB%8D%E4%B8%8Bfinger/",
+      "rsslink": "https://www.bboy.app/atom.xml",
+      "blogname": "bboysoul的博客",
+      "createdat": "2026-08-20T10:47:00.000Z",
+      "crawledat": "2026-08-20T03:43:45.192Z"
+    },
+    {
       "id": "49047",
       "title": "CUDA Graph In The Context of Multi-Stream Execution",
       "link": "https://leimao.github.io/blog/CUDA-Graph-Multi-Stream/",
@@ -11,6 +29,33 @@
       "blogname": "Lei Mao's Log Book",
       "createdat": "2026-08-20T07:00:00.000Z",
       "crawledat": "2026-08-19T18:31:45.521Z"
+    },
+    {
+      "id": "49059",
+      "title": "最近惦念 20260727",
+      "link": "https://z.arlmy.me/posts/TILs/thoughts/20260727_Recently/",
+      "rsslink": "http://z.arlmy.me/atom.xml",
+      "blogname": "素生",
+      "createdat": "2026-08-20T03:25:27.000Z",
+      "crawledat": "2026-08-20T03:43:45.192Z"
+    },
+    {
+      "id": "49058",
+      "title": "当答案比问题更早出现",
+      "link": "https://hiwannz.com/archives/1285.html",
+      "rsslink": "https://hiwannz.com/feed",
+      "blogname": "见字如面",
+      "createdat": "2026-08-20T02:12:58.000Z",
+      "crawledat": "2026-08-20T03:43:45.192Z"
+    },
+    {
+      "id": "49063",
+      "title": "与牛牛的碎碎念之趁机荐书《平面国》",
+      "link": "https://xingbianren.cn/post/326.html",
+      "rsslink": "https://xingbianren.cn/feed.php",
+      "blogname": "刑辩人在路上",
+      "createdat": "2026-08-20T01:38:55.000Z",
+      "crawledat": "2026-08-20T03:43:45.192Z"
     },
     {
       "id": "49054",
@@ -38,6 +83,15 @@
       "blogname": "Macin",
       "createdat": "2026-08-19T19:28:49.000Z",
       "crawledat": "2026-08-20T01:06:27.645Z"
+    },
+    {
+      "id": "49060",
+      "title": "你就瞎活",
+      "link": "https://z.arlmy.me/posts/Essays/2026/LiveLikeWind_20260819/",
+      "rsslink": "http://z.arlmy.me/atom.xml",
+      "blogname": "素生",
+      "createdat": "2026-08-19T16:24:03.000Z",
+      "crawledat": "2026-08-20T03:43:45.192Z"
     },
     {
       "id": "49046",
@@ -128,60 +182,6 @@
       "blogname": "素生",
       "createdat": "2026-08-19T10:58:27.000Z",
       "crawledat": "2026-08-19T12:41:14.487Z"
-    },
-    {
-      "id": "49042",
-      "title": "关于关系",
-      "link": "https://www.seis-jun.xyz/blog/2026-08-19-about-relationship.html",
-      "rsslink": "https://www.seis-jun.xyz/atom.xml",
-      "blogname": "seisamuse",
-      "createdat": "2026-08-19T10:58:26.000Z",
-      "crawledat": "2026-08-19T12:41:14.487Z"
-    },
-    {
-      "id": "49032",
-      "title": "从 LayerNorm 到 RMSNorm：为什么可以去掉均值？",
-      "link": "https://blog.xlonglong.cn/rmsnorm/",
-      "rsslink": "https://blog.xlonglong.cn/feed/",
-      "blogname": "Longlong's Blog",
-      "createdat": "2026-08-19T09:27:04.000Z",
-      "crawledat": "2026-08-19T09:31:15.160Z"
-    },
-    {
-      "id": "49031",
-      "title": "20260819",
-      "link": "https://nemo.cool/1256.html",
-      "rsslink": "https://nemo.cool/rss",
-      "blogname": "Nemo",
-      "createdat": "2026-08-19T09:06:38.000Z",
-      "crawledat": "2026-08-19T09:31:15.160Z"
-    },
-    {
-      "id": "49057",
-      "title": "Hugo 实现页面加密",
-      "link": "https://blog.dejavu.moe/posts/hugo-protected-leaf-bundle-encryption/",
-      "rsslink": "https://blog.dejavu.moe/index.xml",
-      "blogname": "Dejavu's Blog",
-      "createdat": "2026-08-19T08:30:00.000Z",
-      "crawledat": "2026-08-20T01:06:27.645Z"
-    },
-    {
-      "id": "49026",
-      "title": "OpenViking 的上下文组织与检索",
-      "link": "https://dfine.tech/posts/befcc948/",
-      "rsslink": "https://dfine.tech/atom.xml",
-      "blogname": "阁子",
-      "createdat": "2026-08-19T08:12:30.000Z",
-      "crawledat": "2026-08-19T09:31:15.160Z"
-    },
-    {
-      "id": "49049",
-      "title": "我的缓存会自己补货：LruLink 与三个并行功能分支",
-      "link": "https://styunlen.cn/archives/post-1819.html",
-      "rsslink": "https://styunlen.cn/feed",
-      "blogname": "九仞之行",
-      "createdat": "2026-08-19T08:03:00.000Z",
-      "crawledat": "2026-08-19T18:31:45.521Z"
     }
   ]
 }
