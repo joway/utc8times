@@ -4,6 +4,15 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "49032",
+      "title": "从 LayerNorm 到 RMSNorm：为什么可以去掉均值？",
+      "link": "https://blog.xlonglong.cn/rmsnorm/",
+      "rsslink": "https://blog.xlonglong.cn/feed/",
+      "blogname": "Longlong's Blog",
+      "createdat": "2026-08-19T09:27:04.000Z",
+      "crawledat": "2026-08-19T09:31:15.160Z"
+    },
+    {
       "id": "49031",
       "title": "20260819",
       "link": "https://nemo.cool/1256.html",
@@ -173,15 +182,6 @@
       "blogname": "但为君故",
       "createdat": "2026-08-19T00:00:00.000Z",
       "crawledat": "2026-08-18T18:34:36.204Z"
-    },
-    {
-      "id": "49028",
-      "title": "RDMA 运维",
-      "link": "https://www.chenshaowen.com/blog/rdma-ops.html",
-      "rsslink": "https://www.chenshaowen.com/atom.xml",
-      "blogname": "陈少文的博客",
-      "createdat": "2026-08-19T00:00:00.000Z",
-      "crawledat": "2026-08-19T09:31:15.160Z"
     }
   ]
 }
