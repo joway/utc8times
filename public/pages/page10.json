@@ -4,6 +4,96 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "49032",
+      "title": "从 LayerNorm 到 RMSNorm：为什么可以去掉均值？",
+      "link": "https://blog.xlonglong.cn/rmsnorm/",
+      "rsslink": "https://blog.xlonglong.cn/feed/",
+      "blogname": "Longlong's Blog",
+      "createdat": "2026-08-19T09:27:04.000Z",
+      "crawledat": "2026-08-19T09:31:15.160Z"
+    },
+    {
+      "id": "49031",
+      "title": "20260819",
+      "link": "https://nemo.cool/1256.html",
+      "rsslink": "https://nemo.cool/rss",
+      "blogname": "Nemo",
+      "createdat": "2026-08-19T09:06:38.000Z",
+      "crawledat": "2026-08-19T09:31:15.160Z"
+    },
+    {
+      "id": "49057",
+      "title": "Hugo 实现页面加密",
+      "link": "https://blog.dejavu.moe/posts/hugo-protected-leaf-bundle-encryption/",
+      "rsslink": "https://blog.dejavu.moe/index.xml",
+      "blogname": "Dejavu's Blog",
+      "createdat": "2026-08-19T08:30:00.000Z",
+      "crawledat": "2026-08-20T01:06:27.645Z"
+    },
+    {
+      "id": "49026",
+      "title": "OpenViking 的上下文组织与检索",
+      "link": "https://dfine.tech/posts/befcc948/",
+      "rsslink": "https://dfine.tech/atom.xml",
+      "blogname": "阁子",
+      "createdat": "2026-08-19T08:12:30.000Z",
+      "crawledat": "2026-08-19T09:31:15.160Z"
+    },
+    {
+      "id": "49049",
+      "title": "我的缓存会自己补货：LruLink 与三个并行功能分支",
+      "link": "https://styunlen.cn/archives/post-1819.html",
+      "rsslink": "https://styunlen.cn/feed",
+      "blogname": "九仞之行",
+      "createdat": "2026-08-19T08:03:00.000Z",
+      "crawledat": "2026-08-19T18:31:45.521Z"
+    },
+    {
+      "id": "49027",
+      "title": "munder-difflin 的多 agent 协调实现",
+      "link": "https://dfine.tech/posts/36d537a0/",
+      "rsslink": "https://dfine.tech/atom.xml",
+      "blogname": "阁子",
+      "createdat": "2026-08-19T07:46:48.000Z",
+      "crawledat": "2026-08-19T09:31:15.160Z"
+    },
+    {
+      "id": "49064",
+      "title": "眼眸",
+      "link": "https://leimao.github.io/essay/%E7%9C%BC%E7%9C%B8-The-Eyes-2026/",
+      "rsslink": "https://leimao.github.io/atom.xml",
+      "blogname": "Lei Mao's Log Book",
+      "createdat": "2026-08-19T07:00:00.000Z",
+      "crawledat": "2026-08-20T09:31:38.450Z"
+    },
+    {
+      "id": "49050",
+      "title": "Maltose：15 天重构博客，先写了 29 份 ADR 才敢写代码",
+      "link": "https://styunlen.cn/archives/post-1812.html",
+      "rsslink": "https://styunlen.cn/feed",
+      "blogname": "九仞之行",
+      "createdat": "2026-08-19T06:37:49.000Z",
+      "crawledat": "2026-08-19T18:31:45.521Z"
+    },
+    {
+      "id": "49029",
+      "title": "跨域预检请求失败问题分析",
+      "link": "https://www.imaegoo.com/2026/cors-issue-analysis/",
+      "rsslink": "https://www.imaegoo.com/atom.xml",
+      "blogname": "iMaeGoo's Blog",
+      "createdat": "2026-08-19T06:30:00.000Z",
+      "crawledat": "2026-08-19T09:31:15.160Z"
+    },
+    {
+      "id": "49288",
+      "title": "被忽视的改善睡眠的方法",
+      "link": "https://happyxiao.com/brush/",
+      "rsslink": "https://happyxiao.com/feed",
+      "blogname": "happy xiao 的博客",
+      "createdat": "2026-08-19T06:19:30.000Z",
+      "crawledat": "2026-08-25T18:36:06.713Z"
+    },
+    {
       "id": "49030",
       "title": "分享一下博客的全新聚合搜索",
       "link": "https://blog.zhheo.com/p/mgii3qy1.html",
@@ -91,96 +181,6 @@
       "rsslink": "https://dreams.plus/rss.xml",
       "blogname": "但为君故",
       "createdat": "2026-08-19T00:00:00.000Z",
-      "crawledat": "2026-08-18T18:34:36.204Z"
-    },
-    {
-      "id": "49028",
-      "title": "RDMA 运维",
-      "link": "https://www.chenshaowen.com/blog/rdma-ops.html",
-      "rsslink": "https://www.chenshaowen.com/atom.xml",
-      "blogname": "陈少文的博客",
-      "createdat": "2026-08-19T00:00:00.000Z",
-      "crawledat": "2026-08-19T09:31:15.160Z"
-    },
-    {
-      "id": "49016",
-      "title": "分享一下最近做的AI记账 App",
-      "link": "https://sugarat.top/technology/works/miaowa.html",
-      "rsslink": "https://sugarat.top/feed.rss",
-      "blogname": "粥里有勺糖",
-      "createdat": "2026-08-18T16:50:00.000Z",
-      "crawledat": "2026-08-18T18:34:36.204Z"
-    },
-    {
-      "id": "49051",
-      "title": "七夕，部队二周年",
-      "link": "https://xiaochopin.github.io/2026/08/19/ff14group",
-      "rsslink": "https://xiaochopin.github.io/feed.xml",
-      "blogname": "重生云",
-      "createdat": "2026-08-18T16:00:00.000Z",
-      "crawledat": "2026-08-19T18:31:45.521Z"
-    },
-    {
-      "id": "48985",
-      "title": "我的生活观念",
-      "link": "https://www.seis-jun.xyz/blog/2026-08-18-my-view-of-life.html",
-      "rsslink": "https://www.seis-jun.xyz/atom.xml",
-      "blogname": "seisamuse",
-      "createdat": "2026-08-18T15:03:22.000Z",
-      "crawledat": "2026-08-18T15:28:38.662Z"
-    },
-    {
-      "id": "49017",
-      "title": "《向山进发》巡礼·富士山吉田线",
-      "link": "https://champhoon.xyz/log/yamanosusume-mount-fuji-a/",
-      "rsslink": "https://champhoon.xyz/atom.xml",
-      "blogname": "澄沨的漫游茶记",
-      "createdat": "2026-08-18T15:01:00.000Z",
-      "crawledat": "2026-08-18T18:34:36.204Z"
-    },
-    {
-      "id": "49015",
-      "title": "CLIP、SigLIP、SigLIP2小结",
-      "link": "https://blog.xlonglong.cn/vision_encoder/",
-      "rsslink": "https://blog.xlonglong.cn/feed/",
-      "blogname": "Longlong's Blog",
-      "createdat": "2026-08-18T15:00:18.000Z",
-      "crawledat": "2026-08-18T18:34:36.204Z"
-    },
-    {
-      "id": "49022",
-      "title": "【MLIR】跟着Toy语言学习MLIR【2】pattern匹配和重写",
-      "link": "https://forcheetah.github.io/2026/08/18/mlir02/",
-      "rsslink": "https://forcheetah.github.io/atom.xml",
-      "blogname": "暮冬Z羡慕的博客",
-      "createdat": "2026-08-18T14:23:34.200Z",
-      "crawledat": "2026-08-18T18:34:36.204Z"
-    },
-    {
-      "id": "48986",
-      "title": "不用AI生成图片了，unsplash真香",
-      "link": "https://www.seis-jun.xyz/blog/2026-08-18-replace-ai-image-with-unsplash.html",
-      "rsslink": "https://www.seis-jun.xyz/atom.xml",
-      "blogname": "seisamuse",
-      "createdat": "2026-08-18T13:32:03.000Z",
-      "crawledat": "2026-08-18T15:28:38.662Z"
-    },
-    {
-      "id": "48984",
-      "title": "WonderPen 存储格式迁移历程",
-      "link": "https://oldj.net/posts/wonderpen-storage-evolution",
-      "rsslink": "https://oldj.net/feed",
-      "blogname": "oldj's blog",
-      "createdat": "2026-08-18T11:47:36.000Z",
-      "crawledat": "2026-08-18T15:28:38.662Z"
-    },
-    {
-      "id": "49014",
-      "title": "言泉输入法：原创一键补全",
-      "link": "https://nicrosoft.net/blog/2343/",
-      "rsslink": "https://nicrosoft.net/blog/feed/",
-      "blogname": "农码生涯 无酒无花",
-      "createdat": "2026-08-18T11:28:14.000Z",
       "crawledat": "2026-08-18T18:34:36.204Z"
     }
   ]
