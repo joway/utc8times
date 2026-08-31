@@ -4,6 +4,69 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "49368",
+      "title": "Claude Code Agent Loop 研究系列（09）—— Sidechain：从子代理到 agentId 分流",
+      "link": "https://xilidou.com/2026/08/28/claude-code-agent-loop-09-sidechain/",
+      "rsslink": "https://xilidou.com/atom.xml",
+      "blogname": "犀利豆的博客",
+      "createdat": "2026-08-28T10:00:00.000Z",
+      "crawledat": "2026-08-28T14:53:49.460Z"
+    },
+    {
+      "id": "49377",
+      "title": "徐波的公司在塌，可我那个舍友回不来了",
+      "link": "https://hocassian.cn/archives/article/14358/",
+      "rsslink": "https://hocassian.cn/feed/",
+      "blogname": "同和故事匯",
+      "createdat": "2026-08-28T09:10:21.000Z",
+      "crawledat": "2026-08-28T14:53:49.460Z"
+    },
+    {
+      "id": "49375",
+      "title": "20260828",
+      "link": "https://61.life/2026/0828",
+      "rsslink": "https://61.life/feed.xml",
+      "blogname": "61's life",
+      "createdat": "2026-08-28T08:32:29.000Z",
+      "crawledat": "2026-08-28T14:53:49.460Z"
+    },
+    {
+      "id": "49369",
+      "title": "入蜀记 day459 十年周期",
+      "link": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_459/",
+      "rsslink": "http://z.arlmy.me/atom.xml",
+      "blogname": "素生",
+      "createdat": "2026-08-28T08:01:27.000Z",
+      "crawledat": "2026-08-28T14:53:49.460Z"
+    },
+    {
+      "id": "49370",
+      "title": "入蜀记 day458 Dead Kennedys",
+      "link": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_458/",
+      "rsslink": "http://z.arlmy.me/atom.xml",
+      "blogname": "素生",
+      "createdat": "2026-08-28T07:57:27.000Z",
+      "crawledat": "2026-08-28T14:53:49.460Z"
+    },
+    {
+      "id": "49366",
+      "title": "Why GPU Scheduling Matters: From the Scheduling Landscape to Verifying HAMi mutex Semantics",
+      "link": "https://jimmysong.io/blog/hami-mutex-scheduling-kind-verification/",
+      "rsslink": "https://jimmysong.io/index.xml",
+      "blogname": "云原生",
+      "createdat": "2026-08-28T07:38:12.000Z",
+      "crawledat": "2026-08-28T14:53:49.460Z"
+    },
+    {
+      "id": "49371",
+      "title": "理财笔记 20260828",
+      "link": "https://z.arlmy.me/posts/TILs/money/20260828_InvestmentNote/",
+      "rsslink": "http://z.arlmy.me/atom.xml",
+      "blogname": "素生",
+      "createdat": "2026-08-28T07:30:27.000Z",
+      "crawledat": "2026-08-28T14:53:49.460Z"
+    },
+    {
       "id": "49379",
       "title": "智谱codingplan耐用程度分析：只用 GLM-5.3-Flash 够不够用？",
       "link": "https://blog.zhheo.com/p/c0jzc71f.html",
@@ -119,69 +182,6 @@
       "blogname": "JZ's Rambles",
       "createdat": "2026-08-27T09:43:40.000Z",
       "crawledat": "2026-08-29T18:10:06.314Z"
-    },
-    {
-      "id": "49432",
-      "title": "从使用 AI 到委托 AI（下）：我想要的可委托性",
-      "link": "https://fatbobman.com/zh/posts/from-using-ai-to-delegating-work-to-ai-2/",
-      "rsslink": "https://fatbobman.com/zh/rss.xml",
-      "blogname": "肘子的 Swift 记事本",
-      "createdat": "2026-08-27T09:00:00.000Z",
-      "crawledat": "2026-08-29T18:10:06.314Z"
-    },
-    {
-      "id": "49355",
-      "title": "关于博客写作III",
-      "link": "https://www.seis-jun.xyz/blog/2026-08-27-about-writing-blog-iii.html",
-      "rsslink": "https://www.seis-jun.xyz/atom.xml",
-      "blogname": "seisamuse",
-      "createdat": "2026-08-27T08:01:45.000Z",
-      "crawledat": "2026-08-27T13:47:02.126Z"
-    },
-    {
-      "id": "49357",
-      "title": "AOTInductor External Weight Storage and Weight Streaming Update",
-      "link": "https://leimao.github.io/blog/AOTInductor-External-Weight-Storage-Weight-Streaming-Update/",
-      "rsslink": "https://leimao.github.io/atom.xml",
-      "blogname": "Lei Mao's Log Book",
-      "createdat": "2026-08-27T07:00:00.000Z",
-      "crawledat": "2026-08-27T13:47:02.126Z"
-    },
-    {
-      "id": "49353",
-      "title": "人不知而不愠",
-      "link": "https://kaix.in/2026/0827/",
-      "rsslink": "https://kaix.in/feed/",
-      "blogname": "KAIX.IN",
-      "createdat": "2026-08-27T06:26:04.000Z",
-      "crawledat": "2026-08-27T13:47:02.126Z"
-    },
-    {
-      "id": "49422",
-      "title": "Chrome标签页开太多导致闪退怎么办？4个设置解决卡死崩溃",
-      "link": "https://www.wangdu.site/course/2383.html",
-      "rsslink": "https://www.wangdu.site/feed",
-      "blogname": "文武科技柜",
-      "createdat": "2026-08-27T06:12:34.000Z",
-      "crawledat": "2026-08-29T18:10:06.314Z"
-    },
-    {
-      "id": "49425",
-      "title": "广府古城一日游",
-      "link": "https://liudon.com/posts/guangfu-ancient-city-day-trip/",
-      "rsslink": "https://liudon.com/index.xml",
-      "blogname": "流动",
-      "createdat": "2026-08-27T05:59:14.000Z",
-      "crawledat": "2026-08-29T18:10:06.314Z"
-    },
-    {
-      "id": "49351",
-      "title": "數據地圖 – 概念介紹與用途",
-      "link": "https://mrpm.cc/1861/",
-      "rsslink": "http://feeds.feedburner.com/pmmustknow",
-      "blogname": "Mr. PM 下午先生",
-      "createdat": "2026-08-27T04:26:51.000Z",
-      "crawledat": "2026-08-27T13:47:02.126Z"
     }
   ]
 }
