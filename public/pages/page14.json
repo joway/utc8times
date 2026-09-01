@@ -4,6 +4,78 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "49121",
+      "title": "面向人机交互设计 Harness：构建以产物为中心的 Agent Loop",
+      "link": "http://www.phodal.com/blog/artifact-centered-agent-harness/",
+      "rsslink": "https://www.phodal.com/blog/feeds/rss/",
+      "blogname": "全栈应用开发:精益实践",
+      "createdat": "2026-08-22T14:49:00.000Z",
+      "crawledat": "2026-08-22T15:18:00.224Z"
+    },
+    {
+      "id": "49161",
+      "title": "【MLIR】跟着Toy语言学习MLIR【3】通过接口实现通用转换",
+      "link": "https://forcheetah.github.io/2026/08/22/mlir03/",
+      "rsslink": "https://forcheetah.github.io/atom.xml",
+      "blogname": "暮冬Z羡慕的博客",
+      "createdat": "2026-08-22T14:47:33.091Z",
+      "crawledat": "2026-08-23T09:25:01.082Z"
+    },
+    {
+      "id": "49400",
+      "title": "从零实现 GeekAgent —— Day3 Bash 工具",
+      "link": "https://geektutu.com/post/geekagent-day3.html",
+      "rsslink": "https://geektutu.com/feed.xml",
+      "blogname": "极客兔兔",
+      "createdat": "2026-08-22T13:30:00.000Z",
+      "crawledat": "2026-08-29T18:10:06.314Z"
+    },
+    {
+      "id": "49150",
+      "title": "看美剧《绝命毒师》解说",
+      "link": "https://www.jfsay.com/archives/4017.html",
+      "rsslink": "http://www.jfsay.com/feed",
+      "blogname": "静风说",
+      "createdat": "2026-08-22T12:13:07.000Z",
+      "crawledat": "2026-08-23T09:25:01.082Z"
+    },
+    {
+      "id": "49131",
+      "title": "零后端股票管理系统 · 源码与使用说明",
+      "link": "https://java4u.cn/ai/2385.html",
+      "rsslink": "https://java4u.cn/feed",
+      "blogname": "Java for You",
+      "createdat": "2026-08-22T11:35:17.000Z",
+      "crawledat": "2026-08-22T18:26:32.708Z"
+    },
+    {
+      "id": "49126",
+      "title": "关于信念",
+      "link": "https://www.seis-jun.xyz/blog/2026-08-22-about-believe.html",
+      "rsslink": "https://www.seis-jun.xyz/atom.xml",
+      "blogname": "seisamuse",
+      "createdat": "2026-08-22T11:32:57.000Z",
+      "crawledat": "2026-08-22T15:18:00.224Z"
+    },
+    {
+      "id": "49120",
+      "title": "Claude Code Agent Loop 研究系列（03）—— 从读文件到并行调度",
+      "link": "https://xilidou.com/2026/08/22/claude-code-agent-loop-03-parallel-dispatch/",
+      "rsslink": "https://xilidou.com/atom.xml",
+      "blogname": "犀利豆的博客",
+      "createdat": "2026-08-22T10:00:00.000Z",
+      "crawledat": "2026-08-22T12:34:13.433Z"
+    },
+    {
+      "id": "49142",
+      "title": "谁在断章取义张丹丹 断了什么章取了什么义",
+      "link": "http://weiwuhui.com/11081.html",
+      "rsslink": "http://weiwuhui.com/feed",
+      "blogname": "扯氮集",
+      "createdat": "2026-08-22T09:38:02.000Z",
+      "crawledat": "2026-08-23T09:25:01.082Z"
+    },
+    {
       "id": "49122",
       "title": "入蜀记 day450 正行亡私",
       "link": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_450/",
@@ -110,78 +182,6 @@
       "blogname": "豌豆花下猫 - Python猫",
       "createdat": "2026-08-22T00:00:00.000Z",
       "crawledat": "2026-08-22T15:18:00.224Z"
-    },
-    {
-      "id": "49130",
-      "title": "高维非凸优化的「鞍点主导」",
-      "link": "https://dreams.plus/blog/2026/2026-08-22-are-local-minima-rare-in-high-dimensions",
-      "rsslink": "https://dreams.plus/rss.xml",
-      "blogname": "但为君故",
-      "createdat": "2026-08-22T00:00:00.000Z",
-      "crawledat": "2026-08-22T15:18:00.224Z"
-    },
-    {
-      "id": "49183",
-      "title": "快速安装 Windows 可选功能（Features On Demand）",
-      "link": "https://blog.sunmkt.uk/post/quick-install-windows-fod/",
-      "rsslink": "https://blog.sunmkt.uk/feed.xml",
-      "blogname": "Sunset 的重构博客",
-      "createdat": "2026-08-22T00:00:00.000Z",
-      "crawledat": "2026-08-23T09:25:01.082Z"
-    },
-    {
-      "id": "49119",
-      "title": "游戏人间",
-      "link": "https://www.wsh233.cn/post/游戏人间",
-      "rsslink": "https://www.wsh233.cn/feed.xml",
-      "blogname": "WSH",
-      "createdat": "2026-08-21T17:23:26.000Z",
-      "crawledat": "2026-08-22T03:39:24.633Z"
-    },
-    {
-      "id": "49114",
-      "title": "App Store Connect 发布事故回顾",
-      "link": "https://blog.rxliuli.com/p/1fc6b38f0e2b46e38abdb06cc096ece3/",
-      "rsslink": "https://blog.rxliuli.com/atom.xml",
-      "blogname": "rxliuli blog",
-      "createdat": "2026-08-21T15:47:40.818Z",
-      "crawledat": "2026-08-21T18:33:06.890Z"
-    },
-    {
-      "id": "49299",
-      "title": "我现在难以输出一篇完整的文章",
-      "link": "https://imcbc.cn/202608/fragmented-writing/",
-      "rsslink": "https://www.bbing.com.cn/index.xml",
-      "blogname": "BBing's Blog",
-      "createdat": "2026-08-21T15:24:25.000Z",
-      "crawledat": "2026-08-26T03:51:28.204Z"
-    },
-    {
-      "id": "49112",
-      "title": "magpie 本地语义搜索",
-      "link": "https://dfine.tech/posts/88b0593b/",
-      "rsslink": "https://dfine.tech/atom.xml",
-      "blogname": "阁子",
-      "createdat": "2026-08-21T14:28:22.000Z",
-      "crawledat": "2026-08-21T15:30:04.049Z"
-    },
-    {
-      "id": "49118",
-      "title": "要不要把大模型搬回本地",
-      "link": "https://data4fun.cc/blog/2026/08/post-20260821/",
-      "rsslink": "https://data4fun.cc/index.xml",
-      "blogname": "data4fun",
-      "createdat": "2026-08-21T14:27:42.000Z",
-      "crawledat": "2026-08-22T03:39:24.633Z"
-    },
-    {
-      "id": "49401",
-      "title": "从零实现 GeekAgent —— Day2 工具调用循环",
-      "link": "https://geektutu.com/post/geekagent-day2.html",
-      "rsslink": "https://geektutu.com/feed.xml",
-      "blogname": "极客兔兔",
-      "createdat": "2026-08-21T13:30:00.000Z",
-      "crawledat": "2026-08-29T18:10:06.314Z"
     }
   ]
 }
