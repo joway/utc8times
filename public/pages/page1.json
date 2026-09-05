@@ -4,6 +4,24 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "49722",
+      "title": "高鲁棒性 API 设计之 Idempotency Key 幂等键",
+      "link": "https://blog.yasking.org/a/idempotency-key",
+      "rsslink": "https://blog.yasking.org/atom.xml",
+      "blogname": "东东's Blog",
+      "createdat": "2026-09-05T13:34:00.000Z",
+      "crawledat": "2026-09-05T22:38:13.342Z"
+    },
+    {
+      "id": "49715",
+      "title": "新版 Shadowrocket 配置 Tailscale，实现 iPhone、iPad 与 Mac mini 远程互联",
+      "link": "https://blog.sci.ci/2026/09/05/%E6%96%B0%E7%89%88Shadowrocket%E9%85%8D%E7%BD%AETailscale%E5%AE%9E%E7%8E%B0%E5%86%85%E7%BD%91%E6%89%93%E6%B4%9E/",
+      "rsslink": "https://blog.sci.ci/rss2.xml",
+      "blogname": "Qifei's Blog",
+      "createdat": "2026-09-05T12:00:00.000Z",
+      "crawledat": "2026-09-05T22:38:13.342Z"
+    },
+    {
       "id": "49709",
       "title": "饭局对成年人关系维系作用初探",
       "link": "https://www.seis-jun.xyz/blog/2026-09-05-dinner-and-relationship.html",
@@ -85,6 +103,15 @@
       "crawledat": "2026-09-05T12:21:58.588Z"
     },
     {
+      "id": "49712",
+      "title": "Python 潮流周刊#166：拆解 Kimi K3 的登顶之路",
+      "link": "https://pythoncat.top/posts/2026-09-05-weekly/",
+      "rsslink": "https://pythoncat.top/rss.xml",
+      "blogname": "豌豆花下猫 - Python猫",
+      "createdat": "2026-09-05T00:00:00.000Z",
+      "crawledat": "2026-09-05T22:38:13.342Z"
+    },
+    {
       "id": "49660",
       "title": "我的「库克时代」",
       "link": "https://blog.imalan.cn/archives/my-tim-cook-era/",
@@ -92,6 +119,15 @@
       "blogname": "失眠海峡",
       "createdat": "2026-09-04T16:11:25.000Z",
       "crawledat": "2026-09-04T18:05:52.338Z"
+    },
+    {
+      "id": "49713",
+      "title": "神所使用的 eGPU 并不完美",
+      "link": "https://xiaochopin.github.io/2026/09/05/egpu",
+      "rsslink": "https://xiaochopin.github.io/feed.xml",
+      "blogname": "重生云",
+      "createdat": "2026-09-04T16:00:00.000Z",
+      "crawledat": "2026-09-05T22:38:13.342Z"
     },
     {
       "id": "49664",
@@ -130,57 +166,21 @@
       "crawledat": "2026-09-04T18:05:52.338Z"
     },
     {
+      "id": "49724",
+      "title": "用 Tamper-monkey 集成 Kagi Translate - 以及用 Docker Sandbox 使用 OpenCode 和 DeepSeek",
+      "link": "https://taxodium.ink/integrate-kagi-translate-with-tampermonkey.html",
+      "rsslink": "https://taxodium.ink/rss.xml",
+      "blogname": "Taxodium",
+      "createdat": "2026-09-04T09:20:00.000Z",
+      "crawledat": "2026-09-05T22:38:13.342Z"
+    },
+    {
       "id": "49669",
       "title": "2026年8月阅读书摘",
       "link": "https://www.domon.cn/2026-8yue-yue-du-shu-zhai/",
       "rsslink": "https://www.domon.cn/rss/",
       "blogname": "Domon",
       "createdat": "2026-09-04T07:52:25.000Z",
-      "crawledat": "2026-09-04T18:05:52.338Z"
-    },
-    {
-      "id": "49662",
-      "title": "苏砚",
-      "link": "https://www.seis-jun.xyz/blog/2026-09-04-suyan.html",
-      "rsslink": "https://www.seis-jun.xyz/atom.xml",
-      "blogname": "seisamuse",
-      "createdat": "2026-09-04T06:35:15.000Z",
-      "crawledat": "2026-09-04T18:05:52.338Z"
-    },
-    {
-      "id": "49670",
-      "title": "MacBook不进入休眠全新邪修：十几块钱的绿联HDMI欺骗器",
-      "link": "https://blog.zhheo.com/p/8p5a0k56.html",
-      "rsslink": "https://blog.zhheo.com/rss.xml",
-      "blogname": "张洪Heo",
-      "createdat": "2026-09-04T06:00:00.000Z",
-      "crawledat": "2026-09-04T18:05:52.338Z"
-    },
-    {
-      "id": "49659",
-      "title": "Caddy 配置笔记：静态博客、自动 HTTPS 与域名重定向",
-      "link": "https://blog.lacia.cn/contents/b4ffd316-cc19-4328-aece-e5f736cd91e0",
-      "rsslink": "https://blog.lacia.cn/atom.xml",
-      "blogname": "沐凉",
-      "createdat": "2026-09-04T03:42:51.267Z",
-      "crawledat": "2026-09-04T18:05:52.338Z"
-    },
-    {
-      "id": "49656",
-      "title": "联邦制公司的黄昏",
-      "link": "http://weiwuhui.com/11090.html",
-      "rsslink": "http://weiwuhui.com/feed",
-      "blogname": "扯氮集",
-      "createdat": "2026-09-04T02:09:00.000Z",
-      "crawledat": "2026-09-04T13:08:55.326Z"
-    },
-    {
-      "id": "49668",
-      "title": "2000，跨世纪的旧日常",
-      "link": "https://www.tortorse.com/archives/old-daily-life-at-the-turn-of-the-century-2000/",
-      "rsslink": "https://www.tortorse.com/atom.xml",
-      "blogname": "愆伏",
-      "createdat": "2026-09-04T00:57:42.000Z",
       "crawledat": "2026-09-04T18:05:52.338Z"
     }
   ]
