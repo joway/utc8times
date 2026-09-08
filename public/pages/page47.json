@@ -4,6 +4,24 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "47752",
+      "title": "和爱看书的同好交流",
+      "link": "https://blog.sehnsucht.top/posts/%E6%80%9D%E8%80%83/%E5%92%8C%E7%88%B1%E7%9C%8B%E4%B9%A6%E7%9A%84%E5%90%8C%E5%A5%BD%E4%BA%A4%E6%B5%81/",
+      "rsslink": "https://blog.sehnsucht.top/rss.xml",
+      "blogname": "Sehnsucht",
+      "createdat": "2026-08-05T00:00:00.000Z",
+      "crawledat": "2026-08-07T21:36:34.371Z"
+    },
+    {
+      "id": "48224",
+      "title": "制作 remark 插件并添加到 Astro",
+      "link": "https://blog.dort.me/posts/586112282/",
+      "rsslink": "https://blog.dort.me/rss.xml",
+      "blogname": "Dort 的博客",
+      "createdat": "2026-08-05T00:00:00.000Z",
+      "crawledat": "2026-08-10T01:39:15.897Z"
+    },
+    {
       "id": "48297",
       "title": "读论文 - BM25 Wins at Scale",
       "link": "https://shiina18.github.io/llm/2026/08/05/bm25-wins-at-scale/",
@@ -164,24 +182,6 @@
       "blogname": "印记",
       "createdat": "2026-08-04T00:00:00.000Z",
       "crawledat": "2026-08-04T19:29:06.328Z"
-    },
-    {
-      "id": "47641",
-      "title": "Representation Manifolds of LLM",
-      "link": "https://dreams.plus/blog/2026/2026-08-04-the-representations-in-llm",
-      "rsslink": "https://dreams.plus/rss.xml",
-      "blogname": "但为君故",
-      "createdat": "2026-08-04T00:00:00.000Z",
-      "crawledat": "2026-08-04T19:29:06.328Z"
-    },
-    {
-      "id": "48225",
-      "title": "为 Astro 添加中英文混排插入空格和直角引号转换功能",
-      "link": "https://blog.dort.me/posts/3043800322/",
-      "rsslink": "https://blog.dort.me/rss.xml",
-      "blogname": "Dort 的博客",
-      "createdat": "2026-08-04T00:00:00.000Z",
-      "crawledat": "2026-08-10T01:39:15.897Z"
     }
   ]
 }
