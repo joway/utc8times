@@ -4,6 +4,51 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "49917",
+      "title": "最佳赏味期",
+      "link": "https://blog.imalan.cn/archives/best-enjoy-before/",
+      "rsslink": "https://blog.imalan.cn/feed.xml",
+      "blogname": "失眠海峡",
+      "createdat": "2026-09-12T08:35:12.000Z",
+      "crawledat": "2026-09-12T10:06:33.086Z"
+    },
+    {
+      "id": "49918",
+      "title": "风骚律师第三集",
+      "link": "https://www.seis-jun.xyz/blog/2026-09-12-better-call-saul3.html",
+      "rsslink": "https://www.seis-jun.xyz/atom.xml",
+      "blogname": "seisamuse",
+      "createdat": "2026-09-12T05:35:52.000Z",
+      "crawledat": "2026-09-12T10:06:33.086Z"
+    },
+    {
+      "id": "49921",
+      "title": "NVIDIA把供应链专家经验训练进模型，关键不是换一个更大模型",
+      "link": "https://java4u.cn/ai/2524.html",
+      "rsslink": "https://java4u.cn/feed",
+      "blogname": "Java for You",
+      "createdat": "2026-09-12T02:55:49.000Z",
+      "crawledat": "2026-09-12T10:06:33.086Z"
+    },
+    {
+      "id": "49920",
+      "title": "Fragments 0x0005",
+      "link": "https://lenciel.com/2026/09/fragments-0x0005/",
+      "rsslink": "https://lenciel.com/feed.xml",
+      "blogname": "@Lenciel",
+      "createdat": "2026-09-12T02:45:59.000Z",
+      "crawledat": "2026-09-12T10:06:33.086Z"
+    },
+    {
+      "id": "49919",
+      "title": "理发",
+      "link": "https://www.seis-jun.xyz/blog/2026-09-12-hair-cut.html",
+      "rsslink": "https://www.seis-jun.xyz/atom.xml",
+      "blogname": "seisamuse",
+      "createdat": "2026-09-12T01:51:31.000Z",
+      "crawledat": "2026-09-12T10:06:33.086Z"
+    },
+    {
       "id": "49915",
       "title": "摘：《作茧自缚》",
       "link": "https://z.arlmy.me/posts/Note/Note_JamesCScott_AgainstTheGrainADeepHistoryOfTheEarliestStates/",
@@ -13,6 +58,24 @@
       "crawledat": "2026-09-12T03:10:28.255Z"
     },
     {
+      "id": "49922",
+      "title": "人人都能问公司数据之后，数据分析师反而更重要了",
+      "link": "https://java4u.cn/ai/2521.html",
+      "rsslink": "https://java4u.cn/feed",
+      "blogname": "Java for You",
+      "createdat": "2026-09-12T01:24:07.000Z",
+      "crawledat": "2026-09-12T10:06:33.086Z"
+    },
+    {
+      "id": "49923",
+      "title": "语音AI开始边听边说，改变的不只是响应速度",
+      "link": "https://java4u.cn/ai/2518.html",
+      "rsslink": "https://java4u.cn/feed",
+      "blogname": "Java for You",
+      "createdat": "2026-09-12T01:15:42.000Z",
+      "crawledat": "2026-09-12T10:06:33.086Z"
+    },
+    {
       "id": "49916",
       "title": "记刘昊然讲的一段话",
       "link": "https://z.arlmy.me/posts/Note/Note_LiuHaoRan_AStory/",
@@ -20,6 +83,42 @@
       "blogname": "素生",
       "createdat": "2026-09-12T01:00:46.000Z",
       "crawledat": "2026-09-12T03:10:28.255Z"
+    },
+    {
+      "id": "49924",
+      "title": "Agent到底比一次大模型调用多了什么？小白从这张流程图看懂",
+      "link": "https://java4u.cn/ai/2515.html",
+      "rsslink": "https://java4u.cn/feed",
+      "blogname": "Java for You",
+      "createdat": "2026-09-12T00:59:32.000Z",
+      "crawledat": "2026-09-12T10:06:33.086Z"
+    },
+    {
+      "id": "49925",
+      "title": "ChatGPT服务10亿周用户后，最难扩展的可能不是模型",
+      "link": "https://java4u.cn/ai/2512.html",
+      "rsslink": "https://java4u.cn/feed",
+      "blogname": "Java for You",
+      "createdat": "2026-09-12T00:52:14.000Z",
+      "crawledat": "2026-09-12T10:06:33.086Z"
+    },
+    {
+      "id": "49926",
+      "title": "AI编码助手的日志也会泄密：先划清明文边界",
+      "link": "https://java4u.cn/ai/2509.html",
+      "rsslink": "https://java4u.cn/feed",
+      "blogname": "Java for You",
+      "createdat": "2026-09-12T00:46:40.000Z",
+      "crawledat": "2026-09-12T10:06:33.086Z"
+    },
+    {
+      "id": "49927",
+      "title": "同一套GPU多服务2.5倍用户，关键不是换模型",
+      "link": "https://java4u.cn/ai/2506.html",
+      "rsslink": "https://java4u.cn/feed",
+      "blogname": "Java for You",
+      "createdat": "2026-09-12T00:31:52.000Z",
+      "crawledat": "2026-09-12T10:06:33.086Z"
     },
     {
       "id": "49899",
@@ -82,105 +181,6 @@
       "rsslink": "https://blog.zhheo.com/rss.xml",
       "blogname": "张洪Heo",
       "createdat": "2026-09-11T08:59:58.000Z",
-      "crawledat": "2026-09-11T10:37:35.614Z"
-    },
-    {
-      "id": "49896",
-      "title": "为 iPhone Duo 做设计：苹果官方设计原则全解读",
-      "link": "https://blog.zhheo.com/p/kq0qyc9y.html",
-      "rsslink": "https://blog.zhheo.com/rss.xml",
-      "blogname": "张洪Heo",
-      "createdat": "2026-09-11T08:59:56.000Z",
-      "crawledat": "2026-09-11T10:37:35.614Z"
-    },
-    {
-      "id": "49897",
-      "title": "看到了淘宝闪购的AI评论，引发了我的思考",
-      "link": "https://blog.zhheo.com/p/0vmg6q9j.html",
-      "rsslink": "https://blog.zhheo.com/rss.xml",
-      "blogname": "张洪Heo",
-      "createdat": "2026-09-11T08:07:52.000Z",
-      "crawledat": "2026-09-11T10:37:35.614Z"
-    },
-    {
-      "id": "49900",
-      "title": "NVIDIA把老师傅的判断变成了训练数据",
-      "link": "https://java4u.cn/ai/2503.html",
-      "rsslink": "https://java4u.cn/feed",
-      "blogname": "Java for You",
-      "createdat": "2026-09-11T06:44:48.000Z",
-      "crawledat": "2026-09-11T15:52:49.938Z"
-    },
-    {
-      "id": "49901",
-      "title": "4次真实越权事件提醒我们：智能体最怕认错环境",
-      "link": "https://java4u.cn/ai/2500.html",
-      "rsslink": "https://java4u.cn/feed",
-      "blogname": "Java for You",
-      "createdat": "2026-09-11T06:34:22.000Z",
-      "crawledat": "2026-09-11T15:52:49.938Z"
-    },
-    {
-      "id": "49902",
-      "title": "自动驾驶大模型开始统一看懂、建图和规划",
-      "link": "https://java4u.cn/ai/2497.html",
-      "rsslink": "https://java4u.cn/feed",
-      "blogname": "Java for You",
-      "createdat": "2026-09-11T06:31:05.000Z",
-      "crawledat": "2026-09-11T15:52:49.938Z"
-    },
-    {
-      "id": "49903",
-      "title": "开源天气模型已经很快，真正的瓶颈却在数据",
-      "link": "https://java4u.cn/ai/2494.html",
-      "rsslink": "https://java4u.cn/feed",
-      "blogname": "Java for You",
-      "createdat": "2026-09-11T06:27:51.000Z",
-      "crawledat": "2026-09-11T15:52:49.938Z"
-    },
-    {
-      "id": "49904",
-      "title": "智能体能读文件跑命令之后，企业权限该怎么管",
-      "link": "https://java4u.cn/ai/2491.html",
-      "rsslink": "https://java4u.cn/feed",
-      "blogname": "Java for You",
-      "createdat": "2026-09-11T06:25:38.000Z",
-      "crawledat": "2026-09-11T15:52:49.938Z"
-    },
-    {
-      "id": "49905",
-      "title": "AI提交千禧难题证明，真正的门槛转向公开验证",
-      "link": "https://java4u.cn/ai/2488.html",
-      "rsslink": "https://java4u.cn/feed",
-      "blogname": "Java for You",
-      "createdat": "2026-09-11T06:24:14.000Z",
-      "crawledat": "2026-09-11T15:52:49.938Z"
-    },
-    {
-      "id": "49906",
-      "title": "语音AI最大的误区，是默认每个人都在安静房间里说话",
-      "link": "https://java4u.cn/ai/2485.html",
-      "rsslink": "https://java4u.cn/feed",
-      "blogname": "Java for You",
-      "createdat": "2026-09-11T06:13:59.000Z",
-      "crawledat": "2026-09-11T15:52:49.938Z"
-    },
-    {
-      "id": "49861",
-      "title": "关于自洽：一次由 AI 主问的访谈",
-      "link": "https://zkpeace.com/blog-cn/posts/50952/",
-      "rsslink": "https://zkpeace.com/blog-cn/atom.xml",
-      "blogname": "途中的树",
-      "createdat": "2026-09-11T06:00:00.000Z",
-      "crawledat": "2026-09-10T20:25:52.744Z"
-    },
-    {
-      "id": "49889",
-      "title": "摘：《说灵魂》",
-      "link": "https://z.arlmy.me/posts/Note/Note_ChengBaoYi_ShuoLingHun/",
-      "rsslink": "http://z.arlmy.me/atom.xml",
-      "blogname": "素生",
-      "createdat": "2026-09-11T05:18:46.000Z",
       "crawledat": "2026-09-11T10:37:35.614Z"
     }
   ]
