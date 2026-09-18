@@ -4,6 +4,42 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "50377",
+      "title": "Origin、Grok Bot体验与Gantry（Courier）",
+      "link": "https://elmagnifico.tech/2026/09/19/Cursor-Origin-GrokBot/",
+      "rsslink": "http://elmagnifico.tech/feed.xml",
+      "blogname": "elmagnifico",
+      "createdat": "2026-09-18T16:00:00.000Z",
+      "crawledat": "2026-09-18T20:24:41.387Z"
+    },
+    {
+      "id": "50369",
+      "title": "《深入分析Java Web技术内幕》.pdf",
+      "link": "https://java4u.cn/resources/ebook/java/2653.html",
+      "rsslink": "https://java4u.cn/feed",
+      "blogname": "Java for You",
+      "createdat": "2026-09-18T08:21:52.000Z",
+      "crawledat": "2026-09-18T20:24:41.387Z"
+    },
+    {
+      "id": "50370",
+      "title": "《JAVA网络编程》.pdf",
+      "link": "https://java4u.cn/resources/ebook/java/2651.html",
+      "rsslink": "https://java4u.cn/feed",
+      "blogname": "Java for You",
+      "createdat": "2026-09-18T08:20:42.000Z",
+      "crawledat": "2026-09-18T20:24:41.387Z"
+    },
+    {
+      "id": "50371",
+      "title": "《Java 工程师成神之路》.pdf",
+      "link": "https://java4u.cn/resources/ebook/java/2648.html",
+      "rsslink": "https://java4u.cn/feed",
+      "blogname": "Java for You",
+      "createdat": "2026-09-18T08:18:14.000Z",
+      "crawledat": "2026-09-18T20:24:41.387Z"
+    },
+    {
       "id": "50185",
       "title": "Doherty 多尔蒂阈值",
       "link": "https://blog.est.im/2026/stderr-29",
@@ -11,6 +47,51 @@
       "blogname": "Est's Blog",
       "createdat": "2026-09-18T08:15:00.000Z",
       "crawledat": "2026-09-18T10:35:19.468Z"
+    },
+    {
+      "id": "50372",
+      "title": "Copilot开始统计“真正用过什么”：AI落地终于不只看活跃人数",
+      "link": "https://java4u.cn/ai/2646.html",
+      "rsslink": "https://java4u.cn/feed",
+      "blogname": "Java for You",
+      "createdat": "2026-09-18T08:11:27.000Z",
+      "crawledat": "2026-09-18T20:24:41.387Z"
+    },
+    {
+      "id": "50373",
+      "title": "多Agent最怕的不是答错，而是崩溃后不知道做到哪一步",
+      "link": "https://java4u.cn/ai/2643.html",
+      "rsslink": "https://java4u.cn/feed",
+      "blogname": "Java for You",
+      "createdat": "2026-09-18T08:10:11.000Z",
+      "crawledat": "2026-09-18T20:24:41.387Z"
+    },
+    {
+      "id": "50374",
+      "title": "Claude放宽生命科学限制：代价是验证、分级和30天留存",
+      "link": "https://java4u.cn/ai/2640.html",
+      "rsslink": "https://java4u.cn/feed",
+      "blogname": "Java for You",
+      "createdat": "2026-09-18T08:09:00.000Z",
+      "crawledat": "2026-09-18T20:24:41.387Z"
+    },
+    {
+      "id": "50375",
+      "title": "Anthropic公开内部AI研发速度：真正该盯的是三个分母",
+      "link": "https://java4u.cn/ai/2638.html",
+      "rsslink": "https://java4u.cn/feed",
+      "blogname": "Java for You",
+      "createdat": "2026-09-18T08:07:44.000Z",
+      "crawledat": "2026-09-18T20:24:41.387Z"
+    },
+    {
+      "id": "50376",
+      "title": "4 bit模型为何不等于显存缩小四倍？量化账单这样算",
+      "link": "https://java4u.cn/ai/2635.html",
+      "rsslink": "https://java4u.cn/feed",
+      "blogname": "Java for You",
+      "createdat": "2026-09-18T08:05:50.000Z",
+      "crawledat": "2026-09-18T20:24:41.387Z"
     },
     {
       "id": "50184",
@@ -100,87 +181,6 @@
       "rsslink": "https://www.ixiqin.com/feed/",
       "blogname": "西秦公子",
       "createdat": "2026-09-17T15:14:22.000Z",
-      "crawledat": "2026-09-17T16:15:27.643Z"
-    },
-    {
-      "id": "50160",
-      "title": "CSS rex、rlh、ric等根家族单位简介",
-      "link": "https://www.zhangxinxu.com/wordpress/2026/09/css-root-units/",
-      "rsslink": "http://www.zhangxinxu.com/wordpress/?feed=rss2",
-      "blogname": "张鑫旭-鑫空间-鑫生活",
-      "createdat": "2026-09-17T11:42:29.000Z",
-      "crawledat": "2026-09-17T16:15:27.643Z"
-    },
-    {
-      "id": "50178",
-      "title": "Blog Theme Update Mermaid Support Is Here",
-      "link": "https://www.bboy.app/2026/09/17/blog-theme-update-mermaid-support-is-here/",
-      "rsslink": "https://www.bboy.app/atom.xml",
-      "blogname": "bboysoul的博客",
-      "createdat": "2026-09-17T11:14:20.000Z",
-      "crawledat": "2026-09-17T23:26:20.743Z"
-    },
-    {
-      "id": "50179",
-      "title": "博客主题更新：现在支持 Mermaid 了",
-      "link": "https://www.bboy.app/2026/09/17/%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A2%98%E6%9B%B4%E6%96%B0%E7%8E%B0%E5%9C%A8%E6%94%AF%E6%8C%81-mermaid-%E4%BA%86/",
-      "rsslink": "https://www.bboy.app/atom.xml",
-      "blogname": "bboysoul的博客",
-      "createdat": "2026-09-17T11:14:20.000Z",
-      "crawledat": "2026-09-17T23:26:20.743Z"
-    },
-    {
-      "id": "50167",
-      "title": "同文输入法添加雾凇拼音和中英文释义",
-      "link": "https://mianao.info/add-chinese-english-translation-to-trime/",
-      "rsslink": "https://mianao.info/atom.xml",
-      "blogname": "不吐不快",
-      "createdat": "2026-09-17T06:30:00.000Z",
-      "crawledat": "2026-09-17T16:15:27.643Z"
-    },
-    {
-      "id": "50165",
-      "title": "Fragments 0x0007",
-      "link": "https://lenciel.com/2026/09/fragments-0x0007/",
-      "rsslink": "https://lenciel.com/feed.xml",
-      "blogname": "@Lenciel",
-      "createdat": "2026-09-17T04:39:43.000Z",
-      "crawledat": "2026-09-17T16:15:27.643Z"
-    },
-    {
-      "id": "50169",
-      "title": "GPU抢不到就换一种：训练任务需要先声明可替代性",
-      "link": "https://java4u.cn/ai/2632.html",
-      "rsslink": "https://java4u.cn/feed",
-      "blogname": "Java for You",
-      "createdat": "2026-09-17T04:38:13.000Z",
-      "crawledat": "2026-09-17T16:15:27.643Z"
-    },
-    {
-      "id": "50170",
-      "title": "Agent不是多想几步就能上线：用状态机管住自动行动",
-      "link": "https://java4u.cn/ai/2629.html",
-      "rsslink": "https://java4u.cn/feed",
-      "blogname": "Java for You",
-      "createdat": "2026-09-17T04:37:08.000Z",
-      "crawledat": "2026-09-17T16:15:27.643Z"
-    },
-    {
-      "id": "50171",
-      "title": "数据不能集中，算力也不统一：联邦学习终于面对运维现实",
-      "link": "https://java4u.cn/ai/2626.html",
-      "rsslink": "https://java4u.cn/feed",
-      "blogname": "Java for You",
-      "createdat": "2026-09-17T04:36:01.000Z",
-      "crawledat": "2026-09-17T16:15:27.643Z"
-    },
-    {
-      "id": "50172",
-      "title": "OpenAI开始公开模型失配个案：真正重要的是这套报告制度",
-      "link": "https://java4u.cn/ai/2623.html",
-      "rsslink": "https://java4u.cn/feed",
-      "blogname": "Java for You",
-      "createdat": "2026-09-17T04:34:51.000Z",
       "crawledat": "2026-09-17T16:15:27.643Z"
     }
   ]
