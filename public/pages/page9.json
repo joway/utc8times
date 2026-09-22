@@ -4,6 +4,69 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "50110",
+      "title": "票据抽取不一定要上最大模型：先看版式是否真的变化",
+      "link": "https://java4u.cn/ai/2611.html",
+      "rsslink": "https://java4u.cn/feed",
+      "blogname": "Java for You",
+      "createdat": "2026-09-16T01:19:52.000Z",
+      "crawledat": "2026-09-16T10:51:32.449Z"
+    },
+    {
+      "id": "50111",
+      "title": "临床AI别再只比像不像标准答案，先算医生少改了多少",
+      "link": "https://java4u.cn/ai/2608.html",
+      "rsslink": "https://java4u.cn/feed",
+      "blogname": "Java for You",
+      "createdat": "2026-09-16T01:18:38.000Z",
+      "crawledat": "2026-09-16T10:51:32.449Z"
+    },
+    {
+      "id": "50112",
+      "title": "AI做长程科研，真正稀缺的不是更多Agent而是反证链",
+      "link": "https://java4u.cn/ai/2605.html",
+      "rsslink": "https://java4u.cn/feed",
+      "blogname": "Java for You",
+      "createdat": "2026-09-16T01:17:19.000Z",
+      "crawledat": "2026-09-16T10:51:32.449Z"
+    },
+    {
+      "id": "50113",
+      "title": "AI代码审计最危险的不是漏报，而是团队开始不再相信它",
+      "link": "https://java4u.cn/ai/2602.html",
+      "rsslink": "https://java4u.cn/feed",
+      "blogname": "Java for You",
+      "createdat": "2026-09-16T01:16:03.000Z",
+      "crawledat": "2026-09-16T10:51:32.449Z"
+    },
+    {
+      "id": "50114",
+      "title": "100万Token不等于模型全记住：从KV Cache看懂长上下文成本",
+      "link": "https://java4u.cn/ai/2599.html",
+      "rsslink": "https://java4u.cn/feed",
+      "blogname": "Java for You",
+      "createdat": "2026-09-16T01:14:43.000Z",
+      "crawledat": "2026-09-16T10:51:32.449Z"
+    },
+    {
+      "id": "50105",
+      "title": "什么叫做爱情？",
+      "link": "https://www.seis-jun.xyz/blog/2026-09-16-what-is-love.html",
+      "rsslink": "https://www.seis-jun.xyz/atom.xml",
+      "blogname": "seisamuse",
+      "createdat": "2026-09-15T23:06:15.000Z",
+      "crawledat": "2026-09-16T10:51:32.449Z"
+    },
+    {
+      "id": "50092",
+      "title": "入蜀记 day477 街头美食斗士、宜家、手机掉进地铁门缝",
+      "link": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_477/",
+      "rsslink": "http://z.arlmy.me/atom.xml",
+      "blogname": "素生",
+      "createdat": "2026-09-15T16:01:27.000Z",
+      "crawledat": "2026-09-15T20:52:26.298Z"
+    },
+    {
       "id": "50107",
       "title": "AI 第一性原理",
       "link": "http://afoo.me/posts/2026-09-16-first-principle-of-AI.html",
@@ -20,6 +83,15 @@
       "blogname": "elmagnifico",
       "createdat": "2026-09-15T16:00:00.000Z",
       "crawledat": "2026-09-16T10:51:32.449Z"
+    },
+    {
+      "id": "50523",
+      "title": "从源码理解 KubeRay 与 Volcano：系列目录",
+      "link": "https://tanxinyu.work/kuberay-volcano/",
+      "rsslink": "https://tanxinyu.work/atom.xml",
+      "blogname": "谭新宇的博客",
+      "createdat": "2026-09-15T16:00:00.000Z",
+      "crawledat": "2026-09-22T23:29:16.180Z"
     },
     {
       "id": "50093",
@@ -110,78 +182,6 @@
       "blogname": "谭新宇的博客",
       "createdat": "2026-09-15T15:15:00.000Z",
       "crawledat": "2026-09-16T10:51:32.449Z"
-    },
-    {
-      "id": "50125",
-      "title": "第 7 篇｜Volcano Gang 调度：成组分配与绑定",
-      "link": "https://tanxinyu.work/kuberay-volcano-07-volcano-gang/",
-      "rsslink": "https://tanxinyu.work/atom.xml",
-      "blogname": "谭新宇的博客",
-      "createdat": "2026-09-15T15:10:00.000Z",
-      "crawledat": "2026-09-16T10:51:32.449Z"
-    },
-    {
-      "id": "50126",
-      "title": "第 8 篇｜Volcano 资源竞争：队列份额与作业调度",
-      "link": "https://tanxinyu.work/kuberay-volcano-08-volcano-queues/",
-      "rsslink": "https://tanxinyu.work/atom.xml",
-      "blogname": "谭新宇的博客",
-      "createdat": "2026-09-15T15:05:00.000Z",
-      "crawledat": "2026-09-16T10:51:32.449Z"
-    },
-    {
-      "id": "50127",
-      "title": "第 9 篇｜KubeRay 与 Volcano：接入与生命周期协作",
-      "link": "https://tanxinyu.work/kuberay-volcano-09-kuberay-volcano/",
-      "rsslink": "https://tanxinyu.work/atom.xml",
-      "blogname": "谭新宇的博客",
-      "createdat": "2026-09-15T15:00:00.000Z",
-      "crawledat": "2026-09-16T10:51:32.449Z"
-    },
-    {
-      "id": "50096",
-      "title": "我是如何将自己逐出主流就业圈的",
-      "link": "https://ddadaal.me/articles/how-i-close-my-door-to-mainstream-jobs/cn",
-      "rsslink": "https://ddadaal.me/rss.xml",
-      "blogname": "ddadaal.me",
-      "createdat": "2026-09-15T13:39:00.000Z",
-      "crawledat": "2026-09-15T20:52:26.298Z"
-    },
-    {
-      "id": "50443",
-      "title": "UNSW Katana使用记录",
-      "link": "https://mocusez.site/zh-CN/posts/d355",
-      "rsslink": "https://mocusez.site/zh-CN/atom.xml",
-      "blogname": "Mox的笔记库",
-      "createdat": "2026-09-15T12:47:23.000Z",
-      "crawledat": "2026-09-20T10:38:42.695Z"
-    },
-    {
-      "id": "50098",
-      "title": "来信 · 莫良",
-      "link": "https://www.gtdstudy.com/guestbook/87f68869-3498-4076-94c5-d8537125e557/",
-      "rsslink": "http://yibie.github.io/index.xml",
-      "blogname": "学无止境@一点一滴",
-      "createdat": "2026-09-15T12:04:59.000Z",
-      "crawledat": "2026-09-15T20:52:26.298Z"
-    },
-    {
-      "id": "50083",
-      "title": "GifPlay：Mac原生Gif录制和编辑工具，装机必备【效率工具指南】",
-      "link": "https://penghh.fun/2026/09/15/2026-9-15-gifplay/",
-      "rsslink": "https://penghh.fun/atom.xml",
-      "blogname": "效率工具指南",
-      "createdat": "2026-09-15T09:46:00.000Z",
-      "crawledat": "2026-09-15T11:05:55.322Z"
-    },
-    {
-      "id": "50446",
-      "title": "AI记账小程序上线",
-      "link": "https://sugarat.top/technology/works/miaowa-miniapp.html",
-      "rsslink": "https://sugarat.top/feed.rss",
-      "blogname": "粥里有勺糖",
-      "createdat": "2026-09-15T09:39:28.000Z",
-      "crawledat": "2026-09-20T10:38:42.695Z"
     }
   ]
 }
