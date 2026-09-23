@@ -4,6 +4,60 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "50102",
+      "title": "墨问发布第一款 Mac App：CatBar，极简 Mac 菜单栏图标管理工具",
+      "link": "https://macshuo.com/?p=2078",
+      "rsslink": "http://macshuo.com/?feed=rss2",
+      "blogname": "MacTalk-池建强的随想录",
+      "createdat": "2026-09-16T06:01:07.000Z",
+      "crawledat": "2026-09-16T10:51:32.449Z"
+    },
+    {
+      "id": "50153",
+      "title": "初遇肾绞痛",
+      "link": "https://www.wsh233.cn/post/初遇肾绞痛",
+      "rsslink": "https://www.wsh233.cn/feed.xml",
+      "blogname": "WSH",
+      "createdat": "2026-09-16T05:15:45.000Z",
+      "crawledat": "2026-09-16T10:51:32.449Z"
+    },
+    {
+      "id": "50104",
+      "title": "随笔",
+      "link": "https://www.seis-jun.xyz/blog/2026-09-16-jotting.html",
+      "rsslink": "https://www.seis-jun.xyz/atom.xml",
+      "blogname": "seisamuse",
+      "createdat": "2026-09-16T04:35:48.000Z",
+      "crawledat": "2026-09-16T10:51:32.449Z"
+    },
+    {
+      "id": "50116",
+      "title": "用 AI 写了几个博客插件",
+      "link": "https://pinlyu.com/life/moment-20260916/",
+      "rsslink": "https://pinlyu.com/feed/",
+      "blogname": "频率 - 风卷过的起点",
+      "createdat": "2026-09-16T03:08:19.000Z",
+      "crawledat": "2026-09-16T10:51:32.449Z"
+    },
+    {
+      "id": "50108",
+      "title": "语义相近却总找错资料？从Embedding看懂向量检索",
+      "link": "https://java4u.cn/ai/2617.html",
+      "rsslink": "https://java4u.cn/feed",
+      "blogname": "Java for You",
+      "createdat": "2026-09-16T01:22:09.000Z",
+      "crawledat": "2026-09-16T10:51:32.449Z"
+    },
+    {
+      "id": "50109",
+      "title": "AI算力开始听电网指挥：比换GPU更现实的增产方法",
+      "link": "https://java4u.cn/ai/2614.html",
+      "rsslink": "https://java4u.cn/feed",
+      "blogname": "Java for You",
+      "createdat": "2026-09-16T01:21:00.000Z",
+      "crawledat": "2026-09-16T10:51:32.449Z"
+    },
+    {
       "id": "50110",
       "title": "票据抽取不一定要上最大模型：先看版式是否真的变化",
       "link": "https://java4u.cn/ai/2611.html",
@@ -127,60 +181,6 @@
       "rsslink": "https://tanxinyu.work/atom.xml",
       "blogname": "谭新宇的博客",
       "createdat": "2026-09-15T15:45:00.000Z",
-      "crawledat": "2026-09-16T10:51:32.449Z"
-    },
-    {
-      "id": "50119",
-      "title": "第 1 篇｜KubeRay 架构：组件分工与协作",
-      "link": "https://tanxinyu.work/kuberay-volcano-01-architecture/",
-      "rsslink": "https://tanxinyu.work/atom.xml",
-      "blogname": "谭新宇的博客",
-      "createdat": "2026-09-15T15:40:00.000Z",
-      "crawledat": "2026-09-16T10:51:32.449Z"
-    },
-    {
-      "id": "50120",
-      "title": "第 2 篇｜KubeRay 协调：从 Pod 变化到 Reconcile",
-      "link": "https://tanxinyu.work/kuberay-volcano-02-reconcile/",
-      "rsslink": "https://tanxinyu.work/atom.xml",
-      "blogname": "谭新宇的博客",
-      "createdat": "2026-09-15T15:35:00.000Z",
-      "crawledat": "2026-09-16T10:51:32.449Z"
-    },
-    {
-      "id": "50121",
-      "title": "第 3 篇｜KubeRay 并发：一个 Operator 如何管理 100 个 RayCluster",
-      "link": "https://tanxinyu.work/kuberay-volcano-03-concurrency/",
-      "rsslink": "https://tanxinyu.work/atom.xml",
-      "blogname": "谭新宇的博客",
-      "createdat": "2026-09-15T15:30:00.000Z",
-      "crawledat": "2026-09-16T10:51:32.449Z"
-    },
-    {
-      "id": "50122",
-      "title": "第 4 篇｜KubeRay 恢复：Operator 重启后如何继续工作",
-      "link": "https://tanxinyu.work/kuberay-volcano-04-recovery/",
-      "rsslink": "https://tanxinyu.work/atom.xml",
-      "blogname": "谭新宇的博客",
-      "createdat": "2026-09-15T15:25:00.000Z",
-      "crawledat": "2026-09-16T10:51:32.449Z"
-    },
-    {
-      "id": "50123",
-      "title": "第 5 篇｜KubeRay 高可用：从主备切换到 Ray 服务恢复",
-      "link": "https://tanxinyu.work/kuberay-volcano-05-high-availability/",
-      "rsslink": "https://tanxinyu.work/atom.xml",
-      "blogname": "谭新宇的博客",
-      "createdat": "2026-09-15T15:20:00.000Z",
-      "crawledat": "2026-09-16T10:51:32.449Z"
-    },
-    {
-      "id": "50124",
-      "title": "第 6 篇｜Volcano 架构：从 Pod 到作业",
-      "link": "https://tanxinyu.work/kuberay-volcano-06-volcano-architecture/",
-      "rsslink": "https://tanxinyu.work/atom.xml",
-      "blogname": "谭新宇的博客",
-      "createdat": "2026-09-15T15:15:00.000Z",
       "crawledat": "2026-09-16T10:51:32.449Z"
     }
   ]
