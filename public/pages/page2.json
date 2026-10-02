@@ -4,6 +4,51 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "50817",
+      "title": "把博客生成器从 Mkdocs 迁移到 Zensical",
+      "link": "https://jia.je/meta/2026/09/30/migrate-from-mkdocs-to-zensical/",
+      "rsslink": "https://jia.je/feed.xml",
+      "blogname": "杰哥的小笔记",
+      "createdat": "2026-09-30T00:00:00.000Z",
+      "crawledat": "2026-09-30T17:37:41.810Z"
+    },
+    {
+      "id": "50807",
+      "title": "写得出来，自己却未必做得到",
+      "link": "https://www.seis-jun.xyz/blog/2026-09-30-easy-said-than-done.html",
+      "rsslink": "https://www.seis-jun.xyz/atom.xml",
+      "blogname": "seisamuse",
+      "createdat": "2026-09-29T23:37:30.000Z",
+      "crawledat": "2026-09-30T09:19:11.080Z"
+    },
+    {
+      "id": "50812",
+      "title": "Fragments 0x000E",
+      "link": "https://lenciel.com/2026/09/fragments-0x000e/",
+      "rsslink": "https://lenciel.com/feed.xml",
+      "blogname": "@Lenciel",
+      "createdat": "2026-09-29T18:15:15.000Z",
+      "crawledat": "2026-09-30T17:37:41.810Z"
+    },
+    {
+      "id": "50823",
+      "title": "关于意识 - 假如 AI 觉醒了",
+      "link": "https://i.hsfzxjy.site/on-consciousness-with-chatgpt-1/",
+      "rsslink": "https://i.hsfzxjy.site/rss.xml",
+      "blogname": "hsfzxjy 的博客",
+      "createdat": "2026-09-29T17:20:00.000Z",
+      "crawledat": "2026-09-30T17:37:41.810Z"
+    },
+    {
+      "id": "50824",
+      "title": "假如 AI 觉醒了",
+      "link": "https://i.hsfzxjy.site/what-if-ai-awakes/",
+      "rsslink": "https://i.hsfzxjy.site/rss.xml",
+      "blogname": "hsfzxjy 的博客",
+      "createdat": "2026-09-29T17:18:00.000Z",
+      "crawledat": "2026-09-30T17:37:41.810Z"
+    },
+    {
       "id": "50810",
       "title": "把 Electron 更新做快：我在 OTA 上的几次推倒重来",
       "link": "https://innei.in/posts/tech/electron-ota-updater",
@@ -137,51 +182,6 @@
       "blogname": "肘子的 Swift 记事本",
       "createdat": "2026-09-28T14:00:00.000Z",
       "crawledat": "2026-09-30T17:37:41.810Z"
-    },
-    {
-      "id": "50665",
-      "title": "那片荷塘",
-      "link": "https://www.seis-jun.xyz/blog/2026-09-28-the-lotus-pool.html",
-      "rsslink": "https://www.seis-jun.xyz/atom.xml",
-      "blogname": "seisamuse",
-      "createdat": "2026-09-28T11:23:08.000Z",
-      "crawledat": "2026-09-28T21:03:52.046Z"
-    },
-    {
-      "id": "50667",
-      "title": "Fragments 0x000D",
-      "link": "https://lenciel.com/2026/09/fragments-0x000d/",
-      "rsslink": "https://lenciel.com/feed.xml",
-      "blogname": "@Lenciel",
-      "createdat": "2026-09-28T06:14:00.000Z",
-      "crawledat": "2026-09-28T21:03:52.046Z"
-    },
-    {
-      "id": "50797",
-      "title": "多发一点CSS，页面反而更快：GitHub大规模样式迁移的真正方法",
-      "link": "https://java4u.cn/ai/2800.html",
-      "rsslink": "https://java4u.cn/feed",
-      "blogname": "Java for You",
-      "createdat": "2026-09-28T05:38:26.000Z",
-      "crawledat": "2026-09-29T12:08:51.474Z"
-    },
-    {
-      "id": "50798",
-      "title": "AI权限写进JSON就安全了吗？真正缺的是配置生效验证",
-      "link": "https://java4u.cn/ai/2797.html",
-      "rsslink": "https://java4u.cn/feed",
-      "blogname": "Java for You",
-      "createdat": "2026-09-28T05:37:16.000Z",
-      "crawledat": "2026-09-29T12:08:51.474Z"
-    },
-    {
-      "id": "50799",
-      "title": "模型能正常出字，答案却悄悄变差：推理配置漂移比报错更危险",
-      "link": "https://java4u.cn/ai/2794.html",
-      "rsslink": "https://java4u.cn/feed",
-      "blogname": "Java for You",
-      "createdat": "2026-09-28T05:36:12.000Z",
-      "crawledat": "2026-09-29T12:08:51.474Z"
     }
   ]
 }
