@@ -4,6 +4,69 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "50863",
+      "title": "黄山之行",
+      "link": "https://www.seis-jun.xyz/blog/2026-10-02-yellow-mountain.html",
+      "rsslink": "https://www.seis-jun.xyz/atom.xml",
+      "blogname": "seisamuse",
+      "createdat": "2026-10-02T02:05:50.000Z",
+      "crawledat": "2026-10-02T09:21:47.110Z"
+    },
+    {
+      "id": "50864",
+      "title": "Fragments 0x000F",
+      "link": "https://lenciel.com/2026/10/fragments-0x000f/",
+      "rsslink": "https://lenciel.com/feed.xml",
+      "blogname": "@Lenciel",
+      "createdat": "2026-10-02T01:32:24.000Z",
+      "crawledat": "2026-10-02T09:21:47.110Z"
+    },
+    {
+      "id": "50866",
+      "title": "探究一个 USB Type-C 拓展坞的硬件实现",
+      "link": "https://jia.je/hardware/2026/10/02/type-c-dongle-analysis/",
+      "rsslink": "https://jia.je/feed.xml",
+      "blogname": "杰哥的小笔记",
+      "createdat": "2026-10-02T00:00:00.000Z",
+      "crawledat": "2026-10-02T09:21:47.110Z"
+    },
+    {
+      "id": "51080",
+      "title": "LeftBlank: a macOS Typst writing app inspired by Emacs",
+      "link": "https://www.wangfenjin.com/posts/leftblank-en/",
+      "rsslink": "https://www.wangfenjin.com/index.xml",
+      "blogname": "Wang Fenjin's Blog",
+      "createdat": "2026-10-02T00:00:00.000Z",
+      "crawledat": "2026-10-05T21:49:02.533Z"
+    },
+    {
+      "id": "51081",
+      "title": "留白：一个受 Emacs 启发的 macOS Typst 写作工具",
+      "link": "https://www.wangfenjin.com/posts/leftblank/",
+      "rsslink": "https://www.wangfenjin.com/index.xml",
+      "blogname": "Wang Fenjin's Blog",
+      "createdat": "2026-10-02T00:00:00.000Z",
+      "crawledat": "2026-10-05T21:49:02.533Z"
+    },
+    {
+      "id": "50839",
+      "title": "singbox-multipath：用于异质多路径的类MPTCP智能择优聚合L4转发器PoC",
+      "link": "https://wusiyu.me/singbox-multipath/",
+      "rsslink": "https://wusiyu.me/feed/",
+      "blogname": "WuSiYu Blog",
+      "createdat": "2026-10-01T18:40:14.000Z",
+      "crawledat": "2026-10-01T20:05:55.852Z"
+    },
+    {
+      "id": "50842",
+      "title": "囤积LCD手机",
+      "link": "https://blog.xulihang.me/hoarding-LCD-phones",
+      "rsslink": "https://blog.xulihang.me/feed/",
+      "blogname": "xulihang's blog",
+      "createdat": "2026-10-01T13:10:50.000Z",
+      "crawledat": "2026-10-02T00:30:47.121Z"
+    },
+    {
       "id": "50836",
       "title": "preconnect 走 http3",
       "link": "https://blog.est.im/2026/stdout-38",
@@ -119,69 +182,6 @@
       "blogname": "素生",
       "createdat": "2026-09-30T15:24:03.000Z",
       "crawledat": "2026-10-02T09:21:47.110Z"
-    },
-    {
-      "id": "51068",
-      "title": "用 MX Linux 制作可保存数据的外置 U 盘系统",
-      "link": "https://blog.fivest.one/archives/7231",
-      "rsslink": "http://blog.fivest.one/feed",
-      "blogname": "fivestone - 同一种调调",
-      "createdat": "2026-09-30T15:22:15.000Z",
-      "crawledat": "2026-10-05T21:49:02.533Z"
-    },
-    {
-      "id": "50821",
-      "title": "让 AI 看见 SwiftUI：Xcode Preview MCP 的实践、陷阱与期待",
-      "link": "https://fatbobman.com/zh/posts/letting-ai-see-swiftui/",
-      "rsslink": "https://fatbobman.com/zh/rss.xml",
-      "blogname": "肘子的 Swift 记事本",
-      "createdat": "2026-09-30T14:00:00.000Z",
-      "crawledat": "2026-09-30T17:37:41.810Z"
-    },
-    {
-      "id": "50814",
-      "title": "木匣子 2026 on Astro",
-      "link": "https://blog.mutoo.im/2026/09/mbox-2026-on-astro/",
-      "rsslink": "https://blog.mutoo.im/atom.xml",
-      "blogname": "木匣子",
-      "createdat": "2026-09-30T12:05:28.000Z",
-      "crawledat": "2026-09-30T17:37:41.810Z"
-    },
-    {
-      "id": "51106",
-      "title": "2026秋：吹尽狂沙始到金",
-      "link": "https://macin.org/2026/09/30/202607/",
-      "rsslink": "https://www.macin.org/atom.xml",
-      "blogname": "Macin",
-      "createdat": "2026-09-30T12:01:20.000Z",
-      "crawledat": "2026-10-06T19:58:08.690Z"
-    },
-    {
-      "id": "50809",
-      "title": "用 Claude Code、Codex 和 Remotion 做一支《命运石之门》MV",
-      "link": "https://innei.in/posts/tinkering/steins-gate-mv-with-claude-code",
-      "rsslink": "https://innei.ren/feed",
-      "blogname": "静かな森",
-      "createdat": "2026-09-30T11:20:26.000Z",
-      "crawledat": "2026-09-30T17:37:41.810Z"
-    },
-    {
-      "id": "50825",
-      "title": "#22 潦草写就的九月月报",
-      "link": "https://isming.me/2026-09-september-summary/?utm_source=rss",
-      "rsslink": "https://isming.me/index.xml",
-      "blogname": "码农明明桑",
-      "createdat": "2026-09-30T10:42:24.000Z",
-      "crawledat": "2026-09-30T17:37:41.810Z"
-    },
-    {
-      "id": "50815",
-      "title": "Hmmm I read something at some point ... let me grab the link..",
-      "link": "https://shrik3.com/volatile/paste/",
-      "rsslink": "https://shrik3.com/index.xml",
-      "blogname": "shrik3",
-      "createdat": "2026-09-30T10:21:06.000Z",
-      "crawledat": "2026-09-30T17:37:41.810Z"
     }
   ]
 }

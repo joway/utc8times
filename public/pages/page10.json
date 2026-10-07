@@ -4,6 +4,69 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "50540",
+      "title": "老爸喜欢的笑话两则",
+      "link": "https://www.seis-jun.xyz/blog/2026-09-25-jokes-which-dad-likes.html",
+      "rsslink": "https://www.seis-jun.xyz/atom.xml",
+      "blogname": "seisamuse",
+      "createdat": "2026-09-25T00:25:52.000Z",
+      "crawledat": "2026-09-25T03:29:35.512Z"
+    },
+    {
+      "id": "50854",
+      "title": "Jenkins 在 Windows 上安装与应用(施工中)",
+      "link": "http://www.z16388.top/jenkins/jenkins-start/",
+      "rsslink": "http://www.z16388.top/atom.xml",
+      "blogname": "崎径 其镜赵安琪的博客",
+      "createdat": "2026-09-24T16:42:04.000Z",
+      "crawledat": "2026-10-02T00:30:47.121Z"
+    },
+    {
+      "id": "50554",
+      "title": "iOS版Feedglot正式上架App Store",
+      "link": "https://www.skyue.com/26092422.html",
+      "rsslink": "https://www.skyue.com/feed/",
+      "blogname": "SKYue's Home",
+      "createdat": "2026-09-24T14:35:00.000Z",
+      "crawledat": "2026-09-26T10:49:55.004Z"
+    },
+    {
+      "id": "50541",
+      "title": "为什么老阿姨喜欢我？II",
+      "link": "https://www.seis-jun.xyz/blog/2026-09-24-why-old-granny-likes-me.html",
+      "rsslink": "https://www.seis-jun.xyz/atom.xml",
+      "blogname": "seisamuse",
+      "createdat": "2026-09-24T13:24:47.000Z",
+      "crawledat": "2026-09-25T03:29:35.512Z"
+    },
+    {
+      "id": "50870",
+      "title": "天展钓Tenkara和在Folkestone挖化石",
+      "link": "https://anotherdayu.com/tenkara-folkestone/",
+      "rsslink": "https://anotherdayu.com/feed/",
+      "blogname": "Another Dayu",
+      "createdat": "2026-09-24T13:02:00.000Z",
+      "crawledat": "2026-10-02T09:21:47.110Z"
+    },
+    {
+      "id": "50893",
+      "title": "学习周刊-总第282期-2026年第39周",
+      "link": "https://wiki.eryajf.net/pages/fe2bb1/",
+      "rsslink": "https://wiki.eryajf.net/rss.xml",
+      "blogname": "二丫讲梵",
+      "createdat": "2026-09-24T11:35:42.000Z",
+      "crawledat": "2026-10-04T20:52:30.984Z"
+    },
+    {
+      "id": "50590",
+      "title": "高鲁棒性 API 设计之 Idempotency Key：并发请求与执行一致性",
+      "link": "https://blog.yasking.org/a/idempotency-key-concurrency-control",
+      "rsslink": "https://blog.yasking.org/atom.xml",
+      "blogname": "东东's Blog",
+      "createdat": "2026-09-24T11:15:00.000Z",
+      "crawledat": "2026-09-26T10:49:55.004Z"
+    },
+    {
       "id": "50543",
       "title": "一次内存引起的网络丢包问题排查",
       "link": "https://www.kawabangga.com/posts/7422",
@@ -119,69 +182,6 @@
       "blogname": "seisamuse",
       "createdat": "2026-09-23T12:15:41.000Z",
       "crawledat": "2026-09-24T11:07:39.453Z"
-    },
-    {
-      "id": "50526",
-      "title": "Models Keep Getting Bigger. Why Do We Still Need GPU Partitioning?",
-      "link": "https://jimmysong.io/blog/why-gpu-partitioning-matters/",
-      "rsslink": "https://jimmysong.io/index.xml",
-      "blogname": "云原生",
-      "createdat": "2026-09-23T08:50:31.000Z",
-      "crawledat": "2026-09-23T10:47:11.595Z"
-    },
-    {
-      "id": "51070",
-      "title": "说说：第一次卷紫菜包饭！",
-      "link": "https://www.mmbkz.cn/4ce69964.html",
-      "rsslink": "https://www.mmbkz.cn/feed",
-      "blogname": "火喵日记本",
-      "createdat": "2026-09-23T07:10:30.000Z",
-      "crawledat": "2026-10-05T21:49:02.533Z"
-    },
-    {
-      "id": "50556",
-      "title": "危险的 TCP 汽车驾驶员",
-      "link": "https://leimao.github.io/essay/%E5%8D%B1%E9%99%A9%E7%9A%84TCP%E6%B1%BD%E8%BD%A6%E9%A9%BE%E9%A9%B6%E5%91%98/",
-      "rsslink": "https://leimao.github.io/atom.xml",
-      "blogname": "Lei Mao's Log Book",
-      "createdat": "2026-09-23T07:00:00.000Z",
-      "crawledat": "2026-09-26T10:49:55.004Z"
-    },
-    {
-      "id": "50876",
-      "title": "假吃的猪与不许躺平的人：当社会成为一座智能养殖场",
-      "link": "https://bestcoder.cn/%E5%81%87%E5%90%83%E7%9A%84%E7%8C%AA%E4%B8%8E%E4%B8%8D%E8%AE%B8%E8%BA%BA%E5%B9%B3%E7%9A%84%E4%BA%BA%E5%BD%93%E7%A4%BE%E4%BC%9A%E6%88%90%E4%B8%BA%E4%B8%80%E5%BA%A7%E6%99%BA%E8%83%BD%E5%85%BB",
-      "rsslink": "https://bestcoder.cn/feed",
-      "blogname": "顶尖研发的个人博客",
-      "createdat": "2026-09-23T05:13:32.000Z",
-      "crawledat": "2026-10-02T09:21:47.110Z"
-    },
-    {
-      "id": "50528",
-      "title": "GGUF能在Transformers里直接跑了，本地模型终于不用二选一",
-      "link": "https://java4u.cn/ai/2725.html",
-      "rsslink": "https://java4u.cn/feed",
-      "blogname": "Java for You",
-      "createdat": "2026-09-23T03:07:42.000Z",
-      "crawledat": "2026-09-23T10:47:11.595Z"
-    },
-    {
-      "id": "50529",
-      "title": "Agent会话不是沙箱：微软这次把两个最容易混的隔离轴拆开了",
-      "link": "https://java4u.cn/ai/2722.html",
-      "rsslink": "https://java4u.cn/feed",
-      "blogname": "Java for You",
-      "createdat": "2026-09-23T03:04:24.000Z",
-      "crawledat": "2026-09-23T10:47:11.595Z"
-    },
-    {
-      "id": "50530",
-      "title": "Agent有对话记录就不怕重启吗？用持久工作区分清三种状态",
-      "link": "https://java4u.cn/ai/2719.html",
-      "rsslink": "https://java4u.cn/feed",
-      "blogname": "Java for You",
-      "createdat": "2026-09-23T03:00:29.000Z",
-      "crawledat": "2026-09-23T10:47:11.595Z"
     }
   ]
 }
