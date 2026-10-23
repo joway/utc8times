@@ -53272,3 +53272,463 @@ id,title,link,rsslink,blogname,createdat,crawledat
 53271,在 Arch Linux 上编译 bloomberg/clang-p2996 小记,https://zzhx.cc/posts/compiling-clang-p2996-on-arch-linux/,https://zzhx.cc/index.xml,ZZHX's Website,2024-11-23T16:00:00.000Z,2026-10-22T21:11:57.047Z
 53272,C++ <chrono> 库中的高效闰年判断算法解析,https://zzhx.cc/posts/efficient-leap-year-check-cpp-chrono-optimization/,https://zzhx.cc/index.xml,ZZHX's Website,2024-10-07T16:00:00.000Z,2026-10-22T21:11:57.047Z
 53273,如何为 gcc 贡献中文翻译,https://zzhx.cc/posts/how-to-contribute-chinese-translation-for-gcc/,https://zzhx.cc/index.xml,ZZHX's Website,2024-09-13T16:00:00.000Z,2026-10-22T21:11:57.047Z
+53274,科技爱好者周刊（第 416 期）：编程已经面目全非,http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html,http://feeds.feedburner.com/ruanyifeng,阮一峰的网络日志,2026-10-23T00:06:16.000Z,2026-10-23T03:25:33.754Z
+53275,APISIX插件开发之Kong网关HMAC鉴权插件（附客户端SDK）,https://zhang.ge/5159.html,https://zhang.ge/feed,张戈博客,2021-11-07T09:23:27.000Z,2026-10-23T03:25:33.754Z
+53276,APISIX插件开发之精细化限速插件,https://zhang.ge/5158.html,https://zhang.ge/feed,张戈博客,2021-11-03T07:10:21.000Z,2026-10-23T03:25:33.754Z
+53277,APISIX高级路由之通过Body参数转发请求,https://zhang.ge/5157.html,https://zhang.ge/feed,张戈博客,2021-10-28T10:00:17.000Z,2026-10-23T03:25:33.754Z
+53278,国外线路挂了几个月了，今天难得有空修一下...,https://zhang.ge/5156.html,https://zhang.ge/feed,张戈博客,2021-07-25T11:00:12.000Z,2026-10-23T03:25:33.754Z
+53279,基于Bitwarden打造个人专属密码管理服务,https://zhang.ge/5155.html,https://zhang.ge/feed,张戈博客,2020-03-30T02:15:18.000Z,2026-10-23T03:25:33.754Z
+53280,网站预缓存工具，提升网站整体加载速度,https://zhang.ge/5154.html,https://zhang.ge/feed,张戈博客,2020-02-08T10:48:33.000Z,2026-10-23T03:25:33.754Z
+53281,由电信宽带封堵443端口引发的一系列折腾,https://zhang.ge/5153.html,https://zhang.ge/feed,张戈博客,2020-02-03T16:35:53.000Z,2026-10-23T03:25:33.754Z
+53282,Docker Remote API简介及实战分享：Haproxy远程管理,https://zhang.ge/5152.html,https://zhang.ge/feed,张戈博客,2019-10-04T05:37:45.000Z,2026-10-23T03:25:33.754Z
+53283,CloudFlare边缘计算Workers尝鲜初探：博客跳转中间页,https://zhang.ge/5151.html,https://zhang.ge/feed,张戈博客,2019-07-07T04:50:26.000Z,2026-10-23T03:25:33.754Z
+53284,Docker镜像分享：一键部署MariaDB Galera Cluster集群,https://zhang.ge/5150.html,https://zhang.ge/feed,张戈博客,2019-06-23T04:25:57.000Z,2026-10-23T03:25:33.754Z
+53285,张戈博客使用CloudFlare CDN加速的经验技巧分享,https://zhang.ge/5149.html,https://zhang.ge/feed,张戈博客,2019-06-02T03:52:00.000Z,2026-10-23T03:25:33.754Z
+53286,分享一个Nginx反向代理的另类应用案例,https://zhang.ge/5148.html,https://zhang.ge/feed,张戈博客,2019-05-02T04:07:29.000Z,2026-10-23T03:25:33.754Z
+53287,惊现Haproxy重复添加X-Forwarded-For问题（附官方解决办法）,https://zhang.ge/5146.html,https://zhang.ge/feed,张戈博客,2019-04-12T09:33:25.000Z,2026-10-23T03:25:33.754Z
+53288,解决升级Wordpress 5.1后回复评论框不跟随、页面刷新问题,https://zhang.ge/5147.html,https://zhang.ge/feed,张戈博客,2019-03-22T06:14:24.000Z,2026-10-23T03:25:33.754Z
+53289,解决MySQL主从复制错误1595：Relay log write failure...,https://zhang.ge/5145.html,https://zhang.ge/feed,张戈博客,2019-03-16T04:08:34.000Z,2026-10-23T03:25:33.754Z
+53290,解决Nexus Docker仓库搜索镜像返回500错误,https://zhang.ge/5144.html,https://zhang.ge/feed,张戈博客,2019-02-16T11:53:28.000Z,2026-10-23T03:25:33.754Z
+53291,张戈博客正式启用全新个性域名：zhang.ge,https://zhang.ge/5143.html,https://zhang.ge/feed,张戈博客,2019-01-27T13:28:56.000Z,2026-10-23T03:25:33.754Z
+53292,分享一个Nginx正向代理的另类应用案例,https://zhang.ge/5142.html,https://zhang.ge/feed,张戈博客,2019-01-20T05:21:52.000Z,2026-10-23T03:25:33.754Z
+53293,Linux运维基础技能： 接入层与网络基础,https://zhang.ge/5141.html,https://zhang.ge/feed,张戈博客,2018-11-29T12:08:39.000Z,2026-10-23T03:25:33.754Z
+53294,Linux运维基础技能： 脚本编程与Linux命令,https://zhang.ge/5140.html,https://zhang.ge/feed,张戈博客,2018-10-26T05:25:03.000Z,2026-10-23T03:25:33.754Z
+53295,Nexus3最佳实践系列：搭建Docker私有仓库,https://zhang.ge/5139.html,https://zhang.ge/feed,张戈博客,2018-10-05T07:29:32.000Z,2026-10-23T03:25:33.754Z
+53296,MySQL主从报错解决：Table 'mysql.gtid_slave_pos' doesn't exist,https://zhang.ge/5138.html,https://zhang.ge/feed,张戈博客,2018-09-20T02:06:24.000Z,2026-10-23T03:25:33.754Z
+53297,解决网站404页面返回200状态码问题,https://zhang.ge/5137.html,https://zhang.ge/feed,张戈博客,2018-09-08T01:40:32.000Z,2026-10-23T03:25:33.754Z
+53298,基于Docker部署ceph分布式文件系统(Luminous版本),https://zhang.ge/5136.html,https://zhang.ge/feed,张戈博客,2018-05-12T06:35:32.000Z,2026-10-23T03:25:33.754Z
+53299,零门槛！基于Docker快速部署ES集群,https://zhang.ge/5135.html,https://zhang.ge/feed,张戈博客,2018-03-31T04:20:45.000Z,2026-10-23T03:25:33.754Z
+53300,MySQL在线DDL修改表结构的简单经验分享,https://zhang.ge/5134.html,https://zhang.ge/feed,张戈博客,2018-03-23T06:56:36.000Z,2026-10-23T03:25:33.754Z
+53301,gh-ost：在线DDL修改MySQL表结构工具,https://zhang.ge/5133.html,https://zhang.ge/feed,张戈博客,2018-03-23T06:43:23.000Z,2026-10-23T03:25:33.754Z
+53302,网站集成打字震动特效JS代码改进版,https://zhang.ge/5132.html,https://zhang.ge/feed,张戈博客,2018-03-17T04:59:04.000Z,2026-10-23T03:25:33.754Z
+53303,Haproxy进阶管理：命令行控制后端节点上下线,https://zhang.ge/5131.html,https://zhang.ge/feed,张戈博客,2018-02-24T09:20:30.000Z,2026-10-23T03:25:33.754Z
+53304,小网站最简单实用的动静分离优化方案,https://zhang.ge/5130.html,https://zhang.ge/feed,张戈博客,2018-02-03T11:18:14.000Z,2026-10-23T03:25:33.754Z
+53305,替代crontab，统一定时任务管理系统cronsun简介,https://zhang.ge/5129.html,https://zhang.ge/feed,张戈博客,2017-11-19T03:41:30.000Z,2026-10-23T03:25:33.754Z
+53306,博客网页导致电脑CPU飙升的问题解决记录,https://zhang.ge/5128.html,https://zhang.ge/feed,张戈博客,2017-10-20T02:55:34.000Z,2026-10-23T03:25:33.754Z
+53307,博客集成Hitokoto·一言经典语句功能,https://zhang.ge/5127.html,https://zhang.ge/feed,张戈博客,2017-10-02T13:32:40.000Z,2026-10-23T03:25:33.754Z
+53308,Docker新手入门实战教程,https://zhang.ge/5126.html,https://zhang.ge/feed,张戈博客,2017-09-12T09:46:14.000Z,2026-10-23T03:25:33.754Z
+53309,Haproxy安装部署文档及多配置文件管理方案,https://zhang.ge/5125.html,https://zhang.ge/feed,张戈博客,2017-09-02T02:07:03.000Z,2026-10-23T03:25:33.754Z
+53310,WordPress发布/更新文章、提交/审核评论自动清理阿里云CDN缓存,https://zhang.ge/5124.html,https://zhang.ge/feed,张戈博客,2017-08-06T08:36:36.000Z,2026-10-23T03:25:33.754Z
+53311,解决网站静态缓存后WP-PostViews插件不计数的问题,https://zhang.ge/5123.html,https://zhang.ge/feed,张戈博客,2017-07-13T15:49:34.000Z,2026-10-23T03:25:33.754Z
+53312,Python远程控制模块paramiko遇到的问题及解决记录,https://zhang.ge/5122.html,https://zhang.ge/feed,张戈博客,2017-06-16T06:40:42.000Z,2026-10-23T03:25:33.754Z
+53313,分享一个自写的Python远程命令和文件（夹）传输类,https://zhang.ge/5121.html,https://zhang.ge/feed,张戈博客,2017-05-07T13:54:12.000Z,2026-10-23T03:25:33.754Z
+53314,远程桌面报错解决：No Remote Desktop License Servers Available,https://zhang.ge/5120.html,https://zhang.ge/feed,张戈博客,2017-04-06T05:25:21.000Z,2026-10-23T03:25:33.754Z
+53315,libmemcached编译安装报错解决记录,https://zhang.ge/5119.html,https://zhang.ge/feed,张戈博客,2017-03-05T04:29:52.000Z,2026-10-23T03:25:33.754Z
+53316,MySQL命令行工具：percona-toolkit安装使用初探,https://zhang.ge/5118.html,https://zhang.ge/feed,张戈博客,2017-02-05T03:14:22.000Z,2026-10-23T03:25:33.754Z
+53317,利用腾讯云COS云对象存储定时远程备份网站,https://zhang.ge/5117.html,https://zhang.ge/feed,张戈博客,2017-01-02T09:20:03.000Z,2026-10-23T03:25:33.754Z
+53318,Nginx内容替换模块http_substitutions_filter_module及实用案例分享,https://zhang.ge/5116.html,https://zhang.ge/feed,张戈博客,2016-12-18T07:15:54.000Z,2026-10-23T03:25:33.754Z
+53319,利用HSTS安全协议柔性解决全站HTTPS的兼容性问题,https://zhang.ge/5115.html,https://zhang.ge/feed,张戈博客,2016-11-22T03:06:13.000Z,2026-10-23T03:25:33.754Z
+53320,解决Nginx配置http2不生效，谷歌浏览器仍然采用http1.1协议问题,https://zhang.ge/5114.html,https://zhang.ge/feed,张戈博客,2016-11-11T13:26:37.000Z,2026-10-23T03:25:33.754Z
+53321,百度嵌入式站内搜索https化实践分享,https://zhang.ge/5113.html,https://zhang.ge/feed,张戈博客,2016-10-23T04:00:30.000Z,2026-10-23T03:25:33.754Z
+53322,Nginx-helper纯代码版，文章评论发布自动清理Fastcgi缓存,https://zhang.ge/5112.html,https://zhang.ge/feed,张戈博客,2016-10-15T12:00:03.000Z,2026-10-23T03:25:33.754Z
+53323,Python+Shell脚本结合阿里云OSS对象存储定时远程备份网站,https://zhang.ge/5111.html,https://zhang.ge/feed,张戈博客,2016-10-02T06:15:55.000Z,2026-10-23T03:25:33.754Z
+53324,分享张戈博客自用的仿百度打赏功能,https://zhang.ge/5110.html,https://zhang.ge/feed,张戈博客,2016-09-10T04:26:17.000Z,2026-10-23T03:25:33.754Z
+53325,Linux系统LVM逻辑卷创建过程以及自动化脚本,https://zhang.ge/5109.html,https://zhang.ge/feed,张戈博客,2016-09-03T03:53:31.000Z,2026-10-23T03:25:33.754Z
+53326,修改Apache的超时设置，解决长连接请求超时问题,https://zhang.ge/5108.html,https://zhang.ge/feed,张戈博客,2016-08-13T05:48:38.000Z,2026-10-23T03:25:33.754Z
+53327,Linux系统 df 命令显示异常、分区丢失问题解决,https://zhang.ge/5107.html,https://zhang.ge/feed,张戈博客,2016-08-06T05:33:20.000Z,2026-10-23T03:25:33.754Z
+53328,MySQL主从、字典死锁、连接数的Python监控脚本,https://zhang.ge/5106.html,https://zhang.ge/feed,张戈博客,2016-07-31T02:59:46.000Z,2026-10-23T03:25:33.754Z
+53329,简单修复360安全检测提示的发现robots文件漏洞,https://zhang.ge/5105.html,https://zhang.ge/feed,张戈博客,2016-07-22T04:59:48.000Z,2026-10-23T03:25:33.754Z
+53330,纠正静态文件域名robots写法，解决百度搜索不显示缩略图的问题,https://zhang.ge/5104.html,https://zhang.ge/feed,张戈博客,2016-07-13T12:27:42.000Z,2026-10-23T03:25:33.754Z
+53331,企业互联网+转型实战：如何进行PB级别数据的架构变迁,https://zhang.ge/5103.html,https://zhang.ge/feed,张戈博客,2016-06-29T13:45:43.000Z,2026-10-23T03:25:33.754Z
+53332,巧用echo命令解决Samba批量添加用户难题,https://zhang.ge/5102.html,https://zhang.ge/feed,张戈博客,2016-06-25T07:30:30.000Z,2026-10-23T03:25:33.754Z
+53333,分享一个网站防镜像以及解决七牛静态页面跳转的js方案,https://zhang.ge/5101.html,https://zhang.ge/feed,张戈博客,2016-06-19T09:17:38.000Z,2026-10-23T03:25:33.754Z
+53334,WordPress百度自动推送JS优化，规避错误、重复推送问题,https://zhang.ge/5100.html,https://zhang.ge/feed,张戈博客,2016-05-28T03:52:48.000Z,2026-10-23T03:25:33.754Z
+53335,MySQL错误修复记录：Table xx is marked as crashed and should be repaired,https://zhang.ge/5099.html,https://zhang.ge/feed,张戈博客,2016-05-17T11:09:35.000Z,2026-10-23T03:25:33.754Z
+53336,升级CentOS6.5内核，开启Nginx的fastopen和reuseport特性,https://zhang.ge/5098.html,https://zhang.ge/feed,张戈博客,2016-05-07T05:10:48.000Z,2026-10-23T03:25:33.754Z
+53337,WordPress启用memcached动态缓存以及报错解决,https://zhang.ge/5097.html,https://zhang.ge/feed,张戈博客,2016-05-02T14:09:12.000Z,2026-10-23T03:25:33.754Z
+53338,Nginx网站使用CDN之后禁止用户真实IP访问的方法,https://zhang.ge/5096.html,https://zhang.ge/feed,张戈博客,2016-04-24T12:57:12.000Z,2026-10-23T03:25:33.754Z
+53339,shell脚本实现整站缓存和预缓存，进一步提升网站整体加载速度,https://zhang.ge/5095.html,https://zhang.ge/feed,张戈博客,2016-04-16T06:22:31.000Z,2026-10-23T03:25:33.754Z
+53340,一行代码彻底禁用WordPress缩略图自动裁剪功能,https://zhang.ge/5094.html,https://zhang.ge/feed,张戈博客,2016-04-13T05:42:19.000Z,2026-10-23T03:25:33.754Z
+53341,分享一次Linux任务计划crontab不执行的问题排查过程,https://zhang.ge/5093.html,https://zhang.ge/feed,张戈博客,2016-04-05T11:20:50.000Z,2026-10-23T03:25:33.754Z
+53342,GOPS2016全球运维大会•深圳站自动化、云计算、老王专场精彩PPT分享,https://zhang.ge/5092.html,https://zhang.ge/feed,张戈博客,2016-03-30T04:40:58.000Z,2026-10-23T03:25:33.754Z
+53343,MySQL主从报错解决：Failed to initialize the master info structure,https://zhang.ge/5091.html,https://zhang.ge/feed,张戈博客,2016-03-29T10:50:30.000Z,2026-10-23T03:25:33.754Z
+53344,WordPress发布/更新文章、提交/审核评论自动清理VeryCloud缓存,https://zhang.ge/5090.html,https://zhang.ge/feed,张戈博客,2016-03-22T12:55:22.000Z,2026-10-23T03:25:33.754Z
+53345,WordPress发布/更新文章、提交/审核评论自动清理腾讯云CDN缓存,https://zhang.ge/5089.html,https://zhang.ge/feed,张戈博客,2016-03-05T04:00:26.000Z,2026-10-23T03:25:33.754Z
+53346,分享一下php7和其他php多版本共存的配置教程,https://zhang.ge/5088.html,https://zhang.ge/feed,张戈博客,2016-02-27T04:22:48.000Z,2026-10-23T03:25:33.754Z
+53347,解决IE响应式的解决方案css3-mediaqueries.js不生效问题,https://zhang.ge/5087.html,https://zhang.ge/feed,张戈博客,2016-02-21T09:16:55.000Z,2026-10-23T03:25:33.754Z
+53348,分享最近对网站外链跳转页面代码的一些改善,https://zhang.ge/5086.html,https://zhang.ge/feed,张戈博客,2016-02-11T12:15:10.000Z,2026-10-23T03:25:33.754Z
+53349,浅析网站更换ip或使用CDN会不会影响SEO排名,https://zhang.ge/5085.html,https://zhang.ge/feed,张戈博客,2016-01-30T14:06:55.000Z,2026-10-23T03:25:33.754Z
+53350,WordPress针对百度星火计划2.0原创保护的优化措施,https://zhang.ge/5084.html,https://zhang.ge/feed,张戈博客,2016-01-23T12:38:48.000Z,2026-10-23T03:25:33.754Z
+53351,利用JS生成二维码图片，优化WEB性能及页面加载速度,https://zhang.ge/5083.html,https://zhang.ge/feed,张戈博客,2016-01-17T15:38:03.000Z,2026-10-23T03:25:33.754Z
+53352,WordPress发布文章同步到新浪微博失败的问题解决与分享,https://zhang.ge/5082.html,https://zhang.ge/feed,张戈博客,2016-01-16T12:42:00.000Z,2026-10-23T03:25:33.754Z
+53353,解决WordPress4.4.1不支持图片暗箱问题，Begin主题适用,https://zhang.ge/5081.html,https://zhang.ge/feed,张戈博客,2016-01-14T15:34:44.000Z,2026-10-23T03:25:33.754Z
+53354,关于博客文章是否过于絮叨的思考,https://zhang.ge/5080.html,https://zhang.ge/feed,张戈博客,2016-01-09T03:36:32.000Z,2026-10-23T03:25:33.754Z
+53355,全站启用SSL之后，如何兼容不支持https抓取的搜索引擎？,https://zhang.ge/5079.html,https://zhang.ge/feed,张戈博客,2016-01-03T13:42:49.000Z,2026-10-23T03:25:33.754Z
+53356,分享一个支持https的CDN及启用SSL后续问题汇总,https://zhang.ge/5078.html,https://zhang.ge/feed,张戈博客,2015-12-27T15:06:31.000Z,2026-10-23T03:25:33.754Z
+53357,解决Linux修改密码报PAM authentication failed错误,https://zhang.ge/5077.html,https://zhang.ge/feed,张戈博客,2015-12-12T07:38:38.000Z,2026-10-23T03:25:33.754Z
+53358,升级Nginx1.9.5以上版本，开启博客网站http2.0时代,https://zhang.ge/5076.html,https://zhang.ge/feed,张戈博客,2015-12-08T01:01:09.000Z,2026-10-23T03:25:33.754Z
+53359,PHP7.0正式版编译安装升级及WordPress问题解决分享,https://zhang.ge/5075.html,https://zhang.ge/feed,张戈博客,2015-12-02T15:46:38.000Z,2026-10-23T03:25:33.754Z
+53360,借助腾讯云CDN开启全站https及问题解决分享,https://zhang.ge/5074.html,https://zhang.ge/feed,张戈博客,2015-11-28T06:47:11.000Z,2026-10-23T03:25:33.754Z
+53361,php5编译安装常见错误和解决办法集锦,https://zhang.ge/5073.html,https://zhang.ge/feed,张戈博客,2015-11-22T13:08:08.000Z,2026-10-23T03:25:33.754Z
+53362,分享Mac/Linux系统Shell终端利器SecureCRT以及注册激活方法,https://zhang.ge/5072.html,https://zhang.ge/feed,张戈博客,2015-11-14T03:03:02.000Z,2026-10-23T03:25:33.754Z
+53363,分享一个入门级可控多线程shell脚本方案,https://zhang.ge/5071.html,https://zhang.ge/feed,张戈博客,2015-11-08T10:08:37.000Z,2026-10-23T03:25:33.754Z
+53364,太狗血了！分享一下张戈博客百度收录排名异常的检查记录,https://zhang.ge/5070.html,https://zhang.ge/feed,张戈博客,2015-10-31T16:08:52.000Z,2026-10-23T03:25:33.754Z
+53365,百度站长平台推出链接提交自动推送JS代码,https://zhang.ge/5069.html,https://zhang.ge/feed,张戈博客,2015-10-28T12:30:18.000Z,2026-10-23T03:25:33.754Z
+53366,如何正确配置CDN高速缓存，避免越用越慢的尴尬,https://zhang.ge/5068.html,https://zhang.ge/feed,张戈博客,2015-10-13T04:00:17.000Z,2026-10-23T03:25:33.754Z
+53367,Nginx配置多站点下的Proxy_cache或Fastcgi_cache缓存加速,https://zhang.ge/5067.html,https://zhang.ge/feed,张戈博客,2015-10-06T04:25:05.000Z,2026-10-23T03:25:33.754Z
+53368,CCKiller：Linux轻量级CC攻击防御工具，秒级检查、自动拉黑和释放,https://zhang.ge/5066.html,https://zhang.ge/feed,张戈博客,2015-09-28T01:24:57.000Z,2026-10-23T03:25:33.754Z
+53369,Wordpress百度链接主动提交插件：Baidu-links-submit优化版,https://zhang.ge/5065.html,https://zhang.ge/feed,张戈博客,2015-09-22T05:47:48.000Z,2026-10-23T03:25:33.754Z
+53370,闲来无事，分析下百度是如何实现取消referer关键词显示的,https://zhang.ge/5064.html,https://zhang.ge/feed,张戈博客,2015-09-19T05:20:53.000Z,2026-10-23T03:25:33.754Z
+53371,实测Nginx服务器开启pagespeed加速效果,https://zhang.ge/5063.html,https://zhang.ge/feed,张戈博客,2015-09-10T08:54:02.000Z,2026-10-23T03:25:33.754Z
+53372,WordPress集成多种站内搜索、百度嵌入式搜索，并伪静态化的方法,https://zhang.ge/5062.html,https://zhang.ge/feed,张戈博客,2015-09-04T10:23:35.000Z,2026-10-23T03:25:33.754Z
+53373,解决Nginx Helper插件一键清理缓存功能导致网站打不开问题,https://zhang.ge/5061.html,https://zhang.ge/feed,张戈博客,2015-08-29T12:19:10.000Z,2026-10-23T03:25:33.754Z
+53374,分享WordPress显示评论者IP的归属地及运营商信息的2种方案,https://zhang.ge/5060.html,https://zhang.ge/feed,张戈博客,2015-08-23T11:25:06.000Z,2026-10-23T03:25:33.754Z
+53375,解决dos2unix/unix2dos报错，并在家目录下生成u2dtmp*文件问题,https://zhang.ge/5059.html,https://zhang.ge/feed,张戈博客,2015-08-19T14:41:20.000Z,2026-10-23T03:25:33.754Z
+53376,Linux在批量服务器管理中实用的PS1命令提示符格式,https://zhang.ge/5058.html,https://zhang.ge/feed,张戈博客,2015-08-13T04:40:50.000Z,2026-10-23T03:25:33.754Z
+53377,WordPress评论滑动/拉链解锁myQaptcha修改为自动提交的方法,https://zhang.ge/5057.html,https://zhang.ge/feed,张戈博客,2015-08-07T06:00:54.000Z,2026-10-23T03:25:33.754Z
+53378,分享知更鸟Begin主题外链跳转代码，兼容下载按钮和弹出层上的外链,https://zhang.ge/5056.html,https://zhang.ge/feed,张戈博客,2015-07-31T12:01:09.000Z,2026-10-23T03:25:33.754Z
+53379,百度站长平台移动适配工具全新升级，界面化操作更简便,https://zhang.ge/5055.html,https://zhang.ge/feed,张戈博客,2015-07-25T10:50:51.000Z,2026-10-23T03:25:33.754Z
+53380,Nginx通过二级目录（路径）映射不同的反向代理，规避IP+端口访问,https://zhang.ge/5054.html,https://zhang.ge/feed,张戈博客,2015-07-22T05:34:05.000Z,2026-10-23T03:25:33.754Z
+53381,WordPress导航菜单图标字体插件font awesome 4 menus纯代码版,https://zhang.ge/5053.html,https://zhang.ge/feed,张戈博客,2015-07-16T06:08:36.000Z,2026-10-23T03:25:33.754Z
+53382,百度站长平台已开放网站移动适配的属性设置功能,https://zhang.ge/5052.html,https://zhang.ge/feed,张戈博客,2015-07-09T15:18:28.000Z,2026-10-23T03:25:33.754Z
+53383,比你牛的人多数比你努力，这个世界不欠任何人！,https://zhang.ge/5051.html,https://zhang.ge/feed,张戈博客,2015-07-05T03:09:16.000Z,2026-10-23T03:25:33.754Z
+53384,Windows下bat批处理脚本使用telnet批量检测远程端口小记,https://zhang.ge/5050.html,https://zhang.ge/feed,张戈博客,2015-07-01T11:37:49.000Z,2026-10-23T03:25:33.754Z
+53385,WordPress集成PHP缩略图，并开启Nginx缓存的方法,https://zhang.ge/5049.html,https://zhang.ge/feed,张戈博客,2015-06-25T05:00:17.000Z,2026-10-23T03:25:33.754Z
+53386,分享几个WordPress本地缓存gravatar评论头像的方案,https://zhang.ge/5048.html,https://zhang.ge/feed,张戈博客,2015-06-18T14:00:02.000Z,2026-10-23T03:25:33.754Z
+53387,分享张戈博客的WordPress优化方案，缓解国内云服务器配置低下的问题,https://zhang.ge/5047.html,https://zhang.ge/feed,张戈博客,2015-06-12T06:51:28.000Z,2026-10-23T03:25:33.754Z
+53388,百度移动sitemap协议mobile type升级，响应式网站怎么做移动开放适配？,https://zhang.ge/5046.html,https://zhang.ge/feed,张戈博客,2015-06-10T06:08:57.000Z,2026-10-23T03:25:33.754Z
+53389,WordPress集成SendCloud邮件代发，规避SMTP泄漏网站主机真实IP的风险,https://zhang.ge/5045.html,https://zhang.ge/feed,张戈博客,2015-06-06T01:00:22.000Z,2026-10-23T03:25:33.754Z
+53390,Linux下的mongodb服务脚本，以备不时之需,https://zhang.ge/5044.html,https://zhang.ge/feed,张戈博客,2015-06-04T14:22:12.000Z,2026-10-23T03:25:33.754Z
+53391,SEO分享：彻底禁止搜索引擎抓取/收录动态页面或指定路径的方法,https://zhang.ge/5043.html,https://zhang.ge/feed,张戈博客,2015-06-01T05:34:34.000Z,2026-10-23T03:25:33.754Z
+53392,Nginx开启fastcgi_cache缓存加速，支持html伪静态页面,https://zhang.ge/5042.html,https://zhang.ge/feed,张戈博客,2015-05-30T08:00:15.000Z,2026-10-23T03:25:33.754Z
+53393,WordPress发布文章主动推送到百度，加快收录保护原创,https://zhang.ge/5041.html,https://zhang.ge/feed,张戈博客,2015-05-26T15:13:04.000Z,2026-10-23T03:25:33.754Z
+53394,为网站开启Nginx缓存加速，支持html伪静态页面,https://zhang.ge/5040.html,https://zhang.ge/feed,张戈博客,2015-05-20T14:59:13.000Z,2026-10-23T03:25:33.754Z
+53395,为WordPress开启Nginx缩略图功能，七牛从此陌路,https://zhang.ge/5039.html,https://zhang.ge/feed,张戈博客,2015-05-10T02:39:04.000Z,2026-10-23T03:25:33.754Z
+53396,SEO技巧：Shell脚本自动提交网站404死链到搜索引擎,https://zhang.ge/5038.html,https://zhang.ge/feed,张戈博客,2015-05-03T15:34:24.000Z,2026-10-23T03:25:33.754Z
+53397,Nginx发布1.9.0版本，新增支持TCP代理和负载均衡的stream模块,https://zhang.ge/5037.html,https://zhang.ge/feed,张戈博客,2015-04-29T14:12:28.000Z,2026-10-23T03:25:33.754Z
+53398,修复WordPress升级4.2外观菜单中显示选项无法点击问题,https://zhang.ge/5036.html,https://zhang.ge/feed,张戈博客,2015-04-26T03:27:14.000Z,2026-10-23T03:25:33.754Z
+53399,WordPress4.2升级修复补丁：解决大量404请求以及评论表情路径及尺寸异常问题,https://zhang.ge/5035.html,https://zhang.ge/feed,张戈博客,2015-04-25T03:02:06.000Z,2026-10-23T03:25:33.754Z
+53400,解决WordPress升级4.2后调用国外图片导致大量404请求的问题,https://zhang.ge/5034.html,https://zhang.ge/feed,张戈博客,2015-04-24T07:47:24.000Z,2026-10-23T03:25:33.754Z
+53401,Linux系统编译安装Redis以及主从复制配置小记,https://zhang.ge/5033.html,https://zhang.ge/feed,张戈博客,2015-04-16T16:00:04.000Z,2026-10-23T03:25:33.754Z
+53402,JS代码实现浏览器网页标题的动态切换，略微提高网站粘性,https://zhang.ge/5032.html,https://zhang.ge/feed,张戈博客,2015-04-14T12:06:00.000Z,2026-10-23T03:25:33.754Z
+53403,分享张戈博客自用的php网址在线转换二维码的API源码,https://zhang.ge/5031.html,https://zhang.ge/feed,张戈博客,2015-04-13T05:25:48.000Z,2026-10-23T03:25:33.754Z
+53404,zabbix agentd客户端插件Shell一键自动安装脚本,https://zhang.ge/5030.html,https://zhang.ge/feed,张戈博客,2015-04-08T13:53:04.000Z,2026-10-23T03:25:33.754Z
+53405,浅谈个人博客网站or屌丝vps服务器暴露真实IP的危险性,https://zhang.ge/5029.html,https://zhang.ge/feed,张戈博客,2015-04-04T13:35:44.000Z,2026-10-23T03:25:33.754Z
+53406,SendCloud邮件队列状态和已使用额度的Python监控脚本,https://zhang.ge/5028.html,https://zhang.ge/feed,张戈博客,2015-03-29T07:02:11.000Z,2026-10-23T03:25:33.754Z
+53407,linux/scp命令报“bash: scp: command not found lost connection”错误的解决办法,https://zhang.ge/5027.html,https://zhang.ge/feed,张戈博客,2015-03-27T05:11:35.000Z,2026-10-23T03:25:33.754Z
+53408,bat/cmd批处理连接SqlServer数据库查询脚本,https://zhang.ge/5026.html,https://zhang.ge/feed,张戈博客,2015-03-24T15:11:14.000Z,2026-10-23T03:25:33.754Z
+53409,分享一个SSL证书在线转换工具，以及IIS7环境下开通https的方法,https://zhang.ge/5025.html,https://zhang.ge/feed,张戈博客,2015-03-21T03:33:28.000Z,2026-10-23T03:25:33.754Z
+53410,解决mstsc无法连接问题：由于没有远程桌面授权服务器可以提供许可证...,https://zhang.ge/5024.html,https://zhang.ge/feed,张戈博客,2015-03-18T04:46:47.000Z,2026-10-23T03:25:33.754Z
+53411,说一说张戈和张戈博客的近况,https://zhang.ge/5023.html,https://zhang.ge/feed,张戈博客,2015-03-12T11:47:50.000Z,2026-10-23T03:25:33.754Z
+53412,JuiceSSH：超好用的安卓移动端Linux系统运维终端工具,https://zhang.ge/5022.html,https://zhang.ge/feed,张戈博客,2015-03-07T04:17:26.000Z,2026-10-23T03:25:33.754Z
+53413,WordPress结合阿里云OCS开启高速缓存，优化网站响应速度,https://zhang.ge/5021.html,https://zhang.ge/feed,张戈博客,2015-03-05T02:48:58.000Z,2026-10-23T03:25:33.754Z
+53414,Apache/Nginx伪静态规则匹配http://出现的问题与解决,https://zhang.ge/5020.html,https://zhang.ge/feed,张戈博客,2015-03-03T09:14:33.000Z,2026-10-23T03:25:33.754Z
+53415,中国博客联盟第四阶段折腾小记：新增专属收藏夹、荣誉地址失效通知等功能,https://zhang.ge/5019.html,https://zhang.ge/feed,张戈博客,2015-03-02T05:09:49.000Z,2026-10-23T03:25:33.754Z
+53416,阿里云盾网站安全防御(WAF)的正确使用方法,https://zhang.ge/5018.html,https://zhang.ge/feed,张戈博客,2015-02-28T15:47:21.000Z,2026-10-23T03:25:33.754Z
+53417,博客成功转入阿里云，分享网站接入备案、中途备案不关站技巧,https://zhang.ge/5017.html,https://zhang.ge/feed,张戈博客,2015-02-27T04:08:27.000Z,2026-10-23T03:25:33.754Z
+53418,解决WordPress 4.1总是提示更新翻译/主题丢失、无法编辑等问题（scandir）,https://zhang.ge/5016.html,https://zhang.ge/feed,张戈博客,2015-02-04T07:12:40.000Z,2026-10-23T03:25:33.754Z
+53419,CVE-2015-0235:Linux glibc高危漏洞的检测及修复方法,https://zhang.ge/5015.html,https://zhang.ge/feed,张戈博客,2015-01-29T14:02:48.000Z,2026-10-23T03:25:33.754Z
+53420,zabbix监控在lnmp环境下编译安装小记,https://zhang.ge/5014.html,https://zhang.ge/feed,张戈博客,2015-01-28T04:19:06.000Z,2026-10-23T03:25:33.754Z
+53421,分享一款12306抢票神器：12306Bypass分流抢票,https://zhang.ge/5013.html,https://zhang.ge/feed,张戈博客,2015-01-25T04:27:54.000Z,2026-10-23T03:25:33.754Z
+53422,WordPress评论ajax动态加载，解决静态缓存下评论不更新问题,https://zhang.ge/5012.html,https://zhang.ge/feed,张戈博客,2015-01-24T13:03:34.000Z,2026-10-23T03:25:33.754Z
+53423,七牛&又拍云CDN云存储节省GET次数的小技巧,https://zhang.ge/5011.html,https://zhang.ge/feed,张戈博客,2015-01-22T14:00:36.000Z,2026-10-23T03:25:33.754Z
+53424,WordPress开启颜色评论但不造成XSS漏洞的小方法,https://zhang.ge/5010.html,https://zhang.ge/feed,张戈博客,2015-01-21T14:00:41.000Z,2026-10-23T03:25:33.754Z
+53425,WordPress强迫症技巧：让文章(ID)地址完美连续(障眼法),https://zhang.ge/5008.html,https://zhang.ge/feed,张戈博客,2015-01-19T13:42:15.000Z,2026-10-23T03:25:33.754Z
+53426,MySQL错误修复：Table xx is marked as crashed and last (automatic?) repair failed,https://zhang.ge/5001.html,https://zhang.ge/feed,张戈博客,2015-01-17T01:42:46.000Z,2026-10-23T03:25:33.754Z
+53427,Linux系统监控、诊断工具之top命令详解,https://zhang.ge/4933.html,https://zhang.ge/feed,张戈博客,2015-01-14T04:07:44.000Z,2026-10-23T03:25:33.754Z
+53428,PHP彩蛋还是漏洞？expose_php彩蛋的触发和屏蔽方法,https://zhang.ge/4983.html,https://zhang.ge/feed,张戈博客,2015-01-13T03:39:09.000Z,2026-10-23T03:25:33.754Z
+53429,PHP跨站脚本攻击(XSS)漏洞修复思路（二）,https://zhang.ge/4984.html,https://zhang.ge/feed,张戈博客,2015-01-12T04:38:13.000Z,2026-10-23T03:25:33.754Z
+53430,PHP跨站脚本攻击(XSS)漏洞修复方法（一）,https://zhang.ge/4965.html,https://zhang.ge/feed,张戈博客,2015-01-11T02:35:21.000Z,2026-10-23T03:25:33.754Z
+53431,WordPress显示访客UA信息：Show UserAgent纯代码轻度汉化版,https://zhang.ge/4960.html,https://zhang.ge/feed,张戈博客,2015-01-10T02:52:44.000Z,2026-10-23T03:25:33.754Z
+53432,WordPress发布文章自动同步到新浪微博（带特色图片）,https://zhang.ge/4947.html,https://zhang.ge/feed,张戈博客,2015-01-07T06:07:41.000Z,2026-10-23T03:25:33.754Z
+53433,利用placeholder属性来添加输入框默认文字提示，提高用户体验,https://zhang.ge/4938.html,https://zhang.ge/feed,张戈博客,2015-01-06T06:10:16.000Z,2026-10-23T03:25:33.754Z
+53434,Linux系统内存监控、性能诊断工具vmstat命令详解,https://zhang.ge/4936.html,https://zhang.ge/feed,张戈博客,2015-01-05T08:50:11.000Z,2026-10-23T03:25:33.754Z
+53435,WordPress简单代码开启七牛CDN及集成七牛缩略图的方法,https://zhang.ge/4905.html,https://zhang.ge/feed,张戈博客,2015-01-02T13:26:06.000Z,2026-10-23T03:25:33.754Z
+53436,分享一个免费SSL证书申请网站，给网站开启https协议,https://zhang.ge/4890.html,https://zhang.ge/feed,张戈博客,2014-12-31T06:36:21.000Z,2026-10-23T03:25:33.754Z
+53437,Nginx在CDN加速之后，获取用户真实IP做并发访问限制的方法,https://zhang.ge/4879.html,https://zhang.ge/feed,张戈博客,2014-12-29T05:53:08.000Z,2026-10-23T03:25:33.754Z
+53438,Linux+Nginx/Apache/Tomcat新增SSL证书，开启https访问教程,https://zhang.ge/4861.html,https://zhang.ge/feed,张戈博客,2014-12-27T08:13:05.000Z,2026-10-23T03:25:33.754Z
+53439,分享两种圣诞节雪花特效JS代码(网站下雪效果),https://zhang.ge/4865.html,https://zhang.ge/feed,张戈博客,2014-12-25T06:38:22.000Z,2026-10-23T03:25:33.754Z
+53440,Nginx在线服务状态下平滑升级或新增模块的详细操作记录,https://zhang.ge/4856.html,https://zhang.ge/feed,张戈博客,2014-12-24T04:00:37.000Z,2026-10-23T03:25:33.754Z
+53441,知更鸟主题首页分类文章随机排序，让好文章不再被埋没！,https://zhang.ge/4855.html,https://zhang.ge/feed,张戈博客,2014-12-23T04:00:51.000Z,2026-10-23T03:25:33.754Z
+53442,[svn: E155004]svn update报database is locked错误的解决办法,https://zhang.ge/4836.html,https://zhang.ge/feed,张戈博客,2014-12-21T04:00:12.000Z,2026-10-23T03:25:33.754Z
+53443,时光飞逝，博客居然成立一周年了！,https://zhang.ge/4847.html,https://zhang.ge/feed,张戈博客,2014-12-18T14:18:14.000Z,2026-10-23T03:25:33.754Z
+53444,WordPress高亮插件：Crayon Syntax Highlighter加载优化,https://zhang.ge/4834.html,https://zhang.ge/feed,张戈博客,2014-12-13T12:28:01.000Z,2026-10-23T03:25:33.754Z
+53445,BaiduSubmit：百度WordPress结构化数据插件（改进版）,https://zhang.ge/4707.html,https://zhang.ge/feed,张戈博客,2014-12-12T12:50:56.000Z,2026-10-23T03:25:33.754Z
+53446,Infinity New Tab：重新定义你的Chrome新标签页,https://zhang.ge/4804.html,https://zhang.ge/feed,张戈博客,2014-12-11T13:39:45.000Z,2026-10-23T03:25:33.754Z
+53447,Linux系统zip压缩命令详细参数，附文件排除选项的正确用法,https://zhang.ge/4776.html,https://zhang.ge/feed,张戈博客,2014-12-09T04:00:26.000Z,2026-10-23T03:25:33.754Z
+53448,百度站长平台robots工具升级后的新发现,https://zhang.ge/4781.html,https://zhang.ge/feed,张戈博客,2014-12-08T05:13:08.000Z,2026-10-23T03:25:33.754Z
+53449,php平滑重启nginx，彻底清除WordPress的静态缓存,https://zhang.ge/4730.html,https://zhang.ge/feed,张戈博客,2014-12-06T02:00:19.000Z,2026-10-23T03:25:33.754Z
+53450,JS+CSS让网站嗨起来，博客要被玩坏了！,https://zhang.ge/4780.html,https://zhang.ge/feed,张戈博客,2014-12-04T05:25:32.000Z,2026-10-23T03:25:33.754Z
+53451,启用WP Super Cache纯代码版本之后的一些优化措施,https://zhang.ge/4775.html,https://zhang.ge/feed,张戈博客,2014-12-02T13:10:19.000Z,2026-10-23T03:25:33.754Z
+53452,WP Super Cache静态缓存插件纯代码版（兼容多域名网站）,https://zhang.ge/4769.html,https://zhang.ge/feed,张戈博客,2014-11-28T09:27:49.000Z,2026-10-23T03:25:33.754Z
+53453,原创插件：WordPress读者排行榜插件WP Readers Ranking,https://zhang.ge/4756.html,https://zhang.ge/feed,张戈博客,2014-11-26T12:28:43.000Z,2026-10-23T03:25:33.754Z
+53454,原创插件：中国博客联盟WordPress插件更新至1.2.2版本,https://zhang.ge/4750.html,https://zhang.ge/feed,张戈博客,2014-11-23T08:22:43.000Z,2026-10-23T03:25:33.754Z
+53455,原创插件：百度收录查询和显示WordPress插件(自定义栏目优化版),https://zhang.ge/4726.html,https://zhang.ge/feed,张戈博客,2014-11-22T05:41:41.000Z,2026-10-23T03:25:33.754Z
+53456,WordPress前端html代码压缩优化，附对应知更鸟主题压缩报错的解决方案,https://zhang.ge/4731.html,https://zhang.ge/feed,张戈博客,2014-11-21T15:06:01.000Z,2026-10-23T03:25:33.754Z
+53457,原创插件：WordPress博客友好对话框+文章随机推荐滚动条插件（附代码版）,https://zhang.ge/4718.html,https://zhang.ge/feed,张戈博客,2014-11-20T15:03:09.000Z,2026-10-23T03:25:33.754Z
+53458,吐槽：想和谷歌比肩，百度仍须努力,https://zhang.ge/4714.html,https://zhang.ge/feed,张戈博客,2014-11-19T03:15:32.000Z,2026-10-23T03:25:33.754Z
+53459,Linux系统crontab备份数据库执行不成功？可能是百分号%在作怪！,https://zhang.ge/4712.html,https://zhang.ge/feed,张戈博客,2014-11-18T12:06:32.000Z,2026-10-23T03:25:33.754Z
+53460,百度站内搜索全新改版：WordPress生成通用行业模板数据的php脚本,https://zhang.ge/4692.html,https://zhang.ge/feed,张戈博客,2014-11-16T06:10:26.000Z,2026-10-23T03:25:33.754Z
+53461,grep无法查找shell传过来的变量？先注意一下文本格式吧！,https://zhang.ge/4703.html,https://zhang.ge/feed,张戈博客,2014-11-15T04:00:37.000Z,2026-10-23T03:25:33.754Z
+53462,解决JS操作Cookies出现的乱码问题，修复Wordpress评论乱码,https://zhang.ge/4684.html,https://zhang.ge/feed,张戈博客,2014-11-14T04:00:54.000Z,2026-10-23T03:25:33.754Z
+53463,分享一个WordPress外链跳转教程，兼容知更鸟暗箱下载和文章索引,https://zhang.ge/4683.html,https://zhang.ge/feed,张戈博客,2014-11-13T04:00:30.000Z,2026-10-23T03:25:33.754Z
+53464,利用artDialog给网站添加一个能显示搜索来路和关键词的欢迎框,https://zhang.ge/4664.html,https://zhang.ge/feed,张戈博客,2014-11-11T14:40:40.000Z,2026-10-23T03:25:33.754Z
+53465,让WordPress RSS/Feed订阅数据延迟发布，附RSS技巧集锦,https://zhang.ge/4668.html,https://zhang.ge/feed,张戈博客,2014-11-10T06:33:39.000Z,2026-10-23T03:25:33.754Z
+53466,浅谈网站使用七牛云存储之后的robots.txt该如何设置？,https://zhang.ge/4656.html,https://zhang.ge/feed,张戈博客,2014-11-06T12:00:46.000Z,2026-10-23T03:25:33.754Z
+53467,Linux系统防CC攻击自动拉黑IP增强版Shell脚本,https://zhang.ge/4649.html,https://zhang.ge/feed,张戈博客,2014-11-05T14:00:15.000Z,2026-10-23T03:25:33.754Z
+53468,硬盘故障时如何强制关机：Input/output error,https://zhang.ge/4550.html,https://zhang.ge/feed,张戈博客,2014-11-04T04:30:08.000Z,2026-10-23T03:25:33.754Z
+53469,VPS/Linux系统防CC攻击带白名单过滤功能的Shell脚本,https://zhang.ge/4627.html,https://zhang.ge/feed,张戈博客,2014-11-03T13:17:01.000Z,2026-10-23T03:25:33.754Z
+53470,WordPress集成底部滚动推荐条，让好文章不再被埋没,https://zhang.ge/4628.html,https://zhang.ge/feed,张戈博客,2014-11-02T04:00:57.000Z,2026-10-23T03:25:33.754Z
+53471,中国博客联盟第三阶段折腾小记，暨首届有奖活动预告,https://zhang.ge/4629.html,https://zhang.ge/feed,张戈博客,2014-11-01T04:00:34.000Z,2026-10-23T03:25:33.754Z
+53472,解决启用wp super cache缓存后，页面追加多个斜杠仍然可以访问的隐患,https://zhang.ge/4630.html,https://zhang.ge/feed,张戈博客,2014-10-31T06:07:27.000Z,2026-10-23T03:25:33.754Z
+53473,WordPress酷炫CSS3读者墙，排名按年度、本月、本周划分的小方法,https://zhang.ge/4624.html,https://zhang.ge/feed,张戈博客,2014-10-28T04:00:08.000Z,2026-10-23T03:25:33.754Z
+53474,WordPress给文章添加百度是否已收录查询和显示功能(自定义栏目优化版),https://zhang.ge/4617.html,https://zhang.ge/feed,张戈博客,2014-10-27T04:00:14.000Z,2026-10-23T03:25:33.754Z
+53475,PHP制作百度站内搜索绿色通道的网页列表数据文件,https://zhang.ge/4611.html,https://zhang.ge/feed,张戈博客,2014-10-26T04:00:42.000Z,2026-10-23T03:25:33.754Z
+53476,分享几个可用的二维码API，以及给博客添加文章二维码图片的方法,https://zhang.ge/4609.html,https://zhang.ge/feed,张戈博客,2014-10-25T04:00:37.000Z,2026-10-23T03:25:33.754Z
+53477,原版Windows10操作系统iso镜像、微软正版软件下载站：MSDN，我告诉你！,https://zhang.ge/4574.html,https://zhang.ge/feed,张戈博客,2014-10-23T05:19:07.000Z,2026-10-23T03:25:33.754Z
+53478,严重鄙视抄袭他人原创文章不保留出处还篡改版权的无耻之人！,https://zhang.ge/4556.html,https://zhang.ge/feed,张戈博客,2014-10-21T14:43:45.000Z,2026-10-23T03:25:33.754Z
+53479,WordPress免插件生成完整站点地图(sitemap.xml)的php代码,https://zhang.ge/4554.html,https://zhang.ge/feed,张戈博客,2014-10-20T04:00:15.000Z,2026-10-23T03:25:33.754Z
+53480,实现WordPress提交评论的时删除该页面的WP-Super-Cache缓存的方法,https://zhang.ge/4549.html,https://zhang.ge/feed,张戈博客,2014-10-18T04:00:36.000Z,2026-10-23T03:25:33.754Z
+53481,百度云加速或360网站卫士关于WordPress评论缓存的巧妙设置,https://zhang.ge/4546.html,https://zhang.ge/feed,张戈博客,2014-10-17T04:00:12.000Z,2026-10-23T03:25:33.754Z
+53482,php自动生成百度开放适配PC页－手机页pattern对应关系sitemap.xml,https://zhang.ge/4543.html,https://zhang.ge/feed,张戈博客,2014-10-16T04:00:15.000Z,2026-10-23T03:25:33.754Z
+53483,Linux系统最大文件打开数优化，解决Too many open files报错,https://zhang.ge/4541.html,https://zhang.ge/feed,张戈博客,2014-10-15T04:00:34.000Z,2026-10-23T03:25:33.754Z
+53484,单机MySQL数据库优化推荐的编译安装参数,https://zhang.ge/4523.html,https://zhang.ge/feed,张戈博客,2014-10-14T04:21:54.000Z,2026-10-23T03:25:33.754Z
+53485,WordPress记住评论用户信息的js版本，直接操作cookie无视缓存,https://zhang.ge/4538.html,https://zhang.ge/feed,张戈博客,2014-10-13T07:57:16.000Z,2026-10-23T03:25:33.754Z
+53486,禁止百度转码和百度快照缓存的META声明,https://zhang.ge/4535.html,https://zhang.ge/feed,张戈博客,2014-10-11T10:32:41.000Z,2026-10-23T03:25:33.754Z
+53487,百度Sitemap工具升级版内测，附移动sitemap.xml的php代码(支持响应式),https://zhang.ge/4530.html,https://zhang.ge/feed,张戈博客,2014-10-11T03:15:04.000Z,2026-10-23T03:25:33.754Z
+53488,博客文章重新启用评论，附一键填写评论中用户信息代码生成工具,https://zhang.ge/4522.html,https://zhang.ge/feed,张戈博客,2014-10-10T04:35:03.000Z,2026-10-23T03:25:33.754Z
+53489,SEO养博客神器：同步文章(或摘要)到新浪博客的WordPress插件,https://zhang.ge/4512.html,https://zhang.ge/feed,张戈博客,2014-10-07T11:19:22.000Z,2026-10-23T03:25:33.754Z
+53490,SEO分享:让百度删除不想收录的域名或快照的最快方法,https://zhang.ge/4506.html,https://zhang.ge/feed,张戈博客,2014-09-30T01:44:15.000Z,2026-10-23T03:25:33.754Z
+53491,Linux网络实时流量监测工具iftop的安装使用,https://zhang.ge/4503.html,https://zhang.ge/feed,张戈博客,2014-09-29T07:06:49.000Z,2026-10-23T03:25:33.754Z
+53492,Linux系统下MongoDB的简单安装与基本操作,https://zhang.ge/4493.html,https://zhang.ge/feed,张戈博客,2014-09-28T06:47:33.000Z,2026-10-23T03:25:33.754Z
+53493,再次扩散：Linux系统bash漏洞CVE-2014-6271仍未被彻底修复，红帽再发补丁,https://zhang.ge/4486.html,https://zhang.ge/feed,张戈博客,2014-09-26T08:51:46.000Z,2026-10-23T03:25:33.754Z
+53494,紧急扩散：Linux系统bash严重安全漏洞CVE-2014-6271的检测及修复方法,https://zhang.ge/4479.html,https://zhang.ge/feed,张戈博客,2014-09-25T15:02:26.000Z,2026-10-23T03:25:33.754Z
+53495,服务器反爬虫攻略：Apache/Nginx/PHP禁止某些User Agent抓取网站,https://zhang.ge/4458.html,https://zhang.ge/feed,张戈博客,2014-09-25T04:00:17.000Z,2026-10-23T03:25:33.754Z
+53496,SEO分享：彻底禁止搜索引擎收录非首选域名的方法,https://zhang.ge/4460.html,https://zhang.ge/feed,张戈博客,2014-09-24T05:05:58.000Z,2026-10-23T03:25:33.754Z
+53497,Linux高级运维工程师：100道面试题整理,https://zhang.ge/4450.html,https://zhang.ge/feed,张戈博客,2014-09-23T13:21:46.000Z,2026-10-23T03:25:33.754Z
+53498,http加速器Varnish的vcl配置小记(lnmp环境),https://zhang.ge/4445.html,https://zhang.ge/feed,张戈博客,2014-09-22T13:15:28.000Z,2026-10-23T03:25:33.754Z
+53499,清点下博客的插件以及我对WordPress插件的看法,https://zhang.ge/4435.html,https://zhang.ge/feed,张戈博客,2014-09-21T02:00:06.000Z,2026-10-23T03:25:33.754Z
+53500,WordPress评论滑动/拉链解锁myQaptcha代码版及部署方法,https://zhang.ge/4429.html,https://zhang.ge/feed,张戈博客,2014-09-20T08:18:14.000Z,2026-10-23T03:25:33.754Z
+53501,我的评论价值观，说一说关闭评论的那点事儿,https://zhang.ge/4422.html,https://zhang.ge/feed,张戈博客,2014-09-18T14:10:46.000Z,2026-10-23T03:25:33.754Z
+53502,修改WordPress分类目录和页面链接以斜杠/结尾，附nginx对应的301跳转设置方法,https://zhang.ge/4408.html,https://zhang.ge/feed,张戈博客,2014-09-16T15:30:20.000Z,2026-10-23T03:25:33.754Z
+53503,中国博客联盟第二阶段折腾小记：新增WP插件、随机访问、邮件系统及其他细节改善,https://zhang.ge/4392.html,https://zhang.ge/feed,张戈博客,2014-09-15T12:58:25.000Z,2026-10-23T03:25:33.754Z
+53504,解决Crayon Syntax Highlighter代码高亮与fancybox图片暗箱冲突问题,https://zhang.ge/4387.html,https://zhang.ge/feed,张戈博客,2014-09-12T13:00:51.000Z,2026-10-23T03:25:33.754Z
+53505,神马搜索推出开放平台，致力于移动互联网,https://zhang.ge/4380.html,https://zhang.ge/feed,张戈博客,2014-09-11T14:27:45.000Z,2026-10-23T03:25:33.754Z
+53506,移动搜索SEO：网站移动适配之Meta标注、移动跳转终结篇,https://zhang.ge/4369.html,https://zhang.ge/feed,张戈博客,2014-09-10T14:25:16.000Z,2026-10-23T03:25:33.754Z
+53507,WordPress 4.0 Benny简体中文版现已开放下载,https://zhang.ge/4363.html,https://zhang.ge/feed,张戈博客,2014-09-05T06:13:56.000Z,2026-10-23T03:25:33.754Z
+53508,关于网站图标favicon.ico那点事儿，你造吗？,https://zhang.ge/4344.html,https://zhang.ge/feed,张戈博客,2014-09-04T15:03:40.000Z,2026-10-23T03:25:33.754Z
+53509,百度蜘蛛狂暴了！再次启用本地缓存，附nginx下wp super cache的mod_rewrite规则,https://zhang.ge/4351.html,https://zhang.ge/feed,张戈博客,2014-09-02T04:00:44.000Z,2026-10-23T03:25:33.754Z
+53510,Linux/vps本地七天循环备份和七牛远程备份脚本,https://zhang.ge/4336.html,https://zhang.ge/feed,张戈博客,2014-08-31T04:00:10.000Z,2026-10-23T03:25:33.754Z
+53511,你知道Windows和WordPress上帝模式吗？,https://zhang.ge/4285.html,https://zhang.ge/feed,张戈博客,2014-08-30T03:04:13.000Z,2026-10-23T03:25:33.754Z
+53512,中国博客联盟成员站点自动检查机制正式上线,https://zhang.ge/4333.html,https://zhang.ge/feed,张戈博客,2014-08-29T05:31:46.000Z,2026-10-23T03:25:33.754Z
+53513,Linux/VPS系统安全设置整理,https://zhang.ge/4321.html,https://zhang.ge/feed,张戈博客,2014-08-28T04:00:58.000Z,2026-10-23T03:25:33.754Z
+53514,Linux系统date命令无法修改或同步时间的解决办法,https://zhang.ge/4319.html,https://zhang.ge/feed,张戈博客,2014-08-27T13:19:03.000Z,2026-10-23T03:25:33.754Z
+53515,谷歌被墙后的各种处理办法小结,https://zhang.ge/4315.html,https://zhang.ge/feed,张戈博客,2014-08-26T04:00:19.000Z,2026-10-23T03:25:33.754Z
+53516,响应式+扁平化FrontOpen2主题的圆角样式分享,https://zhang.ge/4304.html,https://zhang.ge/feed,张戈博客,2014-08-25T10:00:31.000Z,2026-10-23T03:25:33.754Z
+53517,360网站卫士的CDN缓存加速功能详解,https://zhang.ge/4292.html,https://zhang.ge/feed,张戈博客,2014-08-24T07:45:39.000Z,2026-10-23T03:25:33.754Z
+53518,MySQL之Field '***'doesn't have a default value错误解决办法,https://zhang.ge/4288.html,https://zhang.ge/feed,张戈博客,2014-08-23T15:16:53.000Z,2026-10-23T03:25:33.754Z
+53519,Shell+Curl网站健康状态检查脚本，抓出中国博客联盟失联站点,https://zhang.ge/4284.html,https://zhang.ge/feed,张戈博客,2014-08-22T08:38:05.000Z,2026-10-23T03:25:33.754Z
+53520,JS延时判断，改善中国博客联盟展示导航自动点击的灵敏度,https://zhang.ge/4280.html,https://zhang.ge/feed,张戈博客,2014-08-21T05:29:12.000Z,2026-10-23T03:25:33.754Z
+53521,KodExplorer-芒果云：超强PHP在线资源管理器,https://zhang.ge/4257.html,https://zhang.ge/feed,张戈博客,2014-08-19T14:47:47.000Z,2026-10-23T03:25:33.754Z
+53522,根据IE版本加载不同CSS样式的方法小结，解决低版本IE兼容问题,https://zhang.ge/4248.html,https://zhang.ge/feed,张戈博客,2014-08-17T15:50:35.000Z,2026-10-23T03:25:33.754Z
+53523,DIY一个又有趣又好玩的404页面，降低跳出率,https://zhang.ge/4241.html,https://zhang.ge/feed,张戈博客,2014-08-14T02:00:31.000Z,2026-10-23T03:25:33.754Z
+53524,SUSE Linux系统在线安装软件命令zypper参数详解,https://zhang.ge/4230.html,https://zhang.ge/feed,张戈博客,2014-08-13T02:00:00.000Z,2026-10-23T03:25:33.754Z
+53525,为iFrame添加动态载入效果，提高用户体验,https://zhang.ge/3981.html,https://zhang.ge/feed,张戈博客,2014-08-12T02:00:50.000Z,2026-10-23T03:25:33.754Z
+53526,原创插件：中国博客联盟成员展示导航Wordpress插件版,https://zhang.ge/4232.html,https://zhang.ge/feed,张戈博客,2014-08-11T05:49:48.000Z,2026-10-23T03:25:33.754Z
+53527,解决Linux下MySQL启动错误Starting MySQL.Manager of pid-file quit without updating file.[FAILED],https://zhang.ge/4225.html,https://zhang.ge/feed,张戈博客,2014-08-08T02:58:25.000Z,2026-10-23T03:25:33.754Z
+53528,Linux系统yum命令安装软件时保留(下载)rpm包,https://zhang.ge/4222.html,https://zhang.ge/feed,张戈博客,2014-08-07T01:39:02.000Z,2026-10-23T03:25:33.754Z
+53529,VPS服务器备份网站到七牛云存储的shell脚本（第二版）,https://zhang.ge/4221.html,https://zhang.ge/feed,张戈博客,2014-08-05T01:36:59.000Z,2026-10-23T03:25:33.754Z
+53530,VPS服务器备份网站文件和数据库到七牛云存储的shell脚本工具,https://zhang.ge/4212.html,https://zhang.ge/feed,张戈博客,2014-07-31T05:23:34.000Z,2026-10-23T03:25:33.754Z
+53531,【温馨七夕】执子之手长相依，与子偕老莫相离,https://zhang.ge/4195.html,https://zhang.ge/feed,张戈博客,2014-07-30T07:43:12.000Z,2026-10-23T03:25:33.754Z
+53532,Linux下通过rdesktop连接Windows远程桌面,https://zhang.ge/4184.html,https://zhang.ge/feed,张戈博客,2014-07-28T14:10:17.000Z,2026-10-23T03:25:33.754Z
+53533,解决ping域名时出现“TTL传输中过期”的问题,https://zhang.ge/4177.html,https://zhang.ge/feed,张戈博客,2014-07-25T02:58:02.000Z,2026-10-23T03:25:33.754Z
+53534,Linux下用dd命令测试硬盘的读写速度,https://zhang.ge/4172.html,https://zhang.ge/feed,张戈博客,2014-07-24T04:53:47.000Z,2026-10-23T03:25:33.754Z
+53535,Linux下巧用chattr、watch命令的实例,https://zhang.ge/4155.html,https://zhang.ge/feed,张戈博客,2014-07-23T07:56:20.000Z,2026-10-23T03:25:33.754Z
+53536,Microsoft Office 2003+2007+2010+2013 办公软件合集(带永久激活工具),https://zhang.ge/4154.html,https://zhang.ge/feed,张戈博客,2014-07-22T01:15:55.000Z,2026-10-23T03:25:33.754Z
+53537,nginx日志切割及7天前的历史日志删除脚本,https://zhang.ge/4152.html,https://zhang.ge/feed,张戈博客,2014-07-21T08:26:56.000Z,2026-10-23T03:25:33.754Z
+53538,Linux/SUSE安装svn客户端的问题记录,https://zhang.ge/4149.html,https://zhang.ge/feed,张戈博客,2014-07-18T07:58:47.000Z,2026-10-23T03:25:33.754Z
+53539,替换WordPress默认搜索为百度站内搜索(知更鸟主题可照搬),https://zhang.ge/4127.html,https://zhang.ge/feed,张戈博客,2014-07-16T11:11:39.000Z,2026-10-23T03:25:33.754Z
+53540,中国博客联盟：成员展示导航响应式布局，完善宽度受限的不足(附响应式CSS教程),https://zhang.ge/4124.html,https://zhang.ge/feed,张戈博客,2014-07-15T05:20:11.000Z,2026-10-23T03:25:33.754Z
+53541,CentOS 7.0.1406正式版发布，附更新记录及CentOS7 iso镜像文件下载地址,https://zhang.ge/4120.html,https://zhang.ge/feed,张戈博客,2014-07-13T16:45:59.000Z,2026-10-23T03:25:33.754Z
+53542,中国博客联盟第一阶段折腾小记及下一步的改善计划,https://zhang.ge/4112.html,https://zhang.ge/feed,张戈博客,2014-07-11T06:45:36.000Z,2026-10-23T03:25:33.754Z
+53543,服务器日志备份超节省空间的思路,https://zhang.ge/4104.html,https://zhang.ge/feed,张戈博客,2014-07-10T14:05:37.000Z,2026-10-23T03:25:33.754Z
+53544,博客互推联盟正式启用独立域名：zgboke.com，全新改版！,https://zhang.ge/4100.html,https://zhang.ge/feed,张戈博客,2014-07-08T13:56:26.000Z,2026-10-23T03:25:33.754Z
+53545,利用Centos或RedHat的iso镜像搭建本地yum仓库,https://zhang.ge/4099.html,https://zhang.ge/feed,张戈博客,2014-07-04T13:33:57.000Z,2026-10-23T03:25:33.754Z
+53546,解决卸载WP No Category Base插件后页面出现404的问题,https://zhang.ge/4088.html,https://zhang.ge/feed,张戈博客,2014-06-30T11:01:49.000Z,2026-10-23T03:25:33.754Z
+53547,利用Meta申明来做百度、谷歌、雅虎、微软等搜索的开放适配,https://zhang.ge/4076.html,https://zhang.ge/feed,张戈博客,2014-06-29T03:40:38.000Z,2026-10-23T03:25:33.754Z
+53548,结合百度联盟标签广告，定制一个QQ邮箱订阅,https://zhang.ge/4075.html,https://zhang.ge/feed,张戈博客,2014-06-27T03:05:15.000Z,2026-10-23T03:25:33.754Z
+53549,Linux操作系统DNS解析(nameserver)监控脚本,https://zhang.ge/4055.html,https://zhang.ge/feed,张戈博客,2014-06-26T03:20:20.000Z,2026-10-23T03:25:33.754Z
+53550,WordPress移动主题插件：Wptouch Mobile Plugin v3.34汉化版,https://zhang.ge/4058.html,https://zhang.ge/feed,张戈博客,2014-06-25T04:53:55.000Z,2026-10-23T03:25:33.754Z
+53551,解决WordPress Feed、RSS以及Sitemap.xml访问报错问题,https://zhang.ge/4048.html,https://zhang.ge/feed,张戈博客,2014-06-24T13:29:12.000Z,2026-10-23T03:25:33.754Z
+53552,SecureCRT全局发送相同命令，快速抓取服务器信息的方法,https://zhang.ge/4036.html,https://zhang.ge/feed,张戈博客,2014-06-23T04:24:42.000Z,2026-10-23T03:25:33.754Z
+53553,移动SEO分享：php自动提交复合型Sitemap到百度搜索,https://zhang.ge/4028.html,https://zhang.ge/feed,张戈博客,2014-06-19T16:09:25.000Z,2026-10-23T03:25:33.754Z
+53554,[不定期更新]简单的shell脚本练习实例,https://zhang.ge/4023.html,https://zhang.ge/feed,张戈博客,2014-06-19T11:22:45.000Z,2026-10-23T03:25:33.754Z
+53555,超简单的MySQL主从复制配置步骤,https://zhang.ge/4019.html,https://zhang.ge/feed,张戈博客,2014-06-18T10:44:49.000Z,2026-10-23T03:25:33.754Z
+53556,若是变了味的同学聚会，你还期待吗？,https://zhang.ge/4015.html,https://zhang.ge/feed,张戈博客,2014-06-17T15:16:34.000Z,2026-10-23T03:25:33.754Z
+53557,解决SecureCRT的vim中为下划线而无高亮问题，附最佳护眼配色方案。,https://zhang.ge/3999.html,https://zhang.ge/feed,张戈博客,2014-06-16T14:37:11.000Z,2026-10-23T03:25:33.754Z
+53558,新增五大顶级功能，RHEL7 开放下载，CentOS7 即将到来,https://zhang.ge/3996.html,https://zhang.ge/feed,张戈博客,2014-06-15T12:52:47.000Z,2026-10-23T03:25:33.754Z
+53559,解决Centos下vsftp无法上传文件的问题，附vsftp配置详解,https://zhang.ge/3987.html,https://zhang.ge/feed,张戈博客,2014-06-12T07:12:40.000Z,2026-10-23T03:25:33.754Z
+53560,分享一个自己做的多功能桌面运维工具的介绍PPT(视频),https://zhang.ge/3929.html,https://zhang.ge/feed,张戈博客,2014-06-08T13:00:18.000Z,2026-10-23T03:25:33.754Z
+53561,分享超炫的表白页面和爱的纪念日源码,https://zhang.ge/3939.html,https://zhang.ge/feed,张戈博客,2014-06-08T11:46:15.000Z,2026-10-23T03:25:33.754Z
+53562,教你如何去掉友荐和无觅的隐藏外链和版权链接,https://zhang.ge/3874.html,https://zhang.ge/feed,张戈博客,2014-06-07T02:39:07.000Z,2026-10-23T03:25:33.754Z
+53563,传到张戈博客的游戏：博客点名，说说你的博客历程,https://zhang.ge/3838.html,https://zhang.ge/feed,张戈博客,2014-06-06T01:00:13.000Z,2026-10-23T03:25:33.754Z
+53564,移动搜索SEO分享：PHP自动生成百度开放适配及360移动适配专用的Sitemap文件,https://zhang.ge/3816.html,https://zhang.ge/feed,张戈博客,2014-06-05T03:40:47.000Z,2026-10-23T03:25:33.754Z
+53565,重置多说配置后的问题，这是不让我从良的节奏啊（附禁用谷歌在线字体的方法）！,https://zhang.ge/3783.html,https://zhang.ge/feed,张戈博客,2014-06-04T03:44:20.000Z,2026-10-23T03:25:33.754Z
+53566,分享WordPress Mobile Pack汉化精简版及隐藏指定插件更新提示的方法,https://zhang.ge/3775.html,https://zhang.ge/feed,张戈博客,2014-06-03T11:33:11.000Z,2026-10-23T03:25:33.754Z
+53567,备案不被K：利用百度关站保护或搜索引擎线路解析确保无痛备案,https://zhang.ge/3758.html,https://zhang.ge/feed,张戈博客,2014-06-01T12:56:29.000Z,2026-10-23T03:25:33.754Z
+53568,听取意见，持续改善，再次给360网站卫士32个赞！,https://zhang.ge/3736.html,https://zhang.ge/feed,张戈博客,2014-05-30T02:32:44.000Z,2026-10-23T03:25:33.754Z
+53569,百度分享无法抓取图片及摘要的折中解决办法,https://zhang.ge/3711.html,https://zhang.ge/feed,张戈博客,2014-05-29T04:46:16.000Z,2026-10-23T03:25:33.754Z
+53570,向朋友借钱：让人深思的那点事,https://zhang.ge/3704.html,https://zhang.ge/feed,张戈博客,2014-05-28T06:39:07.000Z,2026-10-23T03:25:33.754Z
+53571,移动搜索SEO分享：利用Meta声明来做百度开放适配,https://zhang.ge/3690.html,https://zhang.ge/feed,张戈博客,2014-05-27T11:34:41.000Z,2026-10-23T03:25:33.754Z
+53572,js获取url中?后的参数，修复移动版无法切换到电脑版的BUG,https://zhang.ge/3664.html,https://zhang.ge/feed,张戈博客,2014-05-26T01:18:41.000Z,2026-10-23T03:25:33.754Z
+53573,完美实现移动主题在360网站卫士缓存全开情况下的切换,https://zhang.ge/3668.html,https://zhang.ge/feed,张戈博客,2014-05-25T06:51:27.000Z,2026-10-23T03:25:33.754Z
+53574,妹子你真萌：一次心惊肉跳的服务器误删文件的恢复过程,https://zhang.ge/3661.html,https://zhang.ge/feed,张戈博客,2014-05-24T12:43:55.000Z,2026-10-23T03:25:33.754Z
+53575,菜鸟教程：Ngnix安装详解,https://zhang.ge/3652.html,https://zhang.ge/feed,张戈博客,2014-05-23T12:35:46.000Z,2026-10-23T03:25:33.754Z
+53576,利用七牛云存储加速WordPress谷歌在线字体,https://zhang.ge/3847.html,https://zhang.ge/feed,张戈博客,2014-05-22T03:47:23.000Z,2026-10-23T03:25:33.754Z
+53577,收到360网站卫士赠送的土豪金版随身WiFi2了,https://zhang.ge/3628.html,https://zhang.ge/feed,张戈博客,2014-05-21T13:11:24.000Z,2026-10-23T03:25:33.754Z
+53578,仿异次元百度分享工具条张戈修改版,https://zhang.ge/3615.html,https://zhang.ge/feed,张戈博客,2014-05-20T14:32:21.000Z,2026-10-23T03:25:33.754Z
+53579,LVS中Windows作为真实主机(RealServer)时的设置方法,https://zhang.ge/3592.html,https://zhang.ge/feed,张戈博客,2014-05-19T12:22:42.000Z,2026-10-23T03:25:33.754Z
+53580,nginx配置文件参数详解,https://zhang.ge/3574.html,https://zhang.ge/feed,张戈博客,2014-05-18T14:58:21.000Z,2026-10-23T03:25:33.754Z
+53581,百度开放适配&360移动适配专用Sitemap格式转换工具,https://zhang.ge/3544.html,https://zhang.ge/feed,张戈博客,2014-05-16T14:40:34.000Z,2026-10-23T03:25:33.754Z
+53582,10个超有趣的Linux命令,https://zhang.ge/3528.html,https://zhang.ge/feed,张戈博客,2014-05-15T14:04:42.000Z,2026-10-23T03:25:33.754Z
+53583,百度抛弃加速乐，独立推出百度云加速，你期待吗？,https://zhang.ge/3505.html,https://zhang.ge/feed,张戈博客,2014-05-13T05:02:09.000Z,2026-10-23T03:25:33.754Z
+53584,分享张戈博客的在线影音源代码,https://zhang.ge/3498.html,https://zhang.ge/feed,张戈博客,2014-05-12T12:43:07.000Z,2026-10-23T03:25:33.754Z
+53585,整理分享：65个面试回答技巧,https://zhang.ge/3445.html,https://zhang.ge/feed,张戈博客,2014-05-10T19:30:07.000Z,2026-10-23T03:25:33.754Z
+53586,张戈+博客的百度指数怎么这么高？,https://zhang.ge/3428.html,https://zhang.ge/feed,张戈博客,2014-05-10T01:29:04.000Z,2026-10-23T03:25:33.754Z
+53587,另类SEO分享：利用JS封装iframe躲过搜索引擎的抓取,https://zhang.ge/3419.html,https://zhang.ge/feed,张戈博客,2014-05-09T03:04:53.000Z,2026-10-23T03:25:33.754Z
+53588,张戈博客惊现WordPress恶意代码，各位WP博主要注意下了！,https://zhang.ge/3385.html,https://zhang.ge/feed,张戈博客,2014-05-08T01:00:40.000Z,2026-10-23T03:25:33.754Z
+53589,最新发现：百度口碑是升级百度site命令的原因之一,https://zhang.ge/3401.html,https://zhang.ge/feed,张戈博客,2014-05-07T04:42:39.000Z,2026-10-23T03:25:33.754Z
+53590,网站备案后，百度加速乐体验小记,https://zhang.ge/3353.html,https://zhang.ge/feed,张戈博客,2014-05-06T12:18:32.000Z,2026-10-23T03:25:33.754Z
+53591,玛思阁已正式更名为张戈博客,https://zhang.ge/3330.html,https://zhang.ge/feed,张戈博客,2014-05-05T13:28:26.000Z,2026-10-23T03:25:33.754Z
+53592,在Linux中发现IP地址冲突的方法,https://zhang.ge/3317.html,https://zhang.ge/feed,张戈博客,2014-05-04T01:43:26.000Z,2026-10-23T03:25:33.754Z
+53593,解决360浏览器不显示网站ico图标的问题,https://zhang.ge/3301.html,https://zhang.ge/feed,张戈博客,2014-05-03T07:34:10.000Z,2026-10-23T03:25:33.754Z
+53594,Wordpress静态缓存三剑客，强力推荐！,https://zhang.ge/3282.html,https://zhang.ge/feed,张戈博客,2014-05-02T15:16:38.000Z,2026-10-23T03:25:33.754Z
+53595,解决Wordpress多说评论无法同步(个例),https://zhang.ge/3276.html,https://zhang.ge/feed,张戈博客,2014-05-01T11:22:32.000Z,2026-10-23T03:25:33.754Z
+53596,详解Linux系统的CPU负载均值,https://zhang.ge/3264.html,https://zhang.ge/feed,张戈博客,2014-04-30T01:59:35.000Z,2026-10-23T03:25:33.754Z
+53597,教你如何查看Linux的CPU负载,https://zhang.ge/3257.html,https://zhang.ge/feed,张戈博客,2014-04-29T03:11:32.000Z,2026-10-23T03:25:33.754Z
+53598,分享一个多说头像的动态酷炫CSS样式,https://zhang.ge/3206.html,https://zhang.ge/feed,张戈博客,2014-04-27T12:38:47.000Z,2026-10-23T03:25:33.754Z
+53599,解决wp-super-cache无法(预)缓存问题,https://zhang.ge/3208.html,https://zhang.ge/feed,张戈博客,2014-04-26T14:23:48.000Z,2026-10-23T03:25:33.754Z
+53600,分享博客统计中的动态运行天数代码,https://zhang.ge/3201.html,https://zhang.ge/feed,张戈博客,2014-04-25T14:21:00.000Z,2026-10-23T03:25:33.754Z
+53601,Linux服务器的进程查看命令详解,https://zhang.ge/3186.html,https://zhang.ge/feed,张戈博客,2014-04-23T13:47:30.000Z,2026-10-23T03:25:33.754Z
+53602,Llinux文件目录权限及chmod命令简析,https://zhang.ge/3168.html,https://zhang.ge/feed,张戈博客,2014-04-22T11:29:16.000Z,2026-10-23T03:25:33.754Z
+53603,系统管理员(SA)之企业生存守则,https://zhang.ge/3146.html,https://zhang.ge/feed,张戈博客,2014-04-20T02:09:22.000Z,2026-10-23T03:25:33.754Z
+53604,网站安全检测提示“页面异常导致本地路径泄漏”的解决办法,https://zhang.ge/3127.html,https://zhang.ge/feed,张戈博客,2014-04-19T10:46:30.000Z,2026-10-23T03:25:33.754Z
+53605,解决Wordpress修改数据库表前缀后无法登陆的问题,https://zhang.ge/3107.html,https://zhang.ge/feed,张戈博客,2014-04-18T14:50:42.000Z,2026-10-23T03:25:33.754Z
+53606,超強统计插件：My Visitors在知更鸟主题下的修改教程,https://zhang.ge/3002.html,https://zhang.ge/feed,张戈博客,2014-04-16T16:45:11.000Z,2026-10-23T03:25:33.754Z
+53607,互推联盟推出荣誉站点称号,https://zhang.ge/2981.html,https://zhang.ge/feed,张戈博客,2014-04-16T09:08:18.000Z,2026-10-23T03:25:33.754Z
+53608,"互推联盟的意义何在,评论式推广的润滑剂",https://zhang.ge/2943.html,https://zhang.ge/feed,张戈博客,2014-04-15T14:27:16.000Z,2026-10-23T03:25:33.754Z
+53609,互推联盟js代码，欢迎调用！,https://zhang.ge/2918.html,https://zhang.ge/feed,张戈博客,2014-04-14T11:52:19.000Z,2026-10-23T03:25:33.754Z
+53610,让知更鸟主题的分类图标支持二级分类,https://zhang.ge/2859.html,https://zhang.ge/feed,张戈博客,2014-04-13T07:21:54.000Z,2026-10-23T03:25:33.754Z
+53611,和同事一起弄了个新网站：爱运维,https://zhang.ge/2853.html,https://zhang.ge/feed,张戈博客,2014-04-12T15:47:26.000Z,2026-10-23T03:25:33.754Z
+53612,360站长平台移动适配文件制作说明,https://zhang.ge/2794.html,https://zhang.ge/feed,张戈博客,2014-04-11T08:24:11.000Z,2026-10-23T03:25:33.754Z
+53613,常用MySQL语句搜集整理,https://zhang.ge/2407.html,https://zhang.ge/feed,张戈博客,2014-04-10T02:09:51.000Z,2026-10-23T03:25:33.754Z
+53614,分享两种外链跳转方法，可避免权重流失。,https://zhang.ge/2703.html,https://zhang.ge/feed,张戈博客,2014-04-09T02:08:09.000Z,2026-10-23T03:25:33.754Z
+53615,解决启用WP-Super-Cache后出现的几个问题,https://zhang.ge/2744.html,https://zhang.ge/feed,张戈博客,2014-04-08T01:40:37.000Z,2026-10-23T03:25:33.754Z
+53616,互推联盟最新自适应iframe代码，欢迎调用！,https://zhang.ge/2699.html,https://zhang.ge/feed,张戈博客,2014-04-07T06:16:56.000Z,2026-10-23T03:25:33.754Z
+53617,博客频繁宕机，手又痒了,https://zhang.ge/2681.html,https://zhang.ge/feed,张戈博客,2014-04-07T00:31:05.000Z,2026-10-23T03:25:33.754Z
+53618,Linux优化方法收集与整理,https://zhang.ge/2409.html,https://zhang.ge/feed,张戈博客,2014-04-04T14:22:48.000Z,2026-10-23T03:25:33.754Z
+53619,Linux ：MAC 地址克隆方法,https://zhang.ge/2631.html,https://zhang.ge/feed,张戈博客,2014-04-03T06:13:42.000Z,2026-10-23T03:25:33.754Z
+53620,"ipvsadm启动报错解决办法,另附ipvsadm详细参数",https://zhang.ge/2614.html,https://zhang.ge/feed,张戈博客,2014-04-02T07:04:54.000Z,2026-10-23T03:25:33.754Z
+53621,百度作证，博主小学时代就开始写博客了...,https://zhang.ge/2438.html,https://zhang.ge/feed,张戈博客,2014-04-01T00:26:55.000Z,2026-10-23T03:25:33.754Z
+53622,百度开放适配专用sitemap制作说明,https://zhang.ge/2556.html,https://zhang.ge/feed,张戈博客,2014-03-31T01:16:10.000Z,2026-10-23T03:25:33.754Z
+53623,第一次尝试制作椰子饭，结果很美味哦！,https://zhang.ge/2567.html,https://zhang.ge/feed,张戈博客,2014-03-29T14:35:58.000Z,2026-10-23T03:25:33.754Z
+53624,细说五层网站架构，了解我们的网站压力究竟在哪里？,https://zhang.ge/3136.html,https://zhang.ge/feed,张戈博客,2014-03-28T05:43:56.000Z,2026-10-23T03:25:33.754Z
+53625,Baidusubmit：百度官方推出的Wordpress结构化数据(Sitemap)插件,https://zhang.ge/2533.html,https://zhang.ge/feed,张戈博客,2014-03-27T07:19:11.000Z,2026-10-23T03:25:33.754Z
+53626,给博客添加网络电视页面,https://zhang.ge/2475.html,https://zhang.ge/feed,张戈博客,2014-03-26T10:38:16.000Z,2026-10-23T03:25:33.754Z
+53627,Linux运维工程师：30道面试题整理,https://zhang.ge/1986.html,https://zhang.ge/feed,张戈博客,2014-03-25T14:10:53.000Z,2026-10-23T03:25:33.754Z
+53628,Linux：10个实用的网络和监控命令,https://zhang.ge/2403.html,https://zhang.ge/feed,张戈博客,2014-03-24T02:56:33.000Z,2026-10-23T03:25:33.754Z
+53629,Linux：mv 命令的10个实用例子,https://zhang.ge/2365.html,https://zhang.ge/feed,张戈博客,2014-03-22T06:11:21.000Z,2026-10-23T03:25:33.754Z
+53630,我帮忙添加iframe代码，您看可好？,https://zhang.ge/2350.html,https://zhang.ge/feed,张戈博客,2014-03-21T08:09:53.000Z,2026-10-23T03:25:33.754Z
+53631,搞毛线！测试iframe跨域自适应失败了！,https://zhang.ge/2271.html,https://zhang.ge/feed,张戈博客,2014-03-20T08:22:10.000Z,2026-10-23T03:25:33.754Z
+53632,分享来自17个国家和地区的102张风景壁纸，非常漂亮！,https://zhang.ge/2217.html,https://zhang.ge/feed,张戈博客,2014-03-19T14:19:43.000Z,2026-10-23T03:25:33.754Z
+53633,玛思阁新增视频教程分类,https://zhang.ge/2176.html,https://zhang.ge/feed,张戈博客,2014-03-18T15:05:44.000Z,2026-10-23T03:25:33.754Z
+53634,互推联盟iframe新增公告模块（附：知更鸟主题公告DIY经验）,https://zhang.ge/2151.html,https://zhang.ge/feed,张戈博客,2014-03-17T11:00:34.000Z,2026-10-23T03:25:33.754Z
+53635,"互推联盟iframe代码,欢迎测试！",https://zhang.ge/2073.html,https://zhang.ge/feed,张戈博客,2014-03-15T02:16:57.000Z,2026-10-23T03:25:33.754Z
+53636,DIY网站统计：Wordpress排除管理员评论及精准友链数的方法,https://zhang.ge/2047.html,https://zhang.ge/feed,张戈博客,2014-03-13T23:57:15.000Z,2026-10-23T03:25:33.754Z
+53637,HTTP加速器varnish安装小记(1),https://zhang.ge/2044.html,https://zhang.ge/feed,张戈博客,2014-03-13T07:11:19.000Z,2026-10-23T03:25:33.754Z
+53638,HTTP加速器教程：《Varnish 应用技术指南 V2.1》,https://zhang.ge/2040.html,https://zhang.ge/feed,张戈博客,2014-03-13T03:35:24.000Z,2026-10-23T03:25:33.754Z
+53639,新版互推联盟页面,https://zhang.ge/2010.html,https://zhang.ge/feed,张戈博客,2014-03-12T11:16:19.000Z,2026-10-23T03:25:33.754Z
+53640,Windows 7下获取System权限,https://zhang.ge/1970.html,https://zhang.ge/feed,张戈博客,2014-03-10T03:35:03.000Z,2026-10-23T03:25:33.754Z
+53641,Linux：awk命令详解,https://zhang.ge/1939.html,https://zhang.ge/feed,张戈博客,2014-03-08T02:05:21.000Z,2026-10-23T03:25:33.754Z
+53642,Linux：sed命令详解,https://zhang.ge/1926.html,https://zhang.ge/feed,张戈博客,2014-03-06T11:32:15.000Z,2026-10-23T03:25:33.754Z
+53643,Ghost安装Win7/XP后自动恢复IP的批处理,https://zhang.ge/1885.html,https://zhang.ge/feed,张戈博客,2014-03-04T11:03:33.000Z,2026-10-23T03:25:33.754Z
+53644,Linux中的完美截图工具：Deepin-ScreenShot,https://zhang.ge/1803.html,https://zhang.ge/feed,张戈博客,2014-03-03T12:38:57.000Z,2026-10-23T03:25:33.754Z
+53645,给已安装的Linux新增Swap交换分区,https://zhang.ge/1860.html,https://zhang.ge/feed,张戈博客,2014-03-02T10:20:22.000Z,2026-10-23T03:25:33.754Z
+53646,启用某些Linux发行版的root帐号,https://zhang.ge/1861.html,https://zhang.ge/feed,张戈博客,2014-03-02T09:58:54.000Z,2026-10-23T03:25:33.754Z
+53647,张戈博客成功启用移动端主题：Mobile Pack,https://zhang.ge/1765.html,https://zhang.ge/feed,张戈博客,2014-03-01T05:30:46.000Z,2026-10-23T03:25:33.754Z
+53648,首页快照不更新么？投诉试试吧！,https://zhang.ge/1739.html,https://zhang.ge/feed,张戈博客,2014-02-28T01:33:55.000Z,2026-10-23T03:25:33.754Z
+53649,解决Tomcat数据连接池无法释放,https://zhang.ge/1724.html,https://zhang.ge/feed,张戈博客,2014-02-27T04:36:37.000Z,2026-10-23T03:25:33.754Z
+53650,菜单式Shell运维脚本调试小记,https://zhang.ge/1699.html,https://zhang.ge/feed,张戈博客,2014-02-26T08:25:18.000Z,2026-10-23T03:25:33.754Z
+53651,重温Windows XP的美好，找回当年的纯真,https://zhang.ge/1655.html,https://zhang.ge/feed,张戈博客,2014-02-25T04:48:57.000Z,2026-10-23T03:25:33.754Z
+53652,Cygwin：Windows下的Linux终端模拟器,https://zhang.ge/1618.html,https://zhang.ge/feed,张戈博客,2014-02-24T13:12:48.000Z,2026-10-23T03:25:33.754Z
+53653,欢迎加入博客互推联盟,https://zhang.ge/1580.html,https://zhang.ge/feed,张戈博客,2014-02-21T14:24:25.000Z,2026-10-23T03:25:33.754Z
+53654,图片压缩瘦身好工具：Image Optimizer 绿色版 V5.10 下载,https://zhang.ge/1529.html,https://zhang.ge/feed,张戈博客,2014-02-20T23:55:28.000Z,2026-10-23T03:25:33.754Z
+53655,"博客邮箱中遇到一个洋骗子,我差点就送了她一个表",https://zhang.ge/1522.html,https://zhang.ge/feed,张戈博客,2014-02-20T11:16:54.000Z,2026-10-23T03:25:33.754Z
+53656,Shell脚本的简单排错法及调试程序bashdb,https://zhang.ge/1517.html,https://zhang.ge/feed,张戈博客,2014-02-19T09:17:16.000Z,2026-10-23T03:25:33.754Z
+53657,LVS中采用Jboss作为RealServer的配置要点,https://zhang.ge/1510.html,https://zhang.ge/feed,张戈博客,2014-02-18T07:38:05.000Z,2026-10-23T03:25:33.754Z
+53658,在手机的电子邮件中添加博客邮箱,https://zhang.ge/1460.html,https://zhang.ge/feed,张戈博客,2014-02-16T23:56:13.000Z,2026-10-23T03:25:33.754Z
+53659,"申请域名邮箱,为空间减轻压力",https://zhang.ge/1424.html,https://zhang.ge/feed,张戈博客,2014-02-16T14:55:46.000Z,2026-10-23T03:25:33.754Z
+53660,给XFN链接关系加上“nofollow”选项,https://zhang.ge/1412.html,https://zhang.ge/feed,张戈博客,2014-02-15T07:33:47.000Z,2026-10-23T03:25:33.754Z
+53661,Wordpress后台首页显示RSS错误的解决办法,https://zhang.ge/1378.html,https://zhang.ge/feed,张戈博客,2014-02-14T01:59:49.000Z,2026-10-23T03:25:33.754Z
+53662,红旗Linux开发商中科红旗倒闭,https://zhang.ge/1357.html,https://zhang.ge/feed,张戈博客,2014-02-13T08:12:12.000Z,2026-10-23T03:25:33.754Z
+53663,身价15亿与月工资5000元的区别,https://zhang.ge/1347.html,https://zhang.ge/feed,张戈博客,2014-02-13T03:07:36.000Z,2026-10-23T03:25:33.754Z
+53664,修改博客文章链接为新窗口打开的方式,https://zhang.ge/1329.html,https://zhang.ge/feed,张戈博客,2014-02-13T01:27:14.000Z,2026-10-23T03:25:33.754Z
+53665,DX-watermark插件无法预览及上传图片报imagesx()错误的解决办法,https://zhang.ge/1298.html,https://zhang.ge/feed,张戈博客,2014-02-12T02:39:53.000Z,2026-10-23T03:25:33.754Z
+53666,"借助PageSpeed,为Nginx网站服务器提速",https://zhang.ge/1279.html,https://zhang.ge/feed,张戈博客,2014-02-11T07:26:17.000Z,2026-10-23T03:25:33.754Z
+53667,玛思阁已成功更换空间,https://zhang.ge/1276.html,https://zhang.ge/feed,张戈博客,2014-02-11T06:30:21.000Z,2026-10-23T03:25:33.754Z
+53668,国内外流行的Linux发行版,https://zhang.ge/1266.html,https://zhang.ge/feed,张戈博客,2014-02-10T07:18:10.000Z,2026-10-23T03:25:33.754Z
+53669,马年上半年部分规划,https://zhang.ge/1258.html,https://zhang.ge/feed,张戈博客,2014-02-10T01:09:20.000Z,2026-10-23T03:25:33.754Z
+53670,『年终分享』《饥饿游戏2》蓝光超清版「20.9GB」,https://zhang.ge/1245.html,https://zhang.ge/feed,张戈博客,2014-01-23T11:58:47.000Z,2026-10-23T03:25:33.754Z
+53671,如何确保NFS服务安全,https://zhang.ge/1237.html,https://zhang.ge/feed,张戈博客,2014-01-23T03:36:06.000Z,2026-10-23T03:25:33.754Z
+53672,Redhat设置NFS挂载的简单步骤,https://zhang.ge/1230.html,https://zhang.ge/feed,张戈博客,2014-01-23T03:14:08.000Z,2026-10-23T03:25:33.754Z
+53673,运维人员：走好你的IT运维路,https://zhang.ge/1225.html,https://zhang.ge/feed,张戈博客,2014-01-22T06:08:13.000Z,2026-10-23T03:25:33.754Z
+53674,《Vimtutor的中文版》快速学习Linux的vim命令,https://zhang.ge/1213.html,https://zhang.ge/feed,张戈博客,2014-01-21T13:26:33.000Z,2026-10-23T03:25:33.754Z
+53675,关于博客的数据库分类,https://zhang.ge/1205.html,https://zhang.ge/feed,张戈博客,2014-01-21T01:50:17.000Z,2026-10-23T03:25:33.754Z
+53676,给博客加上一个快递查询功能,https://zhang.ge/1187.html,https://zhang.ge/feed,张戈博客,2014-01-19T14:31:54.000Z,2026-10-23T03:25:33.754Z
+53677,发现插件生成的robots.txt不能被谷歌和360识别,https://zhang.ge/1157.html,https://zhang.ge/feed,张戈博客,2014-01-19T03:04:27.000Z,2026-10-23T03:25:33.754Z
+53678,七牛云存储体验小记,https://zhang.ge/1126.html,https://zhang.ge/feed,张戈博客,2014-01-18T04:47:29.000Z,2026-10-23T03:25:33.754Z
+53679,Linux基础知识之xargs命令,https://zhang.ge/1119.html,https://zhang.ge/feed,张戈博客,2014-01-17T01:15:01.000Z,2026-10-23T03:25:33.754Z
+53680,又是Crayon Syntax Highlighter！,https://zhang.ge/1107.html,https://zhang.ge/feed,张戈博客,2014-01-16T07:31:11.000Z,2026-10-23T03:25:33.754Z
+53681,自动管理员身份执行小工具—asroot,https://zhang.ge/1043.html,https://zhang.ge/feed,张戈博客,2014-01-14T14:16:33.000Z,2026-10-23T03:25:33.754Z
+53682,Linux系统chmod误操作目录权限恢复方法,https://zhang.ge/1029.html,https://zhang.ge/feed,张戈博客,2014-01-14T06:58:48.000Z,2026-10-23T03:25:33.754Z
+53683,Linux基础知识之文件隐藏属性,https://zhang.ge/1017.html,https://zhang.ge/feed,张戈博客,2014-01-14T06:35:27.000Z,2026-10-23T03:25:33.754Z
+53684,恢复Wordpress分类目录的别名链接形式,https://zhang.ge/1013.html,https://zhang.ge/feed,张戈博客,2014-01-14T03:29:00.000Z,2026-10-23T03:25:33.754Z
+53685,Windows7临时桌面配置修复补丁,https://zhang.ge/976.html,https://zhang.ge/feed,张戈博客,2014-01-13T03:13:01.000Z,2026-10-23T03:25:33.754Z
+53686,事实证明Linux永远是NO.1,https://zhang.ge/970.html,https://zhang.ge/feed,张戈博客,2014-01-13T02:43:33.000Z,2026-10-23T03:25:33.754Z
+53687,太逗了吧！我的域名居然被盗用？,https://zhang.ge/964.html,https://zhang.ge/feed,张戈博客,2014-01-13T00:32:51.000Z,2026-10-23T03:25:33.754Z
+53688,马云给雅虎员工的演讲:懒人支撑起世界,https://zhang.ge/946.html,https://zhang.ge/feed,张戈博客,2014-01-11T14:31:51.000Z,2026-10-23T03:25:33.754Z
+53689,[转]我的助理辞职了—刘苏,https://zhang.ge/937.html,https://zhang.ge/feed,张戈博客,2014-01-11T08:15:27.000Z,2026-10-23T03:25:33.754Z
+53690,盘点2013年手机圈激情时刻,https://zhang.ge/923.html,https://zhang.ge/feed,张戈博客,2014-01-11T00:25:35.000Z,2026-10-23T03:25:33.754Z
+53691,Win平台Web访问白名单设置脚本(IP安全性原则),https://zhang.ge/890.html,https://zhang.ge/feed,张戈博客,2014-01-10T14:00:46.000Z,2026-10-23T03:25:33.754Z
+53692,纯64位版浏览器:Waterfox水狐浏览器,https://zhang.ge/861.html,https://zhang.ge/feed,张戈博客,2014-01-10T01:08:31.000Z,2026-10-23T03:25:33.754Z
+53693,黄牛教你用抢票软件(攻略)打破规则抢票成刷票机,https://zhang.ge/833.html,https://zhang.ge/feed,张戈博客,2014-01-09T15:28:58.000Z,2026-10-23T03:25:33.754Z
+53694,正确的Win主机网站伪静态设置方法,https://zhang.ge/824.html,https://zhang.ge/feed,张戈博客,2014-01-09T13:32:37.000Z,2026-10-23T03:25:33.754Z
+53695,DX-Seo与WP-codebox插件冲突解决方法,https://zhang.ge/776.html,https://zhang.ge/feed,张戈博客,2014-01-07T13:05:30.000Z,2026-10-23T03:25:33.754Z
+53696,申请一个自己的Gravatar头像,https://zhang.ge/739.html,https://zhang.ge/feed,张戈博客,2014-01-07T03:27:59.000Z,2026-10-23T03:25:33.754Z
+53697,Wordpress插件居然导致服务器卡死,https://zhang.ge/730.html,https://zhang.ge/feed,张戈博客,2014-01-07T02:01:10.000Z,2026-10-23T03:25:33.754Z
+53698,修改Wordpress默认评论表情(附:跳转到多说评论框的方法),https://zhang.ge/697.html,https://zhang.ge/feed,张戈博客,2014-01-06T14:14:25.000Z,2026-10-23T03:25:33.754Z
+53699,免插件实现WordPress的Sitemap功能,https://zhang.ge/646.html,https://zhang.ge/feed,张戈博客,2014-01-03T02:26:38.000Z,2026-10-23T03:25:33.754Z
+53700,安装完Win7之后推荐做的一些设置,https://zhang.ge/561.html,https://zhang.ge/feed,张戈博客,2014-01-02T01:58:09.000Z,2026-10-23T03:25:33.754Z
+53701,Google搜索比百度搜索好在哪些地方？,https://zhang.ge/564.html,https://zhang.ge/feed,张戈博客,2014-01-01T23:32:22.000Z,2026-10-23T03:25:33.754Z
+53702,用户需当心：Windows崩溃信息有可能被黑客截取,https://zhang.ge/558.html,https://zhang.ge/feed,张戈博客,2013-12-31T08:55:04.000Z,2026-10-23T03:25:33.754Z
+53703,WordPress获取文章浏览总数,https://zhang.ge/551.html,https://zhang.ge/feed,张戈博客,2013-12-31T08:37:54.000Z,2026-10-23T03:25:33.754Z
+53704,"Windows下获取网络连线实际名称,加强IP类设置脚本的兼容性",https://zhang.ge/497.html,https://zhang.ge/feed,张戈博客,2013-12-30T02:42:26.000Z,2026-10-23T03:25:33.754Z
+53705,Linux从零到高手的进阶心得,https://zhang.ge/493.html,https://zhang.ge/feed,张戈博客,2013-12-30T00:10:37.000Z,2026-10-23T03:25:33.754Z
+53706,Linux终端：用cat命令查看不可见字符,https://zhang.ge/488.html,https://zhang.ge/feed,张戈博客,2013-12-29T23:57:36.000Z,2026-10-23T03:25:33.754Z
+53707,Wordpress引用百度Ting音乐方法,https://zhang.ge/395.html,https://zhang.ge/feed,张戈博客,2013-12-28T00:11:22.000Z,2026-10-23T03:25:33.754Z
+53708,Tomcat重启脚本For Windows,https://zhang.ge/378.html,https://zhang.ge/feed,张戈博客,2013-12-27T03:44:40.000Z,2026-10-23T03:25:33.754Z
+53709,呐尼！居然有黑客攻击我这个小博客？,https://zhang.ge/365.html,https://zhang.ge/feed,张戈博客,2013-12-26T15:35:00.000Z,2026-10-23T03:25:33.754Z
+53710,[碎碎念]纪建站8天：自己都无法琢磨的博主心态,https://zhang.ge/359.html,https://zhang.ge/feed,张戈博客,2013-12-26T13:11:32.000Z,2026-10-23T03:25:33.754Z
+53711,WP_Widget_PostViews has a deprecated constructor 报错解决,https://zhang.ge/328.html,https://zhang.ge/feed,张戈博客,2013-12-26T06:59:51.000Z,2026-10-23T03:25:33.754Z
+53712,Symantec更新包[XP-i32]在线下载脚本,https://zhang.ge/324.html,https://zhang.ge/feed,张戈博客,2013-12-26T03:45:24.000Z,2026-10-23T03:25:33.754Z
+53713,cat命令详解,https://zhang.ge/277.html,https://zhang.ge/feed,张戈博客,2013-12-24T07:18:55.000Z,2026-10-23T03:25:33.754Z
+53714,Wordpress(Twenty Ten主题)文章副标题修改教程,https://zhang.ge/268.html,https://zhang.ge/feed,张戈博客,2013-12-23T08:48:58.000Z,2026-10-23T03:25:33.754Z
+53715,"Shell下制作自解压安装包,实现脚本的简单加密",https://zhang.ge/266.html,https://zhang.ge/feed,张戈博客,2013-12-23T08:14:34.000Z,2026-10-23T03:25:33.754Z
+53716,二维码离线生成工具PsQREdit-Chinese,https://zhang.ge/260.html,https://zhang.ge/feed,张戈博客,2013-12-23T05:58:50.000Z,2026-10-23T03:25:33.754Z
+53717,UltraISO (软碟通) v9.6单文件绿色中文版,https://zhang.ge/248.html,https://zhang.ge/feed,张戈博客,2013-12-22T04:00:37.000Z,2026-10-23T03:25:33.754Z
+53718,桌面白屏(Active故障)修复批处理,https://zhang.ge/240.html,https://zhang.ge/feed,张戈博客,2013-12-21T08:52:47.000Z,2026-10-23T03:25:33.754Z
+53719,[持续更新]批处理全盘搜索系列案例,https://zhang.ge/231.html,https://zhang.ge/feed,张戈博客,2013-12-20T08:49:31.000Z,2026-10-23T03:25:33.754Z
+53720,批处理判断第一个硬盘的最后一个分区并进入,https://zhang.ge/224.html,https://zhang.ge/feed,张戈博客,2013-12-20T08:15:17.000Z,2026-10-23T03:25:33.754Z
+53721,分享一个Linux无法创建文件夹，但是目录权限却显示正常的问题和解决,https://zhang.ge/201.html,https://zhang.ge/feed,张戈博客,2013-12-19T05:53:25.000Z,2026-10-23T03:25:33.754Z
+53722,[亲测]WP-PostViews Plus统计插件在TwentyTen主题下的使用,https://zhang.ge/187.html,https://zhang.ge/feed,张戈博客,2013-12-19T03:11:54.000Z,2026-10-23T03:25:33.754Z
+53723,LVS+Keepalived负载均衡主备&双主架构全攻略,https://zhang.ge/135.html,https://zhang.ge/feed,张戈博客,2013-12-18T05:59:43.000Z,2026-10-23T03:25:33.754Z
+53724,抓取占用CPU高的JAVA线程，进而找出有问题的WEB页面,https://zhang.ge/131.html,https://zhang.ge/feed,张戈博客,2013-12-18T05:47:53.000Z,2026-10-23T03:25:33.754Z
+53725,详解Linux运维工程师必备技能,https://zhang.ge/128.html,https://zhang.ge/feed,张戈博客,2013-12-18T05:24:03.000Z,2026-10-23T03:25:33.754Z
+53726,[持续更新]批处理重命名系列案例,https://zhang.ge/116.html,https://zhang.ge/feed,张戈博客,2013-12-17T14:04:17.000Z,2026-10-23T03:25:33.754Z
+53727,"结合VBS,实现批处理自动以管理员身份执行",https://zhang.ge/109.html,https://zhang.ge/feed,张戈博客,2013-12-17T13:37:48.000Z,2026-10-23T03:25:33.754Z
+53728,[转]批处理For语句从入门到精通,https://zhang.ge/103.html,https://zhang.ge/feed,张戈博客,2013-12-17T13:18:58.000Z,2026-10-23T03:25:33.754Z
+53729,身份切换脚本，免登入切换权限的利器,https://zhang.ge/71.html,https://zhang.ge/feed,张戈博客,2013-12-17T04:57:35.000Z,2026-10-23T03:25:33.754Z
+53730,欢迎光临张戈的个人博客,https://zhang.ge/1.html,https://zhang.ge/feed,张戈博客,2013-12-16T06:12:50.000Z,2026-10-23T03:25:33.754Z
+53731,而立不惑,https://www.seis-jun.xyz/blog/2026-10-23-confucious-words.html,https://www.seis-jun.xyz/atom.xml,seisamuse,2026-10-22T23:38:14.000Z,2026-10-23T03:25:33.754Z
+53732,独立开发变现周刊（第162期） : 5招反常识策略狂揽90万美元MRR,https://www.ezindie.com/weekly/issue-162,https://www.ezindie.com/feed/rss.xml,独立开发变现周刊,2026-10-22T00:00:00.000Z,2026-10-23T03:25:33.754Z
+53733,你不知道的客户端开发：选型、原生、多端与借力,https://tw93.fun/2026-10-22/desktop.html,https://tw93.fun/feed.xml,Tw93 的博客,2026-10-22T00:00:00.000Z,2026-10-23T03:25:33.754Z
