@@ -4,6 +4,78 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "50864",
+      "title": "Fragments 0x000F",
+      "link": "https://lenciel.com/2026/10/fragments-0x000f/",
+      "rsslink": "https://lenciel.com/feed.xml",
+      "blogname": "@Lenciel",
+      "createdat": "2026-10-02T01:32:24.000Z",
+      "crawledat": "2026-10-02T09:21:47.110Z"
+    },
+    {
+      "id": "50866",
+      "title": "探究一个 USB Type-C 拓展坞的硬件实现",
+      "link": "https://jia.je/hardware/2026/10/02/type-c-dongle-analysis/",
+      "rsslink": "https://jia.je/feed.xml",
+      "blogname": "杰哥的小笔记",
+      "createdat": "2026-10-02T00:00:00.000Z",
+      "crawledat": "2026-10-02T09:21:47.110Z"
+    },
+    {
+      "id": "51080",
+      "title": "LeftBlank: a macOS Typst writing app inspired by Emacs",
+      "link": "https://www.wangfenjin.com/posts/leftblank-en/",
+      "rsslink": "https://www.wangfenjin.com/index.xml",
+      "blogname": "Wang Fenjin's Blog",
+      "createdat": "2026-10-02T00:00:00.000Z",
+      "crawledat": "2026-10-05T21:49:02.533Z"
+    },
+    {
+      "id": "51081",
+      "title": "留白：一个受 Emacs 启发的 macOS Typst 写作工具",
+      "link": "https://www.wangfenjin.com/posts/leftblank/",
+      "rsslink": "https://www.wangfenjin.com/index.xml",
+      "blogname": "Wang Fenjin's Blog",
+      "createdat": "2026-10-02T00:00:00.000Z",
+      "crawledat": "2026-10-05T21:49:02.533Z"
+    },
+    {
+      "id": "51155",
+      "title": "团队精神与体育精神",
+      "link": "https://ioerr.github.io/posts/tuandui-jingshen-yu-tiyu-jingshen/",
+      "rsslink": "https://ioerr.github.io/index.xml",
+      "blogname": "读写错误",
+      "createdat": "2026-10-02T00:00:00.000Z",
+      "crawledat": "2026-10-08T00:42:20.327Z"
+    },
+    {
+      "id": "51522",
+      "title": "【运动记】骑行60km",
+      "link": "https://tianheg.co/posts/sport-60km/",
+      "rsslink": "https://tianheg.co/index.xml",
+      "blogname": "一大加贝",
+      "createdat": "2026-10-01T19:36:09.000Z",
+      "crawledat": "2026-10-09T17:58:22.727Z"
+    },
+    {
+      "id": "50839",
+      "title": "singbox-multipath：用于异质多路径的类MPTCP智能择优聚合L4转发器PoC",
+      "link": "https://wusiyu.me/singbox-multipath/",
+      "rsslink": "https://wusiyu.me/feed/",
+      "blogname": "WuSiYu Blog",
+      "createdat": "2026-10-01T18:40:14.000Z",
+      "crawledat": "2026-10-01T20:05:55.852Z"
+    },
+    {
+      "id": "51135",
+      "title": "设计运气·可视化导读",
+      "link": "https://zhurongshuo.com/practices/season-2/designing-luck/guide/",
+      "rsslink": "https://zhurongshuo.com/index.xml",
+      "blogname": "祝融说",
+      "createdat": "2026-10-01T16:00:00.000Z",
+      "crawledat": "2026-10-08T00:42:20.327Z"
+    },
+    {
       "id": "51519",
       "title": "近思录 2026-10-02",
       "link": "https://chriszheng.science/2026/10/02/Recent-thoughts-2026-10-02/",
@@ -110,78 +182,6 @@
       "blogname": "smallyu的博客",
       "createdat": "2026-10-01T04:55:00.000Z",
       "crawledat": "2026-10-08T00:42:20.327Z"
-    },
-    {
-      "id": "50878",
-      "title": "白矮星",
-      "link": "https://physnya.top/compact-object/lesson-3-white-dwarf/",
-      "rsslink": "https://physnya.top/atom.xml",
-      "blogname": "菲兹克斯喵",
-      "createdat": "2026-10-01T04:43:10.000Z",
-      "crawledat": "2026-10-02T09:21:47.110Z"
-    },
-    {
-      "id": "51073",
-      "title": "2005，网页那一头",
-      "link": "https://www.tortorse.com/archives/2005-the-other-end-of-the-web/",
-      "rsslink": "https://www.tortorse.com/atom.xml",
-      "blogname": "愆伏",
-      "createdat": "2026-10-01T04:13:02.000Z",
-      "crawledat": "2026-10-05T21:49:02.533Z"
-    },
-    {
-      "id": "50872",
-      "title": "9月练习小结",
-      "link": "https://mag267.github.io/2026/09/30/summary-sep26/",
-      "rsslink": "https://mag267.github.io/atom.xml",
-      "blogname": "Mag‘s Blog",
-      "createdat": "2026-10-01T03:13:19.000Z",
-      "crawledat": "2026-10-02T09:21:47.110Z"
-    },
-    {
-      "id": "51742",
-      "title": "工作间隙应该做的事",
-      "link": "https://happyxiao.com/rest/",
-      "rsslink": "https://happyxiao.com/feed",
-      "blogname": "happy xiao 的博客",
-      "createdat": "2026-10-01T02:15:46.000Z",
-      "crawledat": "2026-10-15T10:52:21.021Z"
-    },
-    {
-      "id": "51716",
-      "title": "Ubuntu 安装 Fcitx5 中州韵 Rime 及优化",
-      "link": "https://www.eallion.com/ubuntu-fcitx5-rime/",
-      "rsslink": "https://eallion.com/atom.xml",
-      "blogname": "大大的小蜗牛",
-      "createdat": "2026-10-01T02:01:00.000Z",
-      "crawledat": "2026-10-15T10:52:21.021Z"
-    },
-    {
-      "id": "51759",
-      "title": "国庆快乐：抽奖、优惠、调价，关于周刊的三件事",
-      "link": "https://pythoncat.top/posts/2026-10-01-national-day/",
-      "rsslink": "https://pythoncat.top/rss.xml",
-      "blogname": "豌豆花下猫 - Python猫",
-      "createdat": "2026-10-01T00:00:00.000Z",
-      "crawledat": "2026-10-15T10:52:21.021Z"
-    },
-    {
-      "id": "50813",
-      "title": "如何制作一个“完整”的博客压缩包？",
-      "link": "https://mabbs.github.io/2026/10/01/quine.html",
-      "rsslink": "https://mabbs.github.io/atom.xml",
-      "blogname": "Mayx的博客",
-      "createdat": "2026-09-30T16:00:00.000Z",
-      "crawledat": "2026-09-30T17:37:41.810Z"
-    },
-    {
-      "id": "50852",
-      "title": "蜡烛图技术分析",
-      "link": "https://lucifer.ren/blog/2026/10/01/japan-k-line/",
-      "rsslink": "https://lucifer.ren/blog/atom.xml",
-      "blogname": "lucifer的网络博客",
-      "createdat": "2026-09-30T16:00:00.000Z",
-      "crawledat": "2026-10-02T00:30:47.121Z"
     }
   ]
 }
