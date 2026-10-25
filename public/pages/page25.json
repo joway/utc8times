@@ -4,6 +4,114 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "50889",
+      "title": "Tech | Jev：不写一句话的 AI，怎么替程序做决定？",
+      "link": "https://miaotony.xyz/2026/10/03/Tech_Jev/",
+      "rsslink": "https://miaotony.xyz/atom.xml",
+      "blogname": "MiaoTony's Blog",
+      "createdat": "2026-10-02T19:30:00.000Z",
+      "crawledat": "2026-10-04T20:52:30.984Z"
+    },
+    {
+      "id": "52962",
+      "title": "Personal Agent 技术研究：OpenClaw 怎样把一次运行接到长期事务上",
+      "link": "https://cubxxw.com/zh/ai-agent/posts/personal-agent-harness-openclaw/",
+      "rsslink": "https://cubxxw.com/zh/index.xml",
+      "blogname": "Xinwei's Blog",
+      "createdat": "2026-10-02T16:15:00.000Z",
+      "crawledat": "2026-10-22T21:11:57.047Z"
+    },
+    {
+      "id": "52963",
+      "title": "Personal Agent 产品研究：Instinct 怎样让人愿意再次委托",
+      "link": "https://cubxxw.com/zh/ai-agent/posts/personal-agent-product-delegation/",
+      "rsslink": "https://cubxxw.com/zh/index.xml",
+      "blogname": "Xinwei's Blog",
+      "createdat": "2026-10-02T16:05:00.000Z",
+      "crawledat": "2026-10-22T21:11:57.047Z"
+    },
+    {
+      "id": "53805",
+      "title": "DeepSeek-V4.1 模型结构（8）：KV cache 的管理与 SWA Bounded Replay",
+      "link": "https://blog.javazero.top/2026/10/02/deepseek-v41-08-systems/",
+      "rsslink": "https://blog.javazero.top/atom.xml",
+      "blogname": "Java不加糖's Blog",
+      "createdat": "2026-10-02T13:20:00.000Z",
+      "crawledat": "2026-10-23T20:59:45.400Z"
+    },
+    {
+      "id": "53806",
+      "title": "DeepSeek-V4.1 模型结构（7）：输入端与优化器",
+      "link": "https://blog.javazero.top/2026/10/02/deepseek-v41-07-vision-optim/",
+      "rsslink": "https://blog.javazero.top/atom.xml",
+      "blogname": "Java不加糖's Blog",
+      "createdat": "2026-10-02T13:10:00.000Z",
+      "crawledat": "2026-10-23T20:59:45.400Z"
+    },
+    {
+      "id": "53807",
+      "title": "DeepSeek-V4.1 模型结构（6）：解码，DSpark",
+      "link": "https://blog.javazero.top/2026/10/02/deepseek-v41-06-dspark/",
+      "rsslink": "https://blog.javazero.top/atom.xml",
+      "blogname": "Java不加糖's Blog",
+      "createdat": "2026-10-02T13:00:00.000Z",
+      "crawledat": "2026-10-23T20:59:45.400Z"
+    },
+    {
+      "id": "53808",
+      "title": "DeepSeek-V4.1 模型结构（5）：记忆，Engram",
+      "link": "https://blog.javazero.top/2026/10/02/deepseek-v41-05-engram/",
+      "rsslink": "https://blog.javazero.top/atom.xml",
+      "blogname": "Java不加糖's Blog",
+      "createdat": "2026-10-02T12:50:00.000Z",
+      "crawledat": "2026-10-23T20:59:45.400Z"
+    },
+    {
+      "id": "53809",
+      "title": "DeepSeek-V4.1 模型结构（4）：深度维度，Single-Pass mHC",
+      "link": "https://blog.javazero.top/2026/10/02/deepseek-v41-04-single-pass-mhc/",
+      "rsslink": "https://blog.javazero.top/atom.xml",
+      "blogname": "Java不加糖's Blog",
+      "createdat": "2026-10-02T12:40:00.000Z",
+      "crawledat": "2026-10-23T20:59:45.400Z"
+    },
+    {
+      "id": "53810",
+      "title": "DeepSeek-V4.1 模型结构（3）：序列维度（下），Hierarchical Sparse Indexer 与 FP4 KV cache",
+      "link": "https://blog.javazero.top/2026/10/02/deepseek-v41-03-indexer-fp4/",
+      "rsslink": "https://blog.javazero.top/atom.xml",
+      "blogname": "Java不加糖's Blog",
+      "createdat": "2026-10-02T12:30:00.000Z",
+      "crawledat": "2026-10-23T20:59:45.400Z"
+    },
+    {
+      "id": "53811",
+      "title": "DeepSeek-V4.1 模型结构（2）：序列维度（中），CSA2 的三种模式",
+      "link": "https://blog.javazero.top/2026/10/02/deepseek-v41-02-csa2/",
+      "rsslink": "https://blog.javazero.top/atom.xml",
+      "blogname": "Java不加糖's Blog",
+      "createdat": "2026-10-02T12:20:00.000Z",
+      "crawledat": "2026-10-23T20:59:45.400Z"
+    },
+    {
+      "id": "53812",
+      "title": "DeepSeek-V4.1 模型结构（1）：序列维度（上），CED",
+      "link": "https://blog.javazero.top/2026/10/02/deepseek-v41-01-ced/",
+      "rsslink": "https://blog.javazero.top/atom.xml",
+      "blogname": "Java不加糖's Blog",
+      "createdat": "2026-10-02T12:10:00.000Z",
+      "crawledat": "2026-10-23T20:59:45.400Z"
+    },
+    {
+      "id": "53813",
+      "title": "DeepSeek-V4.1 模型结构（0）：一张图看懂 DeepSeek-V4.1-Flash",
+      "link": "https://blog.javazero.top/2026/10/02/deepseek-v41-00-overview/",
+      "rsslink": "https://blog.javazero.top/atom.xml",
+      "blogname": "Java不加糖's Blog",
+      "createdat": "2026-10-02T12:00:00.000Z",
+      "crawledat": "2026-10-23T20:59:45.400Z"
+    },
+    {
       "id": "51079",
       "title": "Bibliography",
       "link": "https://shrik3.com/bm/",
@@ -74,114 +182,6 @@
       "blogname": "素生",
       "createdat": "2026-10-02T04:25:27.000Z",
       "crawledat": "2026-10-02T09:21:47.110Z"
-    },
-    {
-      "id": "50861",
-      "title": "入蜀记 day489 鸟与台风",
-      "link": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_489/",
-      "rsslink": "http://z.arlmy.me/atom.xml",
-      "blogname": "素生",
-      "createdat": "2026-10-02T04:24:27.000Z",
-      "crawledat": "2026-10-02T09:21:47.110Z"
-    },
-    {
-      "id": "51741",
-      "title": "一些不常见的健康习惯",
-      "link": "https://happyxiao.com/health-tips/",
-      "rsslink": "https://happyxiao.com/feed",
-      "blogname": "happy xiao 的博客",
-      "createdat": "2026-10-02T02:49:33.000Z",
-      "crawledat": "2026-10-15T10:52:21.021Z"
-    },
-    {
-      "id": "50863",
-      "title": "黄山之行",
-      "link": "https://www.seis-jun.xyz/blog/2026-10-02-yellow-mountain.html",
-      "rsslink": "https://www.seis-jun.xyz/atom.xml",
-      "blogname": "seisamuse",
-      "createdat": "2026-10-02T02:05:50.000Z",
-      "crawledat": "2026-10-02T09:21:47.110Z"
-    },
-    {
-      "id": "50864",
-      "title": "Fragments 0x000F",
-      "link": "https://lenciel.com/2026/10/fragments-0x000f/",
-      "rsslink": "https://lenciel.com/feed.xml",
-      "blogname": "@Lenciel",
-      "createdat": "2026-10-02T01:32:24.000Z",
-      "crawledat": "2026-10-02T09:21:47.110Z"
-    },
-    {
-      "id": "50866",
-      "title": "探究一个 USB Type-C 拓展坞的硬件实现",
-      "link": "https://jia.je/hardware/2026/10/02/type-c-dongle-analysis/",
-      "rsslink": "https://jia.je/feed.xml",
-      "blogname": "杰哥的小笔记",
-      "createdat": "2026-10-02T00:00:00.000Z",
-      "crawledat": "2026-10-02T09:21:47.110Z"
-    },
-    {
-      "id": "51080",
-      "title": "LeftBlank: a macOS Typst writing app inspired by Emacs",
-      "link": "https://www.wangfenjin.com/posts/leftblank-en/",
-      "rsslink": "https://www.wangfenjin.com/index.xml",
-      "blogname": "Wang Fenjin's Blog",
-      "createdat": "2026-10-02T00:00:00.000Z",
-      "crawledat": "2026-10-05T21:49:02.533Z"
-    },
-    {
-      "id": "51081",
-      "title": "留白：一个受 Emacs 启发的 macOS Typst 写作工具",
-      "link": "https://www.wangfenjin.com/posts/leftblank/",
-      "rsslink": "https://www.wangfenjin.com/index.xml",
-      "blogname": "Wang Fenjin's Blog",
-      "createdat": "2026-10-02T00:00:00.000Z",
-      "crawledat": "2026-10-05T21:49:02.533Z"
-    },
-    {
-      "id": "51155",
-      "title": "团队精神与体育精神",
-      "link": "https://ioerr.github.io/posts/tuandui-jingshen-yu-tiyu-jingshen/",
-      "rsslink": "https://ioerr.github.io/index.xml",
-      "blogname": "读写错误",
-      "createdat": "2026-10-02T00:00:00.000Z",
-      "crawledat": "2026-10-08T00:42:20.327Z"
-    },
-    {
-      "id": "51522",
-      "title": "【运动记】骑行60km",
-      "link": "https://tianheg.co/posts/sport-60km/",
-      "rsslink": "https://tianheg.co/index.xml",
-      "blogname": "一大加贝",
-      "createdat": "2026-10-01T19:36:09.000Z",
-      "crawledat": "2026-10-09T17:58:22.727Z"
-    },
-    {
-      "id": "50839",
-      "title": "singbox-multipath：用于异质多路径的类MPTCP智能择优聚合L4转发器PoC",
-      "link": "https://wusiyu.me/singbox-multipath/",
-      "rsslink": "https://wusiyu.me/feed/",
-      "blogname": "WuSiYu Blog",
-      "createdat": "2026-10-01T18:40:14.000Z",
-      "crawledat": "2026-10-01T20:05:55.852Z"
-    },
-    {
-      "id": "51135",
-      "title": "设计运气·可视化导读",
-      "link": "https://zhurongshuo.com/practices/season-2/designing-luck/guide/",
-      "rsslink": "https://zhurongshuo.com/index.xml",
-      "blogname": "祝融说",
-      "createdat": "2026-10-01T16:00:00.000Z",
-      "crawledat": "2026-10-08T00:42:20.327Z"
-    },
-    {
-      "id": "51519",
-      "title": "近思录 2026-10-02",
-      "link": "https://chriszheng.science/2026/10/02/Recent-thoughts-2026-10-02/",
-      "rsslink": "https://chriszheng.science/atom.xml",
-      "blogname": "M-x Chris-An-Emacser",
-      "createdat": "2026-10-01T16:00:00.000Z",
-      "crawledat": "2026-10-09T10:03:17.364Z"
     }
   ]
 }

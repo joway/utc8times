@@ -4,6 +4,105 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "53928",
+      "title": "Firefox 153 基本设定参考",
+      "link": "https://localfreedom.pages.dev/p/firefox-153-%E5%9F%BA%E6%9C%AC%E8%AE%BE%E5%AE%9A%E5%8F%82%E8%80%83/",
+      "rsslink": "https://localfreedom.pages.dev/index.xml",
+      "blogname": "局域自由",
+      "createdat": "2026-10-24T12:16:20.000Z",
+      "crawledat": "2026-10-25T20:22:55.430Z"
+    },
+    {
+      "id": "53874",
+      "title": "在一个网站下远程管理多台设备上的 DeepSeek Harness",
+      "link": "https://www.imaegoo.com/2026/remote-manage-deepseek-harness/",
+      "rsslink": "https://www.imaegoo.com/atom.xml",
+      "blogname": "iMaeGoo's Blog",
+      "createdat": "2026-10-24T10:00:00.000Z",
+      "crawledat": "2026-10-24T20:13:51.143Z"
+    },
+    {
+      "id": "53870",
+      "title": "From Zero to Shared GPUs: Hands-on GPU Scheduling in Kubernetes with HAMi",
+      "link": "https://jimmysong.io/slide/containerdays-sg-gpu-workshop-slide/",
+      "rsslink": "https://jimmysong.io/index.xml",
+      "blogname": "云原生",
+      "createdat": "2026-10-24T09:15:47.000Z",
+      "crawledat": "2026-10-24T15:23:52.990Z"
+    },
+    {
+      "id": "53918",
+      "title": "Pacific Commons Linear Park 徒步",
+      "link": "https://leimao.github.io/life/Pacific-Commons-Linear-Park-2026-10-24/",
+      "rsslink": "https://leimao.github.io/atom.xml",
+      "blogname": "Lei Mao's Log Book",
+      "createdat": "2026-10-24T07:00:00.000Z",
+      "crawledat": "2026-10-25T15:33:54.529Z"
+    },
+    {
+      "id": "53919",
+      "title": "Pacific Commons Linear Park",
+      "link": "https://leimao.github.io/photography/Pacific-Commons-Linear-Park-2026-10-24/",
+      "rsslink": "https://leimao.github.io/atom.xml",
+      "blogname": "Lei Mao's Log Book",
+      "createdat": "2026-10-24T07:00:00.000Z",
+      "crawledat": "2026-10-25T15:33:54.529Z"
+    },
+    {
+      "id": "53869",
+      "title": "被拆掉的 NSHostingView 还会再建一次 View",
+      "link": "https://onevcat.com/2026/10/nested-hosting-view/",
+      "rsslink": "https://onevcat.com/feed.xml",
+      "blogname": "OneV's Den",
+      "createdat": "2026-10-24T06:00:00.000Z",
+      "crawledat": "2026-10-24T10:17:49.738Z"
+    },
+    {
+      "id": "53883",
+      "title": "如何避免 AI 往界面上加废话",
+      "link": "https://sugarat.top/ai/skills/unnecessary-secondary.html",
+      "rsslink": "https://sugarat.top/feed.rss",
+      "blogname": "粥里有勺糖",
+      "createdat": "2026-10-24T05:28:15.000Z",
+      "crawledat": "2026-10-24T20:13:51.143Z"
+    },
+    {
+      "id": "53881",
+      "title": "杂谈：关于 AI、写作和迷茫",
+      "link": "https://blog.zerolacqua.top/posts/1c119da8.html",
+      "rsslink": "https://blog.zerolacqua.top/atom.xml",
+      "blogname": "丘卡饮品店",
+      "createdat": "2026-10-24T04:57:44.000Z",
+      "crawledat": "2026-10-24T20:13:51.143Z"
+    },
+    {
+      "id": "53884",
+      "title": "Memos: 主厨是餐饮的核心",
+      "link": "https://blog.yasking.org/a/1792814826",
+      "rsslink": "https://blog.yasking.org/atom.xml",
+      "blogname": "东东's Blog",
+      "createdat": "2026-10-24T04:07:06.000Z",
+      "crawledat": "2026-10-24T20:13:51.143Z"
+    },
+    {
+      "id": "53871",
+      "title": "最后一次接触",
+      "link": "https://www.seis-jun.xyz/blog/2026-10-24-last-contact.html",
+      "rsslink": "https://www.seis-jun.xyz/atom.xml",
+      "blogname": "seisamuse",
+      "createdat": "2026-10-24T03:10:40.000Z",
+      "crawledat": "2026-10-24T15:23:52.990Z"
+    },
+    {
+      "id": "53867",
+      "title": "Codex 更新后项目列表空了、旧对话不见了",
+      "link": "https://kerrynotes.com/codex-projects-missing-after-update/",
+      "rsslink": "https://kerrynotes.com/feed/",
+      "blogname": "Kerry的学习笔记",
+      "createdat": "2026-10-24T00:17:48.000Z",
+      "crawledat": "2026-10-24T03:19:53.162Z"
+    },
+    {
       "id": "53882",
       "title": "Python 潮流周刊#172：3.15 的 JIT 终于见效、自由线程 Python 进入下一阶段",
       "link": "https://pythoncat.top/posts/2026-10-24-weekly/",
@@ -83,105 +182,6 @@
       "blogname": "Seven's blog",
       "createdat": "2026-10-23T06:20:00.000Z",
       "crawledat": "2026-10-23T20:59:45.400Z"
-    },
-    {
-      "id": "53734",
-      "title": "移除了 webmention 功能",
-      "link": "https://kaix.in/2026/1023/",
-      "rsslink": "https://kaix.in/feed/",
-      "blogname": "KAIX.IN",
-      "createdat": "2026-10-23T05:00:04.000Z",
-      "crawledat": "2026-10-23T11:01:11.184Z"
-    },
-    {
-      "id": "53274",
-      "title": "科技爱好者周刊（第 416 期）：编程已经面目全非",
-      "link": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html",
-      "rsslink": "http://feeds.feedburner.com/ruanyifeng",
-      "blogname": "阮一峰的网络日志",
-      "createdat": "2026-10-23T00:06:16.000Z",
-      "crawledat": "2026-10-23T03:25:33.754Z"
-    },
-    {
-      "id": "53801",
-      "title": "时间是贼",
-      "link": "https://jefftay.com/blog-posts/time-is-a-thief",
-      "rsslink": "https://jefftay.com/index.xml",
-      "blogname": "按钮与磁带",
-      "createdat": "2026-10-23T00:00:00.000Z",
-      "crawledat": "2026-10-23T20:59:45.400Z"
-    },
-    {
-      "id": "53731",
-      "title": "而立不惑",
-      "link": "https://www.seis-jun.xyz/blog/2026-10-23-confucious-words.html",
-      "rsslink": "https://www.seis-jun.xyz/atom.xml",
-      "blogname": "seisamuse",
-      "createdat": "2026-10-22T23:38:14.000Z",
-      "crawledat": "2026-10-23T03:25:33.754Z"
-    },
-    {
-      "id": "53740",
-      "title": "Fragments 0x0017",
-      "link": "https://lenciel.com/2026/10/fragments-0x0017/",
-      "rsslink": "https://lenciel.com/feed.xml",
-      "blogname": "@Lenciel",
-      "createdat": "2026-10-22T17:22:44.000Z",
-      "crawledat": "2026-10-23T20:59:45.400Z"
-    },
-    {
-      "id": "52957",
-      "title": "Tana 产品拆解：一条任务怎样从笔记走到会议中的工作",
-      "link": "https://cubxxw.com/zh/ai-agent/posts/tana-from-notes-to-meeting-work/",
-      "rsslink": "https://cubxxw.com/zh/index.xml",
-      "blogname": "Xinwei's Blog",
-      "createdat": "2026-10-22T16:45:00.000Z",
-      "crawledat": "2026-10-22T21:11:57.047Z"
-    },
-    {
-      "id": "52958",
-      "title": "Doneas 产品拆解：一周计划怎样变成每天的承诺",
-      "link": "https://cubxxw.com/zh/ai-agent/posts/doneas-weekly-commitments/",
-      "rsslink": "https://cubxxw.com/zh/index.xml",
-      "blogname": "Xinwei's Blog",
-      "createdat": "2026-10-22T16:25:00.000Z",
-      "crawledat": "2026-10-22T21:11:57.047Z"
-    },
-    {
-      "id": "52959",
-      "title": "Ambi 产品拆解：记住一件事之后，怎样把它做完",
-      "link": "https://cubxxw.com/zh/ai-agent/posts/ambi-memory-to-work/",
-      "rsslink": "https://cubxxw.com/zh/index.xml",
-      "blogname": "Xinwei's Blog",
-      "createdat": "2026-10-22T16:25:00.000Z",
-      "crawledat": "2026-10-22T21:11:57.047Z"
-    },
-    {
-      "id": "52603",
-      "title": "国产数据库迁移：真正花时间的从来不是搬数据",
-      "link": "https://dusays.com/posts/894/",
-      "rsslink": "https://dusays.com/atom.xml",
-      "blogname": "杜老师说",
-      "createdat": "2026-10-22T16:00:00.000Z",
-      "crawledat": "2026-10-22T21:11:57.047Z"
-    },
-    {
-      "id": "53800",
-      "title": "我留起了胡子",
-      "link": "https://tianheg.co/posts/growing-a-beard/",
-      "rsslink": "https://tianheg.co/index.xml",
-      "blogname": "一大加贝",
-      "createdat": "2026-10-22T16:00:00.000Z",
-      "crawledat": "2026-10-23T20:59:45.400Z"
-    },
-    {
-      "id": "52606",
-      "title": "QuietSearch:支持 Kagi 和 DeepSeek API 的轻量搜索界面",
-      "link": "https://anotherdayu.com/quietsearch-kagi-deepseek-api/",
-      "rsslink": "https://anotherdayu.com/feed/",
-      "blogname": "Another Dayu",
-      "createdat": "2026-10-22T15:30:00.000Z",
-      "crawledat": "2026-10-22T21:11:57.047Z"
     }
   ]
 }
