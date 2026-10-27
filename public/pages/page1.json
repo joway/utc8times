@@ -4,6 +4,24 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "53966",
+      "title": "脚注交互测试（验收后隐藏）",
+      "link": "https://www.hsuyeung.com/article/footnote-interaction-test-20261026",
+      "rsslink": "https://www.hsuyeung.com/feed",
+      "blogname": "Hsu Yeung 的博客",
+      "createdat": "2026-10-26T16:07:00.000Z",
+      "crawledat": "2026-10-27T00:13:41.212Z"
+    },
+    {
+      "id": "53971",
+      "title": "AI、机遇、挑战与新生活（23岁生日总结）",
+      "link": "https://blog.hikarilan.life/thinking/annual-summary/3910/my-annual-summary-2026/",
+      "rsslink": "https://my.minecraft.kim/feed",
+      "blogname": "HikariLan's Blog",
+      "createdat": "2026-10-26T16:00:58.000Z",
+      "crawledat": "2026-10-27T00:13:41.212Z"
+    },
+    {
       "id": "53942",
       "title": "Everything is Harness： 从 Prompt Engineering 到 Context Engineering 再到 Harness Engineering",
       "link": "https://www.ixiqin.com/2026/10/26/harness-engineering/",
@@ -11,6 +29,15 @@
       "blogname": "西秦公子",
       "createdat": "2026-10-26T15:14:58.000Z",
       "crawledat": "2026-10-26T20:17:53.191Z"
+    },
+    {
+      "id": "53962",
+      "title": "不及格",
+      "link": "https://yipai.me/post/2555.html",
+      "rsslink": "https://yipai.me/feed",
+      "blogname": "一派胡言",
+      "createdat": "2026-10-26T14:29:01.000Z",
+      "crawledat": "2026-10-27T00:13:41.212Z"
     },
     {
       "id": "53948",
@@ -49,6 +76,15 @@
       "crawledat": "2026-10-26T20:17:53.191Z"
     },
     {
+      "id": "53960",
+      "title": "尝试每周四晚上在上海举办 Tab 星期四线下聚会",
+      "link": "https://www.owenyoung.com/tab",
+      "rsslink": "https://www.owenyoung.com/atom.xml",
+      "blogname": "Owen的博客",
+      "createdat": "2026-10-26T10:42:21.000Z",
+      "crawledat": "2026-10-27T00:13:41.212Z"
+    },
+    {
       "id": "53938",
       "title": "买时吹上天，拆开全是灰：工业奇迹从 MacBook 到 iPhone Duo",
       "link": "https://mianao.info/macbook-apple-design-iphone/",
@@ -76,6 +112,15 @@
       "crawledat": "2026-10-26T20:17:53.191Z"
     },
     {
+      "id": "53961",
+      "title": "演讲视频：Do you want to be a SRE?",
+      "link": "https://www.kawabangga.com/posts/7443",
+      "rsslink": "https://www.kawabangga.com/feed",
+      "blogname": "卡瓦邦噶！",
+      "createdat": "2026-10-26T08:09:23.000Z",
+      "crawledat": "2026-10-27T00:13:41.212Z"
+    },
+    {
       "id": "53939",
       "title": "算了，还是讲下named-feature() @supports规则检测吧",
       "link": "https://www.zhangxinxu.com/wordpress/2026/10/css-supports-named-feature/",
@@ -94,6 +139,15 @@
       "crawledat": "2026-10-26T03:16:21.575Z"
     },
     {
+      "id": "53967",
+      "title": "已知螺旋桨尺寸和螺距；估算桨叶的推力的方法",
+      "link": "https://rangotec.com/blog/205.html",
+      "rsslink": "https://rangotec.com/feed",
+      "blogname": "千古八方的博客",
+      "createdat": "2026-10-26T06:47:38.000Z",
+      "crawledat": "2026-10-27T00:13:41.212Z"
+    },
+    {
       "id": "53944",
       "title": "EncoDeck 上手：Windows 上的多品牌耳机控制中心，不用再为切降噪拿起手机",
       "link": "https://blog.zhheo.com/p/g10nqrgd.html",
@@ -101,6 +155,15 @@
       "blogname": "张洪Heo",
       "createdat": "2026-10-26T05:10:37.000Z",
       "crawledat": "2026-10-26T20:17:53.191Z"
+    },
+    {
+      "id": "53964",
+      "title": "自用 ChatGPT/Codex 防御性编程/说话修正/PowerShell调用问题修正提示词分享",
+      "link": "https://kenvix.com/post/codex-prompt/",
+      "rsslink": "https://kenvix.com/rss.xml",
+      "blogname": "Kenvix's Blog",
+      "createdat": "2026-10-26T04:25:50.000Z",
+      "crawledat": "2026-10-27T00:13:41.212Z"
     },
     {
       "id": "53940",
@@ -119,69 +182,6 @@
       "blogname": "晴空树",
       "createdat": "2026-10-26T01:31:00.000Z",
       "crawledat": "2026-10-26T20:17:53.191Z"
-    },
-    {
-      "id": "53935",
-      "title": "chat.nvim v1.11.0 与 v1.11.1：多 API Key 透明故障转移、截断续写与工具参数归一化",
-      "link": "https://wsdjeg.net/chat-nvim-v1-11-0-release/",
-      "rsslink": "https://wsdjeg.net/feed.xml",
-      "blogname": "Eric's Blog",
-      "createdat": "2026-10-26T00:00:00.000Z",
-      "crawledat": "2026-10-26T03:16:21.575Z"
-    },
-    {
-      "id": "53945",
-      "title": "AI 时代做产品，把省下来的时间花在细节上",
-      "link": "https://tw93.fun/2026-10-26/mole-product.html",
-      "rsslink": "https://tw93.fun/feed.xml",
-      "blogname": "Tw93 的博客",
-      "createdat": "2026-10-26T00:00:00.000Z",
-      "crawledat": "2026-10-26T20:17:53.191Z"
-    },
-    {
-      "id": "53951",
-      "title": "岗位保护",
-      "link": "https://www.wsh233.cn/post/岗位保护",
-      "rsslink": "https://www.wsh233.cn/feed.xml",
-      "blogname": "WSH",
-      "createdat": "2026-10-25T18:52:42.000Z",
-      "crawledat": "2026-10-26T20:17:53.191Z"
-    },
-    {
-      "id": "53890",
-      "title": "大语言模型的基石：Transformer 入坑笔记（五） - 线性注意力(Linear Attention) 的优化",
-      "link": "//owent.net/2026/2612.html",
-      "rsslink": "https://owent.net/index.xml",
-      "blogname": "I'm OWenT",
-      "createdat": "2026-10-25T16:25:45.000Z",
-      "crawledat": "2026-10-25T10:44:29.676Z"
-    },
-    {
-      "id": "53921",
-      "title": "看懂博物馆：从打卡到能讲给朋友听",
-      "link": "https://lucifer.ren/blog/2026/10/26/learn-museums/",
-      "rsslink": "https://lucifer.ren/blog/atom.xml",
-      "blogname": "lucifer的网络博客",
-      "createdat": "2026-10-25T16:00:00.000Z",
-      "crawledat": "2026-10-25T20:22:55.430Z"
-    },
-    {
-      "id": "53922",
-      "title": "炒股多年之后，把理财学成体系",
-      "link": "https://lucifer.ren/blog/2026/10/26/learn-personal-finance/",
-      "rsslink": "https://lucifer.ren/blog/atom.xml",
-      "blogname": "lucifer的网络博客",
-      "createdat": "2026-10-25T16:00:00.000Z",
-      "crawledat": "2026-10-25T20:22:55.430Z"
-    },
-    {
-      "id": "53923",
-      "title": "摄影与 vlog 自学路线：从手机开始",
-      "link": "https://lucifer.ren/blog/2026/10/26/learn-photography-vlog/",
-      "rsslink": "https://lucifer.ren/blog/atom.xml",
-      "blogname": "lucifer的网络博客",
-      "createdat": "2026-10-25T16:00:00.000Z",
-      "crawledat": "2026-10-25T20:22:55.430Z"
     }
   ]
 }
