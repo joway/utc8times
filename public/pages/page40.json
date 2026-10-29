@@ -4,6 +4,114 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "50562",
+      "title": "One CPU Atomic Instruction, One Packaging Infinite Loop: The Story of the Lost Update on LA664",
+      "link": "https://jia.je/hardware/2026/09/24/loongson-cpu-erratum-en/",
+      "rsslink": "https://jia.je/feed.xml",
+      "blogname": "杰哥的小笔记",
+      "createdat": "2026-09-24T00:00:00.000Z",
+      "crawledat": "2026-09-26T10:49:55.004Z"
+    },
+    {
+      "id": "50563",
+      "title": "一颗 CPU 的原子指令，一个打包死循环：LA664 丢失更新事件始末",
+      "link": "https://jia.je/hardware/2026/09/24/loongson-cpu-erratum/",
+      "rsslink": "https://jia.je/feed.xml",
+      "blogname": "杰哥的小笔记",
+      "createdat": "2026-09-24T00:00:00.000Z",
+      "crawledat": "2026-09-26T10:49:55.004Z"
+    },
+    {
+      "id": "51263",
+      "title": "体验一下最近比较🔥的闪卡SKILL",
+      "link": "https://sugarat.top/ai/skills/flashcard-test.html",
+      "rsslink": "https://sugarat.top/feed.rss",
+      "blogname": "粥里有勺糖",
+      "createdat": "2026-09-24T00:00:00.000Z",
+      "crawledat": "2026-10-08T00:42:20.327Z"
+    },
+    {
+      "id": "50536",
+      "title": "连续写了30天，然后呢？",
+      "link": "https://www.seis-jun.xyz/blog/2026-09-24-blog-count.html",
+      "rsslink": "https://www.seis-jun.xyz/atom.xml",
+      "blogname": "seisamuse",
+      "createdat": "2026-09-23T23:08:00.000Z",
+      "crawledat": "2026-09-24T11:07:39.453Z"
+    },
+    {
+      "id": "50542",
+      "title": "Fragments 0x000B",
+      "link": "https://lenciel.com/2026/09/fragments-0x000b/",
+      "rsslink": "https://lenciel.com/feed.xml",
+      "blogname": "@Lenciel",
+      "createdat": "2026-09-23T16:33:07.000Z",
+      "crawledat": "2026-09-25T03:29:35.512Z"
+    },
+    {
+      "id": "50588",
+      "title": "ArrangementView：谋而后定",
+      "link": "https://fatbobman.com/zh/posts/arrangementview-think-before-you-arrange/",
+      "rsslink": "https://fatbobman.com/zh/rss.xml",
+      "blogname": "肘子的 Swift 记事本",
+      "createdat": "2026-09-23T14:00:00.000Z",
+      "crawledat": "2026-09-26T10:49:55.004Z"
+    },
+    {
+      "id": "51210",
+      "title": "以太坊有多难用",
+      "link": "https://smallyu.net/2026/09/23/%E4%BB%A5%E5%A4%AA%E5%9D%8A%E6%9C%89%E5%A4%9A%E9%9A%BE%E7%94%A8/",
+      "rsslink": "https://smallyu.net/atom.xml",
+      "blogname": "smallyu的博客",
+      "createdat": "2026-09-23T13:51:00.000Z",
+      "crawledat": "2026-10-08T00:42:20.327Z"
+    },
+    {
+      "id": "50532",
+      "title": "Register Token以及对变形金刚AI的四大批判",
+      "link": "https://blog.est.im/2026/stdin-19",
+      "rsslink": "http://feeds.feedburner.com/initiative",
+      "blogname": "Est's Blog",
+      "createdat": "2026-09-23T12:21:00.000Z",
+      "crawledat": "2026-09-23T21:05:23.668Z"
+    },
+    {
+      "id": "50533",
+      "title": "聪明 Agent 四套路 和 人肉学习",
+      "link": "https://blog.est.im/2026/stdin-18",
+      "rsslink": "http://feeds.feedburner.com/initiative",
+      "blogname": "Est's Blog",
+      "createdat": "2026-09-23T12:21:00.000Z",
+      "crawledat": "2026-09-23T21:05:23.668Z"
+    },
+    {
+      "id": "50537",
+      "title": "不用就亏了",
+      "link": "https://www.seis-jun.xyz/blog/2026-09-23-use-or-loose.html",
+      "rsslink": "https://www.seis-jun.xyz/atom.xml",
+      "blogname": "seisamuse",
+      "createdat": "2026-09-23T12:15:41.000Z",
+      "crawledat": "2026-09-24T11:07:39.453Z"
+    },
+    {
+      "id": "53814",
+      "title": "DeepSeek 注意力结构对比：MHA、GQA、MLA、DSA、CSA、HCA、CSA2",
+      "link": "https://blog.javazero.top/2026/09/23/deepseek-attention-structures/",
+      "rsslink": "https://blog.javazero.top/atom.xml",
+      "blogname": "Java不加糖's Blog",
+      "createdat": "2026-09-23T11:20:00.000Z",
+      "crawledat": "2026-10-23T20:59:45.400Z"
+    },
+    {
+      "id": "50526",
+      "title": "Models Keep Getting Bigger. Why Do We Still Need GPU Partitioning?",
+      "link": "https://jimmysong.io/blog/why-gpu-partitioning-matters/",
+      "rsslink": "https://jimmysong.io/index.xml",
+      "blogname": "云原生",
+      "createdat": "2026-09-23T08:50:31.000Z",
+      "crawledat": "2026-09-23T10:47:11.595Z"
+    },
+    {
       "id": "51070",
       "title": "说说：第一次卷紫菜包饭！",
       "link": "https://www.mmbkz.cn/4ce69964.html",
@@ -74,114 +182,6 @@
       "blogname": "Java for You",
       "createdat": "2026-09-23T03:04:24.000Z",
       "crawledat": "2026-09-23T10:47:11.595Z"
-    },
-    {
-      "id": "50530",
-      "title": "Agent有对话记录就不怕重启吗？用持久工作区分清三种状态",
-      "link": "https://java4u.cn/ai/2719.html",
-      "rsslink": "https://java4u.cn/feed",
-      "blogname": "Java for You",
-      "createdat": "2026-09-23T03:00:29.000Z",
-      "crawledat": "2026-09-23T10:47:11.595Z"
-    },
-    {
-      "id": "50531",
-      "title": "R和Python放进同一个AI工作台，真正省下的是交接成本",
-      "link": "https://java4u.cn/ai/2716.html",
-      "rsslink": "https://java4u.cn/feed",
-      "blogname": "Java for You",
-      "createdat": "2026-09-23T02:54:02.000Z",
-      "crawledat": "2026-09-23T10:47:11.595Z"
-    },
-    {
-      "id": "53857",
-      "title": "人民法院案例库房屋买卖合同纠纷案由裁判要旨汇编",
-      "link": "https://jiangcl.com/5136",
-      "rsslink": "https://jiangcl.com/feed",
-      "blogname": "蒙需",
-      "createdat": "2026-09-23T02:32:50.000Z",
-      "crawledat": "2026-10-23T20:59:45.400Z"
-    },
-    {
-      "id": "50591",
-      "title": "Memos: 风云不语，只是一个劲儿的赠送重置卡",
-      "link": "https://blog.yasking.org/a/1790127856",
-      "rsslink": "https://blog.yasking.org/atom.xml",
-      "blogname": "东东's Blog",
-      "createdat": "2026-09-23T02:17:23.000Z",
-      "crawledat": "2026-09-26T10:49:55.004Z"
-    },
-    {
-      "id": "51254",
-      "title": "给 Twikoo 接入 Jev，用 AI 判断博客评论是不是广告",
-      "link": "https://liudon.com/posts/twikoo-jev-spam-detection/",
-      "rsslink": "https://liudon.com/index.xml",
-      "blogname": "流动",
-      "createdat": "2026-09-23T01:57:24.000Z",
-      "crawledat": "2026-10-08T00:42:20.327Z"
-    },
-    {
-      "id": "52969",
-      "title": "IMStage：用于测试与评测的合成对话",
-      "link": "https://cubxxw.com/zh/projects/imstage/",
-      "rsslink": "https://cubxxw.com/zh/index.xml",
-      "blogname": "Xinwei's Blog",
-      "createdat": "2026-09-23T01:00:00.000Z",
-      "crawledat": "2026-10-22T21:11:57.047Z"
-    },
-    {
-      "id": "50544",
-      "title": "我把视频字幕工具做进了浏览器里",
-      "link": "https://zishu.me/blog/video-transcript.html",
-      "rsslink": "https://zishu.me/index.xml",
-      "blogname": "子舒的博客",
-      "createdat": "2026-09-23T00:00:00.000Z",
-      "crawledat": "2026-09-25T03:29:35.512Z"
-    },
-    {
-      "id": "50788",
-      "title": "东方科学的灵魂",
-      "link": "https://ioerr.github.io/posts/dongfang-kexue-de-linghun/",
-      "rsslink": "https://ioerr.github.io/index.xml",
-      "blogname": "读写错误",
-      "createdat": "2026-09-23T00:00:00.000Z",
-      "crawledat": "2026-09-29T12:08:51.474Z"
-    },
-    {
-      "id": "51982",
-      "title": "我把视频字幕工具做进了浏览器里",
-      "link": "https://zishu.me/blog/video-transcript/",
-      "rsslink": "https://zishu.me/index.xml",
-      "blogname": "子舒的博客",
-      "createdat": "2026-09-23T00:00:00.000Z",
-      "crawledat": "2026-10-16T10:43:11.847Z"
-    },
-    {
-      "id": "51266",
-      "title": "#188 – 給 32 歲的自己 / 會員訂閱制的結束 / 五年後都是禮物 ®️雷蒙週報",
-      "link": "https://raymondhouch.com/newsletter/188/",
-      "rsslink": "https://raymondhouch.com/feed",
-      "blogname": "雷蒙三十",
-      "createdat": "2026-09-22T23:25:04.000Z",
-      "crawledat": "2026-10-08T00:42:20.327Z"
-    },
-    {
-      "id": "50527",
-      "title": "未雨绸缪",
-      "link": "https://www.seis-jun.xyz/blog/2026-09-23-business.html",
-      "rsslink": "https://www.seis-jun.xyz/atom.xml",
-      "blogname": "seisamuse",
-      "createdat": "2026-09-22T23:23:06.000Z",
-      "crawledat": "2026-09-23T10:47:11.595Z"
-    },
-    {
-      "id": "50871",
-      "title": "PIVOT Vol.21",
-      "link": "https://anotherdayu.com/pivot-vol21/",
-      "rsslink": "https://anotherdayu.com/feed/",
-      "blogname": "Another Dayu",
-      "createdat": "2026-09-22T21:54:00.000Z",
-      "crawledat": "2026-10-02T09:21:47.110Z"
     }
   ]
 }
