@@ -4,6 +4,114 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "54044",
+      "title": "【Java 实现经典算法】数字黑洞",
+      "link": "https://java4u.cn/algorithms/3359.html",
+      "rsslink": "https://java4u.cn/feed",
+      "blogname": "Java for You",
+      "createdat": "2026-10-31T01:25:54.000Z",
+      "crawledat": "2026-10-31T04:05:48.759Z"
+    },
+    {
+      "id": "54045",
+      "title": "【Java 实现经典算法】每K个结点反转单链表",
+      "link": "https://java4u.cn/algorithms/3358.html",
+      "rsslink": "https://java4u.cn/feed",
+      "blogname": "Java for You",
+      "createdat": "2026-10-31T01:25:50.000Z",
+      "crawledat": "2026-10-31T04:05:48.759Z"
+    },
+    {
+      "id": "54046",
+      "title": "【Java 实现经典算法】科学计数法",
+      "link": "https://java4u.cn/algorithms/3357.html",
+      "rsslink": "https://java4u.cn/feed",
+      "blogname": "Java for You",
+      "createdat": "2026-10-31T01:25:46.000Z",
+      "crawledat": "2026-10-31T04:05:48.759Z"
+    },
+    {
+      "id": "54047",
+      "title": "【Java 实现经典算法】格雷码",
+      "link": "https://java4u.cn/algorithms/3356.html",
+      "rsslink": "https://java4u.cn/feed",
+      "blogname": "Java for You",
+      "createdat": "2026-10-31T01:25:42.000Z",
+      "crawledat": "2026-10-31T04:05:48.759Z"
+    },
+    {
+      "id": "54048",
+      "title": "剑指Offer之三十-最小的K个数",
+      "link": "https://java4u.cn/algorithms/3355.html",
+      "rsslink": "https://java4u.cn/feed",
+      "blogname": "Java for You",
+      "createdat": "2026-10-31T01:25:37.000Z",
+      "crawledat": "2026-10-31T04:05:48.759Z"
+    },
+    {
+      "id": "54049",
+      "title": "剑指Offer之二十九-数组中出现次数超过一半的数字",
+      "link": "https://java4u.cn/algorithms/3354.html",
+      "rsslink": "https://java4u.cn/feed",
+      "blogname": "Java for You",
+      "createdat": "2026-10-31T01:25:33.000Z",
+      "crawledat": "2026-10-31T04:05:48.759Z"
+    },
+    {
+      "id": "54050",
+      "title": "剑指Offer之二十八-字符串的排列",
+      "link": "https://java4u.cn/algorithms/3353.html",
+      "rsslink": "https://java4u.cn/feed",
+      "blogname": "Java for You",
+      "createdat": "2026-10-31T01:25:29.000Z",
+      "crawledat": "2026-10-31T04:05:48.759Z"
+    },
+    {
+      "id": "54051",
+      "title": "剑指Offer之二十七-二叉搜索树与双向链表",
+      "link": "https://java4u.cn/algorithms/3352.html",
+      "rsslink": "https://java4u.cn/feed",
+      "blogname": "Java for You",
+      "createdat": "2026-10-31T01:25:24.000Z",
+      "crawledat": "2026-10-31T04:05:48.759Z"
+    },
+    {
+      "id": "54052",
+      "title": "剑指Offer之二十一–包含min函数的栈",
+      "link": "https://java4u.cn/algorithms/3351.html",
+      "rsslink": "https://java4u.cn/feed",
+      "blogname": "Java for You",
+      "createdat": "2026-10-31T01:20:40.000Z",
+      "crawledat": "2026-10-31T04:05:48.759Z"
+    },
+    {
+      "id": "54053",
+      "title": "剑指Offer之二十–顺时针打印矩阵",
+      "link": "https://java4u.cn/algorithms/3350.html",
+      "rsslink": "https://java4u.cn/feed",
+      "blogname": "Java for You",
+      "createdat": "2026-10-31T01:20:35.000Z",
+      "crawledat": "2026-10-31T04:05:48.759Z"
+    },
+    {
+      "id": "54059",
+      "title": "AI 生成的文档一键转为可分享网页！这个 AI 工具太夯了【效率工具指南】",
+      "link": "https://penghh.fun/2026/10/30/2026-10-30-livepage/",
+      "rsslink": "https://penghh.fun/atom.xml",
+      "blogname": "效率工具指南",
+      "createdat": "2026-10-30T18:41:00.000Z",
+      "crawledat": "2026-10-31T04:05:48.759Z"
+    },
+    {
+      "id": "54058",
+      "title": "折腾桌面",
+      "link": "https://yipai.me/post/2556.html",
+      "rsslink": "https://yipai.me/feed",
+      "blogname": "一派胡言",
+      "createdat": "2026-10-30T17:10:00.000Z",
+      "crawledat": "2026-10-31T04:05:48.759Z"
+    },
+    {
       "id": "54036",
       "title": "懒加载图片新支持了sizes=”auto”属性，其作用是？",
       "link": "https://www.zhangxinxu.com/wordpress/2026/10/loading-lazy-img-sizes-auto/",
@@ -20,6 +128,15 @@
       "blogname": "全栈应用开发:精益实践",
       "createdat": "2026-10-30T07:26:48.000Z",
       "crawledat": "2026-10-30T09:36:09.912Z"
+    },
+    {
+      "id": "54061",
+      "title": "用 Codex 改造极米投影仪：自定义桌面、装 YouTube 和 Spotify",
+      "link": "https://blog.laoda.de/archives/codex-xgimi-projector",
+      "rsslink": "https://blog.laoda.de/rss.xml",
+      "blogname": "我不是咕咕鸽",
+      "createdat": "2026-10-30T07:01:40.000Z",
+      "crawledat": "2026-10-31T04:05:48.759Z"
     },
     {
       "id": "54037",
@@ -40,6 +157,15 @@
       "crawledat": "2026-10-30T17:42:56.598Z"
     },
     {
+      "id": "54057",
+      "title": "向云端｜西南自驾11 - 布依",
+      "link": "https://blog.ops-coffee.com/r/2026-southwest-road-trip-11-longjing.html",
+      "rsslink": "https://blog.ops-coffee.cn/feed.xml",
+      "blogname": "运维咖啡吧",
+      "createdat": "2026-10-30T00:26:43.000Z",
+      "crawledat": "2026-10-31T04:05:48.759Z"
+    },
+    {
       "id": "54033",
       "title": "科技爱好者周刊（第 417 期）：不要让 AI 代表你",
       "link": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html",
@@ -56,132 +182,6 @@
       "blogname": "二丫讲梵",
       "createdat": "2026-10-29T23:10:23.000Z",
       "crawledat": "2026-10-29T18:01:28.812Z"
-    },
-    {
-      "id": "54039",
-      "title": "AI对抗与逆向",
-      "link": "https://elmagnifico.tech/2026/10/30/AI-Cheat/",
-      "rsslink": "http://elmagnifico.tech/feed.xml",
-      "blogname": "elmagnifico",
-      "createdat": "2026-10-29T16:00:00.000Z",
-      "crawledat": "2026-10-30T17:42:56.598Z"
-    },
-    {
-      "id": "54023",
-      "title": "《工资外收入：不要再单次、廉价地出卖你的时间》书摘",
-      "link": "https://www.ixiqin.com/2026/10/29/gongziwaishouru-booknote/",
-      "rsslink": "https://www.ixiqin.com/feed/",
-      "blogname": "西秦公子",
-      "createdat": "2026-10-29T15:11:11.000Z",
-      "crawledat": "2026-10-29T18:01:28.812Z"
-    },
-    {
-      "id": "54025",
-      "title": "关于登味",
-      "link": "https://www.seis-jun.xyz/blog/2026-10-29-boomer-vibe.html",
-      "rsslink": "https://www.seis-jun.xyz/atom.xml",
-      "blogname": "seisamuse",
-      "createdat": "2026-10-29T11:11:26.000Z",
-      "crawledat": "2026-10-29T18:01:28.812Z"
-    },
-    {
-      "id": "54021",
-      "title": "What a GPU Workshop Reveals About the Developer Experience Gap in Cloud Native Infrastructure",
-      "link": "https://jimmysong.io/blog/containerdays-singapore-2026-recap/",
-      "rsslink": "https://jimmysong.io/index.xml",
-      "blogname": "云原生",
-      "createdat": "2026-10-29T11:06:46.000Z",
-      "crawledat": "2026-10-29T18:01:28.812Z"
-    },
-    {
-      "id": "54031",
-      "title": "游戏",
-      "link": "https://www.kawabangga.com/posts/7446",
-      "rsslink": "https://www.kawabangga.com/feed",
-      "blogname": "卡瓦邦噶！",
-      "createdat": "2026-10-29T10:37:24.000Z",
-      "crawledat": "2026-10-29T18:01:28.812Z"
-    },
-    {
-      "id": "54032",
-      "title": "图片格式怎么选：JPEG XL、AVIF、WebP、HEIF 的科普与取舍",
-      "link": "https://blog.zhheo.com/p/gev3cm0t.html",
-      "rsslink": "https://blog.zhheo.com/rss.xml",
-      "blogname": "张洪Heo",
-      "createdat": "2026-10-29T07:25:04.000Z",
-      "crawledat": "2026-10-29T18:01:28.812Z"
-    },
-    {
-      "id": "54020",
-      "title": "加固我的virtiofs",
-      "link": "https://blog.lilydjwg.me/posts/217055.html",
-      "rsslink": "https://blog.lilydjwg.me/posts.rss",
-      "blogname": "依云's Blog",
-      "createdat": "2026-10-29T07:23:13.000Z",
-      "crawledat": "2026-10-29T18:01:28.812Z"
-    },
-    {
-      "id": "54029",
-      "title": "艾泽拉斯幸存者",
-      "link": "https://leimao.github.io/essay/Azeroth-Survivors/",
-      "rsslink": "https://leimao.github.io/atom.xml",
-      "blogname": "Lei Mao's Log Book",
-      "createdat": "2026-10-29T07:00:00.000Z",
-      "crawledat": "2026-10-29T18:01:28.812Z"
-    },
-    {
-      "id": "54017",
-      "title": "20261029",
-      "link": "https://61.life/2026/1029",
-      "rsslink": "https://61.life/feed.xml",
-      "blogname": "61's life",
-      "createdat": "2026-10-29T05:30:09.000Z",
-      "crawledat": "2026-10-29T09:20:18.005Z"
-    },
-    {
-      "id": "54015",
-      "title": "首座馬拉松獎盃",
-      "link": "http://mercurychong.blogspot.com/2026/10/blog-post.html",
-      "rsslink": "http://mercurychong.blogspot.com/feeds/posts/default",
-      "blogname": "水星投资理财",
-      "createdat": "2026-10-29T00:05:45.602Z",
-      "crawledat": "2026-10-29T00:35:37.430Z"
-    },
-    {
-      "id": "54019",
-      "title": "2026 年，我的 21 条 AI Coding 最佳实践",
-      "link": "https://tw93.fun/2026-10-29/practice.html",
-      "rsslink": "https://tw93.fun/feed.xml",
-      "blogname": "Tw93 的博客",
-      "createdat": "2026-10-29T00:00:00.000Z",
-      "crawledat": "2026-10-29T09:20:18.005Z"
-    },
-    {
-      "id": "54004",
-      "title": "（小业主的退休账户）SEP IRA是什么？",
-      "link": "https://chattymoney.com/sep-ira/",
-      "rsslink": "https://chattymoney.com/feed/",
-      "blogname": "chattymoney(跟我一起来谈钱)",
-      "createdat": "2026-10-28T19:08:37.000Z",
-      "crawledat": "2026-10-28T20:03:26.068Z"
-    },
-    {
-      "id": "54005",
-      "title": "重制：关于401(k)，这几个知识点你都知道吗？",
-      "link": "https://chattymoney.com/401k-basics-remake/",
-      "rsslink": "https://chattymoney.com/feed/",
-      "blogname": "chattymoney(跟我一起来谈钱)",
-      "createdat": "2026-10-28T19:08:35.000Z",
-      "crawledat": "2026-10-28T20:03:26.068Z"
-    },
-    {
-      "id": "54006",
-      "title": "把延税账户的钱转进Roth：Roth转换和“Backdoor”",
-      "link": "https://chattymoney.com/roth-conversion-and-backdoor/",
-      "rsslink": "https://chattymoney.com/feed/",
-      "blogname": "chattymoney(跟我一起来谈钱)",
-      "createdat": "2026-10-28T19:08:32.000Z",
-      "crawledat": "2026-10-28T20:03:26.068Z"
     }
   ]
 }
