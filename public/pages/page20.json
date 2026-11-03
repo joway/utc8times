@@ -4,6 +4,69 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "62918",
+      "title": "我很高兴AI毁掉了美术、写作和编程",
+      "link": "https://pre-core.github.io/ai/%E8%89%BA%E6%9C%AF/%E8%91%97%E4%BD%9C%E6%9D%83/2026/10/26/glad-ai-destroy-art-write-and-code.html",
+      "rsslink": "https://pre-core.github.io/feed.xml",
+      "blogname": "前核的博客",
+      "createdat": "2026-10-26T12:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "60083",
+      "title": "个人网站的搭建小记",
+      "link": "https://cbc688.com/articles/ji-ge-ren-wang-zhan-de-da-jian",
+      "rsslink": "https://cbc688.com/rss.xml",
+      "blogname": "CRIVU",
+      "createdat": "2026-10-26T11:57:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "58012",
+      "title": "#05 - 个人智能体分几级：六套尺子的对照",
+      "link": "https://www.sagasu.art/posts/05-ge-ren-zhi-neng-ti-fen-ji-ji-liu-tao-chi-zi-de-dui-zhao",
+      "rsslink": "https://www.sagasu.art/rss.xml",
+      "blogname": "Sagasu",
+      "createdat": "2026-10-26T11:45:36.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "62508",
+      "title": "松下误传33.4万人信息，问题不只在一名员工",
+      "link": "https://anymesgs.com/article/panasonic-ai-data-leak/",
+      "rsslink": "https://anymesgs.com/rss.xml",
+      "blogname": "听说了吗？· AI 解读站",
+      "createdat": "2026-10-26T10:46:58.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "53960",
+      "title": "尝试每周四晚上在上海举办 Tab 星期四线下聚会",
+      "link": "https://www.owenyoung.com/tab",
+      "rsslink": "https://www.owenyoung.com/atom.xml",
+      "blogname": "Owen的博客",
+      "createdat": "2026-10-26T10:42:21.000Z",
+      "crawledat": "2026-10-27T00:13:41.212Z"
+    },
+    {
+      "id": "53938",
+      "title": "买时吹上天，拆开全是灰：工业奇迹从 MacBook 到 iPhone Duo",
+      "link": "https://mianao.info/macbook-apple-design-iphone/",
+      "rsslink": "https://mianao.info/atom.xml",
+      "blogname": "不吐不快",
+      "createdat": "2026-10-26T10:00:00.000Z",
+      "crawledat": "2026-10-26T12:16:23.861Z"
+    },
+    {
+      "id": "56936",
+      "title": "制造业 ERP 最头疼的物料建模：主料、辅料和 BOM 到底怎么拆才稳",
+      "link": "https://www.coderlog.net/post/manufacturing-erp-material-modeling-main-auxiliary-bom",
+      "rsslink": "https://www.coderlog.net/rss.xml",
+      "blogname": "码录集（CoderLog）",
+      "createdat": "2026-10-26T09:54:11.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
       "id": "53941",
       "title": "17 分钟搞懂 ICT 核心概念：流动性、FVG、Power of 3 与订单块（视频笔记与中文图解）",
       "link": "https://blog.forecho.com/learn-every-ict-concept.html",
@@ -119,69 +182,6 @@
       "blogname": "Kenvix's Blog",
       "createdat": "2026-10-26T04:25:50.000Z",
       "crawledat": "2026-10-27T00:13:41.212Z"
-    },
-    {
-      "id": "62203",
-      "title": "命令明明失败了，为什么最后还是 PASS？一次 Shell 自动化的 fail-closed 教训",
-      "link": "https://www.shuijingwanwq.com/2026/10/26/27961/",
-      "rsslink": "https://www.shuijingwanwq.com/feed/",
-      "blogname": "永夜",
-      "createdat": "2026-10-26T03:48:46.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "62204",
-      "title": "一个候选快照为什么突然多出 122 个单元？从隐式范围到显式内容包契约",
-      "link": "https://www.shuijingwanwq.com/2026/10/26/27957/",
-      "rsslink": "https://www.shuijingwanwq.com/feed/",
-      "blogname": "永夜",
-      "createdat": "2026-10-26T03:09:06.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "57537",
-      "title": "关于近期 Minecraft 社区争议的几点思考",
-      "link": "https://blog.mcenahle.page/2026/10/26/475/",
-      "rsslink": "https://blog.mcenahle.page/feed.xml",
-      "blogname": "梅之夏",
-      "createdat": "2026-10-26T02:24:22.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "55531",
-      "title": "[安全周报]PHP2Shell 在野利用， 蜜罐捕获武器化探测与活体攻击",
-      "link": "https://www.paddysun.top/archives/5602",
-      "rsslink": "https://www.paddysun.top/feed",
-      "blogname": "Under the Sun with Paddy",
-      "createdat": "2026-10-26T02:20:58.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "62818",
-      "title": "Bing 收录成功记",
-      "link": "https://tinkerlog.dpdns.org/p/bing-%E6%94%B6%E5%BD%95%E6%88%90%E5%8A%9F%E8%AE%B0/",
-      "rsslink": "https://yrqspace.github.io/index.xml",
-      "blogname": "爱玩win11的me",
-      "createdat": "2026-10-26T02:00:00.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "53940",
-      "title": "微说 | 想让马儿跑，得让马儿吃草！",
-      "link": "https://www.xiabingbao.com/talk/t/mvolhpg0.html",
-      "rsslink": "https://www.xiabingbao.com/atom.xml",
-      "blogname": "蚊子前端博客",
-      "createdat": "2026-10-26T01:45:48.000Z",
-      "crawledat": "2026-10-26T20:17:53.191Z"
-    },
-    {
-      "id": "53952",
-      "title": "山间听雨，古寺寻幽——安吉三日自驾游记",
-      "link": "https://pinaland.cn/archives/anji-three-day-road-trip.html",
-      "rsslink": "https://pinaland.cn/feed/",
-      "blogname": "晴空树",
-      "createdat": "2026-10-26T01:31:00.000Z",
-      "crawledat": "2026-10-26T20:17:53.191Z"
     }
   ]
 }
