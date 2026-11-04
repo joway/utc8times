@@ -4,6 +4,51 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "55535",
+      "title": "[安全周报] GitLab 满分 RCE 与两起在野利用，nginx 五连修（2026-10-18）",
+      "link": "https://www.paddysun.top/archives/5574",
+      "rsslink": "https://www.paddysun.top/feed",
+      "blogname": "Under the Sun with Paddy",
+      "createdat": "2026-10-18T22:30:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "52435",
+      "title": "厦门出差记（五）：攻略厦门植物园",
+      "link": "https://bluehe.cn/archives/xiamen-business-trip-5",
+      "rsslink": "https://bluehe.cn/feed/",
+      "blogname": "云心怀鹤",
+      "createdat": "2026-10-18T22:16:00.000Z",
+      "crawledat": "2026-10-21T03:21:47.452Z"
+    },
+    {
+      "id": "52374",
+      "title": "質疑莊子",
+      "link": "https://blog.aeilot.top/2026/10/18/asking-chuangzi/",
+      "rsslink": "https://blog.aeilot.top/index.xml",
+      "blogname": "Louis Aeilot's Blog",
+      "createdat": "2026-10-18T19:50:09.000Z",
+      "crawledat": "2026-10-20T14:05:43.142Z"
+    },
+    {
+      "id": "52375",
+      "title": "北海之北",
+      "link": "https://blog.aeilot.top/2026/10/18/northern-ocean/",
+      "rsslink": "https://blog.aeilot.top/index.xml",
+      "blogname": "Louis Aeilot's Blog",
+      "createdat": "2026-10-18T19:45:09.000Z",
+      "crawledat": "2026-10-20T14:05:43.142Z"
+    },
+    {
+      "id": "52371",
+      "title": "Fragments 0x0015",
+      "link": "https://lenciel.com/2026/10/fragments-0x0015/",
+      "rsslink": "https://lenciel.com/feed.xml",
+      "blogname": "@Lenciel",
+      "createdat": "2026-10-18T18:26:39.000Z",
+      "crawledat": "2026-10-20T14:05:43.142Z"
+    },
+    {
       "id": "54658",
       "title": "Fragments 0x0015",
       "link": "http://0.0.0.0:4003/2026/10/fragments-0x0015/",
@@ -11,6 +56,15 @@
       "blogname": "@Lenciel",
       "createdat": "2026-10-18T18:26:39.000Z",
       "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "63041",
+      "title": "让 Agent 更好的在项目里工作",
+      "link": "https://wener.me/story/make-agent-work-with-project",
+      "rsslink": "https://wener.me/story/rss.xml",
+      "blogname": "Wener's Live & Life",
+      "createdat": "2026-10-18T16:00:00.000Z",
+      "crawledat": "2026-11-04T01:01:33.584Z"
     },
     {
       "id": "52391",
@@ -128,60 +182,6 @@
       "blogname": "莫尔索",
       "createdat": "2026-10-18T08:00:00.000Z",
       "crawledat": "2026-10-25T20:22:55.430Z"
-    },
-    {
-      "id": "52344",
-      "title": "会飞的汽车",
-      "link": "https://www.seis-jun.xyz/blog/2026-10-18-roadster.html",
-      "rsslink": "https://www.seis-jun.xyz/atom.xml",
-      "blogname": "seisamuse",
-      "createdat": "2026-10-18T07:31:05.000Z",
-      "crawledat": "2026-10-18T20:06:45.230Z"
-    },
-    {
-      "id": "52416",
-      "title": "Pulgas Ridge Open Space Preserve 徒步",
-      "link": "https://leimao.github.io/life/Pulgas-Ridge-Open-Space-Preserve-2026-10-18/",
-      "rsslink": "https://leimao.github.io/atom.xml",
-      "blogname": "Lei Mao's Log Book",
-      "createdat": "2026-10-18T07:00:00.000Z",
-      "crawledat": "2026-10-21T03:21:47.452Z"
-    },
-    {
-      "id": "52335",
-      "title": "抑郁了",
-      "link": "https://daimajia.com/2026/10/18/depression/",
-      "rsslink": "https://daimajia.com/feed",
-      "blogname": "代码家",
-      "createdat": "2026-10-18T06:26:17.000Z",
-      "crawledat": "2026-10-18T15:23:35.008Z"
-    },
-    {
-      "id": "55252",
-      "title": "3D 关系图的极致优化：GPT-6.1 sol Ultra 的神力",
-      "link": "https://xingwangzhe.fun/posts/3d-graph-extreme-optimization-gpt-6-1-sol-ultra/",
-      "rsslink": "https://xingwangzhe.fun/rss.xml",
-      "blogname": "姓王者的博客",
-      "createdat": "2026-10-18T05:18:03.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "56953",
-      "title": "让你的Spotify大变样——Spicetify简易指南",
-      "link": "https://www.rsnocsi.cn/2389.html",
-      "rsslink": "https://www.rsnocsi.cn/feed",
-      "blogname": "Abyss的小屋",
-      "createdat": "2026-10-18T04:27:06.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "52452",
-      "title": "Sway 睡眠唤醒后双屏黑屏：wlroots 记错了 CRTC",
-      "link": "https://sjdhome.com/posts/wlroots-stale-crtc-after-suspend/",
-      "rsslink": "https://sjdhome.com/blog/atom.xml",
-      "blogname": "sjdhome blog",
-      "createdat": "2026-10-18T03:58:50.000Z",
-      "crawledat": "2026-10-21T16:37:30.656Z"
     }
   ]
 }
