@@ -4,6 +4,105 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "54573",
+      "title": "PHP 性能优化，以及用 FastCGI 缓存加速 PHP 页面",
+      "link": "https://dusays.com/posts/895/",
+      "rsslink": "https://dusays.com/atom.xml",
+      "blogname": "杜老师说",
+      "createdat": "2026-10-28T16:00:00.000Z",
+      "crawledat": "2026-10-31T20:59:03.448Z"
+    },
+    {
+      "id": "54690",
+      "title": "millsage：将双手满载的幸福，献给你。",
+      "link": "https://xeonzilla.top/bang-dream-millsage/",
+      "rsslink": "https://xeonzilla.top/index.xml",
+      "blogname": "Xeonzilla's Note",
+      "createdat": "2026-10-28T16:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "62504",
+      "title": "GPT-4o 劝她停掉癫痫药，她死后一天模型下线",
+      "link": "https://anymesgs.com/article/gpt4o-seizure-medication-lawsuit/",
+      "rsslink": "https://anymesgs.com/rss.xml",
+      "blogname": "听说了吗？· AI 解读站",
+      "createdat": "2026-10-28T15:09:53.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "60271",
+      "title": "变味的市集",
+      "link": "https://blog.solazy.me/20261028/",
+      "rsslink": "https://blog.solazy.me/feed/",
+      "blogname": "solazy",
+      "createdat": "2026-10-28T15:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "58258",
+      "title": "二六十月雜錄",
+      "link": "https://white-ceiling.bearblog.dev/9743/",
+      "rsslink": "https://white-ceiling.bearblog.dev/feed/",
+      "blogname": "鵝庵筆記",
+      "createdat": "2026-10-28T14:27:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "63030",
+      "title": "美国最近火了一个AI，一条全新的反AGI的技术路线",
+      "link": "http://weiwuhui.com/11107.html",
+      "rsslink": "http://weiwuhui.com/feed",
+      "blogname": "扯氮集",
+      "createdat": "2026-10-28T14:03:52.000Z",
+      "crawledat": "2026-11-03T13:38:45.119Z"
+    },
+    {
+      "id": "54003",
+      "title": "告别不蒜子，自己给博客记个数",
+      "link": "https://www.seis-jun.xyz/blog/2026-10-28-independent-blog-counter.html",
+      "rsslink": "https://www.seis-jun.xyz/atom.xml",
+      "blogname": "seisamuse",
+      "createdat": "2026-10-28T12:23:53.000Z",
+      "crawledat": "2026-10-28T20:03:26.068Z"
+    },
+    {
+      "id": "53999",
+      "title": "命题杂谈：什么是登味？",
+      "link": "https://www.seis-jun.xyz/blog/2026-10-28-post.html",
+      "rsslink": "https://www.seis-jun.xyz/atom.xml",
+      "blogname": "seisamuse",
+      "createdat": "2026-10-28T12:05:04.000Z",
+      "crawledat": "2026-10-28T12:07:33.504Z"
+    },
+    {
+      "id": "60034",
+      "title": "VMRack VPS 评测：$13/月洛杉矶 2 核 2G 三网线路实测，能替代搬瓦工吗？",
+      "link": "https://blog.naibabiji.com/skill/vmrack-vps-review.html",
+      "rsslink": "https://blog.naibabiji.com/feed",
+      "blogname": "奶爸建站笔记",
+      "createdat": "2026-10-28T12:05:02.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "54582",
+      "title": "远程工作不要居家",
+      "link": "https://smallyu.net/2026/10/28/%E8%BF%9C%E7%A8%8B%E5%B7%A5%E4%BD%9C%E4%B8%8D%E8%A6%81%E5%B1%85%E5%AE%B6/",
+      "rsslink": "https://smallyu.net/atom.xml",
+      "blogname": "smallyu的博客",
+      "createdat": "2026-10-28T10:34:16.000Z",
+      "crawledat": "2026-10-31T23:59:54.674Z"
+    },
+    {
+      "id": "54000",
+      "title": "失踪物品电话",
+      "link": "https://www.seis-jun.xyz/blog/2026-10-28-a-missing-point.html",
+      "rsslink": "https://www.seis-jun.xyz/atom.xml",
+      "blogname": "seisamuse",
+      "createdat": "2026-10-28T10:17:26.000Z",
+      "crawledat": "2026-10-28T12:07:33.504Z"
+    },
+    {
       "id": "61072",
       "title": "现代编辑器与协作技术栈：从一次输入到可靠保存",
       "link": "https://yindongliang.com/docs/Frontend/modern-editor-collaboration-stack/",
@@ -82,105 +181,6 @@
       "rsslink": "https://yilinhut.net/feed/",
       "blogname": "随轩",
       "createdat": "2026-10-28T04:09:55.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "56935",
-      "title": ".NET 接口从 800ms 干到 60ms：生产环境这几个优化点最关键",
-      "link": "https://www.coderlog.net/post/dotnet-api-800ms-to-60ms-production-optimization",
-      "rsslink": "https://www.coderlog.net/rss.xml",
-      "blogname": "码录集（CoderLog）",
-      "createdat": "2026-10-28T02:21:11.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "53997",
-      "title": "美区 Apple ID 注册教程 2026：国内手机号免费注册，不用买号，其他区同理",
-      "link": "https://blog.laoda.de/archives/us-apple-id-register-china-phone-2026",
-      "rsslink": "https://blog.laoda.de/rss.xml",
-      "blogname": "我不是咕咕鸽",
-      "createdat": "2026-10-28T01:56:01.000Z",
-      "crawledat": "2026-10-28T04:01:45.209Z"
-    },
-    {
-      "id": "53996",
-      "title": "微说 | 中成药这么贵的吗？",
-      "link": "https://www.xiabingbao.com/talk/t/mvrge56m.html",
-      "rsslink": "https://www.xiabingbao.com/atom.xml",
-      "blogname": "蚊子前端博客",
-      "createdat": "2026-10-28T01:46:23.000Z",
-      "crawledat": "2026-10-28T04:01:45.209Z"
-    },
-    {
-      "id": "54065",
-      "title": "BabyLog记录了我14年对孩子所有的回忆也见证了我自学编程的学习路线",
-      "link": "https://www.suiyan.cc/blog/20261028080326",
-      "rsslink": "https://suiyan.cc/rss.xml",
-      "blogname": "碎言博客",
-      "createdat": "2026-10-28T00:03:26.000Z",
-      "crawledat": "2026-10-31T04:05:48.759Z"
-    },
-    {
-      "id": "55710",
-      "title": "AI 摘要持久化、RSS / SEO 改进",
-      "link": "https://uwillno.com/blog/ai摘要持久化",
-      "rsslink": "https://uwillno.com/rss.xml",
-      "blogname": "UWillno's Blog",
-      "createdat": "2026-10-28T00:00:44.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "54060",
-      "title": "使用Trapfall收集个人项目错误",
-      "link": "https://mephisto.cc/tech/trapfall/",
-      "rsslink": "https://mephisto.cc/index.xml",
-      "blogname": "Mephisto's blog",
-      "createdat": "2026-10-28T00:00:00.000Z",
-      "crawledat": "2026-10-31T04:05:48.759Z"
-    },
-    {
-      "id": "54579",
-      "title": "合规是悬在可信CA头上的一把刀：下一个倒下的CA将会是谁？",
-      "link": "https://razeen.me/posts/ca-compliance-who-will-fall-next/",
-      "rsslink": "https://razeen.me/index.xml",
-      "blogname": "Razeen's Blog",
-      "createdat": "2026-10-28T00:00:00.000Z",
-      "crawledat": "2026-10-31T20:59:03.448Z"
-    },
-    {
-      "id": "55078",
-      "title": "关于PCLPoC",
-      "link": "https://blog.watermelonabc.top/p/about-pclpoc/",
-      "rsslink": "https://blog.watermelonabc.top/atom.xml",
-      "blogname": "Watermelonabc的Blog",
-      "createdat": "2026-10-28T00:00:00.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "57947",
-      "title": "AI Agent 联网搜索如何保证结果可信？Search、Fetch 与引用校验的生产工程",
-      "link": "https://www.xbstack.com/ai/ai-agent-web-search-evidence-audit/",
-      "rsslink": "https://www.xbstack.com/rss.xml",
-      "blogname": "XBSTACK",
-      "createdat": "2026-10-28T00:00:00.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "57948",
-      "title": "用户自填 API Key，AI App 就更隐私了吗？本地 AI、云端数据保留与 BYOK 的真正边界",
-      "link": "https://www.xbstack.com/ai/byok-local-ai-cloud-model-data-privacy/",
-      "rsslink": "https://www.xbstack.com/rss.xml",
-      "blogname": "XBSTACK",
-      "createdat": "2026-10-28T00:00:00.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "58295",
-      "title": "Mythos 5 社工开源维护者：对齐失败被叫作「动量」",
-      "link": "https://notes.yachiyo.im/posts/anthropic-mythos5-aisi-github-social-engineering/",
-      "rsslink": "https://notes.yachiyo.im/rss.xml",
-      "blogname": "AI Notes",
-      "createdat": "2026-10-28T00:00:00.000Z",
       "crawledat": "2026-11-03T05:24:07.195Z"
     }
   ]

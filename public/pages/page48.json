@@ -4,6 +4,105 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "56940",
+      "title": "Radzen 6.0.0 这几个 API 坑，我替你踩了",
+      "link": "https://www.coderlog.net/post/radzen-6-0-0-api-pitfalls-lessons",
+      "rsslink": "https://www.coderlog.net/rss.xml",
+      "blogname": "码录集（CoderLog）",
+      "createdat": "2026-10-14T03:25:16.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "51975",
+      "title": "我做了一个浏览器扩展：把网页生词一键收进「不背单词」",
+      "link": "https://blog.diqigan.cn/posts/independent-develop/word-radar-introduce.html",
+      "rsslink": "https://blog.diqigan.cn/atom.xml",
+      "blogname": "Seven's blog",
+      "createdat": "2026-10-14T02:00:00.000Z",
+      "crawledat": "2026-10-15T20:56:14.010Z"
+    },
+    {
+      "id": "51646",
+      "title": "复活一个iPad ",
+      "link": "https://102no.com/2026/10/14/fu-huo-yi-ge-ipad/",
+      "rsslink": "https://102no.com/atom.xml",
+      "blogname": "把酒诗代码",
+      "createdat": "2026-10-14T00:00:00.000Z",
+      "crawledat": "2026-10-14T19:10:05.572Z"
+    },
+    {
+      "id": "51962",
+      "title": ".md | 用 VS Code 的 Profiles 隔离 Codex 和 GitHub Copilot 账号",
+      "link": "https://blog.mountaye.com/articles/multiple-coding-agent-accounts-in-vscode",
+      "rsslink": "https://blog.mountaye.com/feed.xml",
+      "blogname": "阿掖山·博客",
+      "createdat": "2026-10-14T00:00:00.000Z",
+      "crawledat": "2026-10-15T10:52:21.021Z"
+    },
+    {
+      "id": "53248",
+      "title": "存储周期的市盈率陷阱：这一轮会重演 2018 年吗",
+      "link": "https://peagothedreamer.github.io/investing/storage-cycle-pe-trap/",
+      "rsslink": "https://peagothedreamer.github.io/index.xml",
+      "blogname": "peago · 空想家",
+      "createdat": "2026-10-14T00:00:00.000Z",
+      "crawledat": "2026-10-22T21:11:57.047Z"
+    },
+    {
+      "id": "56956",
+      "title": "IC 卡：原理、读写与复制",
+      "link": "https://wmhwiki.cn/posts/2026/iccard",
+      "rsslink": "https://wmhwiki.cn/rss.xml",
+      "blogname": "wmhwiki",
+      "createdat": "2026-10-14T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "56957",
+      "title": "网络工程基础：IP 地址、交换和路由",
+      "link": "https://wmhwiki.cn/posts/2026/network-base",
+      "rsslink": "https://wmhwiki.cn/rss.xml",
+      "blogname": "wmhwiki",
+      "createdat": "2026-10-14T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "57957",
+      "title": "Gemini 4 Argon 发布：功能、API 定价、迁移指南与真实项目评估方案",
+      "link": "https://www.xbstack.com/ai/gemini-4-argon-api-pricing-evaluation-plan/",
+      "rsslink": "https://www.xbstack.com/rss.xml",
+      "blogname": "XBSTACK",
+      "createdat": "2026-10-14T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "58309",
+      "title": "小模型离「自复制」还有几个月：Anthropic 把 AI 蠕虫拆成能力地板和体积天花板",
+      "link": "https://notes.yachiyo.im/posts/self-replicating-ai-iot/",
+      "rsslink": "https://notes.yachiyo.im/rss.xml",
+      "blogname": "AI Notes",
+      "createdat": "2026-10-14T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "61105",
+      "title": "X Developer Console：Project、App、环境与 Toolbox",
+      "link": "https://yindongliang.com/docs/Linux/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/x-developer-console-projects-apps-and-tools/",
+      "rsslink": "https://yindongliang.com/index.xml",
+      "blogname": "LYon's Blog",
+      "createdat": "2026-10-14T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "62567",
+      "title": "谁在生，谁不生",
+      "link": "https://u1-lab.xiaoxia.io/global-fertility/",
+      "rsslink": "https://u1-lab.xiaoxia.io/feed.xml",
+      "blogname": "Tony's Lab",
+      "createdat": "2026-10-14T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
       "id": "62568",
       "title": "把 Claude Code 放进私有 PWA",
       "link": "https://u1-lab.xiaoxia.io/claude-code-private-pwa/",
@@ -83,105 +182,6 @@
       "blogname": "福强说 一个架构士的思考与沉淀",
       "createdat": "2026-10-13T16:00:00.000Z",
       "crawledat": "2026-10-15T10:52:21.021Z"
-    },
-    {
-      "id": "51747",
-      "title": "说说广场 API 0.31.0 版的调用代码说明",
-      "link": "https://dusays.com/posts/893/",
-      "rsslink": "https://dusays.com/atom.xml",
-      "blogname": "杜老师说",
-      "createdat": "2026-10-13T16:00:00.000Z",
-      "crawledat": "2026-10-15T10:52:21.021Z"
-    },
-    {
-      "id": "62788",
-      "title": "[Github] Anatomy – 把技术概念做成交互式等距图解的开源 Skill",
-      "link": "https://warpnav.com/anatomy-interactive-diagrams",
-      "rsslink": "https://warpnav.com/feed",
-      "blogname": "WarpBlog · WarpNav 曲速导航",
-      "createdat": "2026-10-13T15:38:38.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "51726",
-      "title": "避开人潮的秘诀？西双版纳勐远仙境，整片雨林都是你的",
-      "link": "https://macin.org/2026/10/13/meng-yuan-yu-lin/",
-      "rsslink": "https://www.macin.org/atom.xml",
-      "blogname": "Macin",
-      "createdat": "2026-10-13T15:16:39.000Z",
-      "crawledat": "2026-10-15T10:52:21.021Z"
-    },
-    {
-      "id": "56885",
-      "title": "舊皇崗最後一夜：最後的皇巴與新田總站",
-      "link": "https://impatrick.blog/huanggang-border-crossing-last-night/",
-      "rsslink": "https://impatrick.blog/feed/",
-      "blogname": "Im Patrick",
-      "createdat": "2026-10-13T14:30:47.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "51684",
-      "title": "又用AI做了个鸡肋-桌面单词日历墨水屏",
-      "link": "https://mianao.info/ai-ink-word-esp32-s3/",
-      "rsslink": "https://mianao.info/atom.xml",
-      "blogname": "不吐不快",
-      "createdat": "2026-10-13T12:40:00.000Z",
-      "crawledat": "2026-10-14T19:10:05.572Z"
-    },
-    {
-      "id": "51647",
-      "title": "How I AI Coding in 2026.10",
-      "link": "https://www.xiejingyang.com/2026/10/13/how-i-ai-coding-in-2026-10/",
-      "rsslink": "https://www.xiejingyang.com/feed/",
-      "blogname": "Xieisabug",
-      "createdat": "2026-10-13T11:07:46.000Z",
-      "crawledat": "2026-10-14T19:10:05.572Z"
-    },
-    {
-      "id": "51653",
-      "title": "Fragments 0x0012",
-      "link": "https://lenciel.com/2026/10/fragments-0x0012/",
-      "rsslink": "https://lenciel.com/feed.xml",
-      "blogname": "@Lenciel",
-      "createdat": "2026-10-13T11:06:55.000Z",
-      "crawledat": "2026-10-14T19:10:05.572Z"
-    },
-    {
-      "id": "55715",
-      "title": "Markdown Mermaid 支持开发记录及测试",
-      "link": "https://uwillno.com/blog/mermaid",
-      "rsslink": "https://uwillno.com/rss.xml",
-      "blogname": "UWillno's Blog",
-      "createdat": "2026-10-13T10:44:44.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "55716",
-      "title": "Qt/C++ 博客 UW4.5：文章解耦、Markdown AST 序列化与构建自动化",
-      "link": "https://uwillno.com/blog/uw4.5",
-      "rsslink": "https://uwillno.com/rss.xml",
-      "blogname": "UWillno's Blog",
-      "createdat": "2026-10-13T10:44:44.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "51652",
-      "title": "文字为什么需要化妆？",
-      "link": "https://www.seis-jun.xyz/blog/2026-10-13-why-do-we-have-to-make-up-our-words.html",
-      "rsslink": "https://www.seis-jun.xyz/atom.xml",
-      "blogname": "seisamuse",
-      "createdat": "2026-10-13T10:06:11.000Z",
-      "crawledat": "2026-10-14T19:10:05.572Z"
-    },
-    {
-      "id": "51649",
-      "title": "主动代谢",
-      "link": "https://z.arlmy.me/posts/Essays/2026/MaxwellDemon_20261013/",
-      "rsslink": "http://z.arlmy.me/atom.xml",
-      "blogname": "素生",
-      "createdat": "2026-10-13T08:54:03.000Z",
-      "crawledat": "2026-10-14T19:10:05.572Z"
     }
   ]
 }
