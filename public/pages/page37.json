@@ -4,6 +4,141 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "52366",
+      "title": "如何写一个 Agent",
+      "link": "https://jiajunhuang.com/articles/2026_10_20-how_to_build_an_agent.md.html",
+      "rsslink": "https://jiajunhuang.com/rss",
+      "blogname": "Jiajun的编程随想",
+      "createdat": "2026-10-20T00:00:00.000Z",
+      "crawledat": "2026-10-20T08:10:51.893Z"
+    },
+    {
+      "id": "52601",
+      "title": "ZZUCTF 平台渗透事件复盘报告",
+      "link": "https://619.pp.ua/article/zzuctf-artex-pentest-doc",
+      "rsslink": "https://66619.eu.org/feed/",
+      "blogname": "619's blog",
+      "createdat": "2026-10-20T00:00:00.000Z",
+      "crawledat": "2026-10-22T21:11:57.047Z"
+    },
+    {
+      "id": "53241",
+      "title": "Horizon 简报 · 2026-10-20",
+      "link": "https://peagothedreamer.github.io/digest/2026-10-20/",
+      "rsslink": "https://peagothedreamer.github.io/index.xml",
+      "blogname": "peago · 空想家",
+      "createdat": "2026-10-20T00:00:00.000Z",
+      "crawledat": "2026-10-22T21:11:57.047Z"
+    },
+    {
+      "id": "57954",
+      "title": "LiteRT Tensor API：C++ 编写端侧模型图，XNNPACK、GPU 与 NPU 怎么选？",
+      "link": "https://www.xbstack.com/ai/litert-tensor-api-cpp-xnnpack-gpu-npu/",
+      "rsslink": "https://www.xbstack.com/rss.xml",
+      "blogname": "XBSTACK",
+      "createdat": "2026-10-20T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "58303",
+      "title": "Anthropic 自己起草了监管它的法案：谁有权叫停一个前沿模型",
+      "link": "https://notes.yachiyo.im/posts/anthropic-aegis-draft-bill/",
+      "rsslink": "https://notes.yachiyo.im/rss.xml",
+      "blogname": "AI Notes",
+      "createdat": "2026-10-20T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "59066",
+      "title": "追星是一种宗教统治",
+      "link": "https://www.thefox.work//article/3fedc4f4-1160-80e3-bda7-cb242cbdd5bd",
+      "rsslink": "https://www.thefox.work/rss/feed.xml",
+      "blogname": "pious fox",
+      "createdat": "2026-10-20T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "61094",
+      "title": "Rakazo 源码分析：持久 Agent、任务恢复与多端协作",
+      "link": "https://yindongliang.com/docs/AI/Agents/rakazo-source-analysis/",
+      "rsslink": "https://yindongliang.com/index.xml",
+      "blogname": "LYon's Blog",
+      "createdat": "2026-10-20T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "61095",
+      "title": "Ruflo 项目分析：Agent 编排、记忆学习与执行边界",
+      "link": "https://yindongliang.com/docs/AI/Agents/ruflo-agent-orchestration-source-analysis/",
+      "rsslink": "https://yindongliang.com/index.xml",
+      "blogname": "LYon's Blog",
+      "createdat": "2026-10-20T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "61096",
+      "title": "Cloudflare Browser Run 能力范围、运行原理与使用方式",
+      "link": "https://yindongliang.com/docs/Cloudflare/browser-run-capabilities-and-usage/",
+      "rsslink": "https://yindongliang.com/index.xml",
+      "blogname": "LYon's Blog",
+      "createdat": "2026-10-20T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "61097",
+      "title": "Cloudflare Agent 电脑方案调研：远程桌面、Browser Run 与 Computer 工作区",
+      "link": "https://yindongliang.com/docs/Cloudflare/cloudflare-agent-computer-desktop-solutions/",
+      "rsslink": "https://yindongliang.com/index.xml",
+      "blogname": "LYon's Blog",
+      "createdat": "2026-10-20T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "62558",
+      "title": "智能开始按吨卖",
+      "link": "https://u1-lab.xiaoxia.io/intelligence-commodity/",
+      "rsslink": "https://u1-lab.xiaoxia.io/feed.xml",
+      "blogname": "Tony's Lab",
+      "createdat": "2026-10-20T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "62559",
+      "title": "AstrBot × OpenClaw：双色对照",
+      "link": "https://u1-lab.xiaoxia.io/astrbot-vs-openclaw/",
+      "rsslink": "https://u1-lab.xiaoxia.io/feed.xml",
+      "blogname": "Tony's Lab",
+      "createdat": "2026-10-20T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "62560",
+      "title": "Terafab：把一座晶圆厂发射到轨道上",
+      "link": "https://u1-lab.xiaoxia.io/terafab/",
+      "rsslink": "https://u1-lab.xiaoxia.io/feed.xml",
+      "blogname": "Tony's Lab",
+      "createdat": "2026-10-20T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "62762",
+      "title": "Horizon 简报 · 2026-10-20",
+      "link": "https://peagothedreamer.github.io/horizon/2026-10-20/",
+      "rsslink": "https://peagothedreamer.github.io/index.xml",
+      "blogname": "peago · 空想家",
+      "createdat": "2026-10-20T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "62768",
+      "title": "梦档案：《复制墨水》绘图软件",
+      "link": "https://atin.asia/archives/dream-archive-copy-ink-software/",
+      "rsslink": "https://atin.asia/index.xml",
+      "blogname": "atin的个人小站",
+      "createdat": "2026-10-20T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
       "id": "62832",
       "title": "李录说“神”都要IPO了，石龙仔却想起了一台ATM",
       "link": "https://shilongzai.com/posts/p-33b1a24044fdad76/",
@@ -47,141 +182,6 @@
       "blogname": "菲兹克斯喵",
       "createdat": "2026-10-19T17:06:44.000Z",
       "crawledat": "2026-10-21T21:15:28.911Z"
-    },
-    {
-      "id": "52387",
-      "title": "Hello, BA4LNA!",
-      "link": "https://tao.zz.ac/ham/BA4LNA.html",
-      "rsslink": "https://taoshu.in/feed.xml",
-      "blogname": "涛叔",
-      "createdat": "2026-10-19T16:00:00.000Z",
-      "crawledat": "2026-10-21T03:21:47.452Z"
-    },
-    {
-      "id": "54691",
-      "title": "观影小结 2026年夏",
-      "link": "https://xeonzilla.top/anime-impressions-summer2026/",
-      "rsslink": "https://xeonzilla.top/index.xml",
-      "blogname": "Xeonzilla's Note",
-      "createdat": "2026-10-19T16:00:00.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "52602",
-      "title": "间歇期与告别",
-      "link": "https://stephenleng.com/cn/jian-xie-qi-gao-bie/",
-      "rsslink": "https://stephenleng.com/cn/feed/",
-      "blogname": "心的道理",
-      "createdat": "2026-10-19T14:27:35.000Z",
-      "crawledat": "2026-10-22T21:11:57.047Z"
-    },
-    {
-      "id": "59664",
-      "title": "连续化 Softmax Attention",
-      "link": "https://kexue.fm/archives/11980",
-      "rsslink": "https://kexue.fm/feed",
-      "blogname": "科学空间",
-      "createdat": "2026-10-19T14:21:00.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "53954",
-      "title": "如何选择人体工学椅",
-      "link": "https://wangjiezhe.com/posts/2026-10-19-Ergonomic-Chair/",
-      "rsslink": "https://wangjiezhe.com/atom.xml",
-      "blogname": "如鱼饮水",
-      "createdat": "2026-10-19T14:04:33.000Z",
-      "crawledat": "2026-10-27T00:13:41.212Z"
-    },
-    {
-      "id": "52436",
-      "title": "谁是 AI-relay App 的真正威胁 - 肘子的 Swift 周报 #158",
-      "link": "https://fatbobman.com/zh/weekly/issue-158/",
-      "rsslink": "https://fatbobman.com/zh/rss.xml",
-      "blogname": "肘子的 Swift 记事本",
-      "createdat": "2026-10-19T14:00:00.000Z",
-      "crawledat": "2026-10-21T03:21:47.452Z"
-    },
-    {
-      "id": "52353",
-      "title": "007出国了就是不孝？",
-      "link": "https://www.jack-liu.com/post-677.html",
-      "rsslink": "https://www.jack-liu.com/rss.php",
-      "blogname": "Jack Liu博客",
-      "createdat": "2026-10-19T12:43:35.000Z",
-      "crawledat": "2026-10-19T20:21:15.407Z"
-    },
-    {
-      "id": "60462",
-      "title": "我做了一个追踪习惯和目标的小工具",
-      "link": "https://guozh.net/tracking-habits-and-goals/",
-      "rsslink": "https://guozh.net/feed/",
-      "blogname": "老郭种树",
-      "createdat": "2026-10-19T11:45:47.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "52443",
-      "title": "一只没有尾巴的猪",
-      "link": "https://www.wsh233.cn/post/一只没有尾巴的猪",
-      "rsslink": "https://www.wsh233.cn/feed.xml",
-      "blogname": "WSH",
-      "createdat": "2026-10-19T10:59:39.000Z",
-      "crawledat": "2026-10-21T03:21:47.452Z"
-    },
-    {
-      "id": "62520",
-      "title": "德国两法院接连裁定：Google AI 搜索摘要是它自己的话",
-      "link": "https://anymesgs.com/article/german-courts-hold-google-liable-for-ai-overview/",
-      "rsslink": "https://anymesgs.com/rss.xml",
-      "blogname": "听说了吗？· AI 解读站",
-      "createdat": "2026-10-19T10:49:17.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "52584",
-      "title": "Git 入門：用搬家打包的比喻，學會叫 AI Agent 幫你存檔、備份",
-      "link": "https://raymondhouch.com/lifehacker/digital-workflow/git-basics-gitignore-security/",
-      "rsslink": "https://raymondhouch.com/feed",
-      "blogname": "雷蒙三十",
-      "createdat": "2026-10-19T10:39:58.000Z",
-      "crawledat": "2026-10-21T21:15:28.911Z"
-    },
-    {
-      "id": "52440",
-      "title": "恒星结构",
-      "link": "https://physnya.top/astro-physics/lesson-4-star-structure/",
-      "rsslink": "https://physnya.top/atom.xml",
-      "blogname": "菲兹克斯喵",
-      "createdat": "2026-10-19T10:01:40.000Z",
-      "crawledat": "2026-10-21T03:21:47.452Z"
-    },
-    {
-      "id": "52425",
-      "title": "StarPie（星盘）：免费开源Windows鼠标手势工具，右键一划快速启动软件、执行快捷键",
-      "link": "https://www.wangdu.site/software/tools/2414.html",
-      "rsslink": "https://www.wangdu.site/feed",
-      "blogname": "文武科技柜",
-      "createdat": "2026-10-19T09:25:28.000Z",
-      "crawledat": "2026-10-21T03:21:47.452Z"
-    },
-    {
-      "id": "52426",
-      "title": "WorkBuddy自动签到教程：电脑关机也能领积分，支持猫猫旅行自动领奖",
-      "link": "https://www.wangdu.site/course/2413.html",
-      "rsslink": "https://www.wangdu.site/feed",
-      "blogname": "文武科技柜",
-      "createdat": "2026-10-19T09:01:30.000Z",
-      "crawledat": "2026-10-21T03:21:47.452Z"
-    },
-    {
-      "id": "52433",
-      "title": "籍役债",
-      "link": "https://bestcoder.cn/redemption-and-ascribed-status-debt",
-      "rsslink": "https://bestcoder.cn/feed",
-      "blogname": "顶尖研发的个人博客",
-      "createdat": "2026-10-19T07:19:54.000Z",
-      "crawledat": "2026-10-21T03:21:47.452Z"
     }
   ]
 }

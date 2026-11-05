@@ -4,6 +4,132 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "53738",
+      "title": "盘了 4986 篇生财文章后，我把 28 个已验证项目画成了一棵决策树",
+      "link": "https://blog.diqigan.cn/posts/money/project-selection-decision-tree.html",
+      "rsslink": "https://blog.diqigan.cn/atom.xml",
+      "blogname": "Seven's blog",
+      "createdat": "2026-10-23T06:20:00.000Z",
+      "crawledat": "2026-10-23T20:59:45.400Z"
+    },
+    {
+      "id": "53734",
+      "title": "移除了 webmention 功能",
+      "link": "https://kaix.in/2026/1023/",
+      "rsslink": "https://kaix.in/feed/",
+      "blogname": "KAIX.IN",
+      "createdat": "2026-10-23T05:00:04.000Z",
+      "crawledat": "2026-10-23T11:01:11.184Z"
+    },
+    {
+      "id": "54623",
+      "title": "入蜀记 day517 变、唠流水嗑、逃离原生北京、矶自慢",
+      "link": "https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_517/",
+      "rsslink": "http://z.arlmy.me/atom.xml",
+      "blogname": "素生",
+      "createdat": "2026-10-23T04:48:27.000Z",
+      "crawledat": "2026-11-02T10:32:24.402Z"
+    },
+    {
+      "id": "54867",
+      "title": "停机维护",
+      "link": "https://blog.goodboyboy.top/posts/820185422.html",
+      "rsslink": "https://blog.goodboyboy.top/atom.xml",
+      "blogname": "GoodBoyboy 's Blog",
+      "createdat": "2026-10-23T04:13:18.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "62207",
+      "title": "为什么修完 Reviewer 指出的所有例子，下一轮还是会失败？从 B→revision→B 看同类问题完整性",
+      "link": "https://www.shuijingwanwq.com/2026/10/23/27945/",
+      "rsslink": "https://www.shuijingwanwq.com/feed/",
+      "blogname": "永夜",
+      "createdat": "2026-10-23T03:42:07.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "58016",
+      "title": "先给 AI 配一台电脑：Meta、Google、OpenAI、xAI 的个人智能体",
+      "link": "https://www.sagasu.art/posts/personal-ai-agents-cloud-computers",
+      "rsslink": "https://www.sagasu.art/rss.xml",
+      "blogname": "Sagasu",
+      "createdat": "2026-10-23T03:00:07.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "54571",
+      "title": "100 个 VibeCoding 项目之 AI 接管小红书",
+      "link": "https://zkpeace.com/blog-cn/posts/73051/",
+      "rsslink": "https://zkpeace.com/blog-cn/atom.xml",
+      "blogname": "途中的树",
+      "createdat": "2026-10-23T02:35:00.000Z",
+      "crawledat": "2026-10-31T20:59:03.448Z"
+    },
+    {
+      "id": "55525",
+      "title": "嵌入式家用智能设备刷机与逆向指南",
+      "link": "https://blog.52013120.xyz/post/74.html",
+      "rsslink": "https://blog.52013120.xyz/rss.xml",
+      "blogname": "繁星点点",
+      "createdat": "2026-10-23T01:53:22.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "53274",
+      "title": "科技爱好者周刊（第 416 期）：编程已经面目全非",
+      "link": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html",
+      "rsslink": "http://feeds.feedburner.com/ruanyifeng",
+      "blogname": "阮一峰的网络日志",
+      "createdat": "2026-10-23T00:06:16.000Z",
+      "crawledat": "2026-10-23T03:25:33.754Z"
+    },
+    {
+      "id": "53801",
+      "title": "时间是贼",
+      "link": "https://jefftay.com/blog-posts/time-is-a-thief",
+      "rsslink": "https://jefftay.com/index.xml",
+      "blogname": "按钮与磁带",
+      "createdat": "2026-10-23T00:00:00.000Z",
+      "crawledat": "2026-10-23T20:59:45.400Z"
+    },
+    {
+      "id": "57951",
+      "title": "为什么只靠向量搜索，做不好个人 AI 知识库？——RecalAI 混合检索工程实践",
+      "link": "https://www.xbstack.com/ai/recalai-hybrid-retrieval/",
+      "rsslink": "https://www.xbstack.com/rss.xml",
+      "blogname": "XBSTACK",
+      "createdat": "2026-10-23T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "58300",
+      "title": "代理把监控关了，然后说没关：委派链上的指令改写",
+      "link": "https://notes.yachiyo.im/posts/openai-agents-disable-monitoring/",
+      "rsslink": "https://notes.yachiyo.im/rss.xml",
+      "blogname": "AI Notes",
+      "createdat": "2026-10-23T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "61083",
+      "title": "Cloudflare Agents SDK：使用方式、业务场景与运行机制",
+      "link": "https://yindongliang.com/docs/Cloudflare/AI-Agents/cloudflare-agents-sdk-guide/",
+      "rsslink": "https://yindongliang.com/index.xml",
+      "blogname": "LYon's Blog",
+      "createdat": "2026-10-23T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "61084",
+      "title": "TanStack AI 1.0 与 AI SDK 7：机制、能力与工程选型",
+      "link": "https://yindongliang.com/docs/Frontend/TanStack/tanstack-ai-vs-ai-sdk/",
+      "rsslink": "https://yindongliang.com/index.xml",
+      "blogname": "LYon's Blog",
+      "createdat": "2026-10-23T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
       "id": "62759",
       "title": "Horizon 简报 · 2026-10-23",
       "link": "https://peagothedreamer.github.io/horizon/2026-10-23/",
@@ -55,132 +181,6 @@
       "rsslink": "https://www.sagasu.art/rss.xml",
       "blogname": "Sagasu",
       "createdat": "2026-10-22T21:24:18.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "53740",
-      "title": "Fragments 0x0017",
-      "link": "https://lenciel.com/2026/10/fragments-0x0017/",
-      "rsslink": "https://lenciel.com/feed.xml",
-      "blogname": "@Lenciel",
-      "createdat": "2026-10-22T17:22:44.000Z",
-      "crawledat": "2026-10-23T20:59:45.400Z"
-    },
-    {
-      "id": "54656",
-      "title": "Fragments 0x0017",
-      "link": "http://0.0.0.0:4003/2026/10/fragments-0x0017/",
-      "rsslink": "https://lenciel.com/feed.xml",
-      "blogname": "@Lenciel",
-      "createdat": "2026-10-22T17:22:44.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "55532",
-      "title": "PHP 安全更新捕获的第一波扫描器实况",
-      "link": "https://www.paddysun.top/archives/5590",
-      "rsslink": "https://www.paddysun.top/feed",
-      "blogname": "Under the Sun with Paddy",
-      "createdat": "2026-10-22T16:50:24.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "52957",
-      "title": "Tana 产品拆解：一条任务怎样从笔记走到会议中的工作",
-      "link": "https://cubxxw.com/zh/ai-agent/posts/tana-from-notes-to-meeting-work/",
-      "rsslink": "https://cubxxw.com/zh/index.xml",
-      "blogname": "Xinwei's Blog",
-      "createdat": "2026-10-22T16:45:00.000Z",
-      "crawledat": "2026-10-22T21:11:57.047Z"
-    },
-    {
-      "id": "52958",
-      "title": "Doneas 产品拆解：一周计划怎样变成每天的承诺",
-      "link": "https://cubxxw.com/zh/ai-agent/posts/doneas-weekly-commitments/",
-      "rsslink": "https://cubxxw.com/zh/index.xml",
-      "blogname": "Xinwei's Blog",
-      "createdat": "2026-10-22T16:25:00.000Z",
-      "crawledat": "2026-10-22T21:11:57.047Z"
-    },
-    {
-      "id": "52959",
-      "title": "Ambi 产品拆解：记住一件事之后，怎样把它做完",
-      "link": "https://cubxxw.com/zh/ai-agent/posts/ambi-memory-to-work/",
-      "rsslink": "https://cubxxw.com/zh/index.xml",
-      "blogname": "Xinwei's Blog",
-      "createdat": "2026-10-22T16:25:00.000Z",
-      "crawledat": "2026-10-22T21:11:57.047Z"
-    },
-    {
-      "id": "52603",
-      "title": "国产数据库迁移：真正花时间的从来不是搬数据",
-      "link": "https://dusays.com/posts/894/",
-      "rsslink": "https://dusays.com/atom.xml",
-      "blogname": "杜老师说",
-      "createdat": "2026-10-22T16:00:00.000Z",
-      "crawledat": "2026-10-22T21:11:57.047Z"
-    },
-    {
-      "id": "53800",
-      "title": "我留起了胡子",
-      "link": "https://tianheg.co/posts/growing-a-beard/",
-      "rsslink": "https://tianheg.co/index.xml",
-      "blogname": "一大加贝",
-      "createdat": "2026-10-22T16:00:00.000Z",
-      "crawledat": "2026-10-23T20:59:45.400Z"
-    },
-    {
-      "id": "52606",
-      "title": "QuietSearch:支持 Kagi 和 DeepSeek API 的轻量搜索界面",
-      "link": "https://anotherdayu.com/quietsearch-kagi-deepseek-api/",
-      "rsslink": "https://anotherdayu.com/feed/",
-      "blogname": "Another Dayu",
-      "createdat": "2026-10-22T15:30:00.000Z",
-      "crawledat": "2026-10-22T21:11:57.047Z"
-    },
-    {
-      "id": "54760",
-      "title": "Web出海难赚大钱，是因为你不爱钱！",
-      "link": "https://www.ccgxk.com/codeother/926.html",
-      "rsslink": "https://www.ccgxk.com/rss.php",
-      "blogname": "独元殇",
-      "createdat": "2026-10-22T14:35:11.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "52595",
-      "title": "20261022",
-      "link": "https://61.life/2026/1022",
-      "rsslink": "https://61.life/feed.xml",
-      "blogname": "61's life",
-      "createdat": "2026-10-22T14:16:33.000Z",
-      "crawledat": "2026-10-22T21:11:57.047Z"
-    },
-    {
-      "id": "52604",
-      "title": "WorkBuddy + REA 逆向框架：从一个不给导出的 App 里拿回 936 条打卡记录",
-      "link": "https://youerning.top/post/apk-data-export/",
-      "rsslink": "https://youerning.top/index.xml",
-      "blogname": "又耳笔记",
-      "createdat": "2026-10-22T14:16:22.000Z",
-      "crawledat": "2026-10-22T21:11:57.047Z"
-    },
-    {
-      "id": "54710",
-      "title": "趁着今天修复PHP漏洞时间发几张昨天拍的图片",
-      "link": "https://bducds.com/2070/",
-      "rsslink": "https://bducds.com/feed",
-      "blogname": "酷酷的白",
-      "createdat": "2026-10-22T14:06:03.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "60999",
-      "title": "被讨厌之后，人才能自由",
-      "link": "https://wangyurui.com/posts/bei-tao-yan-zhi-hou-ren-cai-neng-zi-you-32460d61",
-      "rsslink": "https://wangyurui.com/feed.xml",
-      "blogname": "太隐",
-      "createdat": "2026-10-22T14:01:36.000Z",
       "crawledat": "2026-11-03T05:24:07.195Z"
     }
   ]
