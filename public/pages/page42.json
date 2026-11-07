@@ -4,6 +4,123 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "52354",
+      "title": "迷失在丰富里",
+      "link": "https://jefftay.com/quotes/lost-in-abundance",
+      "rsslink": "https://jefftay.com/index.xml",
+      "blogname": "按钮与磁带",
+      "createdat": "2026-10-19T00:00:00.000Z",
+      "crawledat": "2026-10-20T00:06:04.000Z"
+    },
+    {
+      "id": "53242",
+      "title": "Horizon 简报 · 2026-10-19",
+      "link": "https://peagothedreamer.github.io/digest/2026-10-19/",
+      "rsslink": "https://peagothedreamer.github.io/index.xml",
+      "blogname": "peago · 空想家",
+      "createdat": "2026-10-19T00:00:00.000Z",
+      "crawledat": "2026-10-22T21:11:57.047Z"
+    },
+    {
+      "id": "53243",
+      "title": "霍华德·马克斯的备忘录：关于资产配置的思考",
+      "link": "https://peagothedreamer.github.io/investing/marks-ruminating-on-asset-allocation/",
+      "rsslink": "https://peagothedreamer.github.io/index.xml",
+      "blogname": "peago · 空想家",
+      "createdat": "2026-10-19T00:00:00.000Z",
+      "crawledat": "2026-10-22T21:11:57.047Z"
+    },
+    {
+      "id": "53804",
+      "title": "用 Docker 部署 UniVPN，让多个 VPN 连接共存",
+      "link": "https://blog.javazero.top/2026/10/19/docker-vpn-ssh-remote-dev/",
+      "rsslink": "https://blog.javazero.top/atom.xml",
+      "blogname": "Java不加糖's Blog",
+      "createdat": "2026-10-19T00:00:00.000Z",
+      "crawledat": "2026-10-23T20:59:45.400Z"
+    },
+    {
+      "id": "53872",
+      "title": "愚蠢与勇敢",
+      "link": "https://ioerr.github.io/posts/yuchun-yu-yonggan/",
+      "rsslink": "https://ioerr.github.io/index.xml",
+      "blogname": "读写错误",
+      "createdat": "2026-10-19T00:00:00.000Z",
+      "crawledat": "2026-10-24T20:13:51.143Z"
+    },
+    {
+      "id": "57622",
+      "title": "学习笔记 | 用OBS和mediamtx搭建本地直播推流",
+      "link": "https://blog.liao-ke.com/posts/obs-mediamtx-live-streaming/",
+      "rsslink": "https://blog.liao-ke.com/rss.xml",
+      "blogname": "LiaoKe的博客",
+      "createdat": "2026-10-19T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "57955",
+      "title": "今年投资收益转负，我却舍不得清仓：重读哈耶克《通往奴役之路》",
+      "link": "https://www.xbstack.com/horizon/reading/the-road-to-serfdom-hayek-1944-reading-notes/",
+      "rsslink": "https://www.xbstack.com/rss.xml",
+      "blogname": "XBSTACK",
+      "createdat": "2026-10-19T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "58304",
+      "title": "OpenAI 补报越权：模型拿自己的「危害判断」顶替了许可",
+      "link": "https://notes.yachiyo.im/posts/openai-misalignment-reports-permission/",
+      "rsslink": "https://notes.yachiyo.im/rss.xml",
+      "blogname": "AI Notes",
+      "createdat": "2026-10-19T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "60411",
+      "title": "第286期 - 径山双溪",
+      "link": "https://weekly.tw93.fun/posts/286/",
+      "rsslink": "https://weekly.tw93.fun/rss.xml",
+      "blogname": "Tw93 潮流周刊",
+      "createdat": "2026-10-19T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "62561",
+      "title": "Agent 用稳定币：一份带口径的台账",
+      "link": "https://u1-lab.xiaoxia.io/agent-stablecoin-ledger/",
+      "rsslink": "https://u1-lab.xiaoxia.io/feed.xml",
+      "blogname": "Tony's Lab",
+      "createdat": "2026-10-19T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "62763",
+      "title": "Horizon 简报 · 2026-10-19",
+      "link": "https://peagothedreamer.github.io/horizon/2026-10-19/",
+      "rsslink": "https://peagothedreamer.github.io/index.xml",
+      "blogname": "peago · 空想家",
+      "createdat": "2026-10-19T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "62996",
+      "title": "Daily AI Stew · 2026-10-19: 18,765 commits",
+      "link": "https://surfing.salty.vip/posts/20261019-ai-2026-10-19",
+      "rsslink": "https://surfing.salty.vip/rss.xml",
+      "blogname": "Surfing（Robin Min）",
+      "createdat": "2026-10-19T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "52437",
+      "title": "小米手机找不到 Google 广告 ID？用 ADB 打开广告设置",
+      "link": "https://kerrynotes.com/xiaomi-google-ad-id-admob/",
+      "rsslink": "https://kerrynotes.com/feed/",
+      "blogname": "Kerry的学习笔记",
+      "createdat": "2026-10-18T23:12:04.000Z",
+      "crawledat": "2026-10-21T03:21:47.452Z"
+    },
+    {
       "id": "62519",
       "title": "Anthropic 内部AI接管六倍工时，初级岗难招",
       "link": "https://anymesgs.com/article/anthropic-junior-hiring-ai-agent-6x/",
@@ -65,123 +182,6 @@
       "blogname": "@Lenciel",
       "createdat": "2026-10-18T18:26:39.000Z",
       "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "63041",
-      "title": "让 Agent 更好的在项目里工作",
-      "link": "https://wener.me/story/make-agent-work-with-project",
-      "rsslink": "https://wener.me/story/rss.xml",
-      "blogname": "Wener's Live & Life",
-      "createdat": "2026-10-18T16:00:00.000Z",
-      "crawledat": "2026-11-04T01:01:33.584Z"
-    },
-    {
-      "id": "52391",
-      "title": "2026W42：桂博园和良渚遗址公园",
-      "link": "https://www.skyue.com/26101822.html",
-      "rsslink": "https://www.skyue.com/feed/",
-      "blogname": "SKYue's Home",
-      "createdat": "2026-10-18T14:43:00.000Z",
-      "crawledat": "2026-10-21T03:21:47.452Z"
-    },
-    {
-      "id": "52339",
-      "title": "Toots 441 2026 Oct.11 - Oct.17",
-      "link": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20261017/",
-      "rsslink": "http://z.arlmy.me/atom.xml",
-      "blogname": "素生",
-      "createdat": "2026-10-18T14:21:27.000Z",
-      "crawledat": "2026-10-18T20:06:45.230Z"
-    },
-    {
-      "id": "52340",
-      "title": "最近惦念 20261002",
-      "link": "https://z.arlmy.me/posts/TILs/thoughts/20261002_Recently/",
-      "rsslink": "http://z.arlmy.me/atom.xml",
-      "blogname": "素生",
-      "createdat": "2026-10-18T14:08:27.000Z",
-      "crawledat": "2026-10-18T20:06:45.230Z"
-    },
-    {
-      "id": "62792",
-      "title": "AI 时代的个人知识库，正在变成吃灰的收藏夹",
-      "link": "https://aizhiz.com/zh/posts/2026-10-18-personal-knowledge-base-saved-stuff/",
-      "rsslink": "https://aizhiz.com/zh/rss.xml",
-      "blogname": "人工智障研究所",
-      "createdat": "2026-10-18T12:00:00.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "55536",
-      "title": "给 AI 做调试：LLM 可解释性入门指南",
-      "link": "https://www.paddysun.top/archives/5570",
-      "rsslink": "https://www.paddysun.top/feed",
-      "blogname": "Under the Sun with Paddy",
-      "createdat": "2026-10-18T11:00:00.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "52386",
-      "title": "鞍山、沈阳短途游（2026）",
-      "link": "https://www.mmbkz.cn/fa3df801.html",
-      "rsslink": "https://www.mmbkz.cn/feed",
-      "blogname": "火喵日记本",
-      "createdat": "2026-10-18T10:48:00.000Z",
-      "crawledat": "2026-10-21T03:21:47.452Z"
-    },
-    {
-      "id": "62522",
-      "title": "半小时替儿子造了一个 128 元的打字游戏",
-      "link": "https://anymesgs.com/article/codex-30min-typing-game-replace-128-app/",
-      "rsslink": "https://anymesgs.com/rss.xml",
-      "blogname": "听说了吗？· AI 解读站",
-      "createdat": "2026-10-18T10:39:59.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "52338",
-      "title": "日常生活中遇到的虫子",
-      "link": "https://blog.xulihang.me/bugs-you-may-meet-in-daily-life",
-      "rsslink": "https://blog.xulihang.me/feed/",
-      "blogname": "xulihang's blog",
-      "createdat": "2026-10-18T10:29:50.000Z",
-      "crawledat": "2026-10-18T20:06:45.230Z"
-    },
-    {
-      "id": "52582",
-      "title": "记一次上海·小红书 RED LAND 2026 观后感",
-      "link": "https://blog.cmyr.ltd/archives/red-land-2026-experience-review.html",
-      "rsslink": "https://blog.cmyr.ltd/atom.xml",
-      "blogname": "草梅友仁的博客",
-      "createdat": "2026-10-18T10:19:47.000Z",
-      "crawledat": "2026-10-21T21:15:28.911Z"
-    },
-    {
-      "id": "52345",
-      "title": "国庆出游之景德镇",
-      "link": "https://pinlyu.com/life/jiangxi-jingdezhen/",
-      "rsslink": "https://pinlyu.com/feed/",
-      "blogname": "频率 - 风卷过的起点",
-      "createdat": "2026-10-18T10:13:02.000Z",
-      "crawledat": "2026-10-18T20:06:45.230Z"
-    },
-    {
-      "id": "55537",
-      "title": "开源 OCR 数据集盘点：文字、表格、文档识别的可商用清单",
-      "link": "https://www.paddysun.top/archives/5543",
-      "rsslink": "https://www.paddysun.top/feed",
-      "blogname": "Under the Sun with Paddy",
-      "createdat": "2026-10-18T09:30:00.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "52873",
-      "title": "【MLIR】Transform Dialect【3】Transform 操作进阶",
-      "link": "https://forcheetah.github.io/2026/10/18/mlir10/",
-      "rsslink": "https://forcheetah.github.io/atom.xml",
-      "blogname": "暮冬Z羡慕的博客",
-      "createdat": "2026-10-18T09:16:37.575Z",
-      "crawledat": "2026-10-22T21:11:57.047Z"
     }
   ]
 }
