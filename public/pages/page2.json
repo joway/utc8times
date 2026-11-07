@@ -4,6 +4,60 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "63101",
+      "title": "互联网架构是怎么演化的？",
+      "link": "https://java4u.cn/architecture/3576.html",
+      "rsslink": "https://java4u.cn/feed",
+      "blogname": "Java for You",
+      "createdat": "2026-11-06T01:19:36.000Z",
+      "crawledat": "2026-11-06T18:53:58.179Z"
+    },
+    {
+      "id": "63102",
+      "title": "什么是软件架构？",
+      "link": "https://java4u.cn/architecture/3575.html",
+      "rsslink": "https://java4u.cn/feed",
+      "blogname": "Java for You",
+      "createdat": "2026-11-06T01:19:31.000Z",
+      "crawledat": "2026-11-06T18:53:58.179Z"
+    },
+    {
+      "id": "63103",
+      "title": "sequel-pro-1.1.2 在 mac 上崩溃问题解决",
+      "link": "https://java4u.cn/tools/3574.html",
+      "rsslink": "https://java4u.cn/feed",
+      "blogname": "Java for You",
+      "createdat": "2026-11-06T01:19:26.000Z",
+      "crawledat": "2026-11-06T18:53:58.179Z"
+    },
+    {
+      "id": "63104",
+      "title": "联调踩的坑：空和空字符串引发的巨大差异",
+      "link": "https://java4u.cn/tools/3572.html",
+      "rsslink": "https://java4u.cn/feed",
+      "blogname": "Java for You",
+      "createdat": "2026-11-06T01:19:21.000Z",
+      "crawledat": "2026-11-06T18:53:58.179Z"
+    },
+    {
+      "id": "63105",
+      "title": "Spring 服务未注入成功的排查思路",
+      "link": "https://java4u.cn/tools/3568.html",
+      "rsslink": "https://java4u.cn/feed",
+      "blogname": "Java for You",
+      "createdat": "2026-11-06T01:19:10.000Z",
+      "crawledat": "2026-11-06T18:53:58.179Z"
+    },
+    {
+      "id": "63106",
+      "title": "mac删除idea配置文件",
+      "link": "https://java4u.cn/tools/3567.html",
+      "rsslink": "https://java4u.cn/feed",
+      "blogname": "Java for You",
+      "createdat": "2026-11-06T01:19:05.000Z",
+      "crawledat": "2026-11-06T18:53:58.179Z"
+    },
+    {
       "id": "63090",
       "title": "OpenWrt 扩容实战：NVMe 分区已经扩大，但 df 显示空间不变",
       "link": "https://jiajunhuang.com/articles/2026_11_06-upgrade_openwrt.md.html",
@@ -128,60 +182,6 @@
       "blogname": "Lei Mao's Log Book",
       "createdat": "2026-11-05T08:00:00.000Z",
       "crawledat": "2026-11-05T10:20:29.498Z"
-    },
-    {
-      "id": "63065",
-      "title": "PokéBonk",
-      "link": "https://leimao.github.io/essay/PokeBonk/",
-      "rsslink": "https://leimao.github.io/atom.xml",
-      "blogname": "Lei Mao's Log Book",
-      "createdat": "2026-11-05T08:00:00.000Z",
-      "crawledat": "2026-11-05T10:20:29.498Z"
-    },
-    {
-      "id": "63062",
-      "title": "斐济之旅",
-      "link": "https://www.seis-jun.xyz/blog/2026-11-05-trip-to-FIJI.html",
-      "rsslink": "https://www.seis-jun.xyz/atom.xml",
-      "blogname": "seisamuse",
-      "createdat": "2026-11-05T04:08:50.000Z",
-      "crawledat": "2026-11-05T10:20:29.498Z"
-    },
-    {
-      "id": "63060",
-      "title": "听到别人的声音",
-      "link": "https://kaix.in/2026/1105/",
-      "rsslink": "https://kaix.in/feed/",
-      "blogname": "KAIX.IN",
-      "createdat": "2026-11-05T04:00:04.000Z",
-      "crawledat": "2026-11-05T10:20:29.498Z"
-    },
-    {
-      "id": "63123",
-      "title": "各行各业轮流哭穷",
-      "link": "https://bestcoder.cn/industry-budget-competition",
-      "rsslink": "https://bestcoder.cn/feed",
-      "blogname": "顶尖研发的个人博客",
-      "createdat": "2026-11-05T02:30:26.000Z",
-      "crawledat": "2026-11-06T18:53:58.179Z"
-    },
-    {
-      "id": "63070",
-      "title": "Hexo 建站笔记",
-      "link": "https://java4u.cn/tools/3565.html",
-      "rsslink": "https://java4u.cn/feed",
-      "blogname": "Java for You",
-      "createdat": "2026-11-05T01:26:49.000Z",
-      "crawledat": "2026-11-05T19:29:29.538Z"
-    },
-    {
-      "id": "63071",
-      "title": "Idea 使用 token 登录 GitHub",
-      "link": "https://java4u.cn/tools/3564.html",
-      "rsslink": "https://java4u.cn/feed",
-      "blogname": "Java for You",
-      "createdat": "2026-11-05T01:26:45.000Z",
-      "crawledat": "2026-11-05T19:29:29.538Z"
     }
   ]
 }
