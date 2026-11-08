@@ -4,6 +4,42 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "58294",
+      "title": "Agent Compute Engine：代理的「计算机」抬到硬件隔离 microVM",
+      "link": "https://notes.yachiyo.im/posts/google-agent-compute-engine/",
+      "rsslink": "https://notes.yachiyo.im/rss.xml",
+      "blogname": "AI Notes",
+      "createdat": "2026-10-29T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "58890",
+      "title": "截图里明明有字，OCR 为什么返回空？",
+      "link": "https://www.echovic.com/blog/ai/clipnest-v018-ocr-retrospective",
+      "rsslink": "https://www.echovic.com/rss.xml",
+      "blogname": "青雲的博客",
+      "createdat": "2026-10-29T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "58891",
+      "title": "留白 0.6.7 开发复盘：全文搜索、双链和取消跳转",
+      "link": "https://www.echovic.com/blog/architecture-design/liubai-067-retrospective",
+      "rsslink": "https://www.echovic.com/rss.xml",
+      "blogname": "青雲的博客",
+      "createdat": "2026-10-29T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "61071",
+      "title": "Vite+（vite-plus）调研：统一前端工具链与 vp 用法",
+      "link": "https://yindongliang.com/docs/Frontend/Tooling/vite-plus-survey/",
+      "rsslink": "https://yindongliang.com/index.xml",
+      "blogname": "LYon's Blog",
+      "createdat": "2026-10-29T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
       "id": "62549",
       "title": "把药物研发拆成工序：Anthropic 生命科学技术栈",
       "link": "https://u1-lab.xiaoxia.io/anthropic-bio/",
@@ -146,42 +182,6 @@
       "blogname": "@Lenciel",
       "createdat": "2026-10-28T17:09:37.000Z",
       "crawledat": "2026-10-30T09:36:09.912Z"
-    },
-    {
-      "id": "54653",
-      "title": "Fragments 0x001A",
-      "link": "http://0.0.0.0:4003/2026/10/fragments-0x001a/",
-      "rsslink": "https://lenciel.com/feed.xml",
-      "blogname": "@Lenciel",
-      "createdat": "2026-10-28T17:09:37.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "54024",
-      "title": "《查拉图斯特拉如是说》导读：一本反福音书",
-      "link": "https://lucifer.ren/blog/2026/10/29/zarathustra/",
-      "rsslink": "https://lucifer.ren/blog/atom.xml",
-      "blogname": "lucifer的网络博客",
-      "createdat": "2026-10-28T16:00:00.000Z",
-      "crawledat": "2026-10-29T18:01:28.812Z"
-    },
-    {
-      "id": "54030",
-      "title": "BepInEx Mod入门",
-      "link": "https://elmagnifico.tech/2026/10/29/BepInEx-Mod/",
-      "rsslink": "http://elmagnifico.tech/feed.xml",
-      "blogname": "elmagnifico",
-      "createdat": "2026-10-28T16:00:00.000Z",
-      "crawledat": "2026-10-29T18:01:28.812Z"
-    },
-    {
-      "id": "54573",
-      "title": "PHP 性能优化，以及用 FastCGI 缓存加速 PHP 页面",
-      "link": "https://dusays.com/posts/895/",
-      "rsslink": "https://dusays.com/atom.xml",
-      "blogname": "杜老师说",
-      "createdat": "2026-10-28T16:00:00.000Z",
-      "crawledat": "2026-10-31T20:59:03.448Z"
     }
   ]
 }
