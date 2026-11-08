@@ -4,6 +4,105 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "58889",
+      "title": "给 Agent 建一套能力评测：先把「不会」和「没时间」分开",
+      "link": "https://www.echovic.com/blog/ai/orca-capability-evaluation",
+      "rsslink": "https://www.echovic.com/rss.xml",
+      "blogname": "青雲的博客",
+      "createdat": "2026-10-30T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "61068",
+      "title": "workerd：运行原理、源码架构与自部署流程",
+      "link": "https://yindongliang.com/docs/Cloudflare/workerd-architecture-and-self-hosting/",
+      "rsslink": "https://yindongliang.com/index.xml",
+      "blogname": "LYon's Blog",
+      "createdat": "2026-10-30T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "61069",
+      "title": "huashu-design：在 Agent 里打一句话拿回能交付的设计",
+      "link": "https://yindongliang.com/docs/Frontend/UI/huashu-design-skill/",
+      "rsslink": "https://yindongliang.com/index.xml",
+      "blogname": "LYon's Blog",
+      "createdat": "2026-10-30T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "61070",
+      "title": "划词高亮原理与实现",
+      "link": "https://yindongliang.com/docs/Frontend/UI/text-selection-highlight/",
+      "rsslink": "https://yindongliang.com/index.xml",
+      "blogname": "LYon's Blog",
+      "createdat": "2026-10-30T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "62545",
+      "title": "记忆税：一次对 Agent 记忆的审计",
+      "link": "https://u1-lab.xiaoxia.io/memory-tax/",
+      "rsslink": "https://u1-lab.xiaoxia.io/feed.xml",
+      "blogname": "Tony's Lab",
+      "createdat": "2026-10-30T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "62546",
+      "title": "Mika 深度拆解：一台看不见的屏，一双看不见的手",
+      "link": "https://u1-lab.xiaoxia.io/mika-deepdive/",
+      "rsslink": "https://u1-lab.xiaoxia.io/feed.xml",
+      "blogname": "Tony's Lab",
+      "createdat": "2026-10-30T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "62547",
+      "title": "关于 EIP-7702 账户委托机制的说明",
+      "link": "https://u1-lab.xiaoxia.io/eip7702/",
+      "rsslink": "https://u1-lab.xiaoxia.io/feed.xml",
+      "blogname": "Tony's Lab",
+      "createdat": "2026-10-30T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "62548",
+      "title": "美股 Q3 2026 财报季时间表",
+      "link": "https://u1-lab.xiaoxia.io/earnings-q3-2026/",
+      "rsslink": "https://u1-lab.xiaoxia.io/feed.xml",
+      "blogname": "Tony's Lab",
+      "createdat": "2026-10-30T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "62749",
+      "title": "Horizon 简报 · 2026-10-30",
+      "link": "https://peagothedreamer.github.io/horizon/2026-10-30/",
+      "rsslink": "https://peagothedreamer.github.io/index.xml",
+      "blogname": "peago · 空想家",
+      "createdat": "2026-10-30T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "62815",
+      "title": "Waline 评论系统折腾记：自托管、字体和 PJAX 的三重坑",
+      "link": "https://tinkerlog.dpdns.org/p/waline%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E6%8A%98%E8%85%BE%E8%AE%B0/",
+      "rsslink": "https://yrqspace.github.io/index.xml",
+      "blogname": "爱玩win11的me",
+      "createdat": "2026-10-30T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "62831",
+      "title": "红酥手，黄縢酒：陆游这辈子，没走出那座沈园",
+      "link": "https://shilongzai.com/posts/p-d355e07bb6017b78/",
+      "rsslink": "https://shilongzai.com/feed.xml",
+      "blogname": "石龙仔文库",
+      "createdat": "2026-10-30T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
       "id": "54026",
       "title": "学习周刊-总第287期-2026年第44周",
       "link": "https://wiki.eryajf.net/pages/f7ca02/",
@@ -83,105 +182,6 @@
       "blogname": "SuperGrey的笔记本",
       "createdat": "2026-10-29T13:34:34.000Z",
       "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "58814",
-      "title": "当时明月在，曾照彩云归",
-      "link": "https://cavill.site/articles/gujian-qitan-afterthoughts",
-      "rsslink": "https://cavill.site/rss.xml",
-      "blogname": "栖迟处",
-      "createdat": "2026-10-29T13:09:18.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "56341",
-      "title": "「Z 世代」很鳥",
-      "link": "https://blog.giveanornot.com/gen-z-sucks/",
-      "rsslink": "https://blog.giveanornot.com/index.xml",
-      "blogname": "資工小廢物 - JN",
-      "createdat": "2026-10-29T12:40:53.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "62201",
-      "title": "BeWild ChatGPT Plus 3 个月套餐第 3 个月续订再次失败：取消套餐后修复成功，菲律宾比索计价与 Codex 权益观察",
-      "link": "https://www.shuijingwanwq.com/2026/10/29/27982/",
-      "rsslink": "https://www.shuijingwanwq.com/feed/",
-      "blogname": "永夜",
-      "createdat": "2026-10-29T11:20:27.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "54025",
-      "title": "关于登味",
-      "link": "https://www.seis-jun.xyz/blog/2026-10-29-boomer-vibe.html",
-      "rsslink": "https://www.seis-jun.xyz/atom.xml",
-      "blogname": "seisamuse",
-      "createdat": "2026-10-29T11:11:26.000Z",
-      "crawledat": "2026-10-29T18:01:28.812Z"
-    },
-    {
-      "id": "54021",
-      "title": "What a GPU Workshop Reveals About the Developer Experience Gap in Cloud Native Infrastructure",
-      "link": "https://jimmysong.io/blog/containerdays-singapore-2026-recap/",
-      "rsslink": "https://jimmysong.io/index.xml",
-      "blogname": "云原生",
-      "createdat": "2026-10-29T11:06:46.000Z",
-      "crawledat": "2026-10-29T18:01:28.812Z"
-    },
-    {
-      "id": "62502",
-      "title": "智能体起草的 PR 已超四成：GitHub 年报里的开发协作变局",
-      "link": "https://anymesgs.com/article/github-octoverse-2026-agent-prs/",
-      "rsslink": "https://anymesgs.com/rss.xml",
-      "blogname": "听说了吗？· AI 解读站",
-      "createdat": "2026-10-29T10:40:37.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "54031",
-      "title": "游戏",
-      "link": "https://www.kawabangga.com/posts/7446",
-      "rsslink": "https://www.kawabangga.com/feed",
-      "blogname": "卡瓦邦噶！",
-      "createdat": "2026-10-29T10:37:24.000Z",
-      "crawledat": "2026-10-29T18:01:28.812Z"
-    },
-    {
-      "id": "62973",
-      "title": "人类无法预料自己会为什么流泪。",
-      "link": "https://yezhaner.net/%e4%ba%ba%e7%b1%bb%e6%97%a0%e6%b3%95%e9%a2%84%e6%96%99%e8%87%aa%e5%b7%b1%e4%bc%9a%e4%b8%ba%e4%bb%80%e4%b9%88%e6%b5%81%e6%b3%aa%e3%80%82.htm",
-      "rsslink": "https://yezhaner.net/feed",
-      "blogname": "夜旅者",
-      "createdat": "2026-10-29T09:12:24.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "58010",
-      "title": "# 08 一只龙虾改变了大厂：开源项目和创业公司怎么定义个人智能体",
-      "link": "https://www.sagasu.art/posts/how-open-source-and-startups-define-personal-agents",
-      "rsslink": "https://www.sagasu.art/rss.xml",
-      "blogname": "Sagasu",
-      "createdat": "2026-10-29T08:43:39.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "55166",
-      "title": "C语言学习",
-      "link": "https://www.xchere.xyz/p/e4b3.html",
-      "rsslink": "https://www.xchere.xyz/atom.xml",
-      "blogname": "叉息的空中咖啡馆",
-      "createdat": "2026-10-29T08:30:42.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "54032",
-      "title": "图片格式怎么选：JPEG XL、AVIF、WebP、HEIF 的科普与取舍",
-      "link": "https://blog.zhheo.com/p/gev3cm0t.html",
-      "rsslink": "https://blog.zhheo.com/rss.xml",
-      "blogname": "张洪Heo",
-      "createdat": "2026-10-29T07:25:04.000Z",
-      "crawledat": "2026-10-29T18:01:28.812Z"
     }
   ]
 }
