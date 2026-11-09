@@ -4,6 +4,69 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "55167",
+      "title": "排序算法",
+      "link": "https://www.xchere.xyz/p/ef35.html",
+      "rsslink": "https://www.xchere.xyz/atom.xml",
+      "blogname": "叉息的空中咖啡馆",
+      "createdat": "2026-10-27T09:13:49.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "54016",
+      "title": "Debian 13 TCP Timestamps 导致 apt 连接被防火墙丢包",
+      "link": "https://blog.rei.ac/post/debian-13-tcp-timestamps-%E5%AF%BC%E8%87%B4-apt-%E8%BF%9E%E6%8E%A5%E8%A2%AB%E9%98%B2%E7%81%AB%E5%A2%99%E4%B8%A2%E5%8C%85/",
+      "rsslink": "https://rei.ac/index.xml",
+      "blogname": "Rei's Blog",
+      "createdat": "2026-10-27T09:05:56.000Z",
+      "crawledat": "2026-10-29T00:35:37.430Z"
+    },
+    {
+      "id": "62170",
+      "title": "昌平马拉松PB了",
+      "link": "http://www.popsite.cn/2026/10/27/20261027-2026-changping-marathon/",
+      "rsslink": "https://popsite.cn/atom.xml",
+      "blogname": "大江小浪",
+      "createdat": "2026-10-27T08:42:33.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "54088",
+      "title": "博客重构手记：从 WordPress 到 Hugo 静态化",
+      "link": "https://zhang.ge/wordpress-to-hugo.html",
+      "rsslink": "https://zhang.ge/feed",
+      "blogname": "张戈博客",
+      "createdat": "2026-10-27T07:35:00.000Z",
+      "crawledat": "2026-10-31T16:49:49.104Z"
+    },
+    {
+      "id": "62922",
+      "title": "為什麼我把 Mermaid 換成 Obsidian 開源的 pele：快 20 倍，渲染器剩三成",
+      "link": "https://koimsurai.com/blog/mermaid-to-pele-obsidian-renderer",
+      "rsslink": "https://koimsurai.com/rss",
+      "blogname": "宙と木 - 一個寫代碼的人，偶爾造點東西",
+      "createdat": "2026-10-27T07:18:56.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "53976",
+      "title": "Triton Tensor Descriptor",
+      "link": "https://leimao.github.io/blog/Triton-Tensor-Descriptor/",
+      "rsslink": "https://leimao.github.io/atom.xml",
+      "blogname": "Lei Mao's Log Book",
+      "createdat": "2026-10-27T07:00:00.000Z",
+      "crawledat": "2026-10-27T08:38:40.452Z"
+    },
+    {
+      "id": "62780",
+      "title": "[Github] taste-skill – 让 AI 前端设计摆脱模板感的开源 Skill",
+      "link": "https://warpnav.com/taste-skill-frontend",
+      "rsslink": "https://warpnav.com/feed",
+      "blogname": "WarpBlog · WarpNav 曲速导航",
+      "createdat": "2026-10-27T05:47:59.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
       "id": "62975",
       "title": "操场上的冰坑和被口水涂亮的指甲。",
       "link": "https://yezhaner.net/%e6%93%8d%e5%9c%ba%e4%b8%8a%e7%9a%84%e5%86%b0%e5%9d%91%e5%92%8c%e8%a2%ab%e5%8f%a3%e6%b0%b4%e6%b6%82%e4%ba%ae%e7%9a%84%e6%8c%87%e7%94%b2%e3%80%82.htm",
@@ -119,69 +182,6 @@
       "blogname": "张洪Heo",
       "createdat": "2026-10-27T02:50:43.000Z",
       "crawledat": "2026-10-27T08:38:40.452Z"
-    },
-    {
-      "id": "53992",
-      "title": "Kimi K3.1 Pro正式发布：2.8万亿参数、百万Token上下文，AI编程、3D建模和金融分析全面升级",
-      "link": "https://www.wangdu.site/software/ai/2418.html",
-      "rsslink": "https://www.wangdu.site/feed",
-      "blogname": "文武科技柜",
-      "createdat": "2026-10-27T02:47:13.000Z",
-      "crawledat": "2026-10-27T21:49:31.755Z"
-    },
-    {
-      "id": "53993",
-      "title": "万象拼音：免费开源Rime输入法方案，支持Windows、Mac、安卓和iOS，词库丰富、输入更精准",
-      "link": "https://www.wangdu.site/software/tools/2417.html",
-      "rsslink": "https://www.wangdu.site/feed",
-      "blogname": "文武科技柜",
-      "createdat": "2026-10-27T02:46:17.000Z",
-      "crawledat": "2026-10-27T21:49:31.755Z"
-    },
-    {
-      "id": "54067",
-      "title": "腾讯云 Octop 快速入门：一小时跑通一个自托管的多用户 Agent 平台",
-      "link": "https://youerning.top/post/octop-quickstart/",
-      "rsslink": "https://youerning.top/index.xml",
-      "blogname": "又耳笔记",
-      "createdat": "2026-10-27T02:31:23.000Z",
-      "crawledat": "2026-10-31T04:05:48.759Z"
-    },
-    {
-      "id": "53983",
-      "title": "Fragments 0x0019",
-      "link": "https://lenciel.com/2026/10/fragments-0x0019/",
-      "rsslink": "https://lenciel.com/feed.xml",
-      "blogname": "@Lenciel",
-      "createdat": "2026-10-27T02:28:22.000Z",
-      "crawledat": "2026-10-27T21:49:31.755Z"
-    },
-    {
-      "id": "54654",
-      "title": "Fragments 0x0019",
-      "link": "http://0.0.0.0:4003/2026/10/fragments-0x0019/",
-      "rsslink": "https://lenciel.com/feed.xml",
-      "blogname": "@Lenciel",
-      "createdat": "2026-10-27T02:28:22.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "54570",
-      "title": "100 个 VibeCoding 项目之 飞书任务开成 DSH 会话",
-      "link": "https://zkpeace.com/blog-cn/posts/52680/",
-      "rsslink": "https://zkpeace.com/blog-cn/atom.xml",
-      "blogname": "途中的树",
-      "createdat": "2026-10-27T02:20:00.000Z",
-      "crawledat": "2026-10-31T20:59:03.448Z"
-    },
-    {
-      "id": "56775",
-      "title": "同心路的文昌鸡",
-      "link": "https://www.imcry.vip/post/2026-10-27-948/",
-      "rsslink": "https://www.imcry.vip/index.xml",
-      "blogname": "初然忆",
-      "createdat": "2026-10-27T01:09:48.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
     }
   ]
 }
