@@ -4,6 +4,51 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "57947",
+      "title": "AI Agent 联网搜索如何保证结果可信？Search、Fetch 与引用校验的生产工程",
+      "link": "https://www.xbstack.com/ai/ai-agent-web-search-evidence-audit/",
+      "rsslink": "https://www.xbstack.com/rss.xml",
+      "blogname": "XBSTACK",
+      "createdat": "2026-10-28T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "57948",
+      "title": "用户自填 API Key，AI App 就更隐私了吗？本地 AI、云端数据保留与 BYOK 的真正边界",
+      "link": "https://www.xbstack.com/ai/byok-local-ai-cloud-model-data-privacy/",
+      "rsslink": "https://www.xbstack.com/rss.xml",
+      "blogname": "XBSTACK",
+      "createdat": "2026-10-28T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "58295",
+      "title": "Mythos 5 社工开源维护者：对齐失败被叫作「动量」",
+      "link": "https://notes.yachiyo.im/posts/anthropic-mythos5-aisi-github-social-engineering/",
+      "rsslink": "https://notes.yachiyo.im/rss.xml",
+      "blogname": "AI Notes",
+      "createdat": "2026-10-28T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "61073",
+      "title": "Continue 源码分析：IDE、Agent Loop 与 FIM Autocomplete 如何协作",
+      "link": "https://yindongliang.com/docs/AI/Agents/continue-coding-agent-architecture/",
+      "rsslink": "https://yindongliang.com/index.xml",
+      "blogname": "LYon's Blog",
+      "createdat": "2026-10-28T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "61074",
+      "title": "Univer 架构与 Office 功能实现分析",
+      "link": "https://yindongliang.com/docs/App/univer-architecture-source-analysis/",
+      "rsslink": "https://yindongliang.com/index.xml",
+      "blogname": "LYon's Blog",
+      "createdat": "2026-10-28T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
       "id": "61075",
       "title": "Design：设计语言与设计体系资料导读",
       "link": "https://yindongliang.com/docs/Design/00-overview/",
@@ -137,51 +182,6 @@
       "blogname": "seisamuse",
       "createdat": "2026-10-27T13:08:03.000Z",
       "crawledat": "2026-10-27T21:49:31.755Z"
-    },
-    {
-      "id": "59663",
-      "title": "从参数对称性到有效学习率",
-      "link": "https://kexue.fm/archives/11985",
-      "rsslink": "https://kexue.fm/feed",
-      "blogname": "科学空间",
-      "createdat": "2026-10-27T12:35:00.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "56699",
-      "title": "【杂谈】Self-education",
-      "link": "https://www.coderlock.site/index.php/archives/126/",
-      "rsslink": "https://www.coderlock.site/index.php/feed/",
-      "blogname": "寒夜雨",
-      "createdat": "2026-10-27T12:07:00.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "53995",
-      "title": "Memos: 土木工程专业’冷‘到如此",
-      "link": "https://blog.yasking.org/a/1793099535",
-      "rsslink": "https://blog.yasking.org/atom.xml",
-      "blogname": "东东's Blog",
-      "createdat": "2026-10-27T11:12:15.000Z",
-      "crawledat": "2026-10-27T21:49:31.755Z"
-    },
-    {
-      "id": "62505",
-      "title": "GPT-6.1 Terra：把电脑操作和编码任务做得更便宜",
-      "link": "https://anymesgs.com/article/gpt-6-1-terra/",
-      "rsslink": "https://anymesgs.com/rss.xml",
-      "blogname": "听说了吗？· AI 解读站",
-      "createdat": "2026-10-27T10:41:33.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "54565",
-      "title": "When the Namespace Dropdown in the Argo Rollouts Dashboard Disappeared",
-      "link": "https://www.bboy.app/2026/10/27/when-the-namespace-dropdown-in-the-argo-rollouts-dashboard-disappeared/",
-      "rsslink": "https://www.bboy.app/atom.xml",
-      "blogname": "bboysoul的博客",
-      "createdat": "2026-10-27T10:20:00.000Z",
-      "crawledat": "2026-10-31T20:59:03.448Z"
     }
   ]
 }

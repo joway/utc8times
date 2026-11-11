@@ -4,6 +4,51 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "54028",
+      "title": "Nova v3.2.0：会话内消息搜索，和一次搜索栏返工",
+      "link": "https://wsdjeg.net/nova-v3-2-0-release/",
+      "rsslink": "https://wsdjeg.net/feed.xml",
+      "blogname": "Eric's Blog",
+      "createdat": "2026-10-25T00:00:00.000Z",
+      "crawledat": "2026-10-29T18:01:28.812Z"
+    },
+    {
+      "id": "58298",
+      "title": "州检察长要求禁止「递归自我改进」：消费者保护法开始碰前沿研发",
+      "link": "https://notes.yachiyo.im/posts/state-ag-openai-consumer-protection/",
+      "rsslink": "https://notes.yachiyo.im/rss.xml",
+      "blogname": "AI Notes",
+      "createdat": "2026-10-25T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "58896",
+      "title": "我让 Codex 在 Windows 虚拟机里替我测了一晚上",
+      "link": "https://www.echovic.com/blog/ai/codex-windows-vm-qa-night",
+      "rsslink": "https://www.echovic.com/rss.xml",
+      "blogname": "青雲的博客",
+      "createdat": "2026-10-25T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "60276",
+      "title": "独立开发周记 193：Token 狂飙，得失难料",
+      "link": "https://shudao.wang/blog/weekly/weekly-193",
+      "rsslink": "https://www.shudao.wang/feed.xml",
+      "blogname": "Indie Dev Weekly",
+      "createdat": "2026-10-25T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "62551",
+      "title": "李录：工具，还是造物 · 哥大对谈中英对照全文",
+      "link": "https://u1-lab.xiaoxia.io/lilu-columbia-2026/",
+      "rsslink": "https://u1-lab.xiaoxia.io/feed.xml",
+      "blogname": "Tony's Lab",
+      "createdat": "2026-10-25T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
       "id": "62552",
       "title": "一只狐狸的三层生意：mUSD、MetaMask 与 Linea",
       "link": "https://u1-lab.xiaoxia.io/metamask-dossier/",
@@ -137,51 +182,6 @@
       "blogname": "局域自由",
       "createdat": "2026-10-24T12:16:20.000Z",
       "crawledat": "2026-10-25T20:22:55.430Z"
-    },
-    {
-      "id": "62512",
-      "title": "Brotli 未认证远程执行漏洞：补丁如何沿软件依赖链扩散",
-      "link": "https://anymesgs.com/article/openai-brotli-rce-disclosure/",
-      "rsslink": "https://anymesgs.com/rss.xml",
-      "blogname": "听说了吗？· AI 解读站",
-      "createdat": "2026-10-24T11:03:52.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "53874",
-      "title": "在一个网站下远程管理多台设备上的 DeepSeek Harness",
-      "link": "https://www.imaegoo.com/2026/remote-manage-deepseek-harness/",
-      "rsslink": "https://www.imaegoo.com/atom.xml",
-      "blogname": "iMaeGoo's Blog",
-      "createdat": "2026-10-24T10:00:00.000Z",
-      "crawledat": "2026-10-24T20:13:51.143Z"
-    },
-    {
-      "id": "55712",
-      "title": "QWasmLocalFileAccess wasm64适配",
-      "link": "https://uwillno.com/blog/qwasmlocalfileaccessforwasm64",
-      "rsslink": "https://uwillno.com/rss.xml",
-      "blogname": "UWillno's Blog",
-      "createdat": "2026-10-24T09:24:44.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "53870",
-      "title": "From Zero to Shared GPUs: Hands-on GPU Scheduling in Kubernetes with HAMi",
-      "link": "https://jimmysong.io/slide/containerdays-sg-gpu-workshop-slide/",
-      "rsslink": "https://jimmysong.io/index.xml",
-      "blogname": "云原生",
-      "createdat": "2026-10-24T09:15:47.000Z",
-      "crawledat": "2026-10-24T15:23:52.990Z"
-    },
-    {
-      "id": "56343",
-      "title": "LED 耳環誕生（三）：畫 PCB 電路圖什麼的，我學就是了 QwQ",
-      "link": "https://blog.giveanornot.com/led-earing-3/",
-      "rsslink": "https://blog.giveanornot.com/index.xml",
-      "blogname": "資工小廢物 - JN",
-      "createdat": "2026-10-24T08:01:17.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
     }
   ]
 }

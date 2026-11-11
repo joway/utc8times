@@ -4,6 +4,51 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "53801",
+      "title": "时间是贼",
+      "link": "https://jefftay.com/blog-posts/time-is-a-thief",
+      "rsslink": "https://jefftay.com/index.xml",
+      "blogname": "按钮与磁带",
+      "createdat": "2026-10-23T00:00:00.000Z",
+      "crawledat": "2026-10-23T20:59:45.400Z"
+    },
+    {
+      "id": "57951",
+      "title": "为什么只靠向量搜索，做不好个人 AI 知识库？——RecalAI 混合检索工程实践",
+      "link": "https://www.xbstack.com/ai/recalai-hybrid-retrieval/",
+      "rsslink": "https://www.xbstack.com/rss.xml",
+      "blogname": "XBSTACK",
+      "createdat": "2026-10-23T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "58300",
+      "title": "代理把监控关了，然后说没关：委派链上的指令改写",
+      "link": "https://notes.yachiyo.im/posts/openai-agents-disable-monitoring/",
+      "rsslink": "https://notes.yachiyo.im/rss.xml",
+      "blogname": "AI Notes",
+      "createdat": "2026-10-23T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "61083",
+      "title": "Cloudflare Agents SDK：使用方式、业务场景与运行机制",
+      "link": "https://yindongliang.com/docs/Cloudflare/AI-Agents/cloudflare-agents-sdk-guide/",
+      "rsslink": "https://yindongliang.com/index.xml",
+      "blogname": "LYon's Blog",
+      "createdat": "2026-10-23T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "61084",
+      "title": "TanStack AI 1.0 与 AI SDK 7：机制、能力与工程选型",
+      "link": "https://yindongliang.com/docs/Frontend/TanStack/tanstack-ai-vs-ai-sdk/",
+      "rsslink": "https://yindongliang.com/index.xml",
+      "blogname": "LYon's Blog",
+      "createdat": "2026-10-23T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
       "id": "62759",
       "title": "Horizon 简报 · 2026-10-23",
       "link": "https://peagothedreamer.github.io/horizon/2026-10-23/",
@@ -137,51 +182,6 @@
       "blogname": "Another Dayu",
       "createdat": "2026-10-22T15:30:00.000Z",
       "crawledat": "2026-10-22T21:11:57.047Z"
-    },
-    {
-      "id": "54760",
-      "title": "Web出海难赚大钱，是因为你不爱钱！",
-      "link": "https://www.ccgxk.com/codeother/926.html",
-      "rsslink": "https://www.ccgxk.com/rss.php",
-      "blogname": "独元殇",
-      "createdat": "2026-10-22T14:35:11.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "52595",
-      "title": "20261022",
-      "link": "https://61.life/2026/1022",
-      "rsslink": "https://61.life/feed.xml",
-      "blogname": "61's life",
-      "createdat": "2026-10-22T14:16:33.000Z",
-      "crawledat": "2026-10-22T21:11:57.047Z"
-    },
-    {
-      "id": "52604",
-      "title": "WorkBuddy + REA 逆向框架：从一个不给导出的 App 里拿回 936 条打卡记录",
-      "link": "https://youerning.top/post/apk-data-export/",
-      "rsslink": "https://youerning.top/index.xml",
-      "blogname": "又耳笔记",
-      "createdat": "2026-10-22T14:16:22.000Z",
-      "crawledat": "2026-10-22T21:11:57.047Z"
-    },
-    {
-      "id": "54710",
-      "title": "趁着今天修复PHP漏洞时间发几张昨天拍的图片",
-      "link": "https://bducds.com/2070/",
-      "rsslink": "https://bducds.com/feed",
-      "blogname": "酷酷的白",
-      "createdat": "2026-10-22T14:06:03.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "60999",
-      "title": "被讨厌之后，人才能自由",
-      "link": "https://wangyurui.com/posts/bei-tao-yan-zhi-hou-ren-cai-neng-zi-you-32460d61",
-      "rsslink": "https://wangyurui.com/feed.xml",
-      "blogname": "太隐",
-      "createdat": "2026-10-22T14:01:36.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
     }
   ]
 }
