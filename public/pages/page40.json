@@ -4,6 +4,24 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "58896",
+      "title": "我让 Codex 在 Windows 虚拟机里替我测了一晚上",
+      "link": "https://www.echovic.com/blog/ai/codex-windows-vm-qa-night",
+      "rsslink": "https://www.echovic.com/rss.xml",
+      "blogname": "青雲的博客",
+      "createdat": "2026-10-25T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
+      "id": "60276",
+      "title": "独立开发周记 193：Token 狂飙，得失难料",
+      "link": "https://shudao.wang/blog/weekly/weekly-193",
+      "rsslink": "https://www.shudao.wang/feed.xml",
+      "blogname": "Indie Dev Weekly",
+      "createdat": "2026-10-25T00:00:00.000Z",
+      "crawledat": "2026-11-03T05:24:07.195Z"
+    },
+    {
       "id": "62551",
       "title": "李录：工具，还是造物 · 哥大对谈中英对照全文",
       "link": "https://u1-lab.xiaoxia.io/lilu-columbia-2026/",
@@ -164,24 +182,6 @@
       "blogname": "iMaeGoo's Blog",
       "createdat": "2026-10-24T10:00:00.000Z",
       "crawledat": "2026-10-24T20:13:51.143Z"
-    },
-    {
-      "id": "55712",
-      "title": "QWasmLocalFileAccess wasm64适配",
-      "link": "https://uwillno.com/blog/qwasmlocalfileaccessforwasm64",
-      "rsslink": "https://uwillno.com/rss.xml",
-      "blogname": "UWillno's Blog",
-      "createdat": "2026-10-24T09:24:44.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "53870",
-      "title": "From Zero to Shared GPUs: Hands-on GPU Scheduling in Kubernetes with HAMi",
-      "link": "https://jimmysong.io/slide/containerdays-sg-gpu-workshop-slide/",
-      "rsslink": "https://jimmysong.io/index.xml",
-      "blogname": "云原生",
-      "createdat": "2026-10-24T09:15:47.000Z",
-      "crawledat": "2026-10-24T15:23:52.990Z"
     }
   ]
 }
