@@ -4,184 +4,184 @@
   "totalPages": 50,
   "items": [
     {
-      "id": "62498",
-      "title": "Google 自家 AI 搜索动了广告蛋糕，市值少了 5000 亿美元",
-      "link": "https://anymesgs.com/article/google-ai-search-market-value/",
+      "id": "63079",
+      "title": "本地远程连接 MySQL server",
+      "link": "https://java4u.cn/tools/3547.html",
+      "rsslink": "https://java4u.cn/feed",
+      "blogname": "Java for You",
+      "createdat": "2026-11-04T01:23:13.000Z",
+      "crawledat": "2026-11-05T19:29:29.538Z"
+    },
+    {
+      "id": "66042",
+      "title": "向云端｜西南自驾12 - 青岩",
+      "link": "https://blog.ops-coffee.com/r/2026-southwest-road-trip-12-qingyan.html",
+      "rsslink": "https://blog.ops-coffee.cn/feed.xml",
+      "blogname": "运维咖啡吧",
+      "createdat": "2026-11-04T00:36:46.000Z",
+      "crawledat": "2026-11-12T21:43:12.863Z"
+    },
+    {
+      "id": "66129",
+      "title": "某报警系统智能化开发记录：实现到放弃",
+      "link": "https://uwillno.com/blog/某报警系统智能化开发记录",
+      "rsslink": "https://uwillno.com/rss.xml",
+      "blogname": "UWillno's Blog",
+      "createdat": "2026-11-04T00:00:44.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "63052",
+      "title": "Kubernetes 运维笔记合集",
+      "link": "https://www.chenshaowen.com/blog/kubernetes-notes-collection.html",
+      "rsslink": "https://www.chenshaowen.com/atom.xml",
+      "blogname": "陈少文的博客",
+      "createdat": "2026-11-04T00:00:00.000Z",
+      "crawledat": "2026-11-04T19:22:02.387Z"
+    },
+    {
+      "id": "63053",
+      "title": "Linux 与网络排查笔记合集",
+      "link": "https://www.chenshaowen.com/blog/linux-network-notes-collection.html",
+      "rsslink": "https://www.chenshaowen.com/atom.xml",
+      "blogname": "陈少文的博客",
+      "createdat": "2026-11-04T00:00:00.000Z",
+      "crawledat": "2026-11-04T19:22:02.387Z"
+    },
+    {
+      "id": "63054",
+      "title": "Python 与 Go 开发笔记合集",
+      "link": "https://www.chenshaowen.com/blog/python-go-dev-notes-collection.html",
+      "rsslink": "https://www.chenshaowen.com/atom.xml",
+      "blogname": "陈少文的博客",
+      "createdat": "2026-11-04T00:00:00.000Z",
+      "crawledat": "2026-11-04T19:22:02.387Z"
+    },
+    {
+      "id": "63055",
+      "title": "存储与镜像排查笔记合集",
+      "link": "https://www.chenshaowen.com/blog/storage-images-notes-collection.html",
+      "rsslink": "https://www.chenshaowen.com/atom.xml",
+      "blogname": "陈少文的博客",
+      "createdat": "2026-11-04T00:00:00.000Z",
+      "crawledat": "2026-11-04T19:22:02.387Z"
+    },
+    {
+      "id": "63114",
+      "title": "DeepSeek Super-agent 的架构设计与运行机制",
+      "link": "https://www.mengke.me/blog/202611/DeepSeek_Super-agent",
+      "rsslink": "https://mengke.me/feed.xml",
+      "blogname": "Ke's blog",
+      "createdat": "2026-11-04T00:00:00.000Z",
+      "crawledat": "2026-11-06T18:53:58.179Z"
+    },
+    {
+      "id": "65677",
+      "title": "参加 AIE 上海站前夜，做了 EventPrep：把大会官网压成一页随身手册",
+      "link": "https://newzone.top/posts/2026-11-04-event-prep.html",
+      "rsslink": "https://newzone.top/rss.xml",
+      "blogname": "LearnData 开源笔记",
+      "createdat": "2026-11-04T00:00:00.000Z",
+      "crawledat": "2026-11-09T00:31:56.314Z"
+    },
+    {
+      "id": "66152",
+      "title": "Cursor 市场里的「Claude Code」：信任根在分发信道",
+      "link": "https://notes.yachiyo.im/posts/cursor-claude-code-marketplace-supply-chain/",
+      "rsslink": "https://notes.yachiyo.im/rss.xml",
+      "blogname": "AI Notes",
+      "createdat": "2026-11-04T00:00:00.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66163",
+      "title": "agent-desktop 深度解析：不截图，也能让 Agent 操控桌面",
+      "link": "https://www.echovic.com/blog/ai/agent-desktop-deep-dive",
+      "rsslink": "https://www.echovic.com/rss.xml",
+      "blogname": "青雲的博客",
+      "createdat": "2026-11-04T00:00:00.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66239",
+      "title": "会写规则，不等于规则有用",
+      "link": "https://u1-lab.xiaoxia.io/retro-self-evolve/",
+      "rsslink": "https://u1-lab.xiaoxia.io/feed.xml",
+      "blogname": "Tony's Lab",
+      "createdat": "2026-11-04T00:00:00.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66240",
+      "title": "从零理解 AI Agent：ReAct 与 Code Mode",
+      "link": "https://u1-lab.xiaoxia.io/react-vs-codemode/",
+      "rsslink": "https://u1-lab.xiaoxia.io/feed.xml",
+      "blogname": "Tony's Lab",
+      "createdat": "2026-11-04T00:00:00.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66241",
+      "title": "美国选举说明书：两院、中期选举与总统大选",
+      "link": "https://u1-lab.xiaoxia.io/us-elections-101/",
+      "rsslink": "https://u1-lab.xiaoxia.io/feed.xml",
+      "blogname": "Tony's Lab",
+      "createdat": "2026-11-04T00:00:00.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66273",
+      "title": "Horizon 简报 · 2026-11-04",
+      "link": "https://peagothedreamer.github.io/horizon/2026-11-04/",
+      "rsslink": "https://peagothedreamer.github.io/index.xml",
+      "blogname": "peago · 空想家",
+      "createdat": "2026-11-04T00:00:00.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66298",
+      "title": "Tibo 便秘 28 天拉出 14 张重置卡：现在的 ChatGPT，除了吃我硬盘还会跟我抬杠！",
+      "link": "https://shilongzai.com/posts/p-62d2fb1b428c14a7/",
+      "rsslink": "https://shilongzai.com/feed.xml",
+      "blogname": "石龙仔文库",
+      "createdat": "2026-11-04T00:00:00.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66313",
+      "title": "Daily AI Stew · 2026-11-04: trnrt, Huginn loops",
+      "link": "https://surfing.salty.vip/posts/20261104-ai-2026-11-04",
+      "rsslink": "https://surfing.salty.vip/rss.xml",
+      "blogname": "Surfing（Robin Min）",
+      "createdat": "2026-11-04T00:00:00.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66135",
+      "title": "JN 最近在幹嘛（20261103 更新）",
+      "link": "https://blog.giveanornot.com/now/20261102/",
+      "rsslink": "https://blog.giveanornot.com/index.xml",
+      "blogname": "資工小廢物 - JN",
+      "createdat": "2026-11-03T23:04:42.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66231",
+      "title": "Cognition发布AI编程安全加固清单：先修补旧漏洞，再管",
+      "link": "https://anymesgs.com/article/cognition-ai-security-guide/",
       "rsslink": "https://anymesgs.com/rss.xml",
       "blogname": "听说了吗？· AI 解读站",
-      "createdat": "2026-10-30T22:41:06.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
+      "createdat": "2026-11-03T22:43:10.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
     },
     {
-      "id": "54059",
-      "title": "AI 生成的文档一键转为可分享网页！这个 AI 工具太夯了【效率工具指南】",
-      "link": "https://penghh.fun/2026/10/30/2026-10-30-livepage/",
-      "rsslink": "https://penghh.fun/atom.xml",
-      "blogname": "效率工具指南",
-      "createdat": "2026-10-30T18:41:00.000Z",
-      "crawledat": "2026-10-31T04:05:48.759Z"
-    },
-    {
-      "id": "65958",
-      "title": "关于我",
-      "link": "https://exia.de5.net/p/about",
-      "rsslink": "https://exia.de5.net/rss.xml",
-      "blogname": "Exia Blog",
-      "createdat": "2026-10-30T17:29:40.000Z",
-      "crawledat": "2026-11-12T05:47:50.079Z"
-    },
-    {
-      "id": "54058",
-      "title": "折腾桌面",
-      "link": "https://yipai.me/post/2556.html",
-      "rsslink": "https://yipai.me/feed",
-      "blogname": "一派胡言",
-      "createdat": "2026-10-30T17:10:00.000Z",
-      "crawledat": "2026-10-31T04:05:48.759Z"
-    },
-    {
-      "id": "56640",
-      "title": "Toashot：或许是一个更加方便好用的截图工具",
-      "link": "https://ftz.is-a.dev/blog/posts/toashot/",
-      "rsslink": "https://ftz.is-a.dev/rss.xml",
-      "blogname": "for_the_zero的小站",
-      "createdat": "2026-10-30T16:00:00.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "60269",
-      "title": "一通或许不存在的电话",
-      "link": "https://blog.solazy.me/20261030/",
-      "rsslink": "https://blog.solazy.me/feed/",
-      "blogname": "solazy",
-      "createdat": "2026-10-30T15:00:00.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "55339",
-      "title": "酥米的碎碎念（18），生日快乐！",
-      "link": "https://www.sumi233.top/posts/mouthtalk/sumi-thoughts-18/",
-      "rsslink": "https://www.sumi233.top/rss.xml",
-      "blogname": "酥米的小站",
-      "createdat": "2026-10-30T12:00:55.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "54036",
-      "title": "懒加载图片新支持了sizes=”auto”属性，其作用是？",
-      "link": "https://www.zhangxinxu.com/wordpress/2026/10/loading-lazy-img-sizes-auto/",
-      "rsslink": "http://www.zhangxinxu.com/wordpress/?feed=rss2",
-      "blogname": "张鑫旭-鑫空间-鑫生活",
-      "createdat": "2026-10-30T11:47:48.000Z",
-      "crawledat": "2026-10-30T17:42:56.598Z"
-    },
-    {
-      "id": "62500",
-      "title": "Cursor扩展市场现恶意Claude Code，超5000名用户需排查",
-      "link": "https://anymesgs.com/article/cursor-claude-code-extension-malware/",
-      "rsslink": "https://anymesgs.com/rss.xml",
-      "blogname": "听说了吗？· AI 解读站",
-      "createdat": "2026-10-30T10:41:12.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "60082",
-      "title": "我何以闺怨",
-      "link": "https://cbc688.com/articles/whygy",
-      "rsslink": "https://cbc688.com/rss.xml",
-      "blogname": "CRIVU",
-      "createdat": "2026-10-30T10:07:00.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "58009",
-      "title": "# 09 我的个人智能体框架：两层、七个问题",
-      "link": "https://www.sagasu.art/posts/personal-ai-agent-framework",
-      "rsslink": "https://www.sagasu.art/rss.xml",
-      "blogname": "Sagasu",
-      "createdat": "2026-10-30T09:33:11.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "62169",
-      "title": "查尔斯·萨克尔",
-      "link": "http://www.popsite.cn/2026/10/30/20261030-charles-thacker/",
-      "rsslink": "https://popsite.cn/atom.xml",
-      "blogname": "大江小浪",
-      "createdat": "2026-10-30T08:33:47.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "62199",
-      "title": "只是多了 2 个页面，为什么却触发了一次 49→51 的迁移？",
-      "link": "https://www.shuijingwanwq.com/2026/10/30/28001/",
-      "rsslink": "https://www.shuijingwanwq.com/feed/",
-      "blogname": "永夜",
-      "createdat": "2026-10-30T08:29:00.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "54034",
-      "title": "开坑！从 AI Coding 到 AI4S：新开源项目 Pero 的一次探索",
-      "link": "http://www.phodal.com/blog/pero-ai4s/",
-      "rsslink": "https://www.phodal.com/blog/feeds/rss/",
-      "blogname": "全栈应用开发:精益实践",
-      "createdat": "2026-10-30T07:26:48.000Z",
-      "crawledat": "2026-10-30T09:36:09.912Z"
-    },
-    {
-      "id": "62200",
-      "title": "一个命令快了还不够：为什么我的性能优化开始转向跨命令环境复用",
-      "link": "https://www.shuijingwanwq.com/2026/10/30/27997/",
-      "rsslink": "https://www.shuijingwanwq.com/feed/",
-      "blogname": "永夜",
-      "createdat": "2026-10-30T07:11:14.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "54061",
-      "title": "用 Codex 改造极米投影仪：自定义桌面、装 YouTube 和 Spotify",
-      "link": "https://blog.laoda.de/archives/codex-xgimi-projector",
-      "rsslink": "https://blog.laoda.de/rss.xml",
-      "blogname": "我不是咕咕鸽",
-      "createdat": "2026-10-30T07:01:40.000Z",
-      "crawledat": "2026-10-31T04:05:48.759Z"
-    },
-    {
-      "id": "62983",
-      "title": "自研排版引擎四个月：我想做开源的 Google Docs / WPS",
-      "link": "https://yishuai.wang/articles/a6869748-82f5-4ab8-8bdd-331a870e855e",
-      "rsslink": "https://yishuai.wang/feed.xml",
-      "blogname": "Yishuai · 作品、文字与日常",
-      "createdat": "2026-10-30T07:00:56.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "56774",
-      "title": "办，改，销",
-      "link": "https://www.imcry.vip/post/2026-10-30-1335/",
-      "rsslink": "https://www.imcry.vip/index.xml",
-      "blogname": "初然忆",
-      "createdat": "2026-10-30T05:36:35.000Z",
-      "crawledat": "2026-11-03T05:24:07.195Z"
-    },
-    {
-      "id": "54037",
-      "title": "为什么写博客？",
-      "link": "https://www.seis-jun.xyz/blog/2026-10-30-moments-feels-more-tiring-than-blogging.html",
-      "rsslink": "https://www.seis-jun.xyz/atom.xml",
-      "blogname": "seisamuse",
-      "createdat": "2026-10-30T05:03:13.000Z",
-      "crawledat": "2026-10-30T17:42:56.598Z"
-    },
-    {
-      "id": "54616",
-      "title": "入蜀记 day524 卖废品、大爷的面、菊花展、慢慢买",
-      "link": "https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_524/",
-      "rsslink": "http://z.arlmy.me/atom.xml",
-      "blogname": "素生",
-      "createdat": "2026-10-30T04:48:27.000Z",
-      "crawledat": "2026-11-02T10:32:24.402Z"
+      "id": "63035",
+      "title": "北方北方",
+      "link": "https://blog.aeilot.top/2026/11/03/north-north/",
+      "rsslink": "https://blog.aeilot.top/index.xml",
+      "blogname": "Louis Aeilot's Blog",
+      "createdat": "2026-11-03T19:52:33.000Z",
+      "crawledat": "2026-11-03T13:38:45.119Z"
     }
   ]
 }
