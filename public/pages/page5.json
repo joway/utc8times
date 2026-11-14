@@ -4,6 +4,69 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "66089",
+      "title": "修复绿联 UG307-95348 HDMI 采集卡颜色问题（二）",
+      "link": "https://jia.je/hardware/2026/11/13/fix-ugreen-95348-2/",
+      "rsslink": "https://jia.je/feed.xml",
+      "blogname": "杰哥的小笔记",
+      "createdat": "2026-11-13T00:00:00.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66144",
+      "title": "CoT 可监控性在变薄：不是模型学会了隐瞒，是训练栈把窗口推窄了",
+      "link": "https://notes.yachiyo.im/posts/openai-cot-monitorability-lifecycle/",
+      "rsslink": "https://notes.yachiyo.im/rss.xml",
+      "blogname": "AI Notes",
+      "createdat": "2026-11-13T00:00:00.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66157",
+      "title": "CurlGo CLI：空的 --out-dir 先失败，curl 选项不再被静默丢掉（附可跑命令）",
+      "link": "https://www.echovic.com/blog/ai/curlgo-cli-contract",
+      "rsslink": "https://www.echovic.com/rss.xml",
+      "blogname": "青雲的博客",
+      "createdat": "2026-11-13T00:00:00.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66158",
+      "title": "在 DeepSeek Harness 里装一个接近 IDE 的工作区面板（附安装命令）",
+      "link": "https://www.echovic.com/blog/ai/dsh-workspace-ide-panel",
+      "rsslink": "https://www.echovic.com/rss.xml",
+      "blogname": "青雲的博客",
+      "createdat": "2026-11-13T00:00:00.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66159",
+      "title": "Agent 空间被接管之后，怎么交还：Pilion 任务总览",
+      "link": "https://www.echovic.com/blog/ai/pilion-takeover-handback-overview",
+      "rsslink": "https://www.echovic.com/rss.xml",
+      "blogname": "青雲的博客",
+      "createdat": "2026-11-13T00:00:00.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66189",
+      "title": "两台 Mac 用 Surge Ponte 互联：文件、远程开发与内网访问",
+      "link": "https://yindongliang.com/docs/Linux/%E7%BD%91%E7%BB%9C/surge-ponte-two-macs/",
+      "rsslink": "https://yindongliang.com/index.xml",
+      "blogname": "LYon's Blog",
+      "createdat": "2026-11-13T00:00:00.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66263",
+      "title": "Horizon 简报 · 2026-11-13",
+      "link": "https://peagothedreamer.github.io/horizon/2026-11-13/",
+      "rsslink": "https://peagothedreamer.github.io/index.xml",
+      "blogname": "peago · 空想家",
+      "createdat": "2026-11-13T00:00:00.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
       "id": "66635",
       "title": "AI 会让程序员失业吗？真正危险的不是 AI 会写代码",
       "link": "https://www.xbstack.com/ai/will-ai-replace-programmers/",
@@ -119,69 +182,6 @@
       "blogname": "seisamuse",
       "createdat": "2026-11-12T10:00:50.000Z",
       "crawledat": "2026-11-12T21:43:12.863Z"
-    },
-    {
-      "id": "66282",
-      "title": "Expo 的 Exact 是什么：为 AI 代理设计的 Rust 应用框架，想解决什么问题",
-      "link": "https://warpnav.com/expo-exact-framework",
-      "rsslink": "https://warpnav.com/feed",
-      "blogname": "WarpBlog · WarpNav 曲速导航",
-      "createdat": "2026-11-12T09:53:15.000Z",
-      "crawledat": "2026-11-13T21:10:19.949Z"
-    },
-    {
-      "id": "66283",
-      "title": "[Github] T3 Code – 用一个界面管理 Claude Code、Codex 等多个 AI 编程代理",
-      "link": "https://warpnav.com/t3-code",
-      "rsslink": "https://warpnav.com/feed",
-      "blogname": "WarpBlog · WarpNav 曲速导航",
-      "createdat": "2026-11-12T09:53:13.000Z",
-      "crawledat": "2026-11-13T21:10:19.949Z"
-    },
-    {
-      "id": "66284",
-      "title": "零日漏洞是什么？为什么「在野利用」的漏洞要马上更新？",
-      "link": "https://warpnav.com/zero-day-explained",
-      "rsslink": "https://warpnav.com/feed",
-      "blogname": "WarpBlog · WarpNav 曲速导航",
-      "createdat": "2026-11-12T09:53:11.000Z",
-      "crawledat": "2026-11-13T21:10:19.949Z"
-    },
-    {
-      "id": "66285",
-      "title": "Chrome 修复今年第 8 个在野零日：怎么查版本，确认补丁已生效",
-      "link": "https://warpnav.com/chrome-zero-day-update",
-      "rsslink": "https://warpnav.com/feed",
-      "blogname": "WarpBlog · WarpNav 曲速导航",
-      "createdat": "2026-11-12T09:53:11.000Z",
-      "crawledat": "2026-11-13T21:10:19.949Z"
-    },
-    {
-      "id": "66647",
-      "title": "# 2 替你要钱的 AI，到底是谁家的",
-      "link": "https://www.sagasu.art/posts/ai-agent-platform-interests",
-      "rsslink": "https://www.sagasu.art/rss.xml",
-      "blogname": "Sagasu",
-      "createdat": "2026-11-12T09:32:18.000Z",
-      "crawledat": "2026-11-14T12:58:17.021Z"
-    },
-    {
-      "id": "66111",
-      "title": "Album#51 - 阁楼的影像 & 家",
-      "link": "https://taxodium.ink/album-51.html",
-      "rsslink": "https://taxodium.ink/rss.xml",
-      "blogname": "Taxodium",
-      "createdat": "2026-11-12T09:19:00.000Z",
-      "crawledat": "2026-11-13T21:10:19.949Z"
-    },
-    {
-      "id": "66286",
-      "title": "WordPress 7.2 新增 /random/ 随机文章入口：会影响性能和 SEO 吗？要不要关？",
-      "link": "https://warpnav.com/wordpress-72-random-endpoint",
-      "rsslink": "https://warpnav.com/feed",
-      "blogname": "WarpBlog · WarpNav 曲速导航",
-      "createdat": "2026-11-12T09:10:46.000Z",
-      "crawledat": "2026-11-13T21:10:19.949Z"
     }
   ]
 }
