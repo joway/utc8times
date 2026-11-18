@@ -4,6 +4,87 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "66880",
+      "title": "STN 屎蛋审稿直播学习笔记",
+      "link": "https://auvetu.com/posts/stn-writing-methods-note/",
+      "rsslink": "https://www.auvetu.com/rss.xml",
+      "blogname": "云海札记",
+      "createdat": "2026-11-16T00:00:00.000Z",
+      "crawledat": "2026-11-16T00:45:12.958Z"
+    },
+    {
+      "id": "66980",
+      "title": ".py | 以普通用户身份安装 Python",
+      "link": "https://blog.mountaye.com/articles/install-python-without-super-user-authority",
+      "rsslink": "https://blog.mountaye.com/feed.xml",
+      "blogname": "阿掖山·博客",
+      "createdat": "2026-11-16T00:00:00.000Z",
+      "crawledat": "2026-11-16T21:38:36.829Z"
+    },
+    {
+      "id": "66871",
+      "title": "随想录III",
+      "link": "https://www.wsh233.cn/post/随想录iii",
+      "rsslink": "https://www.wsh233.cn/feed.xml",
+      "blogname": "WSH",
+      "createdat": "2026-11-15T22:51:25.000Z",
+      "crawledat": "2026-11-16T00:45:12.958Z"
+    },
+    {
+      "id": "66891",
+      "title": "AI 还没横扫就业市场，先挤掉的是年轻新人",
+      "link": "https://anymesgs.com/article/ai-young-worker-employment-shock/",
+      "rsslink": "https://anymesgs.com/rss.xml",
+      "blogname": "听说了吗？· AI 解读站",
+      "createdat": "2026-11-15T22:38:19.000Z",
+      "crawledat": "2026-11-16T00:45:12.958Z"
+    },
+    {
+      "id": "66873",
+      "title": "[安全周报] WordPress 插件在野且无补丁、GPUStack 被植入后门，94 条 USN 一次清（2026-11-16）",
+      "link": "https://www.paddysun.top/archives/5674",
+      "rsslink": "https://www.paddysun.top/feed",
+      "blogname": "Under the Sun with Paddy",
+      "createdat": "2026-11-15T22:30:00.000Z",
+      "crawledat": "2026-11-16T00:45:12.958Z"
+    },
+    {
+      "id": "66879",
+      "title": "#4 它替你办砸了，谁来赔",
+      "link": "https://www.sagasu.art/posts/ai-agent-liability-user-responsibility",
+      "rsslink": "https://www.sagasu.art/rss.xml",
+      "blogname": "Sagasu",
+      "createdat": "2026-11-15T18:54:29.000Z",
+      "crawledat": "2026-11-16T00:45:12.958Z"
+    },
+    {
+      "id": "66877",
+      "title": "摄影习作: 银翼星航",
+      "link": "https://fengcblog.880200.xyz/article/000360/.html",
+      "rsslink": "https://rssweball.top/feed/afaf2a3c-e11a-4783-a358-9e2d20d76a69.xml",
+      "blogname": "fengc's Blog",
+      "createdat": "2026-11-15T16:53:10.000Z",
+      "crawledat": "2026-11-16T00:45:12.958Z"
+    },
+    {
+      "id": "66897",
+      "title": "[Github] wxa-runner – 在浏览器调试微信小程序，用 Playwright 跑测试",
+      "link": "https://warpnav.com/wxa-runner",
+      "rsslink": "https://warpnav.com/feed",
+      "blogname": "WarpBlog · WarpNav 曲速导航",
+      "createdat": "2026-11-15T16:17:17.000Z",
+      "crawledat": "2026-11-16T00:45:12.958Z"
+    },
+    {
+      "id": "66898",
+      "title": "[Github] Cloud Mail – 用 Cloudflare 搭建自己的域名邮箱",
+      "link": "https://warpnav.com/cloud-mail",
+      "rsslink": "https://warpnav.com/feed",
+      "blogname": "WarpBlog · WarpNav 曲速导航",
+      "createdat": "2026-11-15T16:17:14.000Z",
+      "crawledat": "2026-11-16T00:45:12.958Z"
+    },
+    {
       "id": "66878",
       "title": "在图书馆偶然被同学投喂拉花咖啡",
       "link": "https://blog.224418.xyz/posts/bfe4176c/",
@@ -101,87 +182,6 @@
       "blogname": "Pens.me",
       "createdat": "2026-11-15T13:05:02.505Z",
       "crawledat": "2026-11-16T00:45:12.958Z"
-    },
-    {
-      "id": "66899",
-      "title": "Claude 更新支持地区政策：身份验证为何不等于可用，数据怎么导出",
-      "link": "https://warpnav.com/claude-supported-regions",
-      "rsslink": "https://warpnav.com/feed",
-      "blogname": "WarpBlog · WarpNav 曲速导航",
-      "createdat": "2026-11-15T13:03:35.000Z",
-      "crawledat": "2026-11-16T00:45:12.958Z"
-    },
-    {
-      "id": "66900",
-      "title": "[Github] Open Code Review – 阿里开源的 AI 代码审查 CLI，规则走固定流程、模型只管判断",
-      "link": "https://warpnav.com/open-code-review",
-      "rsslink": "https://warpnav.com/feed",
-      "blogname": "WarpBlog · WarpNav 曲速导航",
-      "createdat": "2026-11-15T13:03:32.000Z",
-      "crawledat": "2026-11-16T00:45:12.958Z"
-    },
-    {
-      "id": "66901",
-      "title": "漏洞披露期是什么？Project Zero 改成 90→60→30 天，对普通人意味着什么",
-      "link": "https://warpnav.com/vulnerability-disclosure-deadline",
-      "rsslink": "https://warpnav.com/feed",
-      "blogname": "WarpBlog · WarpNav 曲速导航",
-      "createdat": "2026-11-15T13:03:29.000Z",
-      "crawledat": "2026-11-16T00:45:12.958Z"
-    },
-    {
-      "id": "66902",
-      "title": "AI 代理替你付钱：ChatGPT Wallet 和 Poppy 协议是两条路",
-      "link": "https://warpnav.com/chatgpt-wallet-poppy",
-      "rsslink": "https://warpnav.com/feed",
-      "blogname": "WarpBlog · WarpNav 曲速导航",
-      "createdat": "2026-11-15T13:03:26.000Z",
-      "crawledat": "2026-11-16T00:45:12.958Z"
-    },
-    {
-      "id": "66903",
-      "title": "Cloudflare Workers 终于能设花费上限：怎么设、会停什么、为什么账单仍可能超",
-      "link": "https://warpnav.com/cloudflare-spend-limits",
-      "rsslink": "https://warpnav.com/feed",
-      "blogname": "WarpBlog · WarpNav 曲速导航",
-      "createdat": "2026-11-15T13:03:22.000Z",
-      "crawledat": "2026-11-16T00:45:12.958Z"
-    },
-    {
-      "id": "66904",
-      "title": "用 Lovable 做的应用会漏数据吗？5 分钟自查 Supabase 行级安全（RLS）",
-      "link": "https://warpnav.com/lovable-supabase-rls",
-      "rsslink": "https://warpnav.com/feed",
-      "blogname": "WarpBlog · WarpNav 曲速导航",
-      "createdat": "2026-11-15T13:03:18.000Z",
-      "crawledat": "2026-11-16T00:45:12.958Z"
-    },
-    {
-      "id": "66911",
-      "title": "华为云200元代金券：报名小红书Skill创新赛领券，11月24日截止",
-      "link": "https://vpslu.com/yangmao/huawei-cloud-200-voucher-skill-contest.html",
-      "rsslink": "https://vpslu.com/feed.xml",
-      "blogname": "VPS录",
-      "createdat": "2026-11-15T12:38:00.000Z",
-      "crawledat": "2026-11-16T00:45:12.958Z"
-    },
-    {
-      "id": "66831",
-      "title": "宜家效应：为什么自己参与做的东西，总觉得更值钱？",
-      "link": "https://www.jeffjade.com/2026/11/15/261-ikea-effect/",
-      "rsslink": "https://www.jeffjade.com/atom.xml",
-      "blogname": "晚晴幽草轩",
-      "createdat": "2026-11-15T12:20:00.000Z",
-      "crawledat": "2026-11-15T18:28:57.172Z"
-    },
-    {
-      "id": "66846",
-      "title": "茶花女",
-      "link": "https://www.seis-jun.xyz/blog/2026-11-15-The-Lady-of-the-Camellias.html",
-      "rsslink": "https://www.seis-jun.xyz/atom.xml",
-      "blogname": "seisamuse",
-      "createdat": "2026-11-15T11:00:11.000Z",
-      "crawledat": "2026-11-15T18:28:57.172Z"
     }
   ]
 }
