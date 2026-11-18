@@ -4,6 +4,69 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "66275",
+      "title": "BlogPad：在手机上写完 Markdown，SSH 直发自己的 Hugo 站",
+      "link": "https://atin.asia/archives/blogpad-phone-hugo/",
+      "rsslink": "https://atin.asia/index.xml",
+      "blogname": "atin的个人小站",
+      "createdat": "2026-11-11T13:50:00.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "65883",
+      "title": "认真做一件事，究竟能有多大不同？",
+      "link": "https://www.tortorse.com/archives/doing-one-thing-well/",
+      "rsslink": "https://www.tortorse.com/atom.xml",
+      "blogname": "愆伏",
+      "createdat": "2026-11-11T12:32:31.000Z",
+      "crawledat": "2026-11-12T05:47:50.079Z"
+    },
+    {
+      "id": "66648",
+      "title": "#1 企业为什么怕你派 AI 来要钱",
+      "link": "https://www.sagasu.art/posts/ai-agents-consumer-refunds-enterprise-defense",
+      "rsslink": "https://www.sagasu.art/rss.xml",
+      "blogname": "Sagasu",
+      "createdat": "2026-11-11T11:38:10.000Z",
+      "crawledat": "2026-11-14T12:58:17.021Z"
+    },
+    {
+      "id": "65959",
+      "title": "国产 AI 助手联网检索的索引来源与股权归属：基于官方文件与第三方数据的分级核验",
+      "link": "https://opengeo.page/observations/ai-search-index-ownership-study/",
+      "rsslink": "https://opengeo.page/observations/index.xml",
+      "blogname": "OpenGEO · 虚实",
+      "createdat": "2026-11-11T11:00:00.000Z",
+      "crawledat": "2026-11-12T05:47:50.079Z"
+    },
+    {
+      "id": "66219",
+      "title": "OpenRouter实测：MCP、CLI与Skills，谁在偷走上下文？",
+      "link": "https://anymesgs.com/article/openrouter-mcp-vs-cli-vs-skills-token/",
+      "rsslink": "https://anymesgs.com/rss.xml",
+      "blogname": "听说了吗？· AI 解读站",
+      "createdat": "2026-11-11T10:43:23.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "65960",
+      "title": "按股权给国产 AI 分组：老搜索引擎会不会借 AI 卷土重来？",
+      "link": "https://opengeo.page/observations/ai-search-index-by-ownership/",
+      "rsslink": "https://opengeo.page/observations/index.xml",
+      "blogname": "OpenGEO · 虚实",
+      "createdat": "2026-11-11T10:20:00.000Z",
+      "crawledat": "2026-11-12T05:47:50.079Z"
+    },
+    {
+      "id": "65961",
+      "title": "AI 爱引用的门户和知乎，背后是谁的？一份按股权读的来源地图",
+      "link": "https://opengeo.page/observations/portal-ownership/",
+      "rsslink": "https://opengeo.page/observations/index.xml",
+      "blogname": "OpenGEO · 虚实",
+      "createdat": "2026-11-11T10:10:00.000Z",
+      "crawledat": "2026-11-12T05:47:50.079Z"
+    },
+    {
       "id": "66206",
       "title": "从 39 秒假死到 2 秒秒开：Wstunnel + WireGuard 两阶段深度调优实录",
       "link": "https://www.shuijingwanwq.com/2026/11/11/28041/",
@@ -119,69 +182,6 @@
       "blogname": "@Lenciel",
       "createdat": "2026-11-11T04:40:53.000Z",
       "crawledat": "2026-11-15T10:23:44.423Z"
-    },
-    {
-      "id": "66475",
-      "title": "Gecko 录屏自动化测试设计",
-      "link": "https://liudon.com/posts/gecko-recording-test-automation/",
-      "rsslink": "https://liudon.com/index.xml",
-      "blogname": "流动",
-      "createdat": "2026-11-11T03:48:56.000Z",
-      "crawledat": "2026-11-14T12:58:17.021Z"
-    },
-    {
-      "id": "66174",
-      "title": "并不好笑的玩笑",
-      "link": "https://blog.solazy.me/20261111/",
-      "rsslink": "https://blog.solazy.me/feed/",
-      "blogname": "solazy",
-      "createdat": "2026-11-11T03:00:00.000Z",
-      "crawledat": "2026-11-13T21:10:19.949Z"
-    },
-    {
-      "id": "66168",
-      "title": "WP Panel助手发布：让VPS建站更简单",
-      "link": "https://blog.naibabiji.com/vps-server/wp-panel-assistant.html",
-      "rsslink": "https://blog.naibabiji.com/feed",
-      "blogname": "奶爸建站笔记",
-      "createdat": "2026-11-11T02:53:55.000Z",
-      "crawledat": "2026-11-13T21:10:19.949Z"
-    },
-    {
-      "id": "66005",
-      "title": "10 块钱的 VPS 搭 WordPress 博客：Docker 起站 20 秒，2G 内存跑完还剩 1.3G",
-      "link": "https://vpslu.com/reviews/dedirock-10-dollar-vps-wordpress.html",
-      "rsslink": "https://vpslu.com/feed.xml",
-      "blogname": "VPS录",
-      "createdat": "2026-11-11T02:20:00.000Z",
-      "crawledat": "2026-11-12T05:47:50.079Z"
-    },
-    {
-      "id": "66061",
-      "title": "我给自己做了一个健康 App，做了一年",
-      "link": "https://androidperformance.com/2026/11/11/100Years-Health-App-One-Year/",
-      "rsslink": "https://www.androidperformance.com/atom.xml",
-      "blogname": "Android Performance",
-      "createdat": "2026-11-11T02:00:00.000Z",
-      "crawledat": "2026-11-13T21:10:19.949Z"
-    },
-    {
-      "id": "66169",
-      "title": "2026双十一VPS优惠汇总：低至$1.99/月，年付VPS活动持续更新",
-      "link": "https://blog.naibabiji.com/vps-server/2026-11-11-vps-deals.html",
-      "rsslink": "https://blog.naibabiji.com/feed",
-      "blogname": "奶爸建站笔记",
-      "createdat": "2026-11-11T01:59:32.000Z",
-      "crawledat": "2026-11-13T21:10:19.949Z"
-    },
-    {
-      "id": "66465",
-      "title": "Squeezing an RTX 3050: fast and exact LLM inference with SonicBoom",
-      "link": "https://nalaginrut.com/archives/2026/11/11/fast-exact-llm-inference-with-sonicboom/",
-      "rsslink": "https://nalaginrut.com/feed/atom",
-      "blogname": "Nala Ginrut's Blog",
-      "createdat": "2026-11-11T01:51:28.000Z",
-      "crawledat": "2026-11-14T04:57:49.855Z"
     }
   ]
 }
