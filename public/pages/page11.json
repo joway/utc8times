@@ -4,6 +4,24 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "66279",
+      "title": "[Github] Nod – n8n 的开源个人 AI 代理，能用浏览器办事，越出授权范围会询问",
+      "link": "https://warpnav.com/n8n-nod",
+      "rsslink": "https://warpnav.com/feed",
+      "blogname": "WarpBlog · WarpNav 曲速导航",
+      "createdat": "2026-11-13T07:27:18.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66280",
+      "title": "Apache 2.4.71 修复 HTTP/2 远程代码执行漏洞 CVE-2026-119618：怎么查版本，来不及升级先关 h2",
+      "link": "https://warpnav.com/apache-http2-rce-fix",
+      "rsslink": "https://warpnav.com/feed",
+      "blogname": "WarpBlog · WarpNav 曲速导航",
+      "createdat": "2026-11-13T07:27:16.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
       "id": "66281",
       "title": "GitHub wfx-loot 事件：4,837 个账号被盗用，怎么自查仓库和 CI 密钥",
       "link": "https://warpnav.com/github-wfx-loot-check",
@@ -162,24 +180,6 @@
       "link": "https://notes.yachiyo.im/posts/openai-cot-monitorability-lifecycle/",
       "rsslink": "https://notes.yachiyo.im/rss.xml",
       "blogname": "AI Notes",
-      "createdat": "2026-11-13T00:00:00.000Z",
-      "crawledat": "2026-11-13T21:10:19.949Z"
-    },
-    {
-      "id": "66157",
-      "title": "CurlGo CLI：空的 --out-dir 先失败，curl 选项不再被静默丢掉（附可跑命令）",
-      "link": "https://www.echovic.com/blog/ai/curlgo-cli-contract",
-      "rsslink": "https://www.echovic.com/rss.xml",
-      "blogname": "青雲的博客",
-      "createdat": "2026-11-13T00:00:00.000Z",
-      "crawledat": "2026-11-13T21:10:19.949Z"
-    },
-    {
-      "id": "66158",
-      "title": "在 DeepSeek Harness 里装一个接近 IDE 的工作区面板（附安装命令）",
-      "link": "https://www.echovic.com/blog/ai/dsh-workspace-ide-panel",
-      "rsslink": "https://www.echovic.com/rss.xml",
-      "blogname": "青雲的博客",
       "createdat": "2026-11-13T00:00:00.000Z",
       "crawledat": "2026-11-13T21:10:19.949Z"
     }
