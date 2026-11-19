@@ -4,6 +4,15 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "66144",
+      "title": "CoT 可监控性在变薄：不是模型学会了隐瞒，是训练栈把窗口推窄了",
+      "link": "https://notes.yachiyo.im/posts/openai-cot-monitorability-lifecycle/",
+      "rsslink": "https://notes.yachiyo.im/rss.xml",
+      "blogname": "AI Notes",
+      "createdat": "2026-11-13T00:00:00.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
       "id": "66157",
       "title": "CurlGo CLI：空的 --out-dir 先失败，curl 选项不再被静默丢掉（附可跑命令）",
       "link": "https://www.echovic.com/blog/ai/curlgo-cli-contract",
@@ -173,15 +182,6 @@
       "blogname": "运维咖啡吧",
       "createdat": "2026-11-12T11:58:53.000Z",
       "crawledat": "2026-11-12T21:43:12.863Z"
-    },
-    {
-      "id": "66216",
-      "title": "Agent反复调用工具烧钱，OpenRouter四道闸封住循环",
-      "link": "https://anymesgs.com/article/ai-agent-loop-cost-controls/",
-      "rsslink": "https://anymesgs.com/rss.xml",
-      "blogname": "听说了吗？· AI 解读站",
-      "createdat": "2026-11-12T10:41:41.000Z",
-      "crawledat": "2026-11-13T21:10:19.949Z"
     }
   ]
 }
