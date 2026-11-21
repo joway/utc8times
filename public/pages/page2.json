@@ -4,6 +4,105 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "67020",
+      "title": "沒有隨身碟的 Arch 安裝記",
+      "link": "https://blog.aeilot.top/2026/11/19/arch-without-usb/",
+      "rsslink": "https://blog.aeilot.top/index.xml",
+      "blogname": "Louis Aeilot's Blog",
+      "createdat": "2026-11-19T17:00:00.000Z",
+      "crawledat": "2026-11-19T19:57:02.662Z"
+    },
+    {
+      "id": "67024",
+      "title": "Hack AC以后，AI终于跑赢了真人记录",
+      "link": "https://elmagnifico.tech/2026/11/20/AC-AI-Drive-Hack/",
+      "rsslink": "http://elmagnifico.tech/feed.xml",
+      "blogname": "elmagnifico",
+      "createdat": "2026-11-19T16:00:00.000Z",
+      "crawledat": "2026-11-19T19:57:02.662Z"
+    },
+    {
+      "id": "67130",
+      "title": "无题",
+      "link": "https://blog.henix.info/blog/untitled/",
+      "rsslink": "https://blog.henix.info/rss2.0.xml",
+      "blogname": "遥远的街市",
+      "createdat": "2026-11-19T16:00:00.000Z",
+      "crawledat": "2026-11-20T19:37:15.113Z"
+    },
+    {
+      "id": "67018",
+      "title": "房贷利率又回到7%，现在买房还是等？",
+      "link": "https://chattymoney.com/mortgage-rates-7-percent-buy-or-wait/",
+      "rsslink": "https://chattymoney.com/feed/",
+      "blogname": "chattymoney(跟我一起来谈钱)",
+      "createdat": "2026-11-19T14:00:00.000Z",
+      "crawledat": "2026-11-19T19:57:02.662Z"
+    },
+    {
+      "id": "67026",
+      "title": "是骗子吗？",
+      "link": "https://www.hsuyeung.com/article/liar",
+      "rsslink": "https://www.hsuyeung.com/feed",
+      "blogname": "Hsu Yeung 的博客",
+      "createdat": "2026-11-19T13:59:00.000Z",
+      "crawledat": "2026-11-19T19:57:02.662Z"
+    },
+    {
+      "id": "67017",
+      "title": "感冒了啊",
+      "link": "https://www.seis-jun.xyz/blog/2026-11-19-got-cold.html",
+      "rsslink": "https://www.seis-jun.xyz/atom.xml",
+      "blogname": "seisamuse",
+      "createdat": "2026-11-19T11:24:35.000Z",
+      "crawledat": "2026-11-19T19:57:02.662Z"
+    },
+    {
+      "id": "67118",
+      "title": "LightC下载安装教程：免费无广告的C盘清理工具",
+      "link": "https://www.wangdu.site/software/system/2430.html",
+      "rsslink": "https://www.wangdu.site/feed",
+      "blogname": "文武科技柜",
+      "createdat": "2026-11-19T07:54:58.000Z",
+      "crawledat": "2026-11-19T19:57:02.662Z"
+    },
+    {
+      "id": "67119",
+      "title": "Agent2API下载安装教程：免费开源AI路由网关",
+      "link": "https://www.wangdu.site/software/ai/2429.html",
+      "rsslink": "https://www.wangdu.site/feed",
+      "blogname": "文武科技柜",
+      "createdat": "2026-11-19T07:20:53.000Z",
+      "crawledat": "2026-11-19T19:57:02.662Z"
+    },
+    {
+      "id": "67014",
+      "title": "Price Action 进阶：如何用 H1/H2 与 L1/L2 的「失败」，提前看穿趋势与震荡切换",
+      "link": "https://blog.forecho.com/price-action-h1-h2-l1-l2-failure.html",
+      "rsslink": "https://blog.forecho.com/atom.xml",
+      "blogname": "forecho 的独立博客",
+      "createdat": "2026-11-19T05:00:00.000Z",
+      "crawledat": "2026-11-19T11:07:23.204Z"
+    },
+    {
+      "id": "67124",
+      "title": "Beware of SQLite3 string",
+      "link": "https://nalaginrut.com/archives/2026/11/19/beware-of-sqlite3-string/",
+      "rsslink": "https://nalaginrut.com/feed/atom",
+      "blogname": "Nala Ginrut's Blog",
+      "createdat": "2026-11-19T01:42:45.000Z",
+      "crawledat": "2026-11-20T02:00:12.204Z"
+    },
+    {
+      "id": "67013",
+      "title": "Aerial电视桌面下载安装教程：免费开源，附机型适配说明",
+      "link": "https://www.wangdu.site/software/tools/2428.html",
+      "rsslink": "https://www.wangdu.site/feed",
+      "blogname": "文武科技柜",
+      "createdat": "2026-11-19T00:40:09.000Z",
+      "crawledat": "2026-11-19T02:15:23.422Z"
+    },
+    {
       "id": "67025",
       "title": "独立开发变现周刊（第166期） : 开源AI创业系统，11周创收110万美元",
       "link": "https://www.ezindie.com/weekly/issue-166",
@@ -83,105 +182,6 @@
       "blogname": "seisamuse",
       "createdat": "2026-11-18T10:04:08.000Z",
       "crawledat": "2026-11-18T19:58:58.957Z"
-    },
-    {
-      "id": "67011",
-      "title": "用 mTLS 给家里服务做门禁：内网穿透 iPhone 不用再挂 VPN 了",
-      "link": "https://blog.zhheo.com/p/ajbulelx.html",
-      "rsslink": "https://blog.zhheo.com/rss.xml",
-      "blogname": "张洪Heo",
-      "createdat": "2026-11-18T05:30:35.000Z",
-      "crawledat": "2026-11-18T19:58:58.957Z"
-    },
-    {
-      "id": "67010",
-      "title": "招聘启事二则",
-      "link": "https://www.kawabangga.com/posts/7461",
-      "rsslink": "https://www.kawabangga.com/feed",
-      "blogname": "卡瓦邦噶！",
-      "createdat": "2026-11-18T05:16:09.000Z",
-      "crawledat": "2026-11-18T19:58:58.957Z"
-    },
-    {
-      "id": "67009",
-      "title": "为何已到冬季，依旧寒蝉喋喋不休",
-      "link": "https://i.lckiss.com/?p=10055",
-      "rsslink": "http://i.lckiss.com/?feed=rss2",
-      "blogname": "伪斜杠青年",
-      "createdat": "2026-11-18T02:58:06.000Z",
-      "crawledat": "2026-11-18T19:58:58.957Z"
-    },
-    {
-      "id": "67004",
-      "title": "为了听懂英文 Trading Room，我开发了一款实时字幕翻译软件 Liveglot",
-      "link": "https://blog.forecho.com/introducing-liveglot.html",
-      "rsslink": "https://blog.forecho.com/atom.xml",
-      "blogname": "forecho 的独立博客",
-      "createdat": "2026-11-18T02:54:51.000Z",
-      "crawledat": "2026-11-18T11:08:22.582Z"
-    },
-    {
-      "id": "67002",
-      "title": "Memos: 周大福 EOF 电商专属商品款号",
-      "link": "https://blog.yasking.org/a/1794966132",
-      "rsslink": "https://blog.yasking.org/atom.xml",
-      "blogname": "东东's Blog",
-      "createdat": "2026-11-18T01:42:12.000Z",
-      "crawledat": "2026-11-18T02:43:40.361Z"
-    },
-    {
-      "id": "67006",
-      "title": "AI Naive 软件开发：不卷 AI Native，做快乐的 AI 创客 （COSCon26 议题 PPT）",
-      "link": "https://hutusi.com/flows/2026/11/18/",
-      "rsslink": "https://hutusi.com/feed.xml",
-      "blogname": "胡涂说",
-      "createdat": "2026-11-18T00:00:00.000Z",
-      "crawledat": "2026-11-18T19:58:58.957Z"
-    },
-    {
-      "id": "67016",
-      "title": "大雨",
-      "link": "http://wwj718.github.io/post/%E8%AF%97%E8%AF%8D/dayu-berkeley/",
-      "rsslink": "https://wwj718.github.io/index.xml",
-      "blogname": "夜行人",
-      "createdat": "2026-11-18T00:00:00.000Z",
-      "crawledat": "2026-11-19T19:57:02.662Z"
-    },
-    {
-      "id": "67000",
-      "title": "惠州西湖与大亚湾",
-      "link": "https://pinlyu.com/life/travel-in-huizhou/",
-      "rsslink": "https://pinlyu.com/feed/",
-      "blogname": "频率 - 风卷过的起点",
-      "createdat": "2026-11-17T16:52:44.000Z",
-      "crawledat": "2026-11-18T02:43:40.361Z"
-    },
-    {
-      "id": "66998",
-      "title": "AC自主驾驶与AI车手",
-      "link": "https://elmagnifico.tech/2026/11/18/AC-AI-Drive/",
-      "rsslink": "http://elmagnifico.tech/feed.xml",
-      "blogname": "elmagnifico",
-      "createdat": "2026-11-17T16:00:00.000Z",
-      "crawledat": "2026-11-18T02:43:40.361Z"
-    },
-    {
-      "id": "66996",
-      "title": "LEAP-012最终OS公布，再谈中期肝癌的局部联合系统治疗 #ESMO26",
-      "link": "http://whyes.org/2026/leap-012-hcc-tace-lenvatinib-pembrolizumab-final-os",
-      "rsslink": "https://whyes.org/feed.xml",
-      "blogname": "whyes的博客",
-      "createdat": "2026-11-17T15:43:37.000Z",
-      "crawledat": "2026-11-18T02:43:40.361Z"
-    },
-    {
-      "id": "66995",
-      "title": "1/1271：被 Canva 裁员之后",
-      "link": "https://blog.mutoo.im/2026/11/canva-layoff/",
-      "rsslink": "https://blog.mutoo.im/atom.xml",
-      "blogname": "木匣子",
-      "createdat": "2026-11-17T13:00:00.000Z",
-      "crawledat": "2026-11-18T02:43:40.361Z"
     }
   ]
 }

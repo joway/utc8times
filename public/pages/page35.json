@@ -4,6 +4,141 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "66149",
+      "title": "Anthropic 正式交 S-1：公益公司上市，控制权写进 Class F",
+      "link": "https://notes.yachiyo.im/posts/anthropic-s1-sec-filing/",
+      "rsslink": "https://notes.yachiyo.im/rss.xml",
+      "blogname": "AI Notes",
+      "createdat": "2026-11-06T00:00:00.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66162",
+      "title": "Agent 共用一个浏览器时，怎么隔离标签 ACL：Pilion Agent Spaces",
+      "link": "https://www.echovic.com/blog/ai/pilion-agent-spaces",
+      "rsslink": "https://www.echovic.com/rss.xml",
+      "blogname": "青雲的博客",
+      "createdat": "2026-11-06T00:00:00.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66192",
+      "title": "Cloudflare security-audit-skill：把安全审计拆成可复核的六阶段",
+      "link": "https://yindongliang.com/docs/AI/Skills/cloudflare-security-audit-skill/",
+      "rsslink": "https://yindongliang.com/index.xml",
+      "blogname": "LYon's Blog",
+      "createdat": "2026-11-06T00:00:00.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66238",
+      "title": "影之刃零 PS5 攻略：八章刀谱与手柄操作",
+      "link": "https://u1-lab.xiaoxia.io/phantom-blade-zero/",
+      "rsslink": "https://u1-lab.xiaoxia.io/feed.xml",
+      "blogname": "Tony's Lab",
+      "createdat": "2026-11-06T00:00:00.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66270",
+      "title": "Horizon 简报 · 2026-11-06",
+      "link": "https://peagothedreamer.github.io/horizon/2026-11-06/",
+      "rsslink": "https://peagothedreamer.github.io/index.xml",
+      "blogname": "peago · 空想家",
+      "createdat": "2026-11-06T00:00:00.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66271",
+      "title": "用 60% 权利金押注 MAG7 回撤：一个 delta 0.3 期权策略的 2018–2025 回测",
+      "link": "https://peagothedreamer.github.io/investing/mag7-options-delta-030/",
+      "rsslink": "https://peagothedreamer.github.io/index.xml",
+      "blogname": "peago · 空想家",
+      "createdat": "2026-11-06T00:00:00.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66311",
+      "title": "Daily AI Stew · 2026-11-06: RTX 3090, Claude Code",
+      "link": "https://surfing.salty.vip/posts/20261106-ai-2026-11-06",
+      "rsslink": "https://surfing.salty.vip/rss.xml",
+      "blogname": "Surfing（Robin Min）",
+      "createdat": "2026-11-06T00:00:00.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66316",
+      "title": "第10章 质量概念",
+      "link": "https://hjr-ovo.github.io/posts/10-quality-concept/",
+      "rsslink": "https://hjr-ovo.github.io/rss.xml",
+      "blogname": "Hjr-ovo的博客",
+      "createdat": "2026-11-06T00:00:00.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66317",
+      "title": "第5章 设计概念",
+      "link": "https://hjr-ovo.github.io/posts/5-design-concepts/",
+      "rsslink": "https://hjr-ovo.github.io/rss.xml",
+      "blogname": "Hjr-ovo的博客",
+      "createdat": "2026-11-06T00:00:00.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66318",
+      "title": "第6章 体系结构设计",
+      "link": "https://hjr-ovo.github.io/posts/6-system-architecture/",
+      "rsslink": "https://hjr-ovo.github.io/rss.xml",
+      "blogname": "Hjr-ovo的博客",
+      "createdat": "2026-11-06T00:00:00.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66319",
+      "title": "第7章 构件级设计",
+      "link": "https://hjr-ovo.github.io/posts/7-level-design/",
+      "rsslink": "https://hjr-ovo.github.io/rss.xml",
+      "blogname": "Hjr-ovo的博客",
+      "createdat": "2026-11-06T00:00:00.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66320",
+      "title": "第8章 软件测试策略",
+      "link": "https://hjr-ovo.github.io/posts/8-software-testing-strategy/",
+      "rsslink": "https://hjr-ovo.github.io/rss.xml",
+      "blogname": "Hjr-ovo的博客",
+      "createdat": "2026-11-06T00:00:00.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66321",
+      "title": "第9章 测试传统的应用系统",
+      "link": "https://hjr-ovo.github.io/posts/9-testing-traditional-applications/",
+      "rsslink": "https://hjr-ovo.github.io/rss.xml",
+      "blogname": "Hjr-ovo的博客",
+      "createdat": "2026-11-06T00:00:00.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66524",
+      "title": "新手锻炼教学——起步和概念",
+      "link": "https://blog.sayori.org/posts/beginner-fitness-01/",
+      "rsslink": "https://blog.sayori.org/rss.xml",
+      "blogname": "Amiya的书桌",
+      "createdat": "2026-11-06T00:00:00.000Z",
+      "crawledat": "2026-11-14T12:58:17.021Z"
+    },
+    {
+      "id": "66525",
+      "title": "新手锻炼教学——有氧运动",
+      "link": "https://blog.sayori.org/posts/beginner-fitness-02/",
+      "rsslink": "https://blog.sayori.org/rss.xml",
+      "blogname": "Amiya的书桌",
+      "createdat": "2026-11-06T00:00:00.000Z",
+      "crawledat": "2026-11-14T12:58:17.021Z"
+    },
+    {
       "id": "66526",
       "title": "新手锻炼教学——无氧和力量",
       "link": "https://blog.sayori.org/posts/beginner-fitness-03/",
@@ -47,141 +182,6 @@
       "blogname": "conge",
       "createdat": "2026-11-05T23:05:00.000Z",
       "crawledat": "2026-11-06T01:21:50.592Z"
-    },
-    {
-      "id": "66228",
-      "title": "Google手表不用袖带，能筛出高血压吗？",
-      "link": "https://anymesgs.com/article/google-wearable-ai-hypertension/",
-      "rsslink": "https://anymesgs.com/rss.xml",
-      "blogname": "听说了吗？· AI 解读站",
-      "createdat": "2026-11-05T22:59:01.000Z",
-      "crawledat": "2026-11-13T21:10:19.949Z"
-    },
-    {
-      "id": "66138",
-      "title": "摄影习作: 素月清晖",
-      "link": "https://fengcblog.880200.xyz/article/000357/.html",
-      "rsslink": "https://rssweball.top/feed/afaf2a3c-e11a-4783-a358-9e2d20d76a69.xml",
-      "blogname": "fengc's Blog",
-      "createdat": "2026-11-05T22:35:54.000Z",
-      "crawledat": "2026-11-13T21:10:19.949Z"
-    },
-    {
-      "id": "63069",
-      "title": "学习周刊-总第288期-2026年第45周",
-      "link": "https://wiki.eryajf.net/pages/164dd2/",
-      "rsslink": "https://wiki.eryajf.net/rss.xml",
-      "blogname": "二丫讲梵",
-      "createdat": "2026-11-05T22:34:45.000Z",
-      "crawledat": "2026-11-05T19:29:29.538Z"
-    },
-    {
-      "id": "66128",
-      "title": "AI分析博客作者与WASM爬虫、逆向测试",
-      "link": "https://uwillno.com/blog/aicrawlswasm",
-      "rsslink": "https://uwillno.com/rss.xml",
-      "blogname": "UWillno's Blog",
-      "createdat": "2026-11-05T21:44:44.000Z",
-      "crawledat": "2026-11-13T21:10:19.949Z"
-    },
-    {
-      "id": "66506",
-      "title": "空气炸锅之奥尔良鸡翅",
-      "link": "https://www.imcry.vip/post/2026-11-6-240/",
-      "rsslink": "https://www.imcry.vip/index.xml",
-      "blogname": "初然忆",
-      "createdat": "2026-11-05T18:15:40.000Z",
-      "crawledat": "2026-11-14T12:58:17.021Z"
-    },
-    {
-      "id": "63097",
-      "title": "Fragments 0x001E",
-      "link": "https://lenciel.com/2026/11/fragments-0x001e/",
-      "rsslink": "https://lenciel.com/feed.xml",
-      "blogname": "@Lenciel",
-      "createdat": "2026-11-05T16:47:30.000Z",
-      "crawledat": "2026-11-06T18:53:58.179Z"
-    },
-    {
-      "id": "63113",
-      "title": "光遇PC多开登陆器简评",
-      "link": "https://xiaochopin.github.io/2026/11/06/skylogin",
-      "rsslink": "https://xiaochopin.github.io/feed.xml",
-      "blogname": "重生云",
-      "createdat": "2026-11-05T16:00:00.000Z",
-      "crawledat": "2026-11-06T18:53:58.179Z"
-    },
-    {
-      "id": "65494",
-      "title": "交付许可的协议语义：判断账本、行动门与有界分离",
-      "link": "https://zhurongshuo.com/papers/delval-protocol/",
-      "rsslink": "https://zhurongshuo.com/index.xml",
-      "blogname": "祝融说",
-      "createdat": "2026-11-05T16:00:00.000Z",
-      "crawledat": "2026-11-07T21:27:23.396Z"
-    },
-    {
-      "id": "65495",
-      "title": "行动门能否降低不安全交付：一项 150 对预注册配对实验",
-      "link": "https://zhurongshuo.com/papers/delval-experiment/",
-      "rsslink": "https://zhurongshuo.com/index.xml",
-      "blogname": "祝融说",
-      "createdat": "2026-11-05T16:00:00.000Z",
-      "crawledat": "2026-11-07T21:27:23.396Z"
-    },
-    {
-      "id": "66934",
-      "title": "OpenAI 最危险的模型，也是最贵的",
-      "link": "https://lu.wiki/blog/2026-11-06-gpt6-cyber-critical-pricing/",
-      "rsslink": "https://lu.wiki/feed.xml",
-      "blogname": "迷鹿 MiLu · Leo Lu",
-      "createdat": "2026-11-05T16:00:00.000Z",
-      "crawledat": "2026-11-16T00:45:12.958Z"
-    },
-    {
-      "id": "66935",
-      "title": "让 AI 操作桌面，Vercel 不截图了",
-      "link": "https://lu.wiki/blog/2026-11-06-agent-desktop/",
-      "rsslink": "https://lu.wiki/feed.xml",
-      "blogname": "迷鹿 MiLu · Leo Lu",
-      "createdat": "2026-11-05T16:00:00.000Z",
-      "crawledat": "2026-11-16T00:45:12.958Z"
-    },
-    {
-      "id": "66180",
-      "title": "人体的说明书",
-      "link": "https://blog.solazy.me/20261105/",
-      "rsslink": "https://blog.solazy.me/feed/",
-      "blogname": "solazy",
-      "createdat": "2026-11-05T15:00:00.000Z",
-      "crawledat": "2026-11-13T21:10:19.949Z"
-    },
-    {
-      "id": "63109",
-      "title": "Feedglot支持Agent调用了",
-      "link": "https://www.skyue.com/26110522.html",
-      "rsslink": "https://www.skyue.com/feed/",
-      "blogname": "SKYue's Home",
-      "createdat": "2026-11-05T14:27:00.000Z",
-      "crawledat": "2026-11-06T18:53:58.179Z"
-    },
-    {
-      "id": "63068",
-      "title": "一键清理所有高科技水印工具 「蒸矢」for macOS",
-      "link": "https://blog.est.im/2026/stdout-41",
-      "rsslink": "http://feeds.feedburner.com/initiative",
-      "blogname": "Est's Blog",
-      "createdat": "2026-11-05T14:16:00.000Z",
-      "crawledat": "2026-11-05T19:29:29.538Z"
-    },
-    {
-      "id": "66379",
-      "title": "为五斗米折腰",
-      "link": "https://weiqiang.org/zh/2026/five-dous-of-rice/",
-      "rsslink": "https://weiqiang.org/index.xml",
-      "blogname": "危墙",
-      "createdat": "2026-11-05T14:01:00.000Z",
-      "crawledat": "2026-11-13T21:10:19.949Z"
     }
   ]
 }
