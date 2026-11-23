@@ -4,6 +4,96 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "66235",
+      "title": "硅谷101 E256 文字稿：谁先被 GPT-6 Astra 改写？",
+      "link": "https://u1-lab.xiaoxia.io/e256-astra/",
+      "rsslink": "https://u1-lab.xiaoxia.io/feed.xml",
+      "blogname": "Tony's Lab",
+      "createdat": "2026-11-10T00:00:00.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66266",
+      "title": "Horizon 简报 · 2026-11-10",
+      "link": "https://peagothedreamer.github.io/horizon/2026-11-10/",
+      "rsslink": "https://peagothedreamer.github.io/index.xml",
+      "blogname": "peago · 空想家",
+      "createdat": "2026-11-10T00:00:00.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66289",
+      "title": "给 Hugo 博客加自定义右键菜单：作用域、剪贴板和键盘事件",
+      "link": "https://tinkerlog.dpdns.org/p/%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95%E6%8A%98%E8%85%BE%E8%AE%B0/",
+      "rsslink": "https://yrqspace.github.io/index.xml",
+      "blogname": "爱玩win11的me",
+      "createdat": "2026-11-10T00:00:00.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66294",
+      "title": "“反贪？不过是多一个收钱的部门！”香港，凭什么胜在有ICAC？",
+      "link": "https://shilongzai.com/posts/p-9398cc0980e18c10/",
+      "rsslink": "https://shilongzai.com/feed.xml",
+      "blogname": "石龙仔文库",
+      "createdat": "2026-11-10T00:00:00.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66295",
+      "title": "日本开国女王竟是我国后裔？古墓挖出一面刻字铜镜，日本史学界彻底坐不住了！",
+      "link": "https://shilongzai.com/posts/p-db8b0f74017b6154/",
+      "rsslink": "https://shilongzai.com/feed.xml",
+      "blogname": "石龙仔文库",
+      "createdat": "2026-11-10T00:00:00.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66307",
+      "title": "Daily AI Stew · 2026-11-10: Anthropic, Meta",
+      "link": "https://surfing.salty.vip/posts/20261110-ai-2026-11-10",
+      "rsslink": "https://surfing.salty.vip/rss.xml",
+      "blogname": "Surfing（Robin Min）",
+      "createdat": "2026-11-10T00:00:00.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66351",
+      "title": "在 Google Colab G4 上一键跑 Qwen3.8-Flash-Next (262K 上下文)",
+      "link": "https://mizore.blog/posts/colab-g4-qwen38-flash-next-262k/",
+      "rsslink": "https://mizore.blog/feed.xml",
+      "blogname": "mizore / notes",
+      "createdat": "2026-11-10T00:00:00.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66491",
+      "title": "日语单词本",
+      "link": "https://qingccl.com/posts/japanese-learn/%E6%97%A5%E8%AF%AD%E5%8D%95%E8%AF%8D%E6%9C%AC/",
+      "rsslink": "https://qingccl.github.io/rss.xml",
+      "blogname": "QingCCL",
+      "createdat": "2026-11-10T00:00:00.000Z",
+      "crawledat": "2026-11-14T12:58:17.021Z"
+    },
+    {
+      "id": "66638",
+      "title": "Claude Fable 5.2 升级后为什么报 400？Agent 历史消息、工具调用与成本排查",
+      "link": "https://www.xbstack.com/ai/claude-fable-5-2-api-migration-agent-cost/",
+      "rsslink": "https://www.xbstack.com/rss.xml",
+      "blogname": "XBSTACK",
+      "createdat": "2026-11-10T00:00:00.000Z",
+      "crawledat": "2026-11-14T12:58:17.021Z"
+    },
+    {
+      "id": "66639",
+      "title": "三季报利润翻倍，现金流却下降？从三家软件公司的财报读懂利润质量",
+      "link": "https://www.xbstack.com/investing/2026-q3-software-profit-cash-flow/",
+      "rsslink": "https://www.xbstack.com/rss.xml",
+      "blogname": "XBSTACK",
+      "createdat": "2026-11-10T00:00:00.000Z",
+      "crawledat": "2026-11-14T12:58:17.021Z"
+    },
+    {
       "id": "67361",
       "title": "日语单词本",
       "link": "https://blog.kawabatayasunari.com/posts/japanese-learn/%E6%97%A5%E8%AF%AD%E5%8D%95%E8%AF%8D%E6%9C%AC/",
@@ -92,96 +182,6 @@
       "blogname": "Exia Blog",
       "createdat": "2026-11-09T15:26:00.000Z",
       "crawledat": "2026-11-12T05:47:50.079Z"
-    },
-    {
-      "id": "66176",
-      "title": "升级了 bearblog Lifetime License",
-      "link": "https://blog.solazy.me/20261109/",
-      "rsslink": "https://blog.solazy.me/feed/",
-      "blogname": "solazy",
-      "createdat": "2026-11-09T15:00:00.000Z",
-      "crawledat": "2026-11-13T21:10:19.949Z"
-    },
-    {
-      "id": "65699",
-      "title": "2026 年9/10 月观影总结",
-      "link": "https://www.ixiqin.com/2026/11/09/2026-09-movie-log/",
-      "rsslink": "https://www.ixiqin.com/feed/",
-      "blogname": "西秦公子",
-      "createdat": "2026-11-09T14:34:21.000Z",
-      "crawledat": "2026-11-09T21:56:02.655Z"
-    },
-    {
-      "id": "65703",
-      "title": "迷恋手搓为哪般？",
-      "link": "https://www.seis-jun.xyz/blog/2026-11-09-why-do-we-miss-handmade.html",
-      "rsslink": "https://www.seis-jun.xyz/atom.xml",
-      "blogname": "seisamuse",
-      "createdat": "2026-11-09T14:04:35.000Z",
-      "crawledat": "2026-11-09T21:56:02.655Z"
-    },
-    {
-      "id": "65704",
-      "title": "奥巴马医保开放注册：保费又涨了，提前退休和自雇的人怎么办？",
-      "link": "https://chattymoney.com/aca-open-enrollment-2027/",
-      "rsslink": "https://chattymoney.com/feed/",
-      "blogname": "chattymoney(跟我一起来谈钱)",
-      "createdat": "2026-11-09T14:00:00.000Z",
-      "crawledat": "2026-11-09T21:56:02.655Z"
-    },
-    {
-      "id": "65784",
-      "title": "参与学生移动应用大赛有感 - 肘子的 Swift 周报 #161",
-      "link": "https://fatbobman.com/zh/weekly/issue-161/",
-      "rsslink": "https://fatbobman.com/zh/rss.xml",
-      "blogname": "肘子的 Swift 记事本",
-      "createdat": "2026-11-09T14:00:00.000Z",
-      "crawledat": "2026-11-09T21:56:02.655Z"
-    },
-    {
-      "id": "65723",
-      "title": "陪父亲抗击“最温柔的癌”：从体检发现到手术出院的真实记录",
-      "link": "https://www.jfsay.com/archives/6261.html",
-      "rsslink": "http://www.jfsay.com/feed",
-      "blogname": "静风说",
-      "createdat": "2026-11-09T13:46:58.000Z",
-      "crawledat": "2026-11-09T21:56:02.655Z"
-    },
-    {
-      "id": "66041",
-      "title": "向云端｜西南自驾13 - 水黄公路",
-      "link": "https://blog.ops-coffee.com/r/2026-southwest-road-trip-13-shuihuanggonglu.html",
-      "rsslink": "https://blog.ops-coffee.cn/feed.xml",
-      "blogname": "运维咖啡吧",
-      "createdat": "2026-11-09T13:03:09.000Z",
-      "crawledat": "2026-11-12T21:43:12.863Z"
-    },
-    {
-      "id": "66127",
-      "title": "友链路由增强与功能整合",
-      "link": "https://uwillno.com/blog/blogrollenhanced",
-      "rsslink": "https://uwillno.com/rss.xml",
-      "blogname": "UWillno's Blog",
-      "createdat": "2026-11-09T13:02:44.000Z",
-      "crawledat": "2026-11-13T21:10:19.949Z"
-    },
-    {
-      "id": "66015",
-      "title": "RackNerd 8G 大内存真机实测：7 核 8G 150G，硬盘 1.4GB/s、4K 随机读近 10 万 IOPS，洛杉矶 DC03 三网回程",
-      "link": "https://vpslu.com/reviews/racknerd-8g-kvm-review-2026.html",
-      "rsslink": "https://vpslu.com/feed.xml",
-      "blogname": "VPS录",
-      "createdat": "2026-11-09T12:50:00.000Z",
-      "crawledat": "2026-11-12T05:47:50.079Z"
-    },
-    {
-      "id": "67001",
-      "title": "【调研】LoopForge 综合研究报告",
-      "link": "https://blog.michealwayne.cn/2026/11/09/ai/%E3%80%90%E8%B0%83%E7%A0%94%E3%80%91LoopForge_%E7%BB%BC%E5%90%88%E6%80%BB%E6%8A%A5%E5%91%8A/",
-      "rsslink": "https://blog.michealwayne.cn/atom.xml",
-      "blogname": "Wayne的技术博客",
-      "createdat": "2026-11-09T12:30:00.000Z",
-      "crawledat": "2026-11-18T02:43:40.361Z"
     }
   ]
 }

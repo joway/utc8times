@@ -4,6 +4,96 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "66956",
+      "title": "Kimi K3 模型结构（11）：从推理代码看 K3.1 Pro 的 Gated DSA",
+      "link": "https://blog.javazero.top/2026/11/12/kimi-k3-11-k31-dsa/",
+      "rsslink": "https://blog.javazero.top/atom.xml",
+      "blogname": "Java不加糖's Blog",
+      "createdat": "2026-11-12T12:00:00.000Z",
+      "crawledat": "2026-11-16T21:38:36.829Z"
+    },
+    {
+      "id": "66040",
+      "title": "向云端｜西南自驾14 - 北盘江",
+      "link": "https://blog.ops-coffee.com/r/2026-southwest-road-trip-14-beipanjiang.html",
+      "rsslink": "https://blog.ops-coffee.cn/feed.xml",
+      "blogname": "运维咖啡吧",
+      "createdat": "2026-11-12T11:58:53.000Z",
+      "crawledat": "2026-11-12T21:43:12.863Z"
+    },
+    {
+      "id": "66216",
+      "title": "Agent反复调用工具烧钱，OpenRouter四道闸封住循环",
+      "link": "https://anymesgs.com/article/ai-agent-loop-cost-controls/",
+      "rsslink": "https://anymesgs.com/rss.xml",
+      "blogname": "听说了吗？· AI 解读站",
+      "createdat": "2026-11-12T10:41:41.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66036",
+      "title": "你看小视频吗？",
+      "link": "https://www.seis-jun.xyz/blog/2026-11-12-do-you-watch-short-videos.html",
+      "rsslink": "https://www.seis-jun.xyz/atom.xml",
+      "blogname": "seisamuse",
+      "createdat": "2026-11-12T10:00:50.000Z",
+      "crawledat": "2026-11-12T21:43:12.863Z"
+    },
+    {
+      "id": "66957",
+      "title": "从 MLA 到 DSA：一步步看懂 indexer 在学什么",
+      "link": "https://blog.javazero.top/2026/11/12/deepseek-dsa/",
+      "rsslink": "https://blog.javazero.top/atom.xml",
+      "blogname": "Java不加糖's Blog",
+      "createdat": "2026-11-12T10:00:00.000Z",
+      "crawledat": "2026-11-16T21:38:36.829Z"
+    },
+    {
+      "id": "66282",
+      "title": "Expo 的 Exact 是什么：为 AI 代理设计的 Rust 应用框架，想解决什么问题",
+      "link": "https://warpnav.com/expo-exact-framework",
+      "rsslink": "https://warpnav.com/feed",
+      "blogname": "WarpBlog · WarpNav 曲速导航",
+      "createdat": "2026-11-12T09:53:15.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66283",
+      "title": "[Github] T3 Code – 用一个界面管理 Claude Code、Codex 等多个 AI 编程代理",
+      "link": "https://warpnav.com/t3-code",
+      "rsslink": "https://warpnav.com/feed",
+      "blogname": "WarpBlog · WarpNav 曲速导航",
+      "createdat": "2026-11-12T09:53:13.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66284",
+      "title": "零日漏洞是什么？为什么「在野利用」的漏洞要马上更新？",
+      "link": "https://warpnav.com/zero-day-explained",
+      "rsslink": "https://warpnav.com/feed",
+      "blogname": "WarpBlog · WarpNav 曲速导航",
+      "createdat": "2026-11-12T09:53:11.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66285",
+      "title": "Chrome 修复今年第 8 个在野零日：怎么查版本，确认补丁已生效",
+      "link": "https://warpnav.com/chrome-zero-day-update",
+      "rsslink": "https://warpnav.com/feed",
+      "blogname": "WarpBlog · WarpNav 曲速导航",
+      "createdat": "2026-11-12T09:53:11.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66647",
+      "title": "# 2 替你要钱的 AI，到底是谁家的",
+      "link": "https://www.sagasu.art/posts/ai-agent-platform-interests",
+      "rsslink": "https://www.sagasu.art/rss.xml",
+      "blogname": "Sagasu",
+      "createdat": "2026-11-12T09:32:18.000Z",
+      "crawledat": "2026-11-14T12:58:17.021Z"
+    },
+    {
       "id": "67733",
       "title": "比特币签名机制拆解：ECDSA、Schnorr、Taproot 与 SIGHASH 详解",
       "link": "https://blog.zjackie.ink/zh/share/bitcoin-signature-schemes/",
@@ -91,96 +181,6 @@
       "rsslink": "https://weiqiang.org/index.xml",
       "blogname": "危墙",
       "createdat": "2026-11-12T07:38:00.000Z",
-      "crawledat": "2026-11-13T21:10:19.949Z"
-    },
-    {
-      "id": "66918",
-      "title": "利用 AI 智能体，回到 Orgmode 导出部署",
-      "link": "https://weiqiang.org/zh/2026/website-deployment-method/",
-      "rsslink": "https://weiqiang.org/index.xml",
-      "blogname": "危墙",
-      "createdat": "2026-11-12T07:38:00.000Z",
-      "crawledat": "2026-11-16T00:45:12.958Z"
-    },
-    {
-      "id": "66033",
-      "title": "不自覺的約束",
-      "link": "http://mercurychong.blogspot.com/2026/11/blog-post.html",
-      "rsslink": "http://mercurychong.blogspot.com/feeds/posts/default",
-      "blogname": "水星投资理财",
-      "createdat": "2026-11-12T07:23:08.989Z",
-      "crawledat": "2026-11-12T14:38:25.064Z"
-    },
-    {
-      "id": "66371",
-      "title": "腾讯云轻量企业专区：4核8G 690 元/年起，企业首单 2.5 折，12 月 30 日截止",
-      "link": "https://vpslu.com/yangmao/tencent-lighthouse-enterprise-zone.html",
-      "rsslink": "https://vpslu.com/feed.xml",
-      "blogname": "VPS录",
-      "createdat": "2026-11-12T06:35:00.000Z",
-      "crawledat": "2026-11-13T21:10:19.949Z"
-    },
-    {
-      "id": "66091",
-      "title": "AI 的知识诅咒与多 Agent 协作",
-      "link": "https://1q43.blog/post/12629/",
-      "rsslink": "https://1q43.blog/feed",
-      "blogname": "虹线",
-      "createdat": "2026-11-12T05:50:26.000Z",
-      "crawledat": "2026-11-13T21:10:19.949Z"
-    },
-    {
-      "id": "65993",
-      "title": "腾讯云轻量升配续费专区：2核4G 188 元/年起，免费升配 4核4G，11 月 30 日截止",
-      "link": "https://vpslu.com/yangmao/tencent-lighthouse-upgrade-renew.html",
-      "rsslink": "https://vpslu.com/feed.xml",
-      "blogname": "VPS录",
-      "createdat": "2026-11-12T05:40:00.000Z",
-      "crawledat": "2026-11-12T05:47:50.079Z"
-    },
-    {
-      "id": "66955",
-      "title": "中国内卷式优绩主义的根源",
-      "link": "https://stephenleng.com/cn/nei-juan-you-ji-zhu-yi/",
-      "rsslink": "https://stephenleng.com/cn/feed/",
-      "blogname": "心的道理",
-      "createdat": "2026-11-12T04:49:52.000Z",
-      "crawledat": "2026-11-16T21:38:36.829Z"
-    },
-    {
-      "id": "67188",
-      "title": "入蜀记 day537 外部化",
-      "link": "https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_537/",
-      "rsslink": "http://z.arlmy.me/atom.xml",
-      "blogname": "素生",
-      "createdat": "2026-11-12T04:48:27.000Z",
-      "crawledat": "2026-11-22T19:02:21.584Z"
-    },
-    {
-      "id": "65994",
-      "title": "aaPanel 黑五 11 月 13 日开售：Pro 年付 $98、终身 $399，活动到 12 月 3 日",
-      "link": "https://vpslu.com/yangmao/aapanel-black-friday-2026-dates-confirmed.html",
-      "rsslink": "https://vpslu.com/feed.xml",
-      "blogname": "VPS录",
-      "createdat": "2026-11-12T03:10:00.000Z",
-      "crawledat": "2026-11-12T05:47:50.079Z"
-    },
-    {
-      "id": "65995",
-      "title": "洛杉矶 VPS 回国延迟同场对比：DediRock 和 RackNerd 同一分钟测三网，附回程路由",
-      "link": "https://vpslu.com/reviews/la-vps-cn-latency-same-time-2026-11.html",
-      "rsslink": "https://vpslu.com/feed.xml",
-      "blogname": "VPS录",
-      "createdat": "2026-11-12T03:00:00.000Z",
-      "crawledat": "2026-11-12T05:47:50.079Z"
-    },
-    {
-      "id": "66173",
-      "title": "那些靠人命堆出来的奇观",
-      "link": "https://blog.solazy.me/20261112/",
-      "rsslink": "https://blog.solazy.me/feed/",
-      "blogname": "solazy",
-      "createdat": "2026-11-12T03:00:00.000Z",
       "crawledat": "2026-11-13T21:10:19.949Z"
     }
   ]
