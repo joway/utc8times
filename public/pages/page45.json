@@ -4,6 +4,42 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "66236",
+      "title": "Noop 拆解：一个靠 Markdown 文件跑起来的 AI 团队",
+      "link": "https://u1-lab.xiaoxia.io/noop-breakdown/",
+      "rsslink": "https://u1-lab.xiaoxia.io/feed.xml",
+      "blogname": "Tony's Lab",
+      "createdat": "2026-11-09T00:00:00.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66267",
+      "title": "Horizon 简报 · 2026-11-09",
+      "link": "https://peagothedreamer.github.io/horizon/2026-11-09/",
+      "rsslink": "https://peagothedreamer.github.io/index.xml",
+      "blogname": "peago · 空想家",
+      "createdat": "2026-11-09T00:00:00.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66296",
+      "title": "《古惑仔》骗了我们30年！跛豪坐牢，五亿探长跑路，香港那些呼风唤雨的大哥，最后都去哪了？",
+      "link": "https://shilongzai.com/posts/p-35cd9a0ad69d3b31/",
+      "rsslink": "https://shilongzai.com/feed.xml",
+      "blogname": "石龙仔文库",
+      "createdat": "2026-11-09T00:00:00.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
+      "id": "66308",
+      "title": "Daily AI Stew · 2026-11-09: Goldman, Willison",
+      "link": "https://surfing.salty.vip/posts/20261109-ai-2026-11-09",
+      "rsslink": "https://surfing.salty.vip/rss.xml",
+      "blogname": "Surfing（Robin Min）",
+      "createdat": "2026-11-09T00:00:00.000Z",
+      "crawledat": "2026-11-13T21:10:19.949Z"
+    },
+    {
       "id": "66596",
       "title": "学习笔记 | 最简单的绕过校园网多设备热点检测方案（改良版）",
       "link": "https://blog.liao-ke.com/posts/bypass-campus-wifi-pro/",
@@ -146,42 +182,6 @@
       "blogname": "迷鹿 MiLu · Leo Lu",
       "createdat": "2026-11-08T16:00:00.000Z",
       "crawledat": "2026-11-16T00:45:12.958Z"
-    },
-    {
-      "id": "66177",
-      "title": "认得出熟客的老板",
-      "link": "https://blog.solazy.me/20261108/",
-      "rsslink": "https://blog.solazy.me/feed/",
-      "blogname": "solazy",
-      "createdat": "2026-11-08T15:30:00.000Z",
-      "crawledat": "2026-11-13T21:10:19.949Z"
-    },
-    {
-      "id": "65950",
-      "title": "Workers 里 fetch 超时不是网络慢：subrequest 限额踩坑记",
-      "link": "https://exia.de5.net/p/workers-subrequest-limit",
-      "rsslink": "https://exia.de5.net/rss.xml",
-      "blogname": "Exia Blog",
-      "createdat": "2026-11-08T15:20:00.000Z",
-      "crawledat": "2026-11-12T05:47:50.079Z"
-    },
-    {
-      "id": "65951",
-      "title": "wrangler deploy 失败对照：六条报错原文对应的真实原因",
-      "link": "https://exia.de5.net/p/wrangler-deploy-errors",
-      "rsslink": "https://exia.de5.net/rss.xml",
-      "blogname": "Exia Blog",
-      "createdat": "2026-11-08T14:50:00.000Z",
-      "crawledat": "2026-11-12T05:47:50.079Z"
-    },
-    {
-      "id": "65952",
-      "title": "Cannot perform I/O on behalf of a different request：Worker 里不能跨请求缓存的东西",
-      "link": "https://exia.de5.net/p/workers-io-different-request",
-      "rsslink": "https://exia.de5.net/rss.xml",
-      "blogname": "Exia Blog",
-      "createdat": "2026-11-08T14:50:00.000Z",
-      "crawledat": "2026-11-12T05:47:50.079Z"
     }
   ]
 }
