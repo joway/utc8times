@@ -4,6 +4,87 @@
   "totalPages": 50,
   "items": [
     {
+      "id": "67453",
+      "title": "Kitesurf：跑在 Workers 上的 Agent 专用浏览器，原理、接入与选型",
+      "link": "https://yindongliang.com/docs/Cloudflare/kitesurf-agent-first-browser/",
+      "rsslink": "https://yindongliang.com/index.xml",
+      "blogname": "LYon's Blog",
+      "createdat": "2026-11-17T00:00:00.000Z",
+      "crawledat": "2026-11-22T19:02:21.584Z"
+    },
+    {
+      "id": "67470",
+      "title": "反默认值：拆解 Anthropic 的 frontend-design skill",
+      "link": "https://u1-lab.xiaoxia.io/frontend-design-teardown/",
+      "rsslink": "https://u1-lab.xiaoxia.io/feed.xml",
+      "blogname": "Tony's Lab",
+      "createdat": "2026-11-17T00:00:00.000Z",
+      "crawledat": "2026-11-22T19:02:21.584Z"
+    },
+    {
+      "id": "67479",
+      "title": "Horizon 简报 · 2026-11-17",
+      "link": "https://peagothedreamer.github.io/horizon/2026-11-17/",
+      "rsslink": "https://peagothedreamer.github.io/index.xml",
+      "blogname": "peago · 空想家",
+      "createdat": "2026-11-17T00:00:00.000Z",
+      "crawledat": "2026-11-22T19:02:21.584Z"
+    },
+    {
+      "id": "67498",
+      "title": "《魔幻手机》的傻妞到底离我们还有多远？18年前她从不骗主人，2026年的AI却还在满嘴跑火车",
+      "link": "https://shilongzai.com/posts/p-c0a67fea8a023e6a/",
+      "rsslink": "https://shilongzai.com/feed.xml",
+      "blogname": "石龙仔文库",
+      "createdat": "2026-11-17T00:00:00.000Z",
+      "crawledat": "2026-11-22T19:02:21.584Z"
+    },
+    {
+      "id": "67505",
+      "title": "Daily AI Stew · 2026-11-17: OpenAI, Amazon",
+      "link": "https://surfing.salty.vip/posts/20261117-ai-2026-11-17",
+      "rsslink": "https://surfing.salty.vip/rss.xml",
+      "blogname": "Surfing（Robin Min）",
+      "createdat": "2026-11-17T00:00:00.000Z",
+      "crawledat": "2026-11-22T19:02:21.584Z"
+    },
+    {
+      "id": "68066",
+      "title": "不付 AI API 费用，能做好离线语音与本地 Agent 吗？OwnRAG、SleepAnew 的真实工程取舍",
+      "link": "https://www.xbstack.com/ai/free-local-ai-voice-agent-recalai-lunest/",
+      "rsslink": "https://www.xbstack.com/rss.xml",
+      "blogname": "XBSTACK",
+      "createdat": "2026-11-17T00:00:00.000Z",
+      "crawledat": "2026-11-25T03:56:37.785Z"
+    },
+    {
+      "id": "68067",
+      "title": "Gemini 4 Hydrogen、Argon、Carbon 如何分工？从 OwnRAG 与 SleepAnew 的工程决策看 Agent 成本",
+      "link": "https://www.xbstack.com/ai/gemini-4-multimodel-routing-recalai-lunest/",
+      "rsslink": "https://www.xbstack.com/rss.xml",
+      "blogname": "XBSTACK",
+      "createdat": "2026-11-17T00:00:00.000Z",
+      "crawledat": "2026-11-25T03:56:37.785Z"
+    },
+    {
+      "id": "68068",
+      "title": "离线语音识别与 TTS 进入真实 App：OwnRAG、SleepAnew 的设备、隐私与失败恢复设计",
+      "link": "https://www.xbstack.com/ai/offline-speech-recalai-lunest-engineering-decisions/",
+      "rsslink": "https://www.xbstack.com/rss.xml",
+      "blogname": "XBSTACK",
+      "createdat": "2026-11-17T00:00:00.000Z",
+      "crawledat": "2026-11-25T03:56:37.785Z"
+    },
+    {
+      "id": "67381",
+      "title": "Nanjing in Three Days and Three Nights — the Republican Era and Hongshan Forest Zoo",
+      "link": "https://victor42.eth.limo/post-en/trip-to-nanjing/",
+      "rsslink": "https://victor42.eth.limo/index.xml",
+      "blogname": "Victor42",
+      "createdat": "2026-11-16T23:43:00.000Z",
+      "crawledat": "2026-11-22T19:02:21.584Z"
+    },
+    {
       "id": "67382",
       "title": "南京民国&动物园周末游3天3夜",
       "link": "https://victor42.eth.limo/post/trip-to-nanjing/",
@@ -101,87 +182,6 @@
       "blogname": "CRIVU",
       "createdat": "2026-11-16T14:47:00.000Z",
       "crawledat": "2026-11-22T19:02:21.584Z"
-    },
-    {
-      "id": "66950",
-      "title": "清理磁盘已满的mysql",
-      "link": "https://www.bboy.app/2026/11/16/%E6%B8%85%E7%90%86%E7%A3%81%E7%9B%98%E5%B7%B2%E6%BB%A1%E7%9A%84mysql/",
-      "rsslink": "https://www.bboy.app/atom.xml",
-      "blogname": "bboysoul的博客",
-      "createdat": "2026-11-16T14:45:00.000Z",
-      "crawledat": "2026-11-16T21:38:36.829Z"
-    },
-    {
-      "id": "66949",
-      "title": "12月31日之前，这几件税务的事要做完",
-      "link": "https://chattymoney.com/year-end-tax-checklist-2026/",
-      "rsslink": "https://chattymoney.com/feed/",
-      "blogname": "chattymoney(跟我一起来谈钱)",
-      "createdat": "2026-11-16T14:00:00.000Z",
-      "crawledat": "2026-11-16T21:38:36.829Z"
-    },
-    {
-      "id": "66975",
-      "title": "把「更好」放在「更快」之前 - 肘子的 Swift 周报 #162",
-      "link": "https://fatbobman.com/zh/weekly/issue-162/",
-      "rsslink": "https://fatbobman.com/zh/rss.xml",
-      "blogname": "肘子的 Swift 记事本",
-      "createdat": "2026-11-16T14:00:00.000Z",
-      "crawledat": "2026-11-16T21:38:36.829Z"
-    },
-    {
-      "id": "66942",
-      "title": "CSS终于支持random()随机函数了，等死老子了",
-      "link": "https://www.zhangxinxu.com/wordpress/2026/11/css-math-random/",
-      "rsslink": "http://www.zhangxinxu.com/wordpress/?feed=rss2",
-      "blogname": "张鑫旭-鑫空间-鑫生活",
-      "createdat": "2026-11-16T13:16:13.000Z",
-      "crawledat": "2026-11-16T21:38:36.829Z"
-    },
-    {
-      "id": "67607",
-      "title": "快狸机场 Windows 教程（2026）：注册、订阅、客户端一键连接全流程",
-      "link": "https://aisurf.cc/windows-kuaili-guide/",
-      "rsslink": "https://aisurf.cc/rss.xml",
-      "blogname": "AI 冲浪指南",
-      "createdat": "2026-11-16T13:10:00.000Z",
-      "crawledat": "2026-11-22T19:02:21.584Z"
-    },
-    {
-      "id": "66985",
-      "title": "三网精品先看标签和换 IP：ZgoCloud 洛杉矶优化线 $20/季起",
-      "link": "https://vpslu.com/reviews/zgo-la-amd-optimised-line-guide.html",
-      "rsslink": "https://vpslu.com/feed.xml",
-      "blogname": "VPS录",
-      "createdat": "2026-11-16T12:29:00.000Z",
-      "crawledat": "2026-11-16T21:38:36.829Z"
-    },
-    {
-      "id": "66943",
-      "title": "习得性无助：为什么控制权回来了，人还是不再尝试？",
-      "link": "https://www.jeffjade.com/2026/11/16/262-learned-helplessness/",
-      "rsslink": "https://www.jeffjade.com/atom.xml",
-      "blogname": "晚晴幽草轩",
-      "createdat": "2026-11-16T12:20:00.000Z",
-      "crawledat": "2026-11-16T21:38:36.829Z"
-    },
-    {
-      "id": "67444",
-      "title": "Bear Blog 的新 API  / A new Bear Blog API",
-      "link": "https://blog.solazy.me/bearblog-api-open-source-skill/",
-      "rsslink": "https://blog.solazy.me/feed/",
-      "blogname": "solazy",
-      "createdat": "2026-11-16T11:36:00.000Z",
-      "crawledat": "2026-11-22T19:02:21.584Z"
-    },
-    {
-      "id": "66986",
-      "title": "Keenable 搜索 API：每月免费 10 万次请求，免绑卡，超额才按 $4/千次计费",
-      "link": "https://vpslu.com/yangmao/keenable-search-api-free-100k.html",
-      "rsslink": "https://vpslu.com/feed.xml",
-      "blogname": "VPS录",
-      "createdat": "2026-11-16T11:10:00.000Z",
-      "crawledat": "2026-11-16T21:38:36.829Z"
     }
   ]
 }
